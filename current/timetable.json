@@ -247,7 +247,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "30",
-    "Enrl": "29",
+    "Enrl": "30",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -1465,7 +1465,7 @@
     "WC": "NW",
     "Dist": "SOC",
     "Lim": " ",
-    "Enrl": "26",
+    "Enrl": "25",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -3124,7 +3124,7 @@
     "WC": "CI",
     "Dist": "ART",
     "Lim": "25",
-    "Enrl": "15",
+    "Enrl": "14",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -3607,7 +3607,7 @@
     "WC": "NW",
     "Dist": "SOC",
     "Lim": " ",
-    "Enrl": "26",
+    "Enrl": "25",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -3988,6 +3988,27 @@
     "Enrl": "22",
     "Status": "IP",
     "Lrn Obj": ""
+  },
+  {
+    "Term": "202006",
+    "CRN": "60600",
+    "Subj": " ASCL",
+    "Num": "61.09",
+    "Sec": "01",
+    "FYS": "N",
+    "Title": "Yin Yang and Feng Shui",
+    "Text": "",
+    "Xlist": " ",
+    "Period": "2A",
+    "Room": "",
+    "Building": "",
+    "Instructor": "Wen Xing",
+    "WC": "NW",
+    "Dist": "TMV",
+    "Lim": "35",
+    "Enrl": "0",
+    "Status": " ",
+    "Lrn Obj": " "
   },
   {
     "Term": "202001",
@@ -5875,7 +5896,7 @@
     "WC": " ",
     "Dist": "SLA",
     "Lim": "45",
-    "Enrl": "39",
+    "Enrl": "38",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -5896,7 +5917,7 @@
     "WC": " ",
     "Dist": "SLA",
     "Lim": "80",
-    "Enrl": "64",
+    "Enrl": "63",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -5938,7 +5959,7 @@
     "WC": " ",
     "Dist": "SLA",
     "Lim": "80",
-    "Enrl": "56",
+    "Enrl": "57",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -12112,7 +12133,7 @@
     "WC": "CI",
     "Dist": "ART",
     "Lim": "12",
-    "Enrl": "4",
+    "Enrl": "5",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -12574,7 +12595,7 @@
     "WC": "CI",
     "Dist": "INT or LIT",
     "Lim": " ",
-    "Enrl": "11",
+    "Enrl": "12",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -13288,7 +13309,7 @@
     "WC": " ",
     "Dist": "TLA",
     "Lim": "190",
-    "Enrl": "39",
+    "Enrl": "38",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -13855,7 +13876,7 @@
     "WC": " ",
     "Dist": "QDS",
     "Lim": "55",
-    "Enrl": "46",
+    "Enrl": "48",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -14086,7 +14107,7 @@
     "WC": " ",
     "Dist": "TAS",
     "Lim": "20",
-    "Enrl": "20",
+    "Enrl": "23",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -14128,7 +14149,7 @@
     "WC": " ",
     "Dist": "TLA",
     "Lim": "55",
-    "Enrl": "61",
+    "Enrl": "60",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -16333,7 +16354,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": " ",
-    "Enrl": "27",
+    "Enrl": "28",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -16795,7 +16816,7 @@
     "WC": "W",
     "Dist": "ART",
     "Lim": "18",
-    "Enrl": "13",
+    "Enrl": "12",
     "Status": "IP",
     "Lrn Obj": ""
   },
@@ -17635,7 +17656,7 @@
     "WC": " ",
     "Dist": "SCI",
     "Lim": "20",
-    "Enrl": "3",
+    "Enrl": "5",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -17698,7 +17719,7 @@
     "WC": " ",
     "Dist": "SLA",
     "Lim": "33",
-    "Enrl": "18",
+    "Enrl": "19",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -17719,7 +17740,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": " ",
-    "Enrl": "9",
+    "Enrl": "10",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -19210,7 +19231,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "45",
-    "Enrl": "43",
+    "Enrl": "42",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -19903,7 +19924,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "35",
-    "Enrl": "35",
+    "Enrl": "36",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -20029,7 +20050,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "35",
-    "Enrl": "34",
+    "Enrl": "35",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -23625,6 +23646,27 @@
     "Lrn Obj": " "
   },
   {
+    "Term": "202006",
+    "CRN": "60601",
+    "Subj": " ENGG",
+    "Num": "260",
+    "Sec": "01",
+    "FYS": "N",
+    "Title": "Advances in Biotechnology",
+    "Text": "",
+    "Xlist": " ",
+    "Period": "ARR",
+    "Room": " ",
+    "Building": " ",
+    "Instructor": " ",
+    "WC": " ",
+    "Dist": " ",
+    "Lim": " ",
+    "Enrl": "0",
+    "Status": " ",
+    "Lrn Obj": " "
+  },
+  {
     "Term": "201909",
     "CRN": "92030",
     "Subj": " ENGG",
@@ -24691,7 +24733,7 @@
     "WC": "W",
     "Dist": "LIT",
     "Lim": "30",
-    "Enrl": "24",
+    "Enrl": "25",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -25006,7 +25048,7 @@
     "WC": "W",
     "Dist": "LIT",
     "Lim": "30",
-    "Enrl": "13",
+    "Enrl": "14",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -26392,7 +26434,7 @@
     "WC": " ",
     "Dist": "TAS",
     "Lim": "50",
-    "Enrl": "46",
+    "Enrl": "45",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -26896,7 +26938,7 @@
     "WC": " ",
     "Dist": "TLA",
     "Lim": "55",
-    "Enrl": "61",
+    "Enrl": "60",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -28996,7 +29038,7 @@
     "WC": " ",
     "Dist": "TAS",
     "Lim": "25",
-    "Enrl": "28",
+    "Enrl": "27",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -30508,7 +30550,7 @@
     "WC": " ",
     "Dist": "ART",
     "Lim": "10",
-    "Enrl": "6",
+    "Enrl": "7",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -34057,7 +34099,7 @@
     "WC": "CI",
     "Dist": "SOC",
     "Lim": "25",
-    "Enrl": "18",
+    "Enrl": "17",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -35632,7 +35674,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "30",
-    "Enrl": "29",
+    "Enrl": "30",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -38341,7 +38383,7 @@
     "WC": "W",
     "Dist": "INT or SOC",
     "Lim": "35",
-    "Enrl": "14",
+    "Enrl": "15",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -38446,7 +38488,7 @@
     "WC": "W",
     "Dist": "SOC",
     "Lim": " ",
-    "Enrl": "24",
+    "Enrl": "23",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -41512,7 +41554,7 @@
     "WC": "CI",
     "Dist": "TMV",
     "Lim": "30",
-    "Enrl": "13",
+    "Enrl": "12",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -41911,7 +41953,7 @@
     "WC": "CI",
     "Dist": "ART",
     "Lim": "25",
-    "Enrl": "15",
+    "Enrl": "14",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -45145,7 +45187,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": "15",
-    "Enrl": "15",
+    "Enrl": "14",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -46237,7 +46279,7 @@
     "WC": " ",
     "Dist": "QDS",
     "Lim": "40",
-    "Enrl": "14",
+    "Enrl": "15",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -46300,7 +46342,7 @@
     "WC": " ",
     "Dist": "QDS",
     "Lim": "40",
-    "Enrl": "36",
+    "Enrl": "35",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -48253,7 +48295,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": " ",
-    "Enrl": "6",
+    "Enrl": "7",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -48337,7 +48379,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": " ",
-    "Enrl": "6",
+    "Enrl": "7",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -48421,7 +48463,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": " ",
-    "Enrl": "3",
+    "Enrl": "4",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -48967,7 +49009,7 @@
     "WC": "CI",
     "Dist": "INT or SOC",
     "Lim": " ",
-    "Enrl": "1",
+    "Enrl": "2",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -49114,7 +49156,7 @@
     "WC": "NW",
     "Dist": "INT or SOC",
     "Lim": "30",
-    "Enrl": "17",
+    "Enrl": "18",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -50689,7 +50731,7 @@
     "WC": " ",
     "Dist": "TAS",
     "Lim": "10",
-    "Enrl": "13",
+    "Enrl": "12",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -57619,7 +57661,7 @@
     "WC": " ",
     "Dist": "TMV",
     "Lim": "30",
-    "Enrl": "30",
+    "Enrl": "29",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -58459,7 +58501,7 @@
     "WC": " ",
     "Dist": "SLA",
     "Lim": "60",
-    "Enrl": "38",
+    "Enrl": "39",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -60538,7 +60580,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "219",
-    "Enrl": "207",
+    "Enrl": "205",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -60706,7 +60748,7 @@
     "WC": " ",
     "Dist": "QDS",
     "Lim": "56",
-    "Enrl": "19",
+    "Enrl": "20",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -60874,7 +60916,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "40",
-    "Enrl": "40",
+    "Enrl": "39",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -65704,7 +65746,7 @@
     "WC": "CI",
     "Dist": "TMV",
     "Lim": "30",
-    "Enrl": "13",
+    "Enrl": "12",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -65956,7 +65998,7 @@
     "WC": "NW",
     "Dist": "INT or SOC",
     "Lim": "30",
-    "Enrl": "17",
+    "Enrl": "18",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -67636,7 +67678,7 @@
     "WC": " ",
     "Dist": "ART",
     "Lim": "10",
-    "Enrl": "6",
+    "Enrl": "7",
     "Status": "IP",
     "Lrn Obj": " "
   },
@@ -69253,7 +69295,7 @@
     "WC": " ",
     "Dist": "INT",
     "Lim": "25",
-    "Enrl": "16",
+    "Enrl": "17",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -71248,7 +71290,7 @@
     "WC": " ",
     "Dist": " ",
     "Lim": "18",
-    "Enrl": "8",
+    "Enrl": "7",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -74209,7 +74251,7 @@
     "WC": "CI",
     "Dist": "TMV",
     "Lim": "30",
-    "Enrl": "13",
+    "Enrl": "12",
     "Status": " ",
     "Lrn Obj": " "
   },
@@ -74335,7 +74377,7 @@
     "WC": " ",
     "Dist": "SOC",
     "Lim": "30",
-    "Enrl": "29",
+    "Enrl": "30",
     "Status": " ",
     "Lrn Obj": ""
   },
@@ -74377,7 +74419,7 @@
     "WC": "NW",
     "Dist": "INT or SOC",
     "Lim": "30",
-    "Enrl": "17",
+    "Enrl": "18",
     "Status": " ",
     "Lrn Obj": " "
   },
