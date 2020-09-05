@@ -7,6 +7,7 @@ const UserSchema = new Schema({
   password: { type: String, required: true },
   first_name: String,
   last_name: String,
+  scopes: { type: Array, default: [] },
   resource: { type: Schema.Types.ObjectId, ref: 'Resource' },
 }, {
   toObject: {
