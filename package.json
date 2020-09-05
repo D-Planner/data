@@ -22,6 +22,7 @@
     "testPopulate": "babel-node src/controllers/populate.js"
   },
   "dependencies": {
+    "@babel/node": "^7.10.5",
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
