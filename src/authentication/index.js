@@ -1,5 +1,8 @@
 import SCOPES from './scopes';
-import requireAuth from './requireAuth';
+import requireKey from './requireKey';
+import requireToken from './requireToken';
 import requireSignin from './requireSignin';
 
-export { SCOPES, requireAuth, requireSignin };
+export {
+  SCOPES, requireKey, requireToken, requireSignin,
+};
