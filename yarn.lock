@@ -918,6 +918,11 @@ bcryptjs@^2.4.3:
   resolved "https://registry.yarnpkg.com/bcryptjs/-/bcryptjs-2.4.3.tgz#9ab5627b93e60621ff7cdac5da9733027df1d0cb"
   integrity sha1-mrVie5PmBiH/fNrF2pczAn3x0Ms=
 
+big-integer@^1.6.48:
+  version "1.6.48"
+  resolved "https://registry.yarnpkg.com/big-integer/-/big-integer-1.6.48.tgz#8fd88bd1632cba4a1c8c3e3d7159f08bb95b4b9e"
+  integrity sha512-j51egjPa7/i+RdiRuJbPdJ2FIUYYPhvYLjzoYbcMMm62ooO6F94fETG4MTs46zPAF9Brs04OajboA/qTGuz78w==
+
 binary-extensions@^1.0.0:
   version "1.13.1"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.13.1.tgz#598afe54755b2868a5330d2aff9d4ebb53209b65"
@@ -1984,6 +1989,19 @@ flatted@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-2.0.2.tgz#4575b21e2bcee7434aa9be662f4b7b5f9c2b5138"
   integrity sha512-r5wGx7YeOwNWNlCA0wQ86zKyDLMQr+/RB8xy74M4hTphfmjlijTSSXGuH8rnvKZnfT9i+75zmd8jcKdMR4O6jA==
+
+flora-errors@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/flora-errors/-/flora-errors-2.0.0.tgz#4ef1b8fd3b79138e5b824e25c88bc4502d91c3d0"
+  integrity sha512-Wn2HU65ZlJmnWg28W8pAWRNU0UJeMfqB71DXvosjfs8X72X842maUatavUgEz1q4wT5p9kB7A0J4WtuL/pXj3A==
+
+flora-sql-parser@^0.9.4:
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/flora-sql-parser/-/flora-sql-parser-0.9.4.tgz#fc8460fa608f5bcac5ccafaa9216a399a4bd1bfd"
+  integrity sha512-rZTAUwVwPoEc400+6bfilZt2VeDQGZvaWiaQgpYP1Mo/lP8hSZaZtxcBpNnk3OJpD4G7QmLLipz3hzK0pRSx7w==
+  dependencies:
+    flora-errors "^2.0.0"
+    has "^1.0.3"
 
 follow-redirects@1.5.10:
   version "1.5.10"
@@ -3103,6 +3121,13 @@ nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
+
+node-sql-parser@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/node-sql-parser/-/node-sql-parser-3.1.0.tgz#997e51581e89a218a91cabc2e863b072b5f9969f"
+  integrity sha512-bm1vct9T8EtPi4/z8GA/UbN/xEwfUQsqhvmgnwyNMRSiQ4jvukCE4Esl363HbnBnXFhc5T4V9DuO29pWtC0q6w==
+  dependencies:
+    big-integer "^1.6.48"
 
 nodemon@^2.0.3:
   version "2.0.3"
