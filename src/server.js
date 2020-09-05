@@ -2,10 +2,12 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import morgan from 'morgan';
-import mongoose from 'mongoose';
+// import mongoose from 'mongoose';
+
+import { LLAppDB } from './db';
 
 import {
-  authRouter, userRouter, resourceRouter, searchRouter,
+  authRouter, userRouter, llRouter, searchRouter,
 } from './routers';
 
 import { requireAuth } from './authentication';
@@ -28,7 +30,7 @@ app.use(bodyParser.json());
 // declare routers
 app.use('/auth', authRouter); // NOTE: Not secured
 app.use('/users', requireAuth, userRouter); // NOTE: Completely secured to users
-app.use('/resources', resourceRouter); // NOTE: Partially secured to users
+app.use('/resources', llRouter); // NOTE: Partially secured to users
 app.use('/search', searchRouter); // NOTE: Not secured
 
 // default index route
@@ -37,19 +39,26 @@ app.get('/', (req, res) => {
 });
 
 // DB Setup
-const mongooseOptions = {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-  loggerLevel: 'error',
-};
+// const mongooseOptions = {
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true,
+//   useCreateIndex: true,
+//   loggerLevel: 'error',
+// };
 
-// Connect the database
-mongoose.connect(constants.MONGODB_URI, mongooseOptions).then(() => {
-  mongoose.Promise = global.Promise; // configures mongoose to use ES6 Promises
-  console.log('Connected to Database');
+// Connect to MongoDB
+// mongoose.connect(constants.MONGODB_URI, mongooseOptions).then(() => {
+//   mongoose.Promise = global.Promise; // configures mongoose to use ES6 Promises
+//   console.log(`Connected to MongoDB at ${constants.MONGODB_URI}`);
+// }).catch((err) => {
+//   console.log('Not Connected to MongoDB ERROR! ', err);
+// });
+
+// Connect to Postgres
+LLAppDB.connect().then(() => {
+  console.log(`Connected to Postgres DB at ${process.env.LL_APP_DB_HOST}`);
 }).catch((err) => {
-  console.log('Not Connected to Database ERROR! ', err);
+  console.log('Not Connected to Postgres ERROR! ', err);
 });
 
 // // Reset database route
