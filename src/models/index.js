@@ -1,4 +1,4 @@
-import UserModel from './user_model';
+import UserModel from './user-model';
 import ResourceModel from './resource_model';
 import SubResourceModel from './sub_resource_model';
 
