@@ -1,0 +1,63 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _express = _interopRequireDefault(require("express"));
+
+var _controllers = require("../controllers");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+const router = (0, _express.default)();
+router.route('/') // Main query-based search
+.get((req, res) => {
+  // Add any additional filters here. NOTE: Shorten these for cleanliness in URL
+  const {
+    query,
+    maxValue
+  } = req.query; // Params that don't need defaults
+
+  const sort = req.query.sort || 'a'; // Params that need defaults
+  // Parse strings to numbers
+
+  const page = parseInt(req.query.page, 10) || 1;
+  const numPerPage = parseInt(req.query.numperpage, 10) || 10;
+  const queryObject = {
+    $and: [// Query title and description if query sting exists
+    query ? {
+      $or: [{
+        title: {
+          $regex: new RegExp(query, 'i')
+        }
+      }, // Note: regexp can become inefficient for large collections, look into indexing
+      {
+        description: {
+          $regex: new RegExp(query, 'i')
+        }
+      } // See here: https://stackoverflow.com/questions/7101703/how-do-i-make-case-insensitive-queries-on-mongodb
+      ]
+    } : {}, {
+      $and: [maxValue ? {
+        value: {
+          $lte: maxValue
+        }
+      } : {} // Only implement if maxValue is defined
+      // Implement additional filters here
+      ]
+    }]
+  }; // Call search() controller with generated parameters
+
+  _controllers.searchController.search(queryObject, sort, page, numPerPage).then(results => {
+    return res.json({
+      results,
+      numResults: results.length
+    });
+  }).catch(error => {
+    return res.status(500).json(error);
+  });
+});
+var _default = router;
+exports.default = _default;
