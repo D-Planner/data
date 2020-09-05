@@ -2,15 +2,13 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import morgan from 'morgan';
-// import mongoose from 'mongoose';
+import mongoose from 'mongoose';
 
 import { LLAppDB } from './db';
 
 import {
-  authRouter, userRouter, llRouter, searchRouter,
+  llRouter,
 } from './routers';
-
-import { requireAuth } from './authentication';
 
 import * as constants from './constants';
 
@@ -28,10 +26,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // declare routers
-app.use('/auth', authRouter); // NOTE: Not secured
-app.use('/users', requireAuth, userRouter); // NOTE: Completely secured to users
-app.use('/resources', llRouter); // NOTE: Partially secured to users
-app.use('/search', searchRouter); // NOTE: Not secured
+app.use('/ll', llRouter); // NOTE: Partially secured to users
 
 // default index route
 app.get('/', (req, res) => {
@@ -39,20 +34,20 @@ app.get('/', (req, res) => {
 });
 
 // DB Setup
-// const mongooseOptions = {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-//   useCreateIndex: true,
-//   loggerLevel: 'error',
-// };
+const mongooseOptions = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
+  loggerLevel: 'error',
+};
 
 // Connect to MongoDB
-// mongoose.connect(constants.MONGODB_URI, mongooseOptions).then(() => {
-//   mongoose.Promise = global.Promise; // configures mongoose to use ES6 Promises
-//   console.log(`Connected to MongoDB at ${constants.MONGODB_URI}`);
-// }).catch((err) => {
-//   console.log('Not Connected to MongoDB ERROR! ', err);
-// });
+mongoose.connect(constants.MONGODB_URI, mongooseOptions).then(() => {
+  mongoose.Promise = global.Promise; // configures mongoose to use ES6 Promises
+  console.log(`Connected to MongoDB at ${constants.MONGODB_URI}`);
+}).catch((err) => {
+  console.log('Not Connected to MongoDB ERROR! ', err);
+});
 
 // Connect to Postgres
 LLAppDB.connect().then(() => {
