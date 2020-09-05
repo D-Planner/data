@@ -1,23 +1,15 @@
 import express from 'express';
 
+import { SCOPES, requireAuth } from '../authentication';
+import { llController } from '../controllers';
 import { Resources } from '../models';
-import { requireAuth } from '../authentication';
 
 const router = express();
 
-// find and return all resources
-router.route('/')
+router.route('/reviews')
 
-  // Get all resources
-  .get((req, res) => {
-    Resources.find({}).then((resources) => {
-      return res.json(resources);
-    }).catch((error) => {
-      return res.status(500).json(error);
-    });
-  })
+  .get(requireAuth([SCOPES.LL_REVIEWS.READ]), llController.readReviews)
 
-  // Create new resource (SECURE)
   .post(requireAuth, (req, res) => {
     const resource = new Resources();
 
