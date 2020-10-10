@@ -1,8 +1,8 @@
 {
   "current": {
     "timetable": {
-      "timestamp": "2020-09-10T22:04:13.966Z",
-      "hash": "898d49f5d4e0ab8f"
+      "timestamp": "2020-10-10T21:18:06.485Z",
+      "hash": "80328ea1ec82068d"
     }
   },
   "archive": {
@@ -149,6 +149,10 @@
       },
       {
         "timestamp": "2020-09-10T22:03:12.386Z",
+        "hash": "898d49f5d4e0ab8f"
+      },
+      {
+        "timestamp": "2020-09-10T22:04:13.966Z",
         "hash": "898d49f5d4e0ab8f"
       }
     ]
