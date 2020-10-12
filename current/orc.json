@@ -1,58 +1,20 @@
 {
-  "AAAS 10": {
-    "description": "A multidisciplinary investigation into the lives and cultures of people of African descent in the Americas. Topics may include: the African background, religion and the black church, popular culture, slavery and resistance, morality and literacy, the civil rights movement, black nationalism, theories of race and race relations.",
-    "distrib": "Dist:SOC; WCult:CI",
-    "instructor": "",
-    "num": "10",
-    "offered": "",
-    "subj": "AAAS",
-    "title": "AAAS 10 Introduction to African-American Studies"
-  },
-  "AAAS 11": {
-    "description": "This course introduces a global socio-historical framework within which to examine Africa in relation to multiple African Diasporas and notions of mobility. Considering the historical contexts of contact between Africa, Europe, and the Americas, we examine cultural, economic, and philosophic aspects of Africa. We will examine how ideas of what it means to be African culturally, racially, and politically are continually produced and contested. The moment of independence of many African nation-states from European colonial rule in the mid 20th century operates as a centering point from which we will examine economics, race, politics, and artistic expressions. We will consider ideas of \u201ctradition\u201d and \u201cmodernity,\u201d representations of Africa, more recent processes of commodification, as well as various cultural and political responses to them.",
-    "distrib": "Dist:SOC; WCult:NW",
-    "instructor": "",
-    "num": "11",
-    "offered": "",
-    "subj": "AAAS",
-    "title": "AAAS 11 Introduction to African Studies"
-  },
-  "AAAS 12": {
-    "description": "This course deals with the African heritage, origins of white racial attitudes toward blacks, the slave system in colonial and ante-bellum America, and free Black society in North America. Specific emphasis will be placed on the Afro-American experience and on the relationship between blacks and whites in early American society.\u00a0 Open to all classes.",
-    "distrib": "Dist:SOC; WCult:W",
-    "instructor": "Johnson",
-    "num": "12",
-    "offered": "",
-    "subj": "AAAS",
-    "title": "AAAS 12 Race and Slavery in U.S. History",
-    "xlist": "undefined"
-  },
-  "AAAS 13": {
-    "description": "This course is a continuation of HIST 16. Among the topics to be discussed are Black Reconstruction, segregation and disfranchisement, migration, nationalism, Blacks and the New Deal, the impact of war on Blacks, and the 1960s. Open to all classes.",
-    "distrib": "Dist:SOC; WCult:W",
-    "instructor": "",
-    "num": "13",
-    "offered": "",
-    "subj": "AAAS",
-    "title": "AAAS 13 Black America since the Civil War",
-    "xlist": "undefined"
-  },
   "AAAS 14": {
     "description": "This course will examine the social and economic history of Africa to 1800. Several interrelated themes of social organization, the expansion of trade, rise of new social classes, the emergence and disintegration of various states and European intervention will be discussed. Through our readings, we will visit every major historical region of Africa (north, east, central, west and south) at least once during the semester to illuminate the various themes.",
     "distrib": "Dist:SOC; WCult:NW",
     "instructor": "Sackeyfio-Lenoch",
     "num": "14",
-    "offered": "",
+    "offered": "21W",
     "subj": "AAAS",
     "title": "AAAS 14 Pre-Colonial African History",
     "xlist": "undefined"
   },
   "AAAS 15": {
     "description": "This course explores some of the major historical processes unfolding in Africa since 1800. Our analysis will focus on social and economic history as we examine Africa's integration into the international economy during the nineteenth century, the rise of new social classes, and the creation of the colonial and post-colonial state. Our primary case studies will be drawn from east, west and southern Africa to highlight both the similarities and differences of their historical development. Open to all classes.",
-    "distrib": "Dist:SOC; WCult:NW",
+    "distrib": "WCult:NW",
     "instructor": "Sackeyfio-Lenoch",
     "num": "15",
-    "offered": "",
+    "offered": "21W",
     "subj": "AAAS",
     "title": "AAAS 15 History of Africa since 1800",
     "xlist": "undefined"
