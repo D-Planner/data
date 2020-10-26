@@ -790,6 +790,75 @@
     "title": "AAAS 82.05 Dave the Potter: Slavery Between Pots and Poems",
     "xlist": "undefined, undefined"
   },
+  "AAAS 82.10": {
+    "description": "This junior colloquium asks how and why we might bring the perspectives and methods of queer studies to bear upon the history of slavery—and vice versa. We will examine questions of gender and sexuality, kinship and belonging, desire and the erotic, and history and futurity through readings in fiction, poetry, and drama alongside key works in the history of gender and sexuality, queer theory, and queer of color critique. Students will also develop critical skills and strategies for producing scholarship in literary and cultural studies, culminating in an original research paper.",
+    "distrib": "Dist:LIT; WCult:CI",
+    "instructor": "",
+    "num": "82.10",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 82.10 Queer Literatures of Slavery",
+    "xlist": "ENGL 63.09"
+  },
+  "AAAS 83.02": {
+    "description": "African plants, cuisines and knowledge have long enriched the world's diets and agrarian economies, yet in contemporary Africa millions suffer from hunger. This course explores both aspects of Africa's food history, as well as the connections between them. The topics covered include traditional African foodways and their transatlantic and global spread, modern Africa's experience of famine and food aid, and questions of race and food rights in the United States. This course will be taught as a seminar.",
+    "distrib": "SOC",
+    "instructor": "Freidberg",
+    "num": "83.02",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 83.02 Food and the African World",
+    "xlist": "undefined"
+  },
+  "AAAS 83.05": {
+    "description": "This class introduces the history and practices of African-derived religious traditions as they have developed in the Caribbean, Latin America, and Black American communities in the United States. These religious systems will be discussed with reference to their mainstream representation (as \"voodoo\") and analyzed according to the more complex realities of their practitioners' everyday lives. Three themes to be explored in each tradition include 1) gender identity; 2) racial identity and resistance; and 3) aesthetics. Open to all classes.",
+    "distrib": "Dist:INT or TMV; WCult:CI",
+    "instructor": "",
+    "num": "83.05",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 83.05 African Religions of the Americas",
+    "xlist": "undefined"
+  },
+  "AAAS 83.06": {
+    "description": "This course will look at several issues that reappear throughout the work of a variety of Caribbean writers from former British colonies. These concerns include (but are not limited to) notions of exile, the importance of language and music, the articulation of identity in varying post-colonial states, and representations of gender, race and ethnicity. The class will also analyze the socio-political events in particular nations and the ways in which these events influence writing in the archipelago. We will also examine the ways in which a strong tradition of music as protest influences the production of particular poetic forms in Trinidad and Jamaica. The class will move from early twentieth century writers like Claude McKay to the important contributions of later writers such as Kamau Brathwaite, Jamaica Kincaid, George Lamming, V.S. Naipaul, Sam Selvon, Olive Senior and Derek Walcott. We will examine the more recent innovations in form, as musical elements are introduced by writers such as Mikey Smith and Kwame Dawes. Each week's readings will be supplemented with seminal critical writings including excerpts from the text The Empire Writes Back.",
+    "distrib": "Dist:LIT; WCult:CI",
+    "instructor": "Moodie",
+    "num": "83.06",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 83.06 Caribbean Lyric and Literature"
+  },
+  "AAAS 83.07": {
+    "description": "Among the first territories colonized by the Spanish Empire, Cuba was a main hub of the Atlantic slave trade from the sixteenth through the nineteenth century. Over one million African slaves were trafficked to this Caribbean island. With Cuba as our main port of entry, this course introduces students to the history of African diasporic societies and politics in Latin America and the Caribbean from the late colonial period to the twentieth century. Often treated as figures with no political vision or power, black people were long relegated to the margins of our understandings of history.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "Eastman",
+    "num": "83.07",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 83.07 Cuba in the Black Atlantic: Slavery and Its Legacies",
+    "xlist": "undefined"
+  },
+  "AAAS 83.08": {
+    "description": "Paradise or plantation? Cultural destination or economic periphery? Capitalist birthplace or IMF delinquent? From the Columbian conquest to contemporary tourism, the Caribbean has borne the burdens and opportunities of being an intercontinental crossroads. Colonial governments, enslaved Africans, indentured servants, and foreign settlers have all made the Caribbean an exemplar of modernity and globalization—for better or worse. Drawing on social scientific, literary, and policy texts, this course offers an historically deep and geographically broad anthropology of the Caribbean.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "",
+    "num": "83.08",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 83.08 The Global Caribbean",
+    "xlist": "ANTH 033 LACS 038"
+  },
+  "AAAS 86.04": {
+    "description": "This class will be taught in English and will explore social, political, and economic issues in contemporary Brazil. Since 2013, the climate in Brazilian society has become more and more tense due to a series of street protests and polarized public debates on race, class, political representation, democracy, religion, gender, sexuality, environmental protection and economic justice. The present scenario in Brazil will be discussed in relation to historical and cultural contexts. Materials for the course will include films, documentaries, music, and a wide variety of readings (mainstream media, blogs, academic essays, official documents, fiction). Invited guests (scholars, activists, journalists, artists) will deliver lectures, in presential or remote way.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "Minchillo",
+    "num": "86.04",
+    "offered": "",
+    "subj": "AAAS",
+    "title": "AAAS 86.04 Social, Political, and Cultural Trends in Contemporary Brazil",
+    "xlist": "undefined undefined"
+  },
   "AAAS 87.05": {
     "description": "This course examines post-colonial politics in sub-Saharan Africa, with particular focus on the events of the last decade. The course will be structured around three main themes: (1) patterns of economic growth and decline; (2) the transition to democratic political systems; and (3) political violence and civil conflict. While the course covers broad trends across the continent, it will also draw on case studies from particular countries.",
     "distrib": "Dist:INT or SOC; WCult:NW",
@@ -1670,6 +1739,15 @@
     "offered": "",
     "subj": "ANTH",
     "title": "ANTH 50.36 Anthropology and Narrative: Life History, Oral History,  and the Ethnographer’s Story"
+  },
+  "ANTH 50.37": {
+    "description": "Most of humanity’s religious history is only accessible using archaeological evidence. Moreover, even where texts are available, they tend to reflect the perspective of elites. This course therefore explores how archaeological methods can help us better understand religious phenomena in past societies. Topics will include the religion (or lack thereof) of our hominid ancestors (e.g. Neanderthals), the state religions of ancient civilizations, and the complementary perspective that archaeology provides on the World Religions.",
+    "instructor": "",
+    "num": "50.37",
+    "offered": "",
+    "subj": "ANTH",
+    "title": "ANTH 50.37 Archaeologies of Religion",
+    "xlist": "REL 20.07"
   },
   "ANTH 51": {
     "description": "Between the 16th and mid-20th centuries, European nations and Japan colonized much of the rest of the world. This course examines similarities and differences in the practices of these colonial powers in different regions at different times and the impact they had on indigenous peoples and societies. It traces the ways in which colonial processes and experiences have shaped the politics, economics, and identities of both developed and developing nations in the world today.",
@@ -9859,6 +9937,16 @@
     "subj": "ENGL",
     "title": "ENGL 65.02 Writing with Algorithms: A Literary Computation Workshop"
   },
+  "ENGL 65.06": {
+    "description": "What we call \"love poetry\" has generally been a way of expressing much more than the emotional and erotic fascination of one person with another. Often it seems to bypass the love-object altogether, and focuses instead on power relations or poetic achievement. Beginning with early examples, and moving on to contemporary and modern poems, our course will place love poems by men and women in the context of an ongoing poetic tradition, recent feminist criticism and theory, and talk about love and sex in recent popular culture. This last will include: excerpts from recent books about dating and seduction, film, contemporary song lyrics, dating websites, and campus culture.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Zeiger",
+    "num": "65.06",
+    "offered": "",
+    "subj": "ENGL",
+    "title": "ENGL 65.06 The Poetry and Rhetoric of Love, from Petrarch to Social Media",
+    "xlist": "WGSS 53.05"
+  },
   "ENGL 7": {
     "description": "Consult special listings",
     "instructor": "Various",
@@ -14783,6 +14871,98 @@
     "subj": "GOVT",
     "title": "GOVT 3 The American Political System"
   },
+  "GOVT 30.02": {
+    "description": "This course explores how political leaders in the U.S. reconcile the constraints of public office with the opportunities to make major changes in society. Drawing from diverse materials on the executive, legislative and judicial branches of government, the course addresses the following questions: How does leadership differ in the public and private spheres? What personal skills and attributes affect the success or failure of leaders of political institutions? What criteria do/should citizens apply to public leaders? How do political context and historical contingency shape institutional leadership?",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Fowler",
+    "num": "30.02",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.02 Leadership and Political Institutions"
+  },
+  "GOVT 30.03": {
+    "description": "This course explores the shifting relationship between private corporations and government policy in the networked world. As advanced technologies reshape business architectures and transform the terms of competition, the actions of government agencies must change correspondingly. We shall analyze the knowledge economy in microcosm—especially evolving network effects—and ask the urgent questions. What public infrastructure and standards are necessary to facilitate growth? What are the limits of established notions of intellectual property—patents, for example? What new metrics might be used to account for corporate performance and valuable assets? What are the implications of peer networks for the delivery of the services—from healthcare to education—that citizens have come to expect in a democracy?",
+    "distrib": "Dist:SOC",
+    "instructor": "Avishai",
+    "num": "30.03",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.03 Political Economy in the Age of Google"
+  },
+  "GOVT 30.04": {
+    "description": "Why do people hold false or unsupported beliefs about politics and why are so those beliefs so hard to change? This course will explore the psychological factors that make people vulnerable to political misinformation and conspiracy theories and the reasons that corrections so often fail to change their minds. We will also analyze how those tendencies are exploited by political elites and consider possible approaches that journalists and civic reformers could employ to combat misperceptions.",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "30.04",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.04 Political Misinformation and Conspiracy Theories"
+  },
+  "GOVT 30.07": {
+    "description": "This course is an introduction to the political economy of the United States. You will learn about the politics behind economic policy-making and the role of economic processes in politics throughout U.S. history under three headings: ideas, interests, and institutions. We will investigate how economic policies and ideas have changed in the U.S., the relative importance of ideas, interest groups, and political institutions in setting the trajectory of American economic policies, and how American political institutions have evolved to meet new economic challenges. The topics we study include foreign trade and investment, business regulation, slavery and the Civil War, monetary policies and the Great Depression, federalism, and the welfare state and social insurance.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "num": "30.07",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.07 American Political Economy"
+  },
+  "GOVT 30.09": {
+    "description": "This course explores fundamental questions about American law, courts, and judges.  Do courts administer “Equal Justice Under Law,” as the Supreme Court’s facade promises, or are cases determined by “what the judge ate for breakfast,” as Judge Jerome Frank famously claimed?  Are judges political?  Can courts produce social change, or is law a conservative force?  What incentives shape the legal profession?  Issues addressed range from civil rights to small claims courts and street harassment.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Nachlis",
+    "num": "30.09",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.09 Law, Courts, and Judges",
+    "xlist": "PBPL 028"
+  },
+  "GOVT 30.10": {
+    "description": "In 1950, Lionel Trilling characterized conservatism as a collection of “irritable mental gestures that seek to resemble ideas.”  He was wrong; this course shows why. If American liberalism is primarily concerned with equality, conservatism places greater emphasis on religion, tradition, community, virtue, authority, and (in certain respects) liberty. In addition to these, the course considers the influence of mid-century anti-communism on the contemporary conservative movement. Finally, we examine the recent claim that much of contemporary American conservatism is reactionary.",
+    "instructor": "",
+    "num": "30.10",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.10 American Conservatism"
+  },
+  "GOVT 30.11": {
+    "description": "Good policies are neither self-executing nor self-enforcing.  Likewise, bad policies are not self-destructing.  Indeed, when the President signs a law, this is but the beginning of a new set of equally important political activities and policy battles.  This course explores central features of implementation, including bureaucratic activity, judicial review, and street-level administration, and central concepts including principal agent relationships, delegation, oversight, interpretation, maintenance, and erosion, through key cases, including police, health care, and civil rights.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Nachlis",
+    "num": "30.11",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.11 Policy Implementation",
+    "xlist": "PBPL 046"
+  },
+  "GOVT 30.12": {
+    "description": "Since John F. Kennedy’s 1961 executive order to implement affirmative action policies, institutions of higher education have looked for ways to encourage minority and low-income students to matriculate. Some institutions, such as such as Harvard, UC Berkeley, UT Austin, and UMichigan, have experienced lawsuits against the policy’s implementation. As universities stress their desire for diverse, well-rounded, high achieving classes and continue to implement methods to attract highly qualified students, there is disagreement about which methods are both effective and fair. How can educational administrators, parents and community members work together to improve college access and increase equality? Do we still need to “take affirmative action to ensure that applicants are…treated…without regard to their race, color, religion, sex, or national origin,\" or has affirmative action outlived its original purpose? Has the college access gap widened or shrunk? Are students’ experiences on campus living up to the goal of equal opportunity? This course will explore the topic of affirmative action through some traditional classroom techniques (reading/ writing/ discussion) as well as experiential education techniques (such as creating a public policy portfolio project, having conversations with professionals who administer affirmative action at colleges and universities, and pitching proposals to a panel of policy experts).\n\\fThe central work of the course involves creating a portfolio of venues to explore, design, publicize, and promote an affirmative action or anti-discrimination policy/program. Completing the course readings and discussions will develop the skills necessary to complete the portfolio. Throughout the course, students will work in small groups to develop a policy campaign using techniques from writing to video to speeches. This course design attempts to raise students’ awareness of the multiple communication modes for making a compelling and persuasive policy proposal. To create their portfolios, students must advance an issue, demonstrate the techniques they have used to study and develop it, and effectively persuade their audience of the policy/program’s value. Student groups will meet with the professors biweekly or more frequently (as needed) to stay on track and to get help with process and resources.",
+    "distrib": "Dist:SOC; WCult:CI",
+    "instructor": "",
+    "num": "30.12",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 30.12 Affirmative Action in Higher Education",
+    "xlist": "PBPL 027"
+  },
+  "GOVT 34": {
+    "description": "This course introduces students to the analysis of public policymaking in the U.S. Congress. Special attention is paid to the evolution of the House and Senate as institutions, to elections and to the interactions among elections, institutional arrangements, and policymaking.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "num": "34",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 34 Congress and the American Political System"
+  },
+  "GOVT 35": {
+    "description": "This course highlights central themes in the development, organization, and functioning of the American Presidency. It combines the study of presidential behavior with an analysis of its complex and evolving institutional framework. Since the office requires the President to play multiple political roles simultaneously, the course will assess the institutional and behavioral components of these roles. It will present an integrated theoretical and empirical conception of presidential governance.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Nyhan",
+    "num": "35",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 35 The Presidency"
+  },
   "GOVT 4": {
     "description": "This course will introduce students to the field of comparative government and politics through an examination of selected political systems. Special attention will be given to analytic techniques involved in the study of the field and to certain basic concepts, such as power and political culture, decision-making, and communications.",
     "distrib": "Dist:INT or SOC",
@@ -15183,6 +15363,15 @@
     "title": "GOVT 60.04 Ethics and Public Policy",
     "xlist": "undefined"
   },
+  "GOVT 60.05": {
+    "description": "This course focuses on the legal and political relationship between the indigenous peoples of Canada, the United States, Australia, and New Zealand and their respective colonial governments. Students will examine contemporary indigenous demands for self-government, especially territorial claims, within the context of the legislative and political practices of their colonial governments. The course will begin with an examination of the notion of Aboriginal self-government in Canada and develop it in light of the policy recommendations found in the recent report of the Royal Commission on Aboriginal Peoples (1996). Using the Canadian experience as a benchmark, students will then compare these developments to indigenous peoples' experiences in the United States, Australia and New Zealand. An important theme of the course will be to develop an international approach to the issue of indigenous rights and to explore how colonial governments are responding to indigenous demands for justice. Not open to first-year students without permission of instructor.",
+    "distrib": "Dist:INT or SOC; WCult:NW",
+    "instructor": "Turner",
+    "num": "60.05",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.05 Indigenous Nationalism: Native Rights and Sovereignty"
+  },
   "GOVT 60.09": {
     "description": "This course surveys European political theory in early colonial America. The course is broadly divided into three parts: first, the so-called \"Discovery of the New World\" in 1492; second, the 17th and 18th century social contract theories of Thomas Hobbes, John Locke, and Jean-Jacques Rousseau; and finally, the early 19th century Marshall cases that laid the foundation for American Indian law in the United States.",
     "distrib": "Dist:TMV; WCult:W",
@@ -15193,6 +15382,146 @@
     "title": "GOVT 60.09 Indians and European Political Thought: 1492-1832",
     "xlist": "NAS 048"
   },
+  "GOVT 60.14": {
+    "description": "Libertarianism endorses strong individual rights against coercion, and as a result, strictly limited government, free exchange in markets, and social toleration. For this class, libertarianism is not so much a political program as a unique approach to thinking about people's moral rights and the purpose and legitimacy of the state. We will engage both defenses and criticisms of libertarianism, as well as different variants of the philosophy, using tools from philosophy, economics, and political science.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "60.14",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.14 Libertarianism"
+  },
+  "GOVT 60.17": {
+    "description": "This is a gateway course to Arab political thought. It will introduce students to the main political and intellectual debates in the modern Arab world since its nascent beginnings during the first half of the 19th century to the ideologies that animated the Arab Spring and its aftermath, including:\n- Early accounts of political modernity\n- Early Islamic revivalism\n- Liberal thought\n- Nationalism and Pan-Arabism\n- Arab socialism, Marxism and the New Left\n- Anti-Colonialism and Occidentalism\n- Dreams of Domination\n- Citizenship, democracy and human rights\n- New directions in Arab thought: Liberalism, nationalism and Islamism\nWe will cover the basic contours and intellectual debates around these issues, analyzing the main texts tracing their development. The aim of this course is not only to familiarize students with the basic political features of the Middle East but also to equip students with the tools necessary to pursue future academic and analytical work on the politics of the region.",
+    "distrib": "Dist:INT or SOC; WCult:NW",
+    "instructor": "Fishere",
+    "num": "60.17",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.17 Arab Political Thought",
+    "xlist": "MES 12.05"
+  },
+  "GOVT 60.18": {
+    "description": "Two hundred years ago, in 1819, Daniel Webster argued a case in front of the Supreme Court defending his alma mater, Dartmouth College, against the predations of the State of New Hampshire. The Court found in favor of Dartmouth, which preserved the College as a private entity. Perhaps more importantly, it also laid the legal foundation for the modern economy, where corporate firms are to some extent free of state control. This course aims for a comprehensive understanding of the Dartmouth College Case and Daniel Webster by integrating the perspectives of American studies, history, political theory, and law.",
+    "distrib": "Dist:TMV",
+    "instructor": "Bonner, Muirhead, Pease",
+    "num": "60.18",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.18 Daniel Webster and the Dartmouth College Case",
+    "xlist": "COCO 024 ENGL 52.11 HIST 90.06"
+  },
+  "GOVT 60.19": {
+    "description": "This course will explore the black political thought from the antebellum period through the middle of the twentieth century. The course will include the political writings of major black political thinkers such as Frederick Douglass, Harriet Jacobs, Booker T. Washington, W. E. B. Du Bois, Ida B Wells, Martin Luther King, Jr. and Ella Baker as well as secondary source material on these thinkers.",
+    "distrib": "Dist:TMV",
+    "instructor": "Threadcraft",
+    "num": "60.19",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.19 Black Political Thought",
+    "xlist": "AAAS 21.75"
+  },
+  "GOVT 60.20": {
+    "description": "This course will provide a broad view of the legal system, and an overview of a civil trial. The students will have the opportunity to experience trying cases in a safe environment.",
+    "instructor": "Fredrickson",
+    "num": "60.20",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.20 Introduction to Law, Social Justice, and Trial Practice"
+  },
+  "GOVT 60.21": {
+    "description": "In his 2010 book Living Thought, philosopher Roberto Esposito claims not only that the work of contemporary Italian Theory is attracting increasing international attention, but also that knowledge of the Italian intellectual tradition is crucial for understanding the world around us. To comprehend and evaluate Esposito’s claim, this FRIT class explores Italian political thought from Dante and Machiavelli to the contemporary international debate on biopolitics led by figure such as Giorgio Agamben and Esposito himself.  The class will be taught in English.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "60.21",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.21 Italian Political Theory: From Dante and Machiavelli to Biopolitics",
+    "xlist": "FRIT 37.06"
+  },
+  "GOVT 60.22": {
+    "description": "What is law? In this course, we will explore this seemingly simple question, and look at how scholars from anthropology and other disciplines have addressed it. We will look at law as a means of ordering societies, as an exercise of power, and as a cultural phenomenon that helps us better understand the world around us. We will survey foundational and philosophical thought, delve into law’s role in the United States, and study its manifestations in colonial and postcolonial societies, such as South Africa and Brazil. We will explore the law as both a means of social control and of social change.",
+    "distrib": "Dist:SOC",
+    "instructor": "Greenleaf",
+    "num": "60.22",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 60.22 Law, Power & Society",
+    "xlist": "undefined"
+  },
+  "GOVT 61": {
+    "description": "Jurisprudence is the theory of law-not of a particular body of laws but of law in general. In this course, we explore a variety of approaches to some of the fundamental questions in jurisprudence: Are laws rooted in human nature, in social customs, or in the will of the sovereign authority? How are laws made, interpreted, and enforced? Can morality be legislated? Readings and lectures will draw on both philosophical arguments and legal case-studies to explore these and other questions.",
+    "distrib": "TMV",
+    "instructor": "Murphy",
+    "num": "61",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 61 Jurisprudence"
+  },
+  "GOVT 63": {
+    "description": "Modern political philosophy has two ancient foundations: Greek philosophy (Athens) and the Bible (Jerusalem). Each of these two cities offers radically different answers to the perennial questions about politics: what is justice and who shall rule? After contrasting these two ancient perspectives, we shall compare medieval attempts to synthesize Greek philosophy and biblical faith by Augustine and Thomas Aquinas. What do we owe to God and what to Caesar?",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Murphy",
+    "num": "63",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 63 Foundations of Political Thought: Athens and Jerusalem"
+  },
+  "GOVT 64.01": {
+    "description": "Liberal political theory is renowned for its emphasis on rights, freedoms, and limited government; but critics of liberalism hold that the liberal legacy in free societies is one of misguided energies and broken promises. Students in this course chart the development of liberal thought from the Seventeenth Century to the present, with a view to considering the central values and commitments liberals may share, and examining important contemporary work in liberal theory. The course integrates weighty challenges to the moral and political viability of liberalism, from communitarian, conservative, libertarian, and postmodern critics. GOVT 6 recommended.",
+    "distrib": "TMV",
+    "instructor": "Swaine",
+    "num": "64.01",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 64.01 Liberalism and Its Critics"
+  },
+  "GOVT 65": {
+    "description": "The course focuses on the period from the Revolution to the Civil War. Topics include toleration, constitutionalism, rights, individualism, and slavery. Readings are drawn mainly from primary sources, including Jefferson, Madison, Adams, Hamilton, Jackson, Calhoun, Taylor, Anthony, Thoreau, and Lincoln.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Muirhead",
+    "num": "65",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 65 American Political Thought"
+  },
+  "GOVT 66.02": {
+    "description": "This course covers some of the main themes of the American Constitution with a particular emphasis on constitutional history, structure, interpretation, development and theory. Areas covered include: federalism, separation of powers, judicial review, slavery and Reconstruction. Open to sophomores, juniors, and seniors.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Bedi",
+    "num": "66.02",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 66.02 Constitutional Law, Development, and Theory"
+  },
+  "GOVT 67": {
+    "description": "This course examines the normative and constitutional (textual) bases for protecting certain civil liberties or rights in the United States. The aim is not only to learn the constitutional language of civil liberties but also to think critically about it. Areas covered may include: property, race, sex, abortion, religious and cultural rights, gun rights, sexual freedom and \"alternative\" marriage, and animal rights.",
+    "distrib": "WCult:W",
+    "instructor": "Bedi",
+    "num": "67",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 67 Civil Liberties Legal and Normative Approaches"
+  },
+  "GOVT 68": {
+    "description": "The first wave of capitalism was industrial: it took people off the farm and brought them to the city and the factory. The second wave, post-industrial capitalism, centered productive activities in services rather then manufacturing. Capitalism 3.0 may transcend the need for human labor more than ever imagined: machines and robots will do the work, especially the difficult, dirty, and monotonous work that has given \"work\" a bad name. What will capitalism of the future need to be if it is to be a prosperous and fair economic system. Course integrates economics, public policy, and political philosophy.",
+    "distrib": "Dist:TMV",
+    "instructor": "Irwin, Muirhead, Wheelan",
+    "num": "68",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 68 The Future of Capitalism"
+  },
+  "GOVT 69": {
+    "description": "This course will focus on the constitutional, statutory and jurisprudential rules of law that make up the field of Federal Indian Law. Attention will be given to the historical framework from which the rules were derived. After tracing the development of the underlying legal doctrines that are prominent today, the course will turn to a consideration of subject-specified areas of Indian law, including hunting and fishing rights, water rights, and preservation of religious and cultural rights.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "Duthu",
+    "num": "69",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 69 Federal Indian Law",
+    "xlist": "undefined"
+  },
   "GOVT 7": {
     "description": "",
     "instructor": "",
@@ -15200,6 +15529,70 @@
     "offered": "",
     "subj": "GOVT",
     "title": "GOVT 7 First-Year Seminars in Government"
+  },
+  "GOVT 81.10": {
+    "description": "This seminar explores the growth of Chinese wealth and power, and implications of that growth for regional and international politics. We begin by studying historical periods of Chinese strength and decline, and by studying China’s past relations with the United States and its neighbors. We examine China’s transition from a position of weakness into one of growing wealth and power, and how this may affect its relations with the world’s most powerful country, the United States. Are the United States and China doomed for superpower confrontation, or can China’s rise be accommodated? Next, we explore rising China’s relations and disputes with its neighbors. This course has two primary goals: (1) to familiarize students with the international strategic issues that are salient to China’s rise (in East Asia, and in U.S.-China relations); and (2) to provide students with analytic tools (theories and military analysis) useful to the study of East Asian international security relations.",
+    "distrib": "Dist:INT or SOC; WCult:NW",
+    "instructor": "Lind",
+    "num": "81.10",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 81.10 The Rise of China"
+  },
+  "GOVT 81.16": {
+    "description": "Populist parties have emerged as a significant force in European politics. Across western and central Europe, anti-immigrant parties have entered governing coalitions and accelerated the decline of mainstream parties. In southern Europe, radical left-wing parties have increasingly challenged the legitimacy of the European Union. This seminar will examine the political, economic, and cultural factors driving the unprecedented success of populist parties. In doing so, we will grapple with a range of significant challenges facing liberal democracies, ranging from the consequences of immigration and diversity to economic stagnation and representational deficits.",
+    "distrib": "Dist:INT or SOC; WCult:W",
+    "instructor": "Ferwerda",
+    "num": "81.16",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 81.16 The Rise of Populism in Europe"
+  },
+  "GOVT 81.25": {
+    "description": "U.N. human rights treaties enjoy both strong support and strong opposition in the United States. The U.S. is the only country in the world that has not ratified the Convention on the Rights of the Child and is one of six countries that have not ratified the U.N. Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)—putting America in the company of Iran, Palau, Somalia, Sudan and Tonga (as well as the Holy See and the “freely-associated state” of Niue). Nonetheless, the U.S. has ratified three of nine U.N. human rights treaties—the International Covenant on Civil and Political Rights (ICCPR), the Convention against Torture (CAT) and the International Convention on the Elimination of All Forms of Racial Discrimination (CERD)—as well as the Genocide Convention. What explains this variation, and what difference does ratification make? The course will examine broader questions about American politics by looking through the lens of efforts to ratify these treaties and interact with the UN. We will examine the history of human rights within the UN, the development of the treaties, and US efforts to ratify them. We will explore the impact of ratification and the role of human rights in American foreign policy. Our aim will be to produce research that informs public debate and contributes to the scholarly literature.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Baldez",
+    "num": "81.25",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 81.25 Defying Convention: Human Rights in the United States and the United Nations"
+  },
+  "GOVT 81.26": {
+    "description": "The question \"Who is Mr Putin?\" still has no agreed answer.  Nor is there any consensus over whether Putin and his circle have hijacked the democracy which the West hoped would flourish in Russia, or whether, the system he has installed will continue for the foreseeable future regardless of who holds power. This course will focus on Putin as an individual, his background, his highly unusual ascent to power, his system of rule, and the continuities and changes in policy that have occurred in the almost 20 years that he has been in power. We will look at why and how this virtual unknown was catapulted into the leadership and how he coped when he got there.",
+    "distrib": "Dist:INT",
+    "instructor": "",
+    "num": "81.26",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 81.26 Vladimir Putin: Russia in the 21st Century"
+  },
+  "GOVT 81.27": {
+    "description": "In this seminar, we will ask you to use academic readings and films in order to gain a deeper understanding of complex issues of gender and the way they are interpreted in film. Approach the films and readings with a critical eye: Are important issues left out or glossed over?  If you were the film director or reporter, what different angles would you pursue?",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "81.27",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 81.27 Politics, Gender, and Film"
+  },
+  "GOVT 83.02": {
+    "description": "Someone once said, There is a place for the market, and the market must be kept in its place. In this course, we explore the policy debates in the U.S. over the proper role of government in promoting market efficiency and protecting citizens from the adverse consequences of market competition. We begin with an effort to define the scope of the private and public sectors. We then consider an array of policy instruments to correct market failures and redistribute income. Finally, we examine the use of market-oriented approaches to policy problems, such as cost-benefit analysis, vouchers, and pollution rights.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Fowler",
+    "num": "83.02",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 83.02 Politics and Markets",
+    "xlist": "undefined"
+  },
+  "GOVT 83.04": {
+    "description": "This course will investigate major areas of public policy including health care, energy, banking, social security and education.  Through readings and lively discussion, students will grow in their understanding of these deeply important issues.  The aim of the course will be to dispel public policy myths that benefit candidates or their parties in the political arena but do not have the capacity to solve real world problems.  We will approach public policy as academics rather than political practitioners.  While we will move from issue to issue quickly, students will have the opportunity to focus on one of those issues for in-depth study in a final paper.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "num": "83.04",
+    "offered": "",
+    "subj": "GOVT",
+    "title": "GOVT 83.04 Myths and Realities in Public Policy Solutions"
   },
   "GOVT 83.05": {
     "description": "This seminar explores the relationships between campaign advertising, the mass media, and political deliberation. We will examine the advertising strategies politicians use to win campaigns, the strategies they use to keep their seats of power once in office, how these efforts are evaluated by the media, and how the entire communication process affects the role of the public in democracy. A course-length political advertising and media simulation in which students will work to successfully communicate campaign messages serves to provide students with a hands-on learning opportunity and a unique culminating experience. Note that there are no prerequisites for this course.",
@@ -16716,16 +17109,6 @@
     "subj": "HIST",
     "title": "HIST 5.03 The History of China since 1800",
     "xlist": "ASCL 64.08"
-  },
-  "HIST 5.04": {
-    "description": "This course provides an introduction to Korean culture and history, examining Korea's visual and textual expressions from the pre-modern age to the twentieth century. What are the origins of Korean national and cultural identities? How have Korean claims of cultural distinctiveness been manifested and modified over time? Tracing answers to these questions simultaneously helps us to consider how and why Korea has entered America's consciousness. As Korea matters to the US not simply as a fact but as a project, this course avoids portraying Korea through any generalized statements or uncritical categories. Rather, students are encouraged to explore novel perspectives on Korea and thereby unravel their own prejudices and agendas. No prior acquaintance with the Korean language is required.",
-    "distrib": "Dist:SOC; WCult:CI",
-    "instructor": "Suh",
-    "num": "5.04",
-    "offered": "",
-    "subj": "HIST",
-    "title": "HIST 5.04 Introduction to Korean Culture",
-    "xlist": "ASCL 10.02"
   },
   "HIST 5.05": {
     "description": "A survey of Japanese history from the mid-nineteenth century to the present. Topics to be covered include the building of a modern state and the growth of political opposition, industrialization and its social consequences, the rise and fall of the Japanese colonial empire, and the postwar economic 'miracle.'",
@@ -19084,6 +19467,9 @@
     "subj": "LACS",
     "title": "LACS 99 Honors Thesis II"
   },
+  "LACS 30.16 Confine and Detain: Latinxs and the Carceral State undefined": {
+    "subj": "LACS 30.16 Confine and Detain: Latinxs and the Carceral State"
+  },
   "LAT 1": {
     "description": "Introduction to Latin grammar, vocabulary, and syntax through prose readings of gradually increasing difficulty. Never serves in partial satisfaction of the Distributive or World Culture Requirement.",
     "instructor": "Lynn, Christesen (20F), TBD (21W)",
@@ -21297,6 +21683,15 @@
     "title": "MES 9.01 Islam And Medicine from the Medieval to Modern Eras",
     "xlist": "REL 19.30"
   },
+  "MES 15.11 The Middle East in Film: Picturing the Past and Present undefined": {
+    "subj": "MES 15.11 The Middle East in Film: Picturing the Past and Present"
+  },
+  "MES 16.24 Jerusalem: A Cultural History undefined": {
+    "subj": "MES 16.24 Jerusalem: A Cultural History"
+  },
+  "MES 18.02 Art on the Move: Renaissance Italy and the Islamic World undefined": {
+    "subj": "MES 18.02 Art on the Move: Renaissance Italy and the Islamic World"
+  },
   "MICR 128": {
     "description": "This course provides practical training experience through a full-time internship at an institution outside of the Dartmouth College campuses (Lebanon and Hanover). The goal of this course is to provide students with real-world, hands-on experience with existing enterprises through internship during graduate school. Such experience will expose students to diverse career opportunities during graduate school, providing students with lead-time to focus and network in a field of interest prior to completion of their PhD. Multiple types of training (e.g., project management and business entrepreneurship skills needed in the pharmaceutical and biotechnology industries, teaching experience needed for a successful faculty position in liberal arts colleges) will be particularly valuable for students who go on to conduct NIH-funded research as well as benefit those students who do not follow the academic research career track. Approximately 30% of biomedical PhDs work in the biotech and pharmaceutical industries in research and non-research positions.\n \nExamples of potential internship opportunities are:\n\n    Researcher in a biotechnology or pharmaceutical company\n    Business and marketing associate in a biotechnology or pharmaceutical company\n    Teacher/lecturer at an institution of higher education/college\n    Assistant at a patent law firm\n    Position in office of government policy and legislation\n    Position in office of public health policy\n\n   For this course, the student will propose and arrange a paid or unpaid internship in an existing enterprise (industry, government, or other) in consultation with their Thesis Advisor (primary mentor), Advisory Committee, and MCB Graduate Committee prior to enrollment.  This process should happen in advance of the term of enrollment. Course enrollment is concurrent with the internship and should be for a period of one term. At the end of the internship, the student will make an oral presentation (with Powerpoint slides; approx. 20 minutes) to the MCB community that addresses the nature of the enterprise they were engaged in, the problem they were assigned, and the results and impact of their project. The purpose of the presentation is to share lessons learned from the internship experience with the MCB community. The presentation will be accompanied by a short but complete written report. Neither the presentation nor report should contain confidential information of the enterprise.\n   The Internship Proposal Form  must be completed prior to committing to an internship, and must be signed by the student’s Thesis Advisor and the Course Director. A letter from the Internship Supervisor at the proposed host enterprise must be sent to the Thesis Advisor and Course Director detailing the start/end dates of the internship, and the job function and roles of the intern.\nPrerequisite: Must have completed all MCB Program and course requirements prior to enrolling.  Senior students in their fourth year or beyond who are still conducting their research and are at least 6 months away from thesis defense will be eligible.  Must have prior approval of Thesis Advisor, Advisory Committee and MCB Graduate Committee for internship.  \nThis course is graded on a credit/no credit basis by the Course Director after completion of the written report and oral presentation. International students with visa sponsorship should consult with the Office of Visa and Immigration Services (OVIS) regarding eligibility, and review the appended information on F-1 Curricular Practical Training.\nFinancial matters:\n   The internship may be paid or unpaid by the host enterprise or by Dartmouth stipend, depending on arrangement with their Thesis Advisor (as in cases where the internship is a collaboration that will benefit the Advisor’s research), but the total student/intern salary cannot exceed the amount that student would have otherwise received as Dartmouth stipend. Internship at another academic institution to perform research is discouraged; the goal of this internship program is to expose students to career environments not found within Dartmouth. The Thesis Advisor cannot serve as or appoint the Internship Supervisor (such as in cases where the proposed internship would be hosted by a local company in which the Thesis Advisor has a stake/role).\n   Dartmouth-based health insurance benefits will be paid by the student’s Thesis Advisor for the term.",
     "instructor": "Yina Huang",
@@ -22566,6 +22961,15 @@
     "subj": "MUS",
     "title": "MUS 99 Proseminar"
   },
+  "MUS 27.01 Emerging Musical Theater undefined": {
+    "subj": "MUS 27.01 Emerging Musical Theater"
+  },
+  "MUS 45.11 The Power of Music undefined": {
+    "subj": "MUS 45.11 The Power of Music"
+  },
+  "MUS 5 Jazz: Black Creative Music and American Culture undefined": {
+    "subj": "MUS 5 Jazz: Black Creative Music and American Culture"
+  },
   "NAS 11": {
     "description": "This course provides an introduction to the ancient societies of North America. The course examines the populating of the Americas and related controversies. We then concentrate on the subsequent development of diverse pre-Columbian societies that included hunter-gatherer bands in the Great Basin, the Arctic, and the sub-Arctic; Northwest Coast chiefdoms; farmers of the Southwest, such as Chaco Canyon and the desert Hohokam; and the mound-builders of the Eastern Woodlands. (ARCH)",
     "distrib": "Dist:SOC; WCult:NW",
@@ -23680,6 +24084,96 @@
     "subj": "PHIL",
     "title": "PHIL 1.18 The Self in Philosophy, Psychology, and Neuroscience"
   },
+  "PHIL 11": {
+    "description": "Students will study the origins of Western philosophical thought as it emerges in classical Greece and Rome from 6th century BCE through the 4th century CE. Topics may include: the methods and value of philosophy; the fundamental nature of reality; the possibility of knowledge; the roles of logic and mathematics in inquiry; philosophy of biology; philosophy of medicine; moral psychology and human action; virtue and human flourishing; political philosophy; fatalism; death.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Thomas",
+    "num": "11",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 11 Ancient Greek and Roman Philosophy"
+  },
+  "PHIL 12": {
+    "description": "Inspired by classical philosophy, Jewish and Islamic thought, and Christian doctrine, medieval philosophy (from, roughly, the 4th-15th centuries) strives to reconcile its various influences while making creative contributions and great strides in philosophy of religion, logic, natural philosophy, philosophy of mind and metaphysics. The late medieval period paves the way for intellectual revolutions in the philosophy of science, philosophy of religion and political theory of the Renaissance period (roughly the 14th – 16th centuries).",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "12",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 12 Medieval and Renaissance Philosophy"
+  },
+  "PHIL 12.01": {
+    "description": "Does language mirror reality? Are linguistic expressions reliable guides to truth? If not, why not? If so, how can we best approach the study of reality through language? Medieval philosophers make great strides in logic, semantics and metaphysics in their attempts to answer such questions. Topics considered in the course may include signification, the logic of predication, the nature and number of categories, analogy, substance and accident, existence and essence, universals, and the status of relations.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "12.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 12.01 Medieval Philosophy of Language and Reality"
+  },
+  "PHIL 13": {
+    "description": "Early modern philosophy is western European philosophy mostly of the 17th and 18th centuries, sometimes indicated as spanning from the early writings of Descartes (c. 1619) to the publication of Kant's Critique of Pure Reason (1781). It encapsulates the break from prior Scholastic and Renaissance traditions in philosophy and science and becomes hugely influential in setting the agenda of western philosophy—in epistemology, metaphysics, philosophy of mind, ethics, political philosophy, etc.—through the 20th century and up to today.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "The staff",
+    "num": "13",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 13 Early Modern Philosophy"
+  },
+  "PHIL 13.01": {
+    "description": "A study of central themes in the works of the three most celebrated philosophers of the seventeenth century: Descartes, Spinoza and Leibniz. Metaphysics and epistemology will be our focus, and the topics we’ll explore include mind, matter, necessity, contingency, truth, causation, space, time, knowledge, reason and the existence of God. We’ll approach their philosophy through a variety of their texts, in English translation, including treatises, papers, dialogues, letters and unpublished drafts and notes.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "13.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 13.01 17th Century Rationalists"
+  },
+  "PHIL 13.02": {
+    "description": "The Empiricists believed that concepts and knowledge are sourced exclusively in the senses. This position found its most detailed presentation in John Locke (1632-1704), George Berkeley (1685-1753), and David Hume (1711-1776). It led to a picture of the mind, how it relates to the world, and how this leads to knowledge that is still influential today. This course develops that picture, with an eye to the philosophical context in which it came about and its influence on subsequent generations. In addition to Locke, Berkeley, and Hume, other (mainly British) writers considered might include Thomas Hobbes, Margaret Cavendish, Anne Conway, Catharine Cockburn, Gottfried Wilhelm Leibniz, Damaris Masham, Frances Hutcheson, Thomas Reid, and Mary Shepard.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Kulvicki",
+    "num": "13.02",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 13.02 British Empiricism"
+  },
+  "PHIL 16": {
+    "description": "In this course students will engage with figures and topics from the period initiated by Kant's Critique of Pure Reason in 1781 and ending, roughly, with Nietzsche's last work in 1888. Figures may include: Kant, Herder, Schleiermacher, Reinhold, Schelling, Schlegel, Fichte, Hegel, Schopenhauer, Kierkegaard, Feuerbach, Marx, Bolzano, Brentano, Meinong, Mill, and Nietzsche. Topics may include: idealism and realism, materialism, social and political philosophy, religion, value, existentialism, psychologism, logic, semantics, philosophy of cognition, and philosophical methodology.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "The staff",
+    "num": "16",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 16 Late Modern Philosophy"
+  },
+  "PHIL 16.01": {
+    "description": "Our theories of action and knowledge are condemned to fail if they are not guided by a philosophically fundamental inquiry into the nature of self-consciousness.  Kant maintains a modest version of this thesis.  Fichte and Hegel make it the key to their ambitious systematic philosophies.  This course aims to isolate and evaluate the basic insights that animate German Idealism.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "16.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 16.01 Self-Consciousness in German Idealism"
+  },
+  "PHIL 16.02": {
+    "description": "According to Kant’s influential account of morality, how an agent understands her own actions determines their moral status.  An act that is innocuous in its external guise might be morally problematic because of its internal principle.  Kant supplements this with an account of how we ought to relate to other persons in external respects.  This “doctrine of right” offers a compelling alternative to more widely known political and legal philosophies.  This class will provide a unified introduction to both parts of Kant’s attempt to understand the normative implications of agency.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Rosenkoetter",
+    "num": "16.02",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 16.02 Kant on Moral, Legal, and Political Philosophy"
+  },
+  "PHIL 19": {
+    "description": "This course treats philosophical topics and figures in the rich and influential period that spans the 19th and 20th centuries. Topics may include: subjectivity, agency, power, atomism, idealism, positivism, critiques of metaphysics, ideology, psychologism, the unconscious, intentionality, consciousness, analysis, naturalism and modality. Prerequisite: One course in philosophy or permission of the instructor.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "The staff",
+    "num": "19",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 19 History of 19th/20th Century Philosophy"
+  },
   "PHIL 19.01": {
     "description": "An investigation of Ludwig Wittgenstein's philosophy, its sources, and its enduring significance. The main line of the course traces the logical atomism of his early years through his rejection of it as dogmatic and the subsequent development of his thoughts about meaning, mind, language games, and rule-following. Other topics might include his philosophy of mathematics, his remarks on color, or his aesthetics and value theory.",
     "distrib": "Dist:TMV; WCult:W",
@@ -23781,6 +24275,15 @@
     "title": "PHIL 26 Philosophy and Computers",
     "xlist": "COGS 026"
   },
+  "PHIL 27": {
+    "description": "In this course students examine the history, practices, methods and assumptions of the natural and social sciences. Topics may include:  the objects and methods of scientific inquiry; causation and explanation; the structure and function of laws and theories; the role of mathematics and models in science; scientific representation; induction and probability; scientific revolutions; the intersections of science and value; and the sociology of science.",
+    "distrib": "TMV",
+    "instructor": "Lewis",
+    "num": "27",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 27 Philosophy of Science"
+  },
   "PHIL 28": {
     "description": "This course examines the traditions of phenomenology and existentialism, primarily through a study of German, Austrian, and French philosophy from the first half of the twentieth century, but also including more recent work inspired by these traditions. Major historical figures covered in this course may include: Franz Brentano, Edmund Husser!, Martin Heidegger, Maurice Merleau-Ponty, Jean-Paul Sartre, Simone de Beauvoir, and Emmanuel Levinas. Special topics may include: the nature of subjectivity or consciousness; theories of intentionality; phenomenology and post-phenomenology; historicity; freedom and responsibility; existentialist theories of oppression; and existentialist ethics.",
     "distrib": "Dist:TMV; WCult:W",
@@ -23853,6 +24356,24 @@
     "subj": "PHIL",
     "title": "PHIL 30 Epistemology and Methodology"
   },
+  "PHIL 31": {
+    "description": "This course will focus on one or more central topics in metaphysics, possibly including the existence and nature of the divine, the infinite, free will, personal identity, the self, actions and intentions, space and time, change, the nature of properties, truth, necessity and modality.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "31",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 31 Metaphysics"
+  },
+  "PHIL 31.01": {
+    "description": "In this course, we will consider some historically significant questions about the nature of space, time and spacetime. How are space, time and change related? Is space some kind of substance or container for events? Or is space a relation between things? Is time mind-dependent? How, if at all, is motion or persistence through space and time possible? Are the past, present and future equally real? Is time travel possible?",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "31.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 31.01 Space and Time"
+  },
   "PHIL 31.04": {
     "description": "In this course, we will explore a portion of the complex web of debates between realists and antirealists.  Questions we will consider include: What is realism? On what bases do we commit to the existence of something? To what extent, if any, are objects of experience and inquiry (e.g. colors, values, natural laws, numbers) independent of the mind? What role, if any, does the mind play in the construction or conception of meanings, properties or things? What role does language play in determining ontological commitments? What is truth? What, if anything, do distinct conceptions of meaning, objectivity and truth suggest about the nature of reality or about the mind's capacity to determine or to know what is real?",
     "distrib": "Dist:TMV",
@@ -23870,6 +24391,134 @@
     "offered": "",
     "subj": "PHIL",
     "title": "PHIL 31.05 Time, Truth and Fate"
+  },
+  "PHIL 31.06": {
+    "description": "What sorts of agents are we? Do we have free will? Are we ever truly the authors of our actions? Does science—whether physics or psychology or neuroscience—promise to give us the answers? What are the consequences for moral responsibility? The metaphysical, scientific and social dimensions of these classic questions in philosophy run deep through their history and are focal points of contemporary discussion.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "31.06",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 31.06 Free Will, Agency and Responsibility"
+  },
+  "PHIL 31.07": {
+    "description": "Our world is rife with social entities such as money, states, clubs, and corporations. But what are these things? They seem as real as trees or mountains, yet at least some seem to be constructed by our beliefs and practices in ways that other physical things are not. This course explores questions about what social objects and social groups are, how they differ from natural objects, and how we can acquire knowledge of them.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "31.07",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 31.07 The Social World"
+  },
+  "PHIL 31.08": {
+    "description": "The world around us seems to be populated with familiar objects of all sorts: plants and animals, tables and chairs, rivers and mountains. Yet a range of puzzles and paradoxes have been raised to do with the vagueness of ordinary objects, their relationship to the matter that makes them up, and the apparent rivalry between scientific and everyday descriptions of the world. Might ordinary objects be an illusion? What does the material world truly contain? Can we save our common-sense view of the world?",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "31.08",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 31.08 Puzzles of the Material World"
+  },
+  "PHIL 32": {
+    "description": "An investigation of three branches of symbolic logic: first-order predicate logic with identity, sentential modal logic, and predicate modal logic. Topics to be covered may include Russell's theory of definite descriptions; the treatment of non-denoting terms in logics known as \"free logics;\" investigations of various modalities, involving pairs of concepts such as necessity and possibility, being obligatory and being permitted, and being known and being believed; Kripke-style \"possible world\" semantics.",
+    "distrib": "QDS",
+    "instructor": "Lewis",
+    "num": "32",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 32 Intermediate Logic"
+  },
+  "PHIL 34": {
+    "description": "Studies of language and cognition play central and defining roles in the history and development of philosophy. Students will investigate the nature of language and its relations to logic, thought and reality.  Specific topics may include theories of signs, meaning, reference, truth, and speech acts.  Other possibilities include necessity, analyticity, tensed statements, counterfactual conditionals, indexicals, pragmatics, metaphor, intentionality and vagueness.",
+    "distrib": "TMV",
+    "instructor": "Thomas",
+    "num": "34",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 34 Language and Thought"
+  },
+  "PHIL 35": {
+    "description": "The mind is both a part of the world and the source of our perspectives on it. A variety of approaches to understanding the mind consider such questions as: What is consciousness? What is it to think about things? How does the world as we know it through the sciences allow for conscious, thinking creatures to exist? Are there unconscious thoughts and desires? Can psychology, neuroscience, philosophy and psychiatry help us answer these questions?",
+    "distrib": "TMV",
+    "instructor": "Ratoff",
+    "num": "35",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 35 Mind and Psychology"
+  },
+  "PHIL 35.01": {
+    "description": "Conscious experience is at once both completely familiar and utterly mysterious: how is it that electrical activity in a lump of grey matter – the brain – gives rise to the Technicolor phenomenology of our conscious experience? If human beings are just biological machines, then how is possible that we have a subjective point of view on the world? Why are we not just mindless robots, that produce behavior in light of stimulations from the environment, but lack any inner awareness or consciousness? In this class we will read, and bring together in conversation, cutting edge work from philosophy, psychology, and the neurosciences on the nature of consciousness.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "35.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 35.01 Theories of Consciousness",
+    "xlist": "COGS 50.04"
+  },
+  "PHIL 36": {
+    "description": "This course explores foundational questions about ethics.   For instance: What, if anything, makes an ethical judgment correct? Are ethical facts created or discovered? Can ethical judgments ever be objectively true, or are they only true \"from a point of view?\" How are ethical judgments related to natural science and the picture of the world it offers us? How can we come to justified beliefs about ethics?",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "36",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 36 Metaethics"
+  },
+  "PHIL 37": {
+    "description": "This course is broadly concerned with questions about what is right, good and virtuous.  Some instances of the course will treat abstract questions.  For example: Are moral principles universal or relative to a particular group? Is an act right just in case it maximizes happiness? Do we have good reason to be moral? More focused instances might include: Do we have duties to non-humans? When is it morally permissible to kill a person?",
+    "distrib": "TMV",
+    "instructor": "Rosenkoetter",
+    "num": "37",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 37 Ethical Theory"
+  },
+  "PHIL 37.01": {
+    "description": "Ethical theory begins with questions about the foundations of morality: Why should I care about other people at all? It then asks very general questions about what shape our duties to self and others should take: Given that I owe something to other people, do I owe them pleasure? Happiness? To help them pursue their projects? To solicit their consent? This class is devoted to two systems of answers to these questions. The first, consequentialism, holds that the moral status of an action is primarily a matter of whether it brings about good or bad consequences. The second, contractualism, understands moral principles as grounded in a hypothetical contract between agents.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "37.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 37.01 Consequences and Contracts"
+  },
+  "PHIL 38": {
+    "description": "Through the study of classical and contemporary texts in political and social theory, we will consider such issues as how and to what extent (if at all) political authority can be justified, what the criteria are for distributive justice, and how social and political inequalities (such as those based on race and gender) should be conceptualized and addressed.",
+    "distrib": "TMV",
+    "instructor": "The staff",
+    "num": "38",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 38 Social and Political Philosophy"
+  },
+  "PHIL 38.01": {
+    "description": "What is the nature of equality? How much does equality matter in ethics and politics? And why (if at all) does equality matter in the first place? This course concerns these and related questions about the role of equality in evaluating the social and political world. One of our central concerns will be how equality relates to other (purportedly important) ethical and political values, including justice, democracy, and freedom.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "38.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 38.01 Equality, Justice, and Democracy"
+  },
+  "PHIL 38.02": {
+    "description": "This interdisciplinary course will examine normative issues about ethics, politics, and the law. Specific question studied might include the following: When is the state justified in using coercive force to secure compliance with the law? How should we proceed with those who disagree with us about normative questions within a democratic, pluralistic society? Are there correct answers to normative questions at all, and (if so) how might we improve in learning about them?",
+    "distrib": "Dist:TMV",
+    "instructor": "Plunkett",
+    "num": "38.02",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 38.02 Ethics, Politics, and the Law",
+    "xlist": "GOVT 86.41"
+  },
+  "PHIL 39": {
+    "description": "This course examines themes in 20th and 21st century French and German philosophy, with a focus on critical social theory of the Frankfurt School and French post-structuralism, and contemporary work inspired by these traditions.  Figures covered in this course may include:  Adorno, Horkheimer, Habermas, Foucault, Deleuze, Derrida, and Honneth. Topics may include:  the dialectic of enlightenment; the critique of power; the Frankfurt School; structuralism and post-structuralism; and the problem of modernity.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "39",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 39 Critical Theory and Post-Structuralism"
   },
   "PHIL 4": {
     "description": "This course will focus primarily on the following questions:  What is feminism?  What is sexism?  What is oppression?  What is gender?  Is knowledge gendered?  Is value gendered?  What is a (gendered) self? What would liberation be?  In exploring these issues, we will examine the ways feminist theorists have rethought basic concepts in core areas of philosophy such as ethics, social and political philosophy, metaphysics, epistemology, philosophy of law, and philosophy of mind. Open to all classes.",
@@ -23891,6 +24540,56 @@
     "title": "PHIL 4.01 Feminist Perspectives on Reproductive Ethics",
     "xlist": "WGSS 61.06"
   },
+  "PHIL 40": {
+    "description": "This course focuses on the critical examination of race, gender, sexuality, and other intersecting categories of identity, oppression and resistance such as class, nationality, and dis/ability. Prerequisite: One course in philosophy or permission of the instructor",
+    "distrib": "Dist:TMV; WCult:CI",
+    "instructor": "Brison",
+    "num": "40",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 40 Race, Gender, Sexuality"
+  },
+  "PHIL 45": {
+    "description": "The content of this course varies from term to term. See individual topic descriptions for details.Prerequisite: One Philosophy course or permission of the instructor.",
+    "instructor": "Visiting Edinburgh Professor",
+    "num": "45",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 45 Special Topics in Philosophy"
+  },
+  "PHIL 45.01": {
+    "description": "Paradoxes have played influential roles in philosophical investigations since antiquity. Paradoxes figure both in arguments for important philosophical theses and in (alleged) refutations of substantive positions. This course considers a selection of celebrated paradoxes along with important attempts to solve them. Students will consider topics in a variety of fields, possibly including philosophy of language, logic, ethics, decision theory, metaphysics, epistemology, and philosophical methodology.",
+    "instructor": "",
+    "num": "45.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 45.01 Paradoxes and Puzzles"
+  },
+  "PHIL 45.02": {
+    "description": "God is supposed to be a perfect being: all-knowing, all-powerful, and perfectly good. Famously, there are 'proofs' of God's existence, and 'proofs' to show the opposite. What should we think? This class explores the question of God's nature and existence, and what it means for human belief and action. What are the divine attributes? How strong are the arguments for or against God's existence? Can religious belief be rational? How could a perfect God permit evil? Can there be morality without God?",
+    "instructor": "",
+    "num": "45.02",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 45.02 God, Belief, and Evil"
+  },
+  "PHIL 45.03": {
+    "description": "What is consent? Despite its enormous moral and legal centrality, the idea of consent seems flawed in important ways. It is not obvious what counts as consent, or what makes it reasonable to believe in consent. Consent can be coerced, or unwilling. Ideally, consent and refusal are instantaneous powers conferring recognized permission or obligation on recipients. In real life, however, particularly for women, consent and refusal can be ignored, dismissed, misunderstood, or deemed irrelevant. We will examine the concept of consent in legal theory and moral philosophy to move towards a better understanding of it in sexual contexts.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "45.03",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 45.03 Consent in Philosophy and Law"
+  },
+  "PHIL 45.04": {
+    "description": "This course critically examines approaches in the philosophy of mind and cognitive science that see our psychological capacities as importantly dependent on our bodily form and abilities, and our environmental surroundings. We will examine how this view of mind as essentially ‘embodied and embedded’ arose in reaction to the classical ‘cognitivist’ paradigm in cognitive science that understands psychological capacities in terms of computational processes implemented by the brain, consider various ways in which the body and environment might contribute to explanations of cognition, and look at the prospects and challenges for embodied cognitive science in various domains.",
+    "instructor": "Ward",
+    "num": "45.04",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 45.04 Embodied Cognition"
+  },
   "PHIL 5": {
     "description": "An examination of some philosophical issues in the field of medicine. Primary focus will be on the moral issues that arise in dealing with individual patients, e.g., paternalism, informed consent, euthanasia, and abortion. There will also be an attempt to clarify such important concepts as death, illness, and disease. Open to all.",
     "distrib": "TMV",
@@ -23900,6 +24599,206 @@
     "subj": "PHIL",
     "title": "PHIL 5 Philosophy and Medicine"
   },
+  "PHIL 50": {
+    "description": "This course may be offered in any term and the content varies; see individual topic descriptions.",
+    "distrib": "TMV",
+    "instructor": "The staff",
+    "num": "50",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50 Advanced Seminar in Philosophy"
+  },
+  "PHIL 50.09": {
+    "description": "What sorts of beings are we? Embodied psychologies? Thinking animals? Moral agents? Narrative constructs? The metaphysical questions are abiding ones because of their intrinsic interest, and also because of their rich connections to developing theories of human biology, psychology, value, freedom, and agency. We will investigate which features, if any, are essential to the sorts of beings we are. We will ask after the grounds for existence and persistence of such beings across time (e.g. biological capacities, self-reflective capacities, rational agency). We will consider models of self-constitution, self-knowledge and self-deception. If time permits, the course will conclude with an exploration of the impact of psychological fragmentation on personhood, self-constitution and agency.",
+    "distrib": "Dist:TMV",
+    "instructor": "Thomas",
+    "num": "50.09",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.09 Personal Identity and the Self"
+  },
+  "PHIL 50.14": {
+    "description": "Property is a fundamental topic in political philosophy, legal theory and the social sciences. This course integrates philosophical theories of property rights with social scientific perspectives on social cooperation and economic perspectives on private law.  It explores the implications of recent work in these areas for broader questions about economic inequality, the fairness of market outcomes, constitutional limitations on state authority, and the proper balance between private control and public regulation.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.14",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.14 Property, Markets, and Capitalism"
+  },
+  "PHIL 50.15": {
+    "description": "The brain is the seat of who we are. This course will examine ethical issues that arise from our growing understanding of the brain, and our consequent ability to monitor and manipulate it. We will discuss timely issues such as cognitive enhancement, the ethics of brain interventions, drugs, and neural gene therapies, and the possibility of mindreading. Later in the course we will examine the ways in which our growing knowledge of the biological basis of moral cognition may or may not have effects on our moral theorizing.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.15",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.15 Neuroethics"
+  },
+  "PHIL 50.17": {
+    "description": "Does the right to free speech have boundaries? Philosophical defenses of the right to free speech, developed in the context of the town square and the printing press, have yet to catch up with the revolution in communication brought about by the Internet. Technological innovations such as social media have made it possible to communicate instantaneously with hundreds of millions of people around the world and have, for purposes of regulating speech, rendered national boundaries virtually irrelevant. There is now an urgent need to determine how to assess and protect the values of free speech in this global context. Questions we will discuss include: Is there a universal human right to freedom of expression? If so, what is the philosophical basis for it? What are its limits? Does it protect racist hate speech as well as political dissent? How should the different free speech regimes currently in effect in different countries be reconciled in cases of conflict?",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.17",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.17 Global Expressive Rights"
+  },
+  "PHIL 50.18": {
+    "description": "This course focuses on questions about the minds of nonhuman animals. We will consider what kind of thought, if any, is possible for beings that lack language. Can animals have propositional thought? What limits are there on the contents of nonlinguistic thought? We will also consider other aspects of mentality: Can animals feel pain? Can they suffer? Are they conscious? Finally, we will consider the ethical implications of the answers we find to the above questions.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.18",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.18 Animal Minds"
+  },
+  "PHIL 50.20": {
+    "description": "This course addresses the question of how we understand other people’s behaviour.  It examines contemporary philosophical theories concerning how we think about another’s thoughts, and related questions such as whether this ability is unique humans, universal across cultures, and how it may develop.    The course is strongly interdisciplinary, drawing on sources from developmental psychology, neuroscience and anthropology, to support philosophical arguments.  However, no prior knowledge of these fields is required to take the course.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.20",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.20 The Social Mind"
+  },
+  "PHIL 50.21": {
+    "description": "What kind of society should we aim to have? And why should we aim to have that kind of society as opposed to some other kind? And are there objectively right answers to these two previous questions, or are there ultimately only answers that are correct relative to a given social/historical framework? These three abstract questions have long been at the heart of social/political philosophy, from Aristotle and Plato to the present day. They are also questions that matter tremendously to a wide range of citizens in our increasingly globalized world: a world in which different societies, with different cultures, different social/political structures, and different moral values come into increased contact with other. This course will be focused on these three interconnected questions. It will be an advanced discussion-based seminar, and will involve multiple visiting speakers. All students will be expected to have at least two previous courses in philosophy or in political theory.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.21",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.21 Current Research in Social/Political Philosophy",
+    "xlist": "undefined"
+  },
+  "PHIL 50.22": {
+    "description": "What is it for something to be valuable or disvaluable?  Are there irreducible truths about value?  Are knowledge and achievement per se valuable?  Or can their value ultimately be explained by the value of happiness?  Are persons valuable in a way that cannot be captured by the sum total of their happiness, knowledge, and the like?  What role should truths about value play in ethics as a whole?",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "50.22",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.22 Value"
+  },
+  "PHIL 50.23": {
+    "description": "Contemporary virtue ethics arises out of a long and illustrious history in which ethics focuses on moral character traits. Do virtues (e.g. honesty, courage) exist? If so, what are they? Are they dispositions grounded in nature, traits acquired by education and training, or some combination of both? How are virtues related to practical deliberation, action and emotions? How are virtues related to human flourishing? How promising is virtue ethics relative to other approaches in normative ethics?",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.23",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.23 Virtue Ethics"
+  },
+  "PHIL 50.24": {
+    "description": "Ethical disagreements range from the ethics of abortion to foundational questions about the basic structure of ethics (such as whether or not consequentialism is true). What is the significance of such disagreements for deciding what to believe in ethics? Do moral disagreements provide support for moral skepticism? How, if at all, can we make progress in ethical inquiry? Parallel questions, as they arise in other domains (e.g. mathematics, political philosophy, and epistemology itself) will be examined.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.24",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.24 Moral Epistemology"
+  },
+  "PHIL 50.25": {
+    "description": "Sentimentalists believe that moral judgments are based on affective states—roughly, emotions—and that the institution of morality is in some sense a construction out of these states. What are the origins of moral approbation and disapprobation? Is there such a thing as a “moral sense”? What role does sympathy or empathy play in moral psychology? How are moral sentiments related to practical deliberation? Are moral judgments the product of reason or passion? How do complex moral attitudes evolve? What role do social forces play in shaping moral sentiments? Is there empirical evidence for or against sentimentalism? What are the implications of moral sentimentalism for non-cognitivist approaches to moral discourse? Readings will include both classic sentimentalist texts of the 18th Century—Shaftesbury, Hutcheson, Hume, and Smith—and their latter-day descendants.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.25",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.25 Moral Sentimentalism"
+  },
+  "PHIL 50.26": {
+    "description": "Many striking claims have been made on the basis of quantum mechanics—that the future is undetermined, that an object can be in two places at once, that consciousness has a special causal role, that the future can affect the past, and so on. Quantum mechanics is an incredibly powerful theory; but it is also a deeply troubled theory, and it is far from obvious what it says. In this course we will study quantum theory, its central difficulty (the measurement problem), and options for avoiding the difficulty. We will also evaluate philosophical claims that have been made on the basis of quantum mechanics. No acquaintance with modern physics will be presupposed.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.26",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.26 Philosophy and the Quantum World"
+  },
+  "PHIL 50.27": {
+    "description": "What is there? What are the most fundamental kinds of beings and how are they related to nonfundamental beings? Is it possible to develop a system of categories to identify the highest genera of being and to map the basic structure of reality? Do categories sort extramental entities or concepts or cognitive structures? Are they determined by logic or language? Philosophy is rich with competing attempts to develop categorical systems of reality, cognition, and meaning. This course will examine both historical and contemporary approaches to categories and their importance, including skeptics of the entire undertaking. Authors to be considered may include Plato, Aristotle, Aquinas, Ockham, Suárez, Kant, Frege, Husserl, Heidegger, Ryle, Chisholm, Strawson, Dummett, Westerhoff, Lowe, and Brandom.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.27",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.27 Categories"
+  },
+  "PHIL 50.28": {
+    "description": "In this seminar we will explore the nature of time and temporal phenomena. Topics include: Does time pass? Do the past and future exist? What light does special relativity shed on the nature of the present? Is an object fully present at a time, or only a temporal part of it? What explains the temporal asymmetries of our experience? Could the world be fundamentally non-temporal?",
+    "distrib": "Dist:TMV",
+    "instructor": "Lewis",
+    "num": "50.28",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.28 Philosophy of Time"
+  },
+  "PHIL 50.30": {
+    "description": "What does it mean to express oneself? Are there special reasons not to limit people’s freedom of expression? If protecting freedom of expression is profoundly important, does this mean that even hate speech (for example) must be protected? What limits can there be? These are some of the questions we will take up in this class. The first part of the course will study foundational questions about the nature and value of freedom of expression. The second part of the course will then examine specific topics including obscenity, pornography, hate speech, privacy, and corporate speech. We will conclude with a critical discussion of several recent Supreme Court decisions on freedom of expression.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.30",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.30 Freedom of Expression"
+  },
+  "PHIL 50.31": {
+    "description": "This course introduces students to philosophical aesthetics and the philosophy of art through some of the central works of those fields from the 18th Century onwards. Potential questions include: the nature of aesthetic pleasure, the special features of aesthetic judgments, the beautiful and the sublime, the moral potential of art, the relationship between art and freedom, the characteristic aims of art, what makes an experience aesthetic, and the role of symbolism in the arts.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.31",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.31 Classics of Modern Aesthetics"
+  },
+  "PHIL 50.32": {
+    "description": "Morality seems to involve distinctive attitudes toward other people-distinctive ways of feeling and regarding other people. What are these distinctive attitudes of moral consideration? In this course we examine two candidates: love and respect. We will consider both the question of what these attitudes ultimately involve, when and why they are merited, and the prospects for moral systems built around them.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.32",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.32 Love and Respect"
+  },
+  "PHIL 50.33": {
+    "description": "Modal talk is central to a great range of philosophical discussions, in areas from ethics to metaphysics to philosophy of mind and philosophy of science. But talk about what is possible or necessary is puzzling. For, as Hume noted, we never seem to observe anything like necessity in the world. Can talk about what is necessary or possible be true or false? If so, are there parts of reality (other possible worlds, or essences or modal properties of this world) that make it true? Or should modal talk be understood as doing something other than attempting to describe features of the universe? And how can we come to acquire modal knowledge—given that we don’t seem to observe modal facts? This course will examine a range of positions in the metaphysics and epistemology of modality.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.33",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.33 Necessity and Possibility"
+  },
+  "PHIL 50.34": {
+    "description": "Perplexity about the nature of time has evolved in lock step with worries about temporal experience. Somehow, we experience time passing, we differentiate now from later and before, and we do all of this while passing through time. Experience of time can be a window onto time itself, but that window might be muddy. Perhaps we fail to understand time because of how we experience it, or perhaps the best way to understand time is to attend to how we experience it.",
+    "distrib": "Dist:TMV",
+    "instructor": "Kulvicki",
+    "num": "50.34",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.34 Experiencing Time"
+  },
+  "PHIL 50.35": {
+    "description": "This course examines questions about the connection between mind, language, and normative domains such as morality, politics, and law. For example: how should we understand normative language that seems to be fundamentally about prescribing ways of acting, rather than about describing reality? Are moral judgments more a matter of emotion, or of belief? Can we reconcile a commitment to moral objectivity with our best scientific understanding of moral thought and talk? This course will engage such questions from a fundamentally interdisciplinary perspective, engaging with work from philosophy, cognitive science, linguistics, and psychology. In so doing, we will explore how empirical work can inform philosophical inquiry, and how philosophical inquiry can continue to guide ongoing research in the cognitive sciences. Students will be encouraged to work in interdisciplinary teams to create their own co-authored research.",
+    "distrib": "Dist:TMV",
+    "instructor": "Plunkett and Phillips",
+    "num": "50.35",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.35 Mind, Language, and Morality",
+    "xlist": "COCO 031 COGS 11.03"
+  },
+  "PHIL 50.36": {
+    "description": "Communication pushes people around. Sentences, stories, pictures, graphs, and maps can all convey information. But they can also convince, enthrall, enrage, (dis)empower, and (de)humanize. This course focuses on how communicative acts and ideologies have this power. It considers some linguistic, political, epistemological, psychological, and aesthetic aspects of such acts. And it considers examples of the phenomenon as diverse as political ads, literature, film, painting, pornography, slurs, compliments and even course syllabi.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "50.36",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 50.36 Propaganda"
+  },
   "PHIL 6": {
     "description": "This course introduces contemporary sentential logic and predicate logic. Both the theory of logic and its application to ordinary language are developed. Topics include symbolization, truth tables, truth trees, interpretations, and derivations. Each week one lecture, three quiz days, and three afternoon individualized discussion sessions are offered (normally MWF 4:45-5:15pm). The individual discussion sessions allow students to pursue their questions and obtain feedback on quizzes on a one-on-one basis. The self-pacing aspect of the course allows students who have difficulty to receive more assistance and those who do not need as much assistance to move ahead more quickly. Open to all classes.",
     "distrib": "QDS",
@@ -23908,6 +24807,24 @@
     "offered": "",
     "subj": "PHIL",
     "title": "PHIL 6 Logic and Language"
+  },
+  "PHIL 60": {
+    "description": "Credit for this course is awarded to students who have successfully completed a Philosophy course at the University of Edinburgh while a member of the Dartmouth Foreign Study Program at the University of Edinburgh.",
+    "distrib": "TMV",
+    "instructor": "University of Edinburgh staff.",
+    "num": "60",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 60 Foreign Study in Philosophy I"
+  },
+  "PHIL 61": {
+    "description": "Credit for this course is awarded to students who have successfully completed a Philosophy course at the University of Edinburgh while a member of the Dartmouth Foreign Study Program at the University of Edinburgh.",
+    "distrib": "TMV",
+    "instructor": "University of Edinburgh staff.",
+    "num": "61",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 61 Foreign Study in Philosophy II"
   },
   "PHIL 7": {
     "description": "",
@@ -23925,6 +24842,219 @@
     "offered": "",
     "subj": "PHIL",
     "title": "PHIL 8 Introduction to Moral Philosophy"
+  },
+  "PHIL 80": {
+    "description": "This course may be offered in any term and the content varies. Although intended primarily for students majoring in Philosophy, properly qualified students from other departments may be admitted. In every case admission requires the permission of the instructor.",
+    "distrib": "TMV",
+    "instructor": "The staff",
+    "num": "80",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80 Culminating Experience in Philosophy"
+  },
+  "PHIL 80.01": {
+    "description": "A close study of this epoch-making work, which has set the agenda for many sub-fields of philosophy since its publication in 1781.  Kant observes that philosophy, in contrast to mathematics and natural science, cannot point to any results that are acknowledged by all able practitioners.  Thus, philosophy has made no progress.  Kant proposes a method and foundation for philosophy that will change that.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.01",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.01 Kant's Critique of Pure Reason"
+  },
+  "PHIL 80.05": {
+    "description": "In this course, we will examine the nature and methods of metaphysics. Are ontological debates genuine debates, or do at least some of them involve pseudo-questions or merely terminological disputes? If they are genuine questions, how can we best find answers to them—or must the answers remain unknowable? Is there a privileged conceptual system for revealing the true ‘structure of reality’? We will address these and other questions, with texts from Carnap and Quine through to the present.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.05",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.05 Metametaphysics"
+  },
+  "PHIL 80.06": {
+    "description": "This course uses tools from the philosophy of language, philosophy of mind, and philosophy of art to understand non-linguistic representation and its significance. Topics include the nature of depiction, pictorial realism, mental imagery, maps, diagrams, and models.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.06",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.06 Images!"
+  },
+  "PHIL 80.12": {
+    "description": "Do we have free will? Does brain science show that we do or do not? How does moral responsibility depend on freedom? Can we be responsible if we are merely physical mechanisms? Can we blame people for their actions? This course will explore the philosophical questions and neuroscientific literature regarding free will, and will address the implications of this debate for law and society",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.12",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.12 Free Will, Responsibility and the Brain"
+  },
+  "PHIL 80.13": {
+    "description": "A survey of closely connected questions about the attitudes of love and respect, as well as the distinctive moral duties associated with each. Questions will include: What is distinctive about the attitudes of love and respect? Do we have universal duties of respect for all persons? If so, what do these duties entail for us? How is the partiality of an attitude like love to be reconciled with the impartiality of respect?",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.13",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.13 Love, Respect, and Moral Obligation"
+  },
+  "PHIL 80.14": {
+    "description": "This course will cover Kant’s accounts of what it is to judge of something that it is, that it is good, and that it is beautiful.  By far the most time will be devoted to the first of these accounts (his so-called theoretical philosophy), since it serves as a foundation for all of the rest.  Coverage of the latter two will focus on how all three accounts are unified in a single system of philosophy.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.14",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.14 Kant on Being, Goodness, and Beauty"
+  },
+  "PHIL 80.15": {
+    "description": "This seminar is on foundational issues in contemporary epistemology, focusing on questions about the nature and grounds of epistemic normativity. Possible topics include: the relationship between epistemic rationality and reasons for belief, whether or not epistemic justification is ultimately dependent on our psychologies or practical interests, the relationship between truth and epistemic justification, and the bearing of general metanormative theorizing on our understanding of normativity within epistemology.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.15",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.15 Epistemic Normativity"
+  },
+  "PHIL 80.16": {
+    "description": "Platonists, ancient and contemporary alike, commit themselves to the existence of abstract, nonphysical, intelligible beings (e.g. numbers, properties, propositions) in addition to concrete, spatiotemporal, perceptibles (e.g. horses, vases, mountains) . For Plato, in particular, changeless, intelligible beings are metaphysically and epistemologically prior to changing, perceptibles.  The supernatural is prior to the natural. We will attempt to reconstruct and to assess (a) Plato’s reasons for positing and privileging supernatural entities; (b) his view of how, if at all, the “two worlds” interact; (c) his view of how, if at all, we are to understand or to explain the natural in terms of the supernatural; and (d) the prospects for “natural science” as Plato understands them.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.16",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.16 Plato's (Super)Naturalism"
+  },
+  "PHIL 80.17": {
+    "description": "This seminar is a study of three great philosophical topics in Leibniz's work and their contemporary counterparts.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.17",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.17 Unity, Necessity, Infinity: Themes from Leibniz"
+  },
+  "PHIL 80.18": {
+    "description": "Beauty is the preeminent aesthetic value, and plumbing its depths is one of philosophy's oldest occupations. Is beauty an objective feature of the world or merely \"in the eye of the beholder\"? How do we judge something to be beautiful? What is the relationship between beauty and pleasure? Can art be beautiful? Can nature? What is the relationship between beauty and other values, like justice and virtue? Readings may include Plato, Aristotle, Plotinus, Augustine, Shaftesbury, Hutcheson, Hume, Kant, Schiller, Hegel, Schopenhauer, Nietzsche, G. E. Moore, Iris Murdoch, Mary Mothersill, Arthur Danto, and Alexander Nehamas.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.18",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.18 Beauty"
+  },
+  "PHIL 80.19": {
+    "description": "W.V.O. Quine was one of the most influential and systematic philosophers of the 20th century. His insights have had deep and lasting effects on epistemology, philosophy of science, philosophy of language, metaphysics and philosophy of logic. In this class we will work through some of Quine’s most influential papers and arguments, and will try to understand the underlying systematic commitments of his views.",
+    "distrib": "TMV",
+    "instructor": "",
+    "num": "80.19",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.19 Quine"
+  },
+  "PHIL 80.20": {
+    "description": "This seminar explores controversies in contemporary feminist philosophy over such issues as pornography and prostitution, sexual coercion and consent, the social construction of gender, and the intersections of gender with race, class, sexual orientation, disability, and other group-based identities.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.20",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.20 Controversies in Feminist Philosophy"
+  },
+  "PHIL 80.21": {
+    "description": "What does philosophical inquiry involve? What should it involve? What are the best ways to make progress in philosophy? Are the best methods for making progress in one area of philosophy (e.g. metaphysics) different from the best methods in another area (e.g. ethics)? Does the idea of philosophical progress even make sense? This course will address these and other questions about the nature of philosophy and philosophical methodology. Possible approaches to be discussed include conceptual analysis, philosophical naturalism, genealogy, ideology critique, phenomenology, thought experiments, and the a priori.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.21",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.21 Philosophical Methodology"
+  },
+  "PHIL 80.22": {
+    "description": "Secondary qualities – colors, sounds, smells, tastes, and touches – raise important problems in the philosophy of mind, epistemology and metaphysics. For many reasons, they seem less objective, and more tied to experience, than the traditionally primary qualities like shapes and masses do. Would colors exist in a world without color perceivers? Would sounds exist without hearers? How do the problems with understanding color relate to those for taste, touch and smell? How are secondary qualities related to primary qualities? This course will consider both historical and contemporary attempts to grapple with the primary/secondary quality distinction.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.22",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.22 Secondary Qualities"
+  },
+  "PHIL 80.23": {
+    "description": "Many striking claims have been made on the basis of quantum mechanics—that the future is undetermined, that an object can be in two places at once, that consciousness has a special causal role, that the future can affect the past, and so on. Quantum mechanics is an incredibly powerful theory; but it is also a deeply troubled theory, and it is far from obvious what it says. In this course we will study quantum theory, its central difficulty (the measurement problem), and options for avoiding the difficulty. We will also evaluate philosophical claims that have been made on the basis of quantum mechanics. No acquaintance with modern physics will be presupposed.",
+    "distrib": "Dist:TMV",
+    "instructor": "Lewis",
+    "num": "80.23",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.23 Philosophy and the Quantum World"
+  },
+  "PHIL 80.24": {
+    "description": "What is truth? What conception of reality does truth involve? Should we think of truth or reality as transcending the limits of our evidence? Should we conceive of them as always tied to a perspective? Is truth an all-or-nothing matter, or might there be borderline cases? Could there be no definite fact of the matter about the way the world is? We’ll address such questions using historical and contemporary sources.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.24",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.24 The Real, the True, and the Vaguely"
+  },
+  "PHIL 80.25": {
+    "description": "The study of imagination has a long, rich philosophical history. Recently, there has been an explosion of interest in the topic. In this course, we will consider efforts to understand what imagination is and what role imagination plays in the cognitive and emotional lives of experiencers, inquirers, and agents. How is imagination related to perception, belief, pretense, supposition, and desire? What role does imagination play in emotions and in actions? How free is imagination? Can we imagine the impossible? What do we learn about imagination by considering how we engage (or are resistant to engage) in fictional imaginings? How do imagination and creativity interact? Can we rely on imagination to learn or to come to know something new? If so, how? If not, why not? Readings will be drawn from both historical and contemporary sources.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.25",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.25 Imagination"
+  },
+  "PHIL 80.26": {
+    "description": "Some have argued that a central and legitimate job of philosophy involves conceptual ethics and conceptual engineering: that is, work in determining what sorts of language or concepts we should use, and how we should use them. In this course we will examine the motivations for thinking of philosophy in this way. We will go on to consider questions such as: How is conceptual engineering possible, and how could it lead to philosophical progress? To what extent can past philosophical debates be reconceived as involved in conceptual negotiation? What are the signs that conceptual (re-)engineering is needed? How can and should this sort of work be done? What view(s) of concepts are involved in undertaking this work—and is it better to think of this work at the conceptual or linguistic level? What criteria can and should we employ in evaluating concepts, or conceptual systems? Is conceptual engineering even possible—and if so, how can we do it?",
+    "distrib": "Dist:TMV",
+    "instructor": "Thomasson",
+    "num": "80.26",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.26 Conceptual Ethics and Conceptual Engineering"
+  },
+  "PHIL 80.27": {
+    "description": "An introduction to the thought of Karl Marx and themes from his work. Areas of focus may include Marx’s account of alienation and exploitation, his materialist theory of history, his critique of liberalism, his theory of ideology, his conception of freedom and morality and Marxist analyses of culture. Particular attention will be paid to Marx’s relevance to contemporary questions in social and political philosophy.\nThis advanced seminar is designed to be a culminating experience for majors in Philosophy, although properly qualified students in other disciplines may also be admitted.",
+    "distrib": "Dist:TMV",
+    "instructor": "Walden",
+    "num": "80.27",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.27 Marx and Marxism"
+  },
+  "PHIL 80.28": {
+    "description": "Many otherwise divergent moral theories agree that we have reason to create and sustain value (or “the good”).  How should we understand the concept that plays this central role in ethics?  Might there actually be two different concepts that are often called by the same name?  We face many questions about which sorts of things (pleasure, knowledge, virtue, and beauty) have intrinsic or final value.  Well-being plays a central role in theories of value.  What is well-being?  And what distinguishes it from ‘impersonal’ values, if there are any?\nThis advanced seminar is designed to be a culminating experience for majors in Philosophy, although properly qualified students in other disciplines may also be admitted.",
+    "distrib": "Dist:TMV",
+    "instructor": "",
+    "num": "80.28",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.28 Reasons, Value, and Well-Being"
+  },
+  "PHIL 80.29": {
+    "description": "This course delves deeply into some of the main questions in neuroethics. We will focus on selected issues in the ethics of neuroscience, including cognitive and moral enhancement, disorders of consciousness, and the ethics of neural interventions. Readings will include both philosophical work in neuroethics and relevant seminal papers in neuroscience.\nThis advanced seminar is designed to be a culminating experience for majors in Philosophy, although properly qualified students in other disciplines may also be admitted.",
+    "instructor": "Roskies",
+    "num": "80.29",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 80.29 The Ethics of Neuroscience"
+  },
+  "PHIL 87": {
+    "description": "The purpose of Philosophy 87 is to provide opportunity for a student to do advanced work on a topic that the student has studied in a regularly offered course, or to study a topic not normally covered in a regularly offered course. In order to enroll in Philosophy 87, a student must prepare a brief (one page) proposal which describes what the student wishes to study and accomplish by taking this research course. All proposals for Philosophy 87 must be reviewed by the faculty of the Department after having been provisionally approved by the faculty member who is the prospective director. This must be done before the beginning of the term in which the course is to be taken. May be taken for more than one course credit, but at most, one election will count toward satisfaction of the requirements of the major. The staff.",
+    "instructor": "",
+    "num": "87",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 87 Research in Philosophy"
+  },
+  "PHIL 89": {
+    "description": "Open only to Philosophy senior majors who are participating in the Honors Program. The Honors Program is designed for qualified students interested in doing intensive and individualized work in philosophy. Only those students who have successfully completed the Honors Program are eligible to receive major standings of Honors or High Honors. The program is divided into three stages: the Junior Honors Seminar, preparation and submission of a thesis proposal, and Honors thesis writing. All students who register for the Philosophy Major and who expect to have the necessary cumulative averages (3.50 in Philosophy and 3.33 overall) are invited to join the Junior Honors Seminars. In order to be accepted for Honors thesis writing, a student must successfully complete a Junior Honors Seminar, maintain or attain by the end of the Junior year the required grade point averages, and have a thesis proposal approved by the Philosophy Department by the end of the term in residence prior to commencement of thesis writing.\nTo complete a two-term thesis, qualified students are enrolled in PHIL 89 for the fall term and PHIL 90 for the winter term of their senior year. In extraordinary cases, a student may be permitted to write a winter-spring or fall-spring thesis. In such cases, students are expected to consult with the Chair of the department during the junior year and to request special accommodations when submitting their senior thesis proposals. Only one term of the Honors Program may count towards satisfying the major requirements. Honors Program grades are assigned retroactively at the end of Spring term.\nStudents are awarded one course credit for successful completion of this course at the end of the third term of study. Students subsequently register for PHIL-090 and continue with their coursework into a third term.  Students do not register for a third term. A final grade will replace the “ON” for both PHIL-090 and this course upon completion of this course at the end of the third term of coursework.",
+    "instructor": "",
+    "num": "89",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 89 Honors Program I"
   },
   "PHIL 9": {
     "description": "An examination of the ethical dimensions of some contemporary controversies. Topics will vary from year to year but may include: business, death, discrimination, the environment, gender, law, media, race, sex, technology, and war. The course may be taken more than once for credit with permission of the instructor. Open to all classes. No prerequisites.",
@@ -23988,6 +25118,14 @@
     "offered": "",
     "subj": "PHIL",
     "title": "PHIL 9.08 Ethics and Information Technology"
+  },
+  "PHIL 90": {
+    "description": "Open only to Philosophy senior majors who are participating in the Honors Program. The Honors Program is designed for qualified students interested in doing intensive and individualized work in philosophy. Only those students who have successfully completed the Honors Program are eligible to receive major standings of Honors or High Honors. The program is divided into three stages: the Junior Honors Seminar, preparation and submission of a thesis proposal, and Honors thesis writing. All students who register for the Philosophy Major and who expect to have the necessary cumulative averages (3.50 in Philosophy and 3.33 overall) are invited to join the Junior Honors Seminars. In order to be accepted for Honors thesis writing, a student must successfully complete a Junior Honors Seminar, maintain or attain by the end of the Junior year the required grade point averages, and have a thesis proposal approved by the Philosophy Department by the end of the term in residence prior to commencement of thesis writing.\nStudents are awarded one course credit for successful completion of this course. Students who have registered for PHIL-089 register for this course and continue with their coursework into a third term.  Students do not register for a third term. A final grade will replace the “ON” for both PHIL-089 and this course upon completion of this course at the end of the third term of coursework.",
+    "instructor": "",
+    "num": "90",
+    "offered": "",
+    "subj": "PHIL",
+    "title": "PHIL 90 Honors Program II"
   },
   "PHYS 1": {
     "description": "An introduction to the evolution of physical theories and models of natural phenomena from ancient Greece to modern times. Topics include Pre-Socratic and Aristotelian natural philosophy; the scientific revolutions of Copernicus, Kepler, Galileo, and Newton, and the birth of mechanics; electromagnetism, thermodynamics, and the physics of light in the nineteenth century; the emergence of quantum mechanics and relativity theory; modern particle physics and the search for unification; the interface of particle physics and cosmology; and physics and its contexts (other sciences, worldviews, technologies, the Cold War). Students will carry out five biweekly laboratory experiments illustrating major discoveries. No student may receive credit for both Physics 1 and Physics 2. Identical to Physics 2, but with the laboratory.",
@@ -25224,6 +26362,9 @@
     "offered": "",
     "subj": "PSYC",
     "title": "PSYC 91.02 Honors Neuroscience Research II"
+  },
+  "PSYC 81.12 Using Naturalistic Stimuli, Brain Imaging, and Big Data Methods to Understand Human Cognition undefined": {
+    "subj": "PSYC 81.12 Using Naturalistic Stimuli, Brain Imaging, and Big Data Methods to Understand Human Cognition"
   },
   "QBS 271": {
     "description": "Epigenetic dysregulation has been implicated in a growing number of diseases. As technology advances, a variety of different epigenetic marks can increasingly be profiled on a large scale, allowing unique epigenetic questions to be addressed in human populations. In this advanced epidemiology journal club, students will select recent and high-impact peer-reviewed journal articles on epigenetics and human health, which will be discussed in class. These articles can include research studies or methodological papers. Each week, students will take turns presenting on an article and will be responsible for leading an in-class discussion for the selected paper. In addition to these presentations, students will submit a short, written commentary on each week’s featured article. Students will be encouraged to choose articles that are relevant to their research interests. \n \nCourse prerequisites include QBS130 and QBS131. Equivalent courses may be accepted with instructor permission.",
@@ -26874,6 +28015,12 @@
     "title": "REL 9 Hinduism",
     "xlist": "undefined"
   },
+  "REL 19.36 Putin's Sacred Reign undefined": {
+    "subj": "REL 19.36 Putin's Sacred Reign"
+  },
+  "REL 37 Mountain Gods, Mummies and Messiahs: Religions of the Andes undefined": {
+    "subj": "REL 37 Mountain Gods, Mummies and Messiahs: Religions of the Andes"
+  },
   "RUSS 1": {
     "description": "An introduction to Russian as a spoken and written language. None of these serves in partial satisfaction of the Distributive or World Culture Requirements.",
     "instructor": "Gronas",
@@ -27260,6 +28407,12 @@
     "offered": "",
     "subj": "RUSS",
     "title": "RUSS 87 Thesis"
+  },
+  "RUSS 38.14 Other Christs: Introduction to Eastern Christianity undefined": {
+    "subj": "RUSS 38.14 Other Christs: Introduction to Eastern Christianity"
+  },
+  "RUSS 86 Independent Reading and Research in Russian undefined": {
+    "subj": "RUSS 86 Independent Reading and Research in Russian"
   },
   "SART 15": {
     "description": "In this introductory course, major and non-major students will explore the issues of mark, line, scale, space, light and composition. Students will develop a critical facility to discuss the work presented in class. Although the majority of work will be from the observed form, such as still life and the human figure, non-observational drawing will also be emphasized. Various kinds of media, including charcoal, ink and pencil will be used. Supplemental course fee required. Enrollment limited.",
@@ -28344,6 +29497,125 @@
     "subj": "SOCY",
     "title": "SOCY 99 Honors Thesis II"
   },
+  "SOCY 72 Critical Community Sociology undefined": {
+    "subj": "SOCY 72 Critical Community Sociology"
+  },
+  "SOCY 79.12 Neighborhoods and Health undefined": {
+    "subj": "SOCY 79.12 Neighborhoods and Health"
+  },
+  "SPAN 1": {
+    "description": "Introduction to spoken and written Spanish. Intensive study of introductory grammar and vocabulary with a focus on culture. Oral class activities, readings and compositions. Weekly practice in the virtual language lab includes viewing TV series and films and weekly drill sessions. Never serves in partial satisfaction of the Distributive or World Culture Requirements.",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "1",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 1 Spanish I"
+  },
+  "SPAN 15": {
+    "description": "This course draws on the strengths of Latinx Language Learners in order to enhance their skills in writing and composition. Using a variety of media and genres, students will explore the cultural experiences of US Latinx communities and the Spanish-speaking world. The course will focus on structures related to languages and cultures in contact, and review grammar to expand students’ range from informal to academic communication. The course will have an experiential learning component, including student projects throughout the term, and participation in events around campus related to Spanish-speaking communities. It can be used to fulfill the language requirement. It serves as pre-requisite for Spanish 20. May not be taken in conjunction with Spanish 9.",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "15",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 15 Latinx Writing and Composition"
+  },
+  "SPAN 2": {
+    "description": "Continuation of SPAN I. Further intensive study of grammar and vocabulary with a focus on culture. Oral class activities, readings and compositions and continued practice in the virtual language laboratory. Weekly drill sessions. Never serves in partial satisfaction of the Distributive or World Culture Requirements. Open to first-year students by qualifying test and to others who have passed SPAN I.",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "2",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 2 Spanish II"
+  },
+  "SPAN 20": {
+    "description": "Spanish 20 is the first course of the Major/Minor, and serves as transition between the skills acquired through the Spanish language courses (Spanish LSA or equivalent preparation) and those needed for all upper-division courses (30 and above). Through the study of critical and theoretical vocabulary, and the reading of short stories, poems, films, theatrical plays and journalistic articles, students will acquire analytic tools to comprehend and analyze several types of texts. This course is also designed to familiarize students with different textual genres and a wide array of literary and interpretative key concepts.",
+    "distrib": "LIT",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "20",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 20 Writing and Reading: A Critical and Cultural Approach"
+  },
+  "SPAN 21": {
+    "description": "This course will connect course content with cultural activities such as excursions, visits to museums, and lectures.  The thematic focus of the course will be Andean Art and Culture from pre-Hispanic times to the present, elements of Andean cosmogony, civilizational clash, and cultural miscegenation included.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "21",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 21 Traditional and Contemporary Andean Cosmogonies and Cultural Production: A Historical Approach"
+  },
+  "SPAN 22": {
+    "description": "This course will make students fluent in some of the main topics relevant to modern and contemporary Spanish cultural production, with a particular emphasis on Northern Spain.  The course will not count towards the major or minor.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "22",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 22 Modern and Contemporary Spanish Artistic and Cultural Production"
+  },
+  "SPAN 23": {
+    "description": "This course deepens the student's knowledge of the Argentine art and cultures through the study and discussion of the visual, architectural and plastic arts, as well as music and performance. The materials will expose the students to the main trends and topics of contemporary Argentine art, cultures and society.",
+    "distrib": "Dist:ART; WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "23",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 23 Argentine Cultural Heritage"
+  },
+  "SPAN 24": {
+    "description": "This course deepens the student's knowledge of the Spanish art and cultures through the study and discussion of the visual, architectural and plastic arts, as well as music and performance. The materials will expose the students to the main trends and topics of contemporary Spanish art, cultures and society.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "24",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 24 Spanish Cultural Heritage"
+  },
+  "SPAN 3": {
+    "description": "Continuation of SPAN II. SPAN III provides additional, intensive study of grammar and vocabulary with a focus on literature and culture. Oral class activities, readings and compositions and continued practice in the virtual language laboratory. Weekly drill sessions. Completion of this course on campus or as part of the LSA constitutes fulfillment of the language requirement. Never serves in partial satisfaction of the Distributive or World Culture Requirements. Open to first-year students by qualifying tests and to others who have passed SPAN II.",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "3",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 3 Spanish III"
+  },
+  "SPAN 30": {
+    "description": "This course presents an overview of major literary trends and cultural productions from the Middle Ages to the 17th century in both their Spanish and Spanish American contexts. Students will read a representative selection of major literary works from that period, both Peninsular and Spanish-American, and discuss theoretical, aesthetic, and critical issues pertinent to the Renaissance, the Baroque, colonialism, syncretism, etc. Texts and other materials may be cultural and visual.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "30",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 30 Introduction to Hispanic Studies I: Middle Ages-17th Century"
+  },
+  "SPAN 31": {
+    "description": "This course presents a chronological study of major trans-Atlantic literary trends and cultural productions, corresponding to the cultural and aesthetic movements of the eighteenth and nineteenth centuries. Students will read a representative selection of major literary works, both Peninsular and Spanish-American, from that period and discuss theoretical, aesthetic, and critical issues pertinent to modernity, empire, enlightenment, nationalism, gender, democracy, etc. Texts and other materials may be cultural and visual.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "31",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 31 Introduction to Hispanic Studies II: 18th and 19th Centuries"
+  },
+  "SPAN 32": {
+    "description": "This course presents a chronological study of trans-Atlantic major literary trends and cultural productions, corresponding to the cultural and aesthetic movements from the 1880s to the present. Students will read a representative selection of major literary works from that period, both Peninsular and Spanish-American, and discuss theoretical, aesthetic, and critical issues pertinent to modernismo, the avant-garde, revolution, post-modernism, etc. Texts and other materials may be cultural and visual.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "32",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 32 Introduction to Hispanic Studies III: 20th-21st Centuries"
+  },
+  "SPAN 33": {
+    "description": "This course studies socio-political events in the Southern Cone that have shaped the contemporary configuration of society in Argentina. Emphasis will be placed on key political figures, social movements, oppositional tensions, dictatorship and democracy, and their articulation in the cultural field.",
+    "distrib": "Dist:SOC; WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "33",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 33 Argentine Civilization: Society, Culture and Politics in Argentina"
+  },
   "SPAN 34": {
     "description": "This courses studies socio-political events in the Iberian Peninsula that have shaped the contemporary configuration of society in Spain. Emphasis will be placed on key political figures, social movements, oppositional tensions, dictatorship and democracy, and their articulation in the cultural field.",
     "distrib": "Dist:SOC; WCult:W",
@@ -28397,6 +29669,33 @@
     "offered": "",
     "subj": "SPAN",
     "title": "SPAN 45.07 Slaves from the Past, Slaves Next Door"
+  },
+  "SPAN 5": {
+    "description": "Taught in the context of the Language Study Abroad program, this course in Hispanic culture reinforces listening, reading, speaking, and writing skills in Spanish. The thematic focus is on local and regional art history, with special emphasis on the city as a dynamic form of cultural production through time. Attending to political, social, economic, and religious contexts, the course features brief presentations by local personnel as well as relevant field trips. Assignments include conversation, writing projects, oral presentations, and a final course examination.",
+    "distrib": "WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "5",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 5 Language Study Abroad"
+  },
+  "SPAN 5.01": {
+    "description": "Taught in the context of the Language Study Abroad program, this course in Hispanic culture reinforces listening, reading, speaking, and writing skills in Spanish. The thematic focus is on local and regional art history, with special emphasis on the city as a dynamic form of cultural production through time. Attending to political, social, economic, and religious contexts, the course features brief presentations by local personnel as well as relevant field trips. Assignments include conversation, writing projects, oral presentations, and a final course examination. Not open to students who have received credit for SPAN 005 or SPAN 05.02",
+    "distrib": "WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "5.01",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 5.01 Language Study Abroad: Barcelona"
+  },
+  "SPAN 5.02": {
+    "description": "Taught in the context of the Language Study Abroad program, this course in Hispanic culture reinforces listening, reading, speaking, and writing skills in Spanish. The thematic focus is on local and regional art history, with special emphasis on the city as a dynamic form of cultural production through time. Attending to political, social, economic, and religious contexts, the course features brief presentations by local personnel as well as relevant field trips. Assignments include conversation, writing projects, oral presentations, and a final course examination. Not open to students who have received credit for SPAN 005 or SPAN 05.01.",
+    "distrib": "WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "5.02",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 5.02 Language Study Abroad: Buenos Aires"
   },
   "SPAN 50.02": {
     "description": "This course addresses changes in Spanish society since the end of the dictatorship. These include the relativization of family, love, drugs, sexuality, life, death, and democracy; and the devaluation of morals, history, and culture. Authors include Vázquez Montalbán, Marías, Loriga, Montero, Riera, Almodóvar, de la Iglesia, Amenábar, and Balagueró.",
@@ -28470,6 +29769,33 @@
     "subj": "SPAN",
     "title": "SPAN 55.09 Revoltosos/as: Forms of Rebellion and Revolution in Imperial Spain and Spanish America"
   },
+  "SPAN 6": {
+    "description": "Taught in the context of the Language Study Abroad program, this introductory course in Hispanic literature strengthens listening, reading, speaking and writing skills in Spanish. The reading materials are selected to help students develop their analytical strategies as well as to expose them to relevant cultural issues and major figures of the region in which they are studying. Assigned work may include brief research papers, oral presentations, a mid-term exam and a final course examination.",
+    "distrib": "Dist:LIT; WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "6",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 6 Language Study Abroad"
+  },
+  "SPAN 6.01": {
+    "description": "Taught in the context of the Language Study Abroad program, this introductory course in Hispanic literature strengthens listening, reading, speaking and writing skills in Spanish. The reading materials are selected to help students develop their analytical strategies as well as to expose them to relevant cultural issues and major figures of the region in which they are studying. Assigned work may include brief research papers, oral presentations, a mid-term exam and a final course examination. Not open to students who have received credit for SPAN 006 or SPAN 06.02.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "6.01",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 6.01 Language Study Abroad: Barcelona"
+  },
+  "SPAN 6.02": {
+    "description": "Taught in the context of the Language Study Abroad program, this introductory course in Hispanic literature strengthens listening, reading, speaking and writing skills in Spanish. The reading materials are selected to help students develop their analytical strategies as well as to expose them to relevant cultural issues and major figures of the region in which they are studying. Assigned work may include brief research papers, oral presentations, a mid-term exam and a final course examination. Not open to students who have received credit for SPAN 006 or SPAN 06.01.",
+    "distrib": "Dist:LIT; WCult:NW",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "6.02",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 6.02 Language Study Abroad: Buenos Aires"
+  },
   "SPAN 63.01": {
     "description": "In this survey of Latin American film we will study the Mexican Golden Age of film (1936-1969), Cuba’s revolutionary film (Lucia) as well as other radical films of the 60s (Sangre del condor), and women’s films. We will end looking at the most important production coming out of Latin America today such as the films of Francisco Lombardi, Claudia Llosa, Lucrecia Martel and others. We will also study important film manifestos.",
     "distrib": "Dist:ART; WCult:NW",
@@ -28525,6 +29851,14 @@
     "subj": "SPAN",
     "title": "SPAN 65.13 The World of Frida Kahlo"
   },
+  "SPAN 7": {
+    "description": "",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "7",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 7 First-Year Seminars in Spanish and Spanish-American Literature"
+  },
   "SPAN 70.01": {
     "description": "From the time of its publication in 1605 (Part I) and 1615 (Part II), Don Quijote has provoked radically different interpretations. Taking as point of departure both the comic and the romantic interpretations, the course will explore the meaning of the Quijote across the centuries. Its aim will be to understand the Quijote both as an autonomous work of literature and as a highly creative response to the literary and cultural forces from which it was forged. In addition to the historical context and social conflicts in the Hapsburg monarchy, the course will focus on the literary history and the novel as a literary genre and a product of the Medieval “mixtification” which flourished in the Renaissance.",
     "distrib": "Dist:LIT; WCult:W",
@@ -28578,6 +29912,14 @@
     "subj": "SPAN",
     "title": "SPAN 83 Independent Study"
   },
+  "SPAN 9": {
+    "description": "This course serves as a bridge between SPAN 3 and SPAN 20. Through the intensive study of a variety of aural media (e.g., documentaries, TV and radio programs, films), grammar, vocabulary and speech acts as presented in the course packet, students will actively practice listening and speaking skills with the goal of reaching an Intermediate High Level (on the ACTFL scale). Additional written material may be added according to the professor’s particular interests.",
+    "instructor": "Please see website @ https://spanport.dartmouth.edu/undergraduate/courses",
+    "num": "9",
+    "offered": "",
+    "subj": "SPAN",
+    "title": "SPAN 9 Culture and Conversation: Advanced Spanish Language"
+  },
   "SPAN 90": {
     "description": "Supervised independent research under the direction of a designated advisor. Honors majors will normally elect this course as the first in the required sequence (90 and 91) for completion of the Honors Program. SPAN 90 is intended to prepare the student for writing the Honors thesis, through readings in primary and secondary texts, theory and methodology. The course will include periodic written assignments and culminate in a final paper.",
     "instructor": "",
@@ -28593,6 +29935,12 @@
     "offered": "",
     "subj": "SPAN",
     "title": "SPAN 91 Honors Seminar"
+  },
+  "SPAN 63.10 Family Matters: Pedro Almodovar, Gender Reversals, and New Communities undefined": {
+    "subj": "SPAN 63.10 Family Matters: Pedro Almodovar, Gender Reversals, and New Communities"
+  },
+  "SPAN 63.11 Blood Cinema. Spanish Movies from 1926 to 2019 undefined": {
+    "subj": "SPAN 63.11 Blood Cinema. Spanish Movies from 1926 to 2019"
   },
   "SPEE 20": {
     "description": "This course covers the theory and practice of public speaking. Building on ancient rhetorical canons while recognizing unique challenges of contemporary public speaking, the course guides students through topic selection, organization, language, and delivery. Working independently and with peer groups, students will be actively involved in every step of the process of public speaking preparation and execution. Assignments include formal speeches (e.g. to inform, to persuade, and to pay tribute), brief extemporaneous speeches, speech analyses, and evaluations. Limited enrollment. No prior speaking experience is necessary.",

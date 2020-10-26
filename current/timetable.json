@@ -17428,7 +17428,11 @@
     "DeliveryMode": "Remote, with synchronous components",
     "Description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=COSC&numb=189",
     "Dist": null,
+<<<<<<< HEAD
     "Enrl": "3",
+=======
+    "Enrl": "1",
+>>>>>>> master
     "FYS": "N",
     "Instructor": "Soroush Vosoughi",
     "Lim": "20",
