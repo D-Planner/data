@@ -17110,6 +17110,16 @@
     "title": "HIST 5.03 The History of China since 1800",
     "xlist": "ASCL 64.08"
   },
+  "HIST 5.04": {
+    "description": "This course provides an introduction to Korean culture and history, examining Korea's visual and textual expressions from the pre-modern age to the twentieth century. What are the origins of Korean national and cultural identities? How have Korean claims of cultural distinctiveness been manifested and modified over time? Tracing answers to these questions simultaneously helps us to consider how and why Korea has entered America's consciousness. As Korea matters to the US not simply as a fact but as a project, this course avoids portraying Korea through any generalized statements or uncritical categories. Rather, students are encouraged to explore novel perspectives on Korea and thereby unravel their own prejudices and agendas. No prior acquaintance with the Korean language is required.",
+    "distrib": "Dist:SOC; WCult:CI",
+    "instructor": "Suh",
+    "num": "5.04",
+    "offered": "",
+    "subj": "HIST",
+    "title": "HIST 5.04 Introduction to Korean Culture",
+    "xlist": "ASCL 10.02"
+  },
   "HIST 5.05": {
     "description": "A survey of Japanese history from the mid-nineteenth century to the present. Topics to be covered include the building of a modern state and the growth of political opposition, industrialization and its social consequences, the rise and fall of the Japanese colonial empire, and the postwar economic 'miracle.'",
     "distrib": "Dist:SOC; WCult:NW",
@@ -19061,6 +19071,9 @@
     "subj": "JWST",
     "title": "JWST 85 Independent Study and Research"
   },
+  "JWST 44.01 The Middle East in Film: Picturing the Past and Present undefined": {
+    "subj": "JWST 44.01 The Middle East in Film: Picturing the Past and Present"
+  },
   "LACS 1": {
     "description": "This interdisciplinary course introduces students to the geographical conditions, historical roots, and enduring cultural diversity of Latin America and the Caribbean. After a brief survey of the physical and cultural geography of the region, the course examines the history of selected countries to highlight the way European conquest and colonialism have molded Latin American institutions and attitudes. The course then turns to particular case studies of contemporary life and society to analyze the ongoing problems of ethnicity, inequality, and political repression engendered by the region's colonial past. Finally, the course draws on these historical and anthropological understandings to assess recent economic, social, and political developments in Latin America. By juxtaposing historical realities with their living consequences, the course presents a multi-disciplinary perspective on the nature, dynamics-and future prospects-of the many peoples who inhabit this vast and diverse continent.",
     "distrib": "Dist:SOC; WCult:NW",
@@ -19466,6 +19479,9 @@
     "offered": "",
     "subj": "LACS",
     "title": "LACS 99 Honors Thesis II"
+  },
+  "LACS 24.70 Solo Performance undefined": {
+    "subj": "LACS 24.70 Solo Performance"
   },
   "LACS 30.16 Confine and Detain: Latinxs and the Carceral State undefined": {
     "subj": "LACS 30.16 Confine and Detain: Latinxs and the Carceral State"
@@ -23695,6 +23711,9 @@
     "offered": "",
     "subj": "PBPL",
     "title": "PBPL 91 Independent Study in Public Policy"
+  },
+  "PBPL 83.02 Public Policy and Politics undefined": {
+    "subj": "PBPL 83.02 Public Policy and Politics"
   },
   "PEMM 212": {
     "description": "The course (Neuroscience II) is an intermediate/advanced course in neuroscience - from the molecular level on up through the cognitive and clinical levels. It is taught in alternate summers by a group of  medical school faculty and is intended for those students who have completed PEMM 115, or equivalent. It is open to all students, but is especially appropriate for first-year PEMM students concentrating in neuroscience. The course will involve a combination of lecture/tutorials and readings/discussions of journal articles.",
