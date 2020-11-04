@@ -2116,6 +2116,95 @@
     "subj": "ARAB",
     "title": "ARAB 59 Independent Advanced Study in Arabic Language and Literature"
   },
+  "ARTH-1": {
+    "description": "A study of basic problems and new directions in the understanding of architecture, sculpture, and painting in Europe and the Middle East from the earliest times to the end of the Middle Ages. The course introduces the student to the language of art criticism and method, as well as the relationships of the arts to each other and to their historical contexts. Special attention is given to the human body and visual narrative.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Cohen, Kangas",
+    "num": "1",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 1 Bodies and Buildings: Introduction to the History of Art in the Ancient World and the Middle Ages"
+  },
+  "ARTH-10.01": {
+    "description": "A study of architecture, sculpture, and painting in the Near East and Egypt from prehistory through approximately the first millennium B.C.E. The course aims at a parallel treatment of the Egyptian and various Near Eastern civilizations, especially those that developed in or around modern Turkey, Israel, and Iraq. Special attention will be paid to the cultural contacts among different ancient centers at key moments in history, as conjured up by individual monuments.\nOpen to all classes.\nMay be taken in partial fulfillment of the major in Classical Archaeology and the major in Classical Studies.",
+    "distrib": "Dist:ART; WCult:NW",
+    "instructor": "Kangas",
+    "num": "10.01",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 10.01 The Art of Ancient Egypt and the Ancient Near East"
+  },
+  "ARTH-10.02": {
+    "description": "This course will examine the archeology of Israel from prehistory through the early Roman period, with emphasis on cultural interactions and their material manifestations. Ancient Israel was a crossroads where many different cultures met. Home to Canaanites and Israelites, Israel successively experienced the cultural and artistic impact of Egyptians, Assyrians, Greeks, and Romans, who either invaded this region or came into contact with it through a variety of more peaceful processes.",
+    "distrib": "Dist:ART; WCult:NW",
+    "instructor": "",
+    "num": "10.02",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 10.02 Art and Archaeology of Israel",
+    "xlist": "JWST 41"
+  },
+  "ARTH-10.03": {
+    "description": "Mummies, pyramids, curses and death, these are some of the images and associations that one conjures up with the mention of ancient Egypt today. Ancient Egyptian civilization is an endlessly fascinating field for intellectual inquiry and debate, the subject of spectacular museum displays, as well as a source of inspiration for various reenactments in literature and film. The modern attraction for Egypt has its origins in Napoleon’s invasion of the country in 1798, and later, and more profoundly, in the 1922 discovery of the tomb of king Tutankhamen in the Valley of the Kings. However, already in the ancient world, the Greeks and Romans expressed fascination for the monuments and the civilization of Egypt, primarily as they experienced its material culture through travel and other cultural exchanges. In this course we will study key works of art and architecture in ancient Egypt as well as explore some important instances in the subsequent reception of Egyptian monuments, history, and mythology.",
+    "distrib": "Dist:ART; WCult:NW",
+    "instructor": "Kangas ",
+    "num": "10.03",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 10.03 Art in Egypt"
+  },
+  "ARTH-11.01": {
+    "description": "This course treats chronologically the history of Greek art from its beginnings in the Bronze Age to the end of the fifth century B.C.E. The principal monuments of architecture, sculpture, and painting will be examined in terms of style, theme, and context. We will explore how Greek art came to serve Greek society, while some attention will also be given to the ways in which the classical tradition has persistently served later cultures.\nMay be taken in partial fulfillment of the major in Classical Languages and Literatures, the major in Classical Archaeology, and the major in Classical Studies.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Cohen",
+    "num": "11.01",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 11.01 Art in Ancient Greece: Temples, Gods, Heroes"
+  },
+  "ARTH-11.02": {
+    "description": "This course examines the principal works of architecture, sculpture, and painting in the Greek world, from the fourth through the first centuries B.C.E., a period of significant political and art-historical change and innovation. In the reign of Alexander the Great, Greek culture expanded beyond its borders to encompass Egypt and Western Asia. Particular emphasis will be given to important recent discoveries associated with the court of Alexander, his father Philip II, and some of his best known successors.\nRoman Art\"",
+    "instructor": "Cohen",
+    "num": "11.02",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 11.02 Art in the Hellenistic Era: From Alexander to Cleopatra"
+  },
+  "ARTH-12.01": {
+    "description": "This course explores key works of architecture, sculpture, painting, and decorative arts in the Roman world from the sixth century B.C.E. through the third century C.E. Such issues as the influence of the Etruscan and Greek traditions, stylistic change and its determinants, and the role of art in Roman society will be considered in relation to both the great public monuments of Republican and Imperial Rome and works made for private individuals.\nGothic Art and Architecture\"",
+    "instructor": "Kangas",
+    "num": "12.01",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 12.01 Roman Art"
+  },
+  "ARTH-12.02": {
+    "description": "Architecture played a central role in ancient Rome’s ascent to imperial world power. Buildings like bathhouses, aqueducts and villas built around the Mediterranean basin helped spread Roman culture across both time and space; temples and shrines assured that Romans everywhere could pray to a common roster of gods; likewise, roads connected the cosmopolitan cities of the empire. In this class, we will look at the variety of built types, construction materials and building techniques that the Romans adopted from about 500 BC to 400 AD.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "",
+    "num": "12.02",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 12.02 Roman Architecture"
+  },
+  "ARTH-13": {
+    "description": "A study of painting, sculpture, architecture, and the minor arts in the Mediterranean from the third through seventh centuries. Emphasis will be placed on the role of art in late antique society, especially in the process of transformation from the classical to the medieval world.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "",
+    "num": "13",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 13 Early Christian Art"
+  },
+  "ARTH-13.01": {
+    "description": "Though the 8th-11th centuries are often erroneously known as the \"Dark Ages,\" this course will explore the vibrant life in the emerging northern Europe of Charlemagne and William the Conqueror. Evolving methods of societal organization and identity through religion, nationhood and the cult of personality will be examined through the art and archi­tecture of the period.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "",
+    "num": "13.01",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 13.01 Early Medieval Art"
+  },
   "ARTH-14": {
     "description": "A study of painting, sculpture, architecture, and the minor arts of Byzantium from the period of Iconoclasm to the fall of Constantinople. Emphasis will be placed on the use of art during this period to express the beliefs and goals of the church and the state to satisfy private devotional needs.",
     "distrib": "Dist:ART; WCult:W",
@@ -2179,6 +2268,15 @@
     "offered": "",
     "subj": "ARTH",
     "title": "ARTH 18.01 Ancient Art and Myth"
+  },
+  "ARTH-2": {
+    "description": "A survey of art and architecture from 1500 to the present. The course introduces the student to the basic terminology of the arts, the language of stylistic criticism, and the relationship of the arts to each other and to their historical background. ARTH 1 is not prerequisite to ARTH 2. Priority for enrollment is given to first- and second-year students.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Coffey/Kassler-Taub",
+    "num": "2",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 2 Introduction to the History of Art II"
   },
   "ARTH-20.01": {
     "description": "Michelangelo Buonarroti, called \"Il Divino\" in his own lifetime, was the dominant practitioner of painting, sculpture and architecture in sixteenth-century Italy. This course will focus on Michelangelo’s most famous creations in the light of recent restorations and new scholarship. Finally, we will look at the intersection of his visual works with his biography: how these works relate to Michelangelo’s creation of his own image, chiefly through the works of his biographers Vasari and Condivi.",
@@ -2459,6 +2557,15 @@
     "subj": "ARTH",
     "title": "ARTH 38.04 Food & Art: A Global History"
   },
+  "ARTH-4": {
+    "description": "A comparative study of several architectural styles past and present, Western and Non-Western. Consideration will be given to a variety of building types ranging from the monumental to the residential.",
+    "distrib": "ART",
+    "instructor": "",
+    "num": "4",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 4 Introduction to World Architecture"
+  },
   "ARTH-40.01": {
     "description": "Where is America? What makes America distinct? How have images of America helped to define and challenge our ideas about who “we” are? In this course we study how paintings, photographs, monuments, and other forms of visual culture have shaped the America we know today. We will trace the emergence of U.S.-American art and identity from the point of Encounter, through Independence, and up to the Centennial Celebrations of Columbus’ “discovery of America” in 1893 through discreet comparisons with developments in Mexico, and Canada. The course is organized chronologically around a series of themes that foreground the intersection between class, race, gender, and nation-building. Students will learn how to identify and analyze the key genres and styles of 19th century American art, including portraiture, photography, ledger drawing, monuments, and landscape, history, and genre painting. They will consider how character and class are constructed through the portrait; how the claims of settler nationalism are naturalized through landscape; how anxieties about racial emancipation, immigration, and gender advancement are managed through images of the “people;” how war both consolidated and radically challenged prevailing conceptions of American identity; and how minoritized populations challenged the dominant construction of “America” throughout this period. There are no pre-requisites for this course. It has been designed as an introduction to the field of American art history as well as to the discipline of Art History more generally. First year students and non-majors are welcome.",
     "distrib": "Dist:ART; WCult:CI",
@@ -2645,6 +2752,15 @@
     "subj": "ARTH",
     "title": "ARTH 48.08 The Photographic Medium"
   },
+  "ARTH-5": {
+    "description": "This course introduces students to contemporary art practices from the late 1960s up to the present. It is focused thematically around key concepts such as: the body, identity, postmodernism, institutional critique, site-specificity, memory, ecology, and ethics, among others. Class periods will be organized around key-works/figures with attention paid to understanding not only different trends and currents in global contemporary art practice, but also the different kinds of scholarship we can use to unpack, situate, or contest its claims. Moving across a wide range of media and techniques/formats of display, this course will offer students critical tools for analyzing a range of visual media including: painting, video, film, photography, performance, and land art.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "Coffey, Elias ",
+    "num": "5",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 5 Introduction to Contemporary Art"
+  },
   "ARTH-61.71": {
     "description": "This course focuses on buildings constructed in Italy between 1420 and 1580. During this time, the Italian peninsula was a hotbed of revolutionary ideas about how architecture could shape and be shaped by the human will. The Renaissance saw the emergence of a new type of architecture, which took its cue from the needs, activities, and aspirations of people who defined themselves as “modern.” The chronologically presented material is interspersed with classes dedicated to the broad themes of the course (humanism, the inspirational role of ancient and medieval buildings, living conditions and styles, the rising profession of the architect, etc.). Lectures and readings will focus on the major thinkers, designers, and patrons of the period as well as on the economic, political, and religious forces that were at play in the formation of such ambitious and beautiful buildings.",
     "distrib": "Dist:ART; WCult:W",
@@ -2747,6 +2863,14 @@
     "offered": "",
     "subj": "ARTH",
     "title": "ARTH 63.73 Art in the Age of Climate Change"
+  },
+  "ARTH-7": {
+    "description": "Consult Special Listings",
+    "instructor": "Kangas, O'Rourke",
+    "num": "7",
+    "offered": "",
+    "subj": "ARTH",
+    "title": "ARTH 7 Art History First Year Seminars"
   },
   "ARTH-80.01": {
     "description": "Since the foundation of Art History as a discipline, Greek art has been admired for its emphasis on physical beauty. Greek culture articulated criteria of beauty for both sexes and created mythological personas exemplifying those ideals. This seminar studies Greek views on beauty and ugliness, as well as the links between beauty and (im)morality. It focuses on how artists went about depicting physicality and explores the connection between perceived beauty and pictorial style, often in comparison with other Mediterranean cultures. Contemporary critical frameworks and theoretical approaches to gender and representation will guide class discussions.\nOpen to sophomores, juniors, and seniors with instructor’s permission.",
@@ -4533,6 +4657,15 @@
     "subj": "BIOL",
     "title": "BIOL 99 Senior Seminar in Biology"
   },
+  "CHEM-10": {
+    "description": "CHEM 10 is a general chemistry course for students with a strong background in chemistry and mathematics who may have an interest in majoring in the sciences. The course will cover selected general chemistry topics important for higher level chemistry courses. These include thermodynamics, reaction kinetics, quantum mechanics, and bonding. Laboratory work will emphasize physico-chemical measurements and quantitative analysis. CHEM 10 is open only to first-year students and enrollment is limited. Students with a score of 5 on the AP Chemistry examination, and who also have credit on entrance (or the equivalent) for Mathematics 3 are automatically eligible to be considered for admission into Chemistry 10. Students who have credit on entrance (or the equivalent) for Mathematics 3, but who do not have a score of 5 on the AP Chemistry examination, and who wish to be considered for Chemistry 10 must take the Chemistry 10 Placement examination which is offered only during First-Year Orientation. Prerequisite: Credit on entrance for CHEM 5, or satisfactory performance on the CHEM 10 Placement examination, and credit on entrance for MATH 3 or the equivalent. Supplementary course fee required.  Students who complete Chemistry 10 will also be granted credit on entrance for Chemistry 5, if they have not already been granted such credit.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "10",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 10 Honors First-Year General Chemistry"
+  },
   "CHEM-40": {
     "description": "Topics in physical chemistry of relevance to fundamental biochemical processes. These will include the thermodynamic and spectroscopic characterization of macromolecular systems, ligand binding and adsorption equilibria, intermolecular interactions and the hydrophobic effect, and transport properties such as diffusion. Laboratory exercises apply these concepts to important biophysical problems, using calorimetric, spectroscopic and computational techniques.",
     "distrib": "Dist:SLA",
@@ -4542,6 +4675,60 @@
     "subj": "CHEM",
     "title": "CHEM 40 Physical Chemistry of Biochemical Processes"
   },
+  "CHEM-41": {
+    "description": "This course is a one-term introduction to biochemistry presented from a chemical perspective. This course is intended for chemistry majors and will be divided into three sections, using specific examples to demonstrate and stress the role and integration of organic, inorganic and physical chemistry as applied to biochemical processes. Laboratories cover chemical methods applied to biological chemistry problems.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "41",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 41 Biological Chemistry I"
+  },
+  "CHEM-42": {
+    "description": "A one term advanced course with in-depth treatment of a number of important concepts in modern biological chemistry, including structural biology (both theoretical and experimental methods), protein folding, ligand binding, allostery, enzyme kinetics, and an introduction to molecular modeling and chemoinformatics. Laboratories will entail application of these methods/techniques.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "42",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 42 Biological Chemistry II"
+  },
+  "CHEM-5": {
+    "description": "The first term of a two-course sequence to introduce the fundamental principles of chemistry, including chemical stoichiometry; the properties of gases, liquids, and solids; solutions; chemical equilibria; atomic and molecular structure; an introduction to thermodynamics; reaction kinetics; and a discussion of the chemical properties of selected elements. The laboratory work emphasizes physical-chemical measurements, quantitative analysis, and synthesis. An outline of topics for review of secondary school background in preparation for college general chemistry is available from the Department of Chemistry. Students who are eligible to receive credit-on-entrance for CHEM 5-6 may not enroll in CHEM 5-6 or CHEM 10 for course credit without permission of the Department. Credit-on-entrance for CHEM 5-6 will be withdrawn for students who subsequently enroll in CHEM 5-6 or CHEM 10. Prerequisite for CHEM 5: MATH 3. Prerequisite for CHEM 6: MATH 3 and CHEM 5. Supplemental course fee required.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "5",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 5 General Chemistry"
+  },
+  "CHEM-51": {
+    "description": "The first term of a two-term introduction to the chemistry of carbon compounds. The lectures deal with the preparation, properties, and reactions of most of the important classes of organic compounds. There is considerable emphasis upon reaction mechanisms and some attention is given to naturally occurring substances of biological importance. The laboratory work will introduce the student to experimental techniques and instrumental methods including several types of chromatography and spectroscopy, organic synthesis, and the systematic identification of organic compounds.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "51",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 51 Organic Chemistry"
+  },
+  "CHEM-52": {
+    "description": "The second term of a two-term introduction to the chemistry of carbon compounds. The lectures deal with the preparation, properties, and reactions of most of the important classes of organic compounds. There is considerable emphasis upon reaction mechanisms and some attention is given to naturally occurring substances of biological importance. The laboratory work will introduce the student to experimental techniques and instrumental methods including several types of chromatography and spectroscopy, organic synthesis, and the systematic identification of organic compounds.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "52",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 52 Organic Chemistry"
+  },
+  "CHEM-57": {
+    "description": "The first term of a two-term introduction to the chemistry of carbon compounds intended for students planning a chemistry major or career of research in a chemically-related science, including medical science. The lectures deal with the preparation, properties, and reactions of most of the important classes of organic compounds. There is considerable emphasis on reaction mechanisms and some attention is given to naturally occurring substances of biological importance. Topics are covered in greater depth, both in lecture and in the textbook, than in the CHEM 51-52 sequence. The laboratory work introduces the student to experimental techniques and instrumental methods including several types of chromatographic and spectroscopy techniques, organic synthesis, and identification of organic compounds. Enrollment in CHEM 57-58 is limited.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "57",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 57 Honors Organic Chemistry"
+  },
   "CHEM-58": {
     "description": "The second term of a two-term introduction to the chemistry of carbon compounds intended for students planning a chemistry major or career of research in a chemically-related science, including medical science. The lectures deal with the preparation, properties, and reactions of most of the important classes of organic compounds. There is considerable emphasis on reaction mechanisms and some attention is given to naturally occurring substances of biological importance. Topics are covered in greater depth, both in lecture and in the textbook, than in the CHEM 51-52 sequence. Building on the experimental techniques and instrumental methods introduced in CHEM 57, the laboratory work in CHEM 58 involves a multi-step synthesis of an important chemical target molecule, emphasizing how synthetic organic chemistry is carried out and reported in a research setting. Enrollment in CHEM 57-58 is limited.",
     "distrib": "Dist:SLA",
@@ -4550,6 +4737,15 @@
     "offered": "",
     "subj": "CHEM",
     "title": "CHEM 58 Honors Organic Chemistry"
+  },
+  "CHEM-6": {
+    "description": "The second term of a two-course sequence to introduce the fundamental principles of chemistry, including chemical stoichiometry; the properties of gases, liquids, and solids; solutions; chemical equilibria; atomic and molecular structure; an introduction to thermodynamics; reaction kinetics; and a discussion of the chemical properties of selected elements. The laboratory work emphasizes physical-chemical measurements, quantitative analysis, and synthesis. An outline of topics for review of secondary school background in preparation for college general chemistry is available from the Department of Chemistry. Students who are eligible to receive credit-on-entrance for CHEM 5-6 may not enroll in CHEM 5-6 or CHEM 10 for course credit without permission of the Department. Credit-on-entrance for CHEM 5-6 will be withdrawn for students who subsequently enroll in CHEM 5-6 or CHEM 10. Prerequisite for CHEM 5: MATH 3.",
+    "distrib": "Dist:SLA",
+    "instructor": "",
+    "num": "6",
+    "offered": "",
+    "subj": "CHEM",
+    "title": "CHEM 6 General Chemistry"
   },
   "CHEM-63": {
     "description": "A study of the chemistry of natural environmental processes and the impact of human activities on the atmosphere, hydrosphere and lithosphere. The course will consider the chemistry of topics such as air pollution in the troposphere and stratosphere, pesticides and herbicides, environmental and human health impact of toxic metals, acquisition and use of energy resources, chemicals and cancer, and climate change. The laboratory consists of a term-long, team-based experimental project using instrumental analysis of environmental samples to investigate an environmental chemistry issue or problem.",
@@ -5390,6 +5586,15 @@
     "subj": "CLST",
     "title": "CLST 88 Thesis II"
   },
+  "COCO-1.03": {
+    "description": "Although clothing is part of everyday life, we often do not consciously understand its messages. This course will examine clothing and fashion in high art, film, television, and the “real” world in order to explore the overt and subliminal messages regarding power, gender, and status over time and still today. We will study the external, clothed body in relation to a performance of the self and the unconscious categorizations of gendered, sexed, and classed positions. We will investigate the power of dress and ornament to reinforce or challenge gender norms, ideologies of power, and insider/outsider status. The class will focus on a broad timeframe (@ 1500-2000) and will look at examples such as queens and pop stars, the gentleman and the dandy, religious garb and culture clash, drag and cross-dressing, empire and globalization, among others.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "O'Rourke, Carroll",
+    "num": "1.03",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 1.03 Fashion and Identity: The Power of Clothing"
+  },
   "COCO-16": {
     "description": "This interdisciplinary course explores the intersection of Film, Music and Sound, navigating alternatively through the history of film and music from both perspectives, proposing a dual approach to film and music, imaging and sound. The course alternates topics of cinema, music and sound and requires extensive viewing and listening, weekly readings and class discussions.Topics ranging from sound experiments of the early avant-garde, through Visual Music, visual sound, audiovisual arts, experimental audiovisual installations and live arts practices will be studied along classic Hollywood, European and Asian films. Focusing on the connections between filmmakers, composers and artists, while tracing the evolution of audio-vision and its interconnections with music composition and sound innovation. The course structure is a double helix interconnected history of film and modern music from 1895 till today.",
     "distrib": "ART",
@@ -5399,6 +5604,16 @@
     "subj": "COCO",
     "title": "COCO 16 Audio-Vision: Film, Music, Sound",
     "xlist": "undefined; undefined"
+  },
+  "COCO-17": {
+    "description": "From recording performances to synthetisizing sounds, electronics permeate music making. This course introduces students to the technology behind music production. The course will cover analog electronics from microphone to speaker, digital electronics from the acquisition of sounds, their digital processing and their digital synthesis. Labs will situate electronics theory within the practice of music making. The course will conclude with students completing a project in the design of an electronic instrument of their choice.",
+    "distrib": "Dist:TLA",
+    "instructor": "Casey, M; Hartov, A",
+    "num": "17",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 17 Electronics for Musicians",
+    "xlist": "ENGS 017 undefined"
   },
   "COCO-18": {
     "description": "In this experimental course we examine a new field, Impact Design. We focus on impact from the vantage point of both the user who is being engaged, and the person/team designing the initiative that creates the impact. Students will learn how to combine core principles from human psychology with the tools of design thinking to create meaningful and engaging user experiences. Using techniques from storytelling, observational learning and visualization, students will learn how to create tools and present information in ways that maximize anticipation, engagement and the experience of delight that promotes learning and adoption.",
@@ -5417,6 +5632,16 @@
     "subj": "COCO",
     "title": "COCO 19 Early Sparta and Corinth: A Comparative Approach to the Archaeohistory of Two Major Greek City-State",
     "xlist": "CLST 11.03"
+  },
+  "COCO-20": {
+    "description": "A hands-on course in which students working in groups build and assemble simple musical instruments with the aim of understanding how materials, technologies, craftsmanship, and cultural knowledge interact in the conception, design, and production of diverse instruments around the world. Merging the methodologies of engineering and materials science with the approaches of arts and humanities, the course explores from an interdisciplinary perspective the social meanings and powers ascribed to musical instruments, and the way that instruments have come to function as potent symbols of personal, cultural, and political identity.",
+    "distrib": "Dist:ART; WCult:NW",
+    "instructor": "Levin,Wegst",
+    "num": "20",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 20 Making Music: The Art, Science, and Symbolism of Musical Instruments",
+    "xlist": "ENGS 17.04 undefined"
   },
   "COCO-21": {
     "description": "Cultural anthropologist Bruce La Brack uses the term \"shoeboxing” to describe what is often done with study abroad experiences: the entire experience is put in a mental \"shoebox,\" tucked away in the closet of the mind, taken out only rarely for periodic show-and-tell reminiscing. When we want to share stories about the time away or how we’ve changed, it can be hard to find folk who really want to listen. What’s in Your Shoebox? aims to rectify this. The class has two primary goals; 1) to provide you with the opportunity to revisit, unpack, and deeply reflect upon your recent study abroad experience, and 2) to identify creative, practical, and meaningful ways to apply this new knowledge and awareness.",
@@ -5445,6 +5670,16 @@
     "subj": "COCO",
     "title": "COCO 23 The Language-Music Connection",
     "xlist": "LING 11.13 MUS 17.06"
+  },
+  "COCO-24": {
+    "description": "Two hundred years ago, in 1819, Daniel Webster argued a case in front of the Supreme Court defending his alma mater, Dartmouth College, against the predations of the State of New Hampshire. The Court found in favor of Dartmouth, which preserved the College as a private entity. Perhaps more importantly, it also laid the legal foundation for the modern economy, where corporate firms are to some extent free of state control. This course aims for a comprehensive understanding of the Dartmouth College Case and Daniel Webster by integrating the perspectives of American studies, history, political theory, and law.",
+    "distrib": "Dist:TMV",
+    "instructor": "Bonner, Muirhead, Pease",
+    "num": "24",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 24 Daniel Webster and the Dartmouth College Case",
+    "xlist": "undefined undefined undefined"
   },
   "COCO-25": {
     "description": "This course addresses the frameworks, patterns, and practice of America's strategic response to crisis. It will explore how institutions and policy traditions evolve in response to domestic and international challenges. It will examine some of the key political-military strategies that have been used by policy makers, including revisionism, hegemonic order building, engagement, retrenchment, and flexible integration. The course will also assess difficult challenges that will continue to confront America into the future in the Trump Administration and beyond, including relations with China, Russia, and the Middle East.",
@@ -5476,6 +5711,24 @@
     "title": "COCO 28 History of Attention",
     "xlist": "RUSS 38.12"
   },
+  "COCO-29": {
+    "description": "Who is allowed to say what on college campuses? This course seeks to answer this question using the disciplines of government, public policy and law. We will look at the philosophical foundations of the right to free speech and why it is considered essential to liberty and democracy. We will also read judicial opinions defining the legal parameters of the first amendment, particularly as it pertains to “hate speech.” We will then turn to the specific case of the university, where values such as equality, inclusion, pedagogy and academic freedom may sometimes be in tension. The course will survey the history of attempts to regulate speech on campuses, including early 20th century disputes between university benefactors and professors, the hate speech codes of the 1980’s, as well as present controversies over free speech on college campuses. Students will discuss and write about contemporary conflicts using frameworks established in the disciplines of law and policy. Assignments will include written responses to readings, written analyses of contemporary problems, and legal memoranda for or against disciplinary action.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "num": "29",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 29 Free Speech on Campus"
+  },
+  "COCO-3.01": {
+    "description": "This course examines the work of David Drake, a South Carolinian slave who made some of the largest ceramic storage vessels in America during the 1850s, signing them and etching sayings and poems into them as well. This seminar engages with Drake's poetry-pottery through critical and historicval research, interpretive writing, and our own creative adventures in handicrafts. In addition to writing their own updated imitations of Dave Drake's poetry and attempting facsimiles of his earthenware, students will also spend time in the letterpress studio as a means of acquiring a deeper historical and aesthetic appreciation of Dave's life and work; it was while working as a typesetter for a regional newspaper that Dave acquired literacy. As a culminating assignment, students will contribute chapters to a scholarly book on Drake, which the instructor will edit.",
+    "distrib": "ART",
+    "instructor": "Chaney, M",
+    "num": "3.01",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 3.01 Dave the Potter: Slavery Between Pots and Poems"
+  },
   "COCO-30": {
     "description": "Three decades after the end of the cold war resurgent ultra-nationalism, parochial populism, white supremacy, anti-immigrant fervor, xenophobia, anti-Semitism and rabid misogyny undermine the stability and indefeasibility of European and American democracies. Commentators and scholars identify rampant capitalism, neoliberalism, globalization, and the untamed proliferation of new media as causes for the vulnerability democracies. While some consider the establishment of right-wing movements and politicians as expressions of a temporary populist phase or even the advent of a post-democratic age, others refer to white-supremacist attacks or the recurrence of KKK and neo-Nazi groups worldwide as harbingers of a new fascism. This course will discuss the central terms and concepts such as (illiberal) democracy, republicanism, neoliberalism, populism, or fascism, as well as (counter-) movements on both side such as the Tea Party, Alt-Right, the Brexit, as well as #MeToo, Occupy Wall Street, and Black Lives Matter through a variety of artifacts, documentaries, movies, speeches, literary texts, news articles and theoretical debates.",
     "distrib": "Dist:INT or SOC; WCult:W",
@@ -5495,6 +5748,24 @@
     "title": "COCO 31 Mind, Language, and Morality",
     "xlist": "COGS 11.03 PHIL 50.35"
   },
+  "COCO-32": {
+    "description": "This theoretical and practice-based course is a study of the conversion of oral, historical and fictional narratives into stage drama, cinema and literary texts. Special attention will be given to the cultural and political implications of cross-generic transformation, formulaic conventions and concepts of “genre,” “crossover appeal” and “adaptation.” Throughout the term, the intersections of race, culture and economics will be regularly questioned. Black cultural storytelling in various mediums and genres will be examined to serve as a point of entry into discussion of cultural worldview and storytelling in order to aid and encourage students to explore the theories, concepts and practice of adaptation from multiple, diverse vantage points and areas of interest. Building upon the adaptations they created in the first half of the quarter, students begin translating their stories visually in the “production” phase of the course. They assess how emotional information is translated in the original form and invent new ways of translating this content in their new visual format. Final projects can be interactive stage pieces, video installations or films.",
+    "distrib": "Dist:ART; WCult:CI",
+    "instructor": "",
+    "num": "32",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 32 The Art of Adaptation and Storytelling",
+    "xlist": "FILM 44.08"
+  },
+  "COCO-33": {
+    "description": "Drawing on a variety of disciplines, such as anthropology, history, sociology, political science, and cultural studies, and sources ranging from academic works to works of fiction and films, the course first explores the history and culture of Russian (pre-1917) and especially Soviet Jews (1917-1991)—a major and significant segment of the world Jewry—prior to the massive immigration of the 1970s-1990s. The rest of the course involves a comparison of the experience of Russian-speaking Jews in the three major countries they have immigrated to—Israel, US, and Germany—as well as those remaining in Russia today.",
+    "instructor": "",
+    "num": "33",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 33 Homelands and Diasporas: Russian Jews on Three Continents"
+  },
   "COCO-34": {
     "description": "Since the time United States \"purchased\" Alaska from Russia, this land has been seen by many as the \"last frontier\" - a place where tough and adventurous Euro-Americans could strike it rich or get away from the negative consequences of civilized living. Using anthropological and historical works as well as fiction, film and other media, the seminar explores the mythology surrounding the \"land of the midnight sun.\" This myth of the \"last frontier\" - in its development-driven as well as conservationist versions -- is also contrasted with the ways Native Alaskans' have viewed and lived on their land.",
     "distrib": "Dist:SOC; WCult:CI",
@@ -5504,6 +5775,15 @@
     "subj": "COCO",
     "title": "COCO 34 Alaska: American Dreams and Native Realities",
     "xlist": "ANTH 047"
+  },
+  "COCO-6": {
+    "description": "What is autism? How do scientists, clinicians, and the public understand it? Can we separate the cultural myths of autism from the medical realities? How do individuals with autism experience the world differently, and how are their lives impacted by public perception of the condition? To address these questions, the course will be divided into three sections: First, students will learn key scientific theories of autism and how to critically evaluate them. Next, they will explore how cultural narratives of autism impact scientific and personal understanding. The course will conclude with a service learning experience, allowing students to experience first-hand the reality of individuals with autism.",
+    "distrib": "Dist:WCult:CI",
+    "instructor": "Hudenko, B; Chaney, S",
+    "num": "6",
+    "offered": "",
+    "subj": "COCO",
+    "title": "COCO 6 Autism: Science, Story, and Experience"
   },
   "COGS-1": {
     "description": "Cognitive Science aims to understand how the mind works by using tools and insights from a variety of fields including experimental psychology, computer science, linguistics, vision science, philosophy, anthropology, behavioral economics, and neuroscience. This course will introduce you to many of the major tools and theories from these areas as they relate to the study of the mind. We will tour mental processes such as perception, reasoning, memory, attention, imagery, language, intelligence, decision-making, and morality, and discover many strange and amazing properties of mind.",
@@ -6727,6 +7007,15 @@
     "offered": "",
     "subj": "CRWT",
     "title": "CRWT 11 Writing and Reading Creative Nonfiction"
+  },
+  "CRWT-12": {
+    "description": "An introductory workshop and reading course in poetry. Each week students will consider different aspects of writing, and the various elements integral to the genre. Seminar-sized classes meet for discussion, and include individual conferences",
+    "distrib": "Dist:ART",
+    "instructor": "20F: Olzmann; 21W: Francis; and 21S: Olzmann",
+    "num": "12",
+    "offered": "",
+    "subj": "CRWT",
+    "title": "CRWT 12 Introduction to Poetry"
   },
   "CRWT-20": {
     "description": "Continued work in the writing of fiction. The class proceeds by means of group workshops, individual conferences with the instructor, and reading across the genre. The process of revision is emphasized. Topics and emphases may vary from term to term. Please refer to \"How To Apply to CRWT 20, 21, or 22\" on the department website and answer all of the questions listed in a cover letter. Students must submit a 5-8 page sample of their writing along with the cover letter by the last day of classes of the term preceding the term in which they wish to enroll. These materials should be submitted electronically to the instructor. (Formerly ENGL 83)",
@@ -12124,6 +12413,15 @@
     "subj": "FREN",
     "title": "FREN 10.15 Literature and Images"
   },
+  "FREN-10.16": {
+    "description": "An introduction to the origins of the feeling of love: French literature explained through love, from the Middle Ages to the modern moment, in Tristan et Iseut, and in poems, plays, essays, short stories, and novels by Louise Labé, Montaigne, Du Bellay, Ronsard, Racine, Marivaux, Rousseau, Voltaire, Baudelaire, Rimbaud, Flaubert, Houellebecq.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "num": "10.16",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 10.16 The Feeling of Love"
+  },
   "FREN-10.17": {
     "description": "Many of French fiction’s most iconic characters have been marked as holy or unholy, saintly or damned. This course will ask what the famous saints, martyrs and demons of French cultural history have to say about morality, politics, and social issues (notably class, gender, race, and sexuality). Works by Racine, Voltaire, Sade, Diderot, Balzac, Flaubert, Baudelaire, Verlaine, Rimbaud, Apollinaire, Eluard, Aragon, Bataille, Sartre, Barthes, Clouzot, Bresson, Césaire, and Yourcenar.",
     "distrib": "Dist:LIT; WCult:W",
@@ -12177,6 +12475,14 @@
     "subj": "FREN",
     "title": "FREN 12 Advanced Writing and Speaking in French"
   },
+  "FREN-15": {
+    "description": "This course will prepare students to work in a French business environment, while at the same time help them develop a global mindset and intercultural sensitivity. The aim of the course is not only to give students specific vocabulary with an application of language skills to business situations and contexts, but also to analyze how French politics, economic history and culture have resulted in current business practices in France. Students will acquire an in-depth understanding of cultural differences in the world of work between France and the USA.  Thus, the impact of this course is not only communicative competence through learning business French – but also cross-cultural agility, aptitude and awareness.",
+    "instructor": "Mosenthal",
+    "num": "15",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 15 The Language and Culture of French Business"
+  },
   "FREN-2": {
     "description": "Rapid review and continued study of the fundamentals of French, with intensive work in vocabulary building. More advanced practice, in classroom and drill-sessions in the use of the spoken language. Open to students by qualifying test or to students who have passed French 1. Never serves in partial satisfaction of the Distributive or World Culture Requirements.",
     "instructor": "See department website",
@@ -12193,6 +12499,24 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 20 Interpreting French Cultures"
+  },
+  "FREN-20.01": {
+    "description": "In this course we will examine the relationship between conversation and French history and culture.  We will explore the role of conversation on artistic production and examine its influence on the history of ideas. Conversation was a central tenet of early modern intellectual and textual exchanges through the Enlightenment, and the French salon  was the site in which conversation flourished.  We will then extend our analysis to the present day.  What are the forms conversation has adopted in France today, especially in digital culture?  Is there anything about this art and the way that it functions that is still uniquely French?",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "num": "20.01",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 20.01 France and the Culture of Conversation"
+  },
+  "FREN-20.02": {
+    "description": "This course proposes to consider the contexts and the constitution of French cultural identities. Specifically, it will explore the pressure points and key subjects that return time and again in discussions of what it means to be French or possess French culture: language; religious identity, republicanism, nationalism; race, class, gender, sexuality; gastronomy; popular culture and high art.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Hollister",
+    "num": "20.02",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 20.02 The Locations of French Culture"
   },
   "FREN-21": {
     "description": "This course surveys the evolution of French language (Francophone) literature of the former French colonies and examines the social, political, and cultural issues it raises: race, colonialism, decolonization, revolution, independence, neo-colonialism, Négritude, Antillanité, Créolité, écriture féminine, mimetic desire, cultural hybridity, post-independence government and society. The survey will include novels, plays, poetry, film and essays by representative writers from the principal divisions of the Francophone world: the French West Indies, the Indian Ocean, Southeast Asia, Sub-Saharan Africa, North Africa; Quebec, and Francophone Canada.",
@@ -12211,6 +12535,24 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 22 Introduction to French Literature I: the Middle Ages and the Renaissance"
+  },
+  "FREN-23": {
+    "description": "The seventeenth and eighteenth centuries were a dynamic and volatile period characterized on the one hand by the rise to power of the most absolute of all monarchs, the Sun King Louis XIV, symbolized by Versailles, and on the other hand by the French Revolution. Fostered by royal patronage, literature and the arts flourished, yet many writers also used artistic expression to counter this royal power. The period saw the birth of the modern French novel and the development of a rich body of theatrical and philosophical literature. These centuries are recognized as major components of France's collective identity and their influence is still felt in France today. Authors may include Descartes, Corneille, Racine, Molière, Lafayette, Diderot, Rousseau, Voltaire, Graffigny, Beaumarchais and Laclos.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "23",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 23 Introduction to French Literature II: Neoclassicism and the Eighteenth Century"
+  },
+  "FREN-24": {
+    "description": "This course examines the nineteenth-century renewal of literary form and vision from the French Revolution to the First World War. We will study the social and historical developments of French culture as they are reflected in various literary genres (narrative, poetry, dramatic theory and practice), literary criticism, philosophy, historiography, and the other arts. Emphasis will be placed on France's growing self-awareness as a nation and on the analysis of aesthetic and intellectual issues represented in the major literary movements of this period including romanticism, realism, symbolism, art for art's sake, naturalism, fin de siècle decadence, and modernism. Readings may include works by such authors as Chateaubriand, de Staël, Stendhal, Hugo, Musset, Sand, Balzac, Baudelaire, Flaubert, Michelet, Zola, and Huysmans.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "24",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 24 Introduction to French Literature and Culture III: Nineteenth Century"
   },
   "FREN-25": {
     "description": "This course examines the radical transformations of literary form and vision that characterize twentieth-century France with its two World Wars, its colonial conflicts, and the challenges to French identity posed by immigration and globalization. We will use lyric poetry, fiction, drama, autobiography, and film to explore literary movements such as surrealism, existentialism, the new novel, the theater of the absurd and écriture féminine, as well as the recent impact of immigrant and minority writers. Readings and films may include works by Proust, Breton, Colette, Beauvoir, Sartre, Camus, Robbe-Grillet, Duras, Delbo, Cixous, Sebbar, Resnais, Malle, and Kassovitz.",
@@ -12256,6 +12598,15 @@
     "subj": "FREN",
     "title": "FREN 31 The French Language: Study Abroad"
   },
+  "FREN-35": {
+    "description": "This course will explore the French language by means of the linguistic analysis of texts. Its purpose is a) to familiarize the student with the constraints and freedoms of the French language as these are revealed by linguistic analysis, and b) to develop the student’s spontaneity of expression. The course will include the study of structural linguistics and recent rhetorical systems such as those of Genette or Riffaterre.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "See department website",
+    "num": "35",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 35 The French Language: Introduction to Linguistics and Rhetoric"
+  },
   "FREN-35.03": {
     "description": "Inspired by disciplined yet playful research on language (authors such as Queneau and Perec), this course will consist of translation and creative writing workshops. Advanced students will improve their linguistic skills and understanding of language registers, fine points of grammar, and stylistic devices, and gain a better appreciation of the subtleties of French and Francophone literature.Our sources will include fiction, poetry, humor, biographies and newspaper articles.",
     "distrib": "Dist:SOC; WCult:W",
@@ -12273,6 +12624,15 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 40 Acting French"
+  },
+  "FREN-40.02": {
+    "description": "Charles Baudelaire, Arthur Rimbaud, Guillaume Apollinaire, Paul Eluard, André Breton, Paul Valéry, Aimé Césaire, Léon Damas, D.T. Niane and Andrée Chedid are poets of radically different backgrounds connected by abiding preoccupations of a modernist vision. These poets will be studied in order to explore the traditions and counter-traditions of French and Francophone poetry.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "Elhariry",
+    "num": "40.02",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 40.02 French and Francophone Poetry from Baudelaire through Césaire"
   },
   "FREN-40.03": {
     "description": "In ‘Récits méditerranéens, pourtours mystiques I,’ we will focus on first-person narratives (ficitional and non-fictional, fictive and fictionalized) from across the modern Mediterranean Francophone world: Lebanon, Egypt, Algeria, Tunisia and Morocco. We will exhaust the politics of autobiography, autofiction and autoportraiture as we unravel the mystical underpinnings of texts by Tahar Ben Jelloun, Hélène Cixous, Jacques Derrida, Assia Djebar, Edmond Jabès, Abdelkébir Khatibi, Amin Maalouf, Abdelwahab Meddeb, and Salah Stétié.",
@@ -12310,6 +12670,24 @@
     "subj": "FREN",
     "title": "FREN 40.06 Selfies: autobiographie, autoportrair, autofiction"
   },
+  "FREN-45": {
+    "description": "Can we trace Tri-Kap’s origin to the secret societies, masonic lodges, salons and cafés that arose prior to the French Revolution? This course will trace the migration of texts from France to Dartmouth where 18th-century literary societies - Social Friends (1783), United Fraternity (1786), Phi Beta Kappa (1787), and later Tri-Kap (1842) – read French Enlightenment texts on human rights as well as on the forms of sociability recently developed in France and at Dartmouth.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Sanders",
+    "num": "45",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 45 Dartmouth Meets the French Enlightenment"
+  },
+  "FREN-45.02": {
+    "description": "We will resurrect the conversations among men and women in seventeenth and eighteenth-century France. Questions include: What is the relationship between the individual and society? What roles do literature and philosophy play? What are women's and men's \"natural\" functions in society? What effect does contact with different cultures have on a society or the individual? Authors may include: Descartes, Corneille, Sévigné, Lafayette, Voltaire, Rousseau, Diderot, de Gouges, Montesquieu, and Graffigny, among others.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "45.02",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 45.02 The Art and Influence of Conversation"
+  },
   "FREN-45.03": {
     "description": "At first glance a simple thing, seen “à la loupe” the body reveals itself a complex location where our links to our selves, the world, and our unavoidable otherness are situated and complicated. This course proposes a critical study of an omnipresent object/subject in the the poetry, prose, and visual texts of nineteenth-century France to think about the sorts of claims we can make about the body, and the sorts of claims they make upon us. Readings from poetry, visual texts, prose, from Romanticism to Decadence; Manet, Courbet, Caillebotte, revolutionary caricature. Excerpts of Foucault, Marx, Freud, Merleau-Ponty, Elisabeth Grosz, Jacques Rancière, Jean-Luc Nancy, Didi-Huberman",
     "distrib": "Dist:LIT; WCult:W",
@@ -12318,6 +12696,33 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 45.03 De la motérialité : the Body in 19th-century French Literature"
+  },
+  "FREN-45.04": {
+    "description": "This course will examine how recent novels, films, and critical texts engage with the cultural and political climate of post-1980 France. Subjects of inquiry will include: postmodernism, minimalism, “post-exoticism,” nationalism, biopolitics, “spectrality,” terrorism and violence, gender and class. Works may include novels by Houellebecq, Echenoz, Toussaint, Salvayre, Ernaux, Darrieussecq, Volodine, Michon; films by Carax, Assayas, Haneke; critical readings by Agamben, Derrida, Ruffel, Viart, Millet, Jameson.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "45.04",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 45.04 What is the Contemporary?"
+  },
+  "FREN-45.05": {
+    "description": "This course seeks to explore the hypothesis that nineteenth-century French literature and other modes of cultural and aesthetic production are situated against the backdrop of the massive political upheavals of the century, and grapple especially with the problems of contested memories and narratives of a revolutionary past that refuses to pass. In this course, then, we will link and think 19thC literature to politics and history, interpreting a variety of nineteenth-century texts, from poems to short stories, novels, paintings and revolutionary caricatures, with/against their cultural, political, historical, and esthetic contexts.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "45.05",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 45.05 Between Revolution and Oblivion: The Politics of Literature in Nineteenth-Century France"
+  },
+  "FREN-45.06": {
+    "description": "Discussion, whether among equals or in a hierarchical dynamic, shapes politics, culture and worldview. Questions such as the ideal form of government and the most desirable way of life are staged in early literature that uses platforms of debate, dialogue and counsel to sway listening audiences and individual readers, from powerful princes to townspeople. Readings may include works by Peter Abelard, Jean de Meun, Guillaume de Machaut, Philippe de Mézières, Christine de Pizan, and Alain Chartier.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "45.06",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 45.06 Debate, Dialogue and Advice: Launching France on Rhetoric"
   },
   "FREN-5": {
     "description": "A course in French civilization taught in the context of the Language Study Abroad program. Lectures by local faculty concentrate on French political, social, economic, and religious institutions, and their historical development. Independent or accompanied visits to sites are an integral part of the course. Assigned work may include short readings, oral presentations and papers, and a final examination.",
@@ -12328,6 +12733,123 @@
     "subj": "FREN",
     "title": "FREN 5 Language Study Abroad: Aspects of French Civilization"
   },
+  "FREN-50": {
+    "description": "This course will be devoted to the study of a single author or to a group of authors who have exercised a decisive influence on French, European or world literature or who are deserving of concentrated attention because of the quality or originality of their literary production.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "50",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 50 French Literature: Major Figures"
+  },
+  "FREN-50.05": {
+    "description": "Montaigne and Proust, two of the greatest prose writers in the French literary tradition, represent distinct historical periods (the Renaissance and early twentieth century France) in which the idea of subjectivity is a major intellectual concern.  Using Montaigne and Proust's first person narratives as emblematic of their times, the course will examine how self-portraiture is manifested in time and space  and reflects upon broader notions of character, sensation, gender and sexuality, history and memory. Particular attention will be payed to how writing can be viewed as a way to suspend time, delay death and prolong life and sensation.  Paradoxically we shall discover  in each writer the failure of \"autobiographical\" narrative to establish identity.  Selectons will include representative Essais of Montaigne, Proust's Du coté de chez Swann and Le temps retrouvé, and short essays by Bergson, Bersani, Deleuze, de Man, Derrida, Genette, Kristeva and Lacan.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "50.05",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 50.05 Montaigne and Proust"
+  },
+  "FREN-50.06": {
+    "description": "Michel Foucault was one of the most important philosophers of the 20th century. His work on sexuality has influenced cultural studies, gender studies, and queer theory. Foucault’s thesis is that “sexuality” is produced by discourses of power operating in the family, schools, hospitals, clinics, and prisons. This course examines the genealogy of this proposition within a tradition of thought about the body, identity, individuality, and subjectivity.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "50.06",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 50.06 Michel Foucault et l’Histoire de la sexualité"
+  },
+  "FREN-53": {
+    "description": "This course will study texts which have shaped influential views of human nature, scientific knowledge, social and moral values. Its focus may be on the philosophers and moralists of the classical period (such as Pascal and La Rochefoucauld), the social and political thinkers of the Enlightenment (Diderot and Rousseau) or contemporary thinkers (Beauvoir, Foucault, Lévi-Strauss).",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "See department website",
+    "num": "53",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 53 French Thought: Philosophical Issues"
+  },
+  "FREN-53.05": {
+    "description": "French writers played a crucial role in the development of contemporary literary and critical theory.  French theorists have analyzed subjects ranging from perception, to sexuality, gender, the unconscious, popular culture, fashion, cinema, photography, mythology, kinship, and the body.  This course will examine some of the major trends and master works in this explosion of theoretical activity in France.  Works by Lévi-Strauss, Lacan, Foucault, Kristeva, Irigaray, Cixous, Derrida, Deleuze, Baudrillard, and others.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "See department website",
+    "num": "53.05",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 53.05 French Theory"
+  },
+  "FREN-53.06": {
+    "description": "A wide-ranging survey of the historical and conceptual issues in human rights from the Enlightenment to the present. An examination of philosophical origins and contemporary theoretical debate on citizenship and hospitality, republicanism and universalism; death penalty, women’s and gay rights, Charlie Hebdo and freedom of the press. Essays, historical documents and literature. Authors drawn from: Voltaire, Rousseau, Gouges, Renan, Drumont, Hugo, Camus, Sartre Beauvoir, Ben Jelloun, Badinter, Derrida, Kristeva, Agacinski, Lefort, Balibar, Debray.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "See department website",
+    "num": "53.06",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 53.06 Human Rights in France"
+  },
+  "FREN-53.07": {
+    "description": "Through readings of essays, plays, poetry and fiction, we will examine the relationship of death to the history of French culture and the philosophical traditions it embodies, from the medieval danse macabre to the present. Issues to be discussed include separation and loss, mourning and melancholia, violence, eroticism and sexual difference. Texts will include Villon, Montaigne, Bossuet, Pascal, Flaubert, Baudelaire, Sartre, Beckett, Beauvoir, Derrida, Blanchot and Barthes.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "See department website",
+    "num": "53.07",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 53.07 Confrontations with Death in the French Tradition"
+  },
+  "FREN-53.08": {
+    "description": "Paris has been described in numerous disciplines and media:  literature, philosophy, cinema, photography, painting, sociology, geography, etc.  What usage schemes characterize the city?  How are often conflicting identities generated when individuals seek to inhabit and negotiate the hierarchies of its neighborhoods? How do diverse thinkers, filmmakers, and photographers describe and represent the class, ethnic, and gender clashes that play out in urban space?  In what ways do affective “investments” saturate Parisian streets, buildings, and businesses?",
+    "distrib": "Dist:LIT; WCult:CI",
+    "instructor": "See department website",
+    "num": "53.08",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 53.08 Paris, philosophies de l'espace"
+  },
+  "FREN-55": {
+    "description": "This course will study the broad field of French civilization with a variety of approaches. Literary texts may be studied for their political influence; literature may be seen as a way of changing history or a reflection of history. Writings on cultural or political issues, by such figures as Montaigne, Diderot or de Staël, may also be included as may more current works from the field of cultural criticism.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "See department website",
+    "num": "55",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 55 French Culture and Politics"
+  },
+  "FREN-55.04": {
+    "description": "The West is often seen as having exerted a civilizing force on an orientalized, inferior, homogenous East.  In this course, we will challenge this prevalent view of the relationship between East and West by focusing on France’s encounter with one member of the oriental pantheon, India. We will examine encounters between India and France in architecture such as Versailles and the Taj Mahal, in literary and philosophical discussions and contrast France's relationship to India with those established with other “orients\" using travel narratives, correspondence, novels, theater, newspapers, fables, and thework of cultural historians.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Beasley",
+    "num": "55.04",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 55.04 India in the French Imagination"
+  },
+  "FREN-55.05": {
+    "description": "This course will analyze what General Charles de Gaulle used to call “the Thirty Years War.” From the First World War to the German Occupation, we will focus on one of the most dramatic periods of French history. In articles, speeches, diaries, memoirs and films, we will examine its main events, the political choices of the population (coercion and consent, brutalization, pacifism, antifascism, collaboration, attentisme, resistance), social and cultural fields, and questions of memory.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "See department website",
+    "num": "55.05",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 55.05 France, 1914-1944: from One War to Another"
+  },
+  "FREN-55.06": {
+    "description": "The modern intellectual was invented in France at the time of the Dreyfus affair. In the twentieth century, French intellectuals were seen as moral guides and social critics. They engaged in philosophical speculations by bridging theory with practice. During political crises, intellectuals engaged in public debate as a means of influencing society. We will examine figures such as Zola, Benda, Breton, Sartre, Camus, Beauvoir, Aron, Foucault, Ben Jelloun, Derrida and Kristeva.",
+    "distrib": "Dist:TMV; WCult:W",
+    "instructor": "Kritzman",
+    "num": "55.06",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 55.06 Politics and French Intellectuals"
+  },
+  "FREN-60": {
+    "description": "Intersections of gender and literary expression will be studied from a variety of perspectives: gender and authorship (women writers, écriture féminine, comparative analysis of masculine/feminine treatments of genres or themes); gender and reading (do men and women read differently? do certain texts address a specifically gendered readership?); gender and literary form (the lyric, the romance plot); representations of men and women in certain movements or periods (the female body, women/men as subjects or objects of representation).",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "60",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 60 Gender and French Literature"
+  },
   "FREN-7": {
     "description": "",
     "instructor": "Sanders",
@@ -12335,6 +12857,96 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 7 First-Year Seminars in French Literature"
+  },
+  "FREN-70": {
+    "description": "This course will involve the study of Francophone literature outside Europe. This may include the literature of Africa, the Caribbean, Québec and Southeast Asia.",
+    "distrib": "LIT",
+    "instructor": "See department website",
+    "num": "70",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 70 Francophone Literature"
+  },
+  "FREN-70.02": {
+    "description": "This course will involve the study of Francophone literature outside Europe. This may include the literature of Africa, the Caribbean, Québec and Southeast Asia. A comparative study of urban and globalized Francophone cultures (Port-au-Prince, Dakar, Algiers, Tangiers, Saigon, Brussels, Paris), the attendant challenges and effects of globalization, including immigration, national politics, gender, sexuality, as well as ecology and economics, and how the literary or filmic imagination captures these issues. Readings by Kane, Sembène, Beyala; Lê, Lefèvre; ben Jelloun, Allouache, Chraibi; Chauvet, Ollivier, Étienne, Césaire, Glissant. Walker.",
+    "distrib": "LIT",
+    "instructor": "See department website",
+    "num": "70.02",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 70.02 Francophone Literature"
+  },
+  "FREN-70.03": {
+    "description": "A comparative study of urban and globalized Francophone cultures (Port-au-Prince, Dakar, Algiers, Tangiers, Saigon, Brussels, Paris), the attendant challenges and effects of globalization, including immigration, national politics, gender, sexuality, as well as ecology and economics, and how the literary or filmic imagination captures these issues. Readings by Kane, Sembène, Beyala; Lê, Lefèvre; ben Jelloun, Allouache, Chraibi; Chauvet, Ollivier, Étienne, Césaire, Glissant.",
+    "distrib": "Dist:LIT; WCult:NW",
+    "instructor": "See department website",
+    "num": "70.03",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 70.03 Passages and Ambiguous Adventures: Colonial and Postcolonial Questions of Migration and Immigration"
+  },
+  "FREN-70.04": {
+    "description": "In ‘Récits méditerranéens, pourtours mystiques II,’ we will focus on first-person narratives (ficitional and non-fictional, fictive and fictionalized) from across the modern Mediterranean Francophone world: Lebanon, Egypt, Algeria, Tunisia and Morocco. We will unravel the mystical underpinnings that subtend the politics of autobiography, autofiction and autoportraiture in texts by Tahar Ben Jelloun, Hélène Cixous, Jacques Derrida, Assia Djebar, Edmond Jabès, Abdelkébir Khatibi, Amin Maalouf, Abdelwahab Meddeb, and Salah Stétié.",
+    "distrib": "LIT",
+    "instructor": "See department website",
+    "num": "70.04",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 70.04 Pourtours mystiques"
+  },
+  "FREN-70.05": {
+    "description": "In this course, we will focus on cultures of love across the modern Mediterranean Francophone world: Lebanon, Egypt, Algeria, Tunisia, Morocco. We will unravel the mystical and earthly underpinnings that subtend the politics and history of eros and emancipation. Readings by Assia Djebar, Habib Tengour, Abdelwahab Meddeb, Salah Stétié, Abdellah Taïa. Films by Gilo Pontecorvo, Moustapha Akkad, Assia Djebar, Mathieu Kassovitz, Abdellah Taïa, Nabil Ayouch.",
+    "distrib": "Dist:LIT; WCult:NW",
+    "instructor": "Elhariry",
+    "num": "70.05",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 70.05 Mystical and Earthly Love"
+  },
+  "FREN-75": {
+    "description": "This course will focus on one of the following: an individual filmmaker, a significant movement or period, or a major theme in French cinema. Students will become familiar with aspects of French cinematic history as well as with important concepts in film analysis.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "75",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 75 French Film"
+  },
+  "FREN-75.01": {
+    "description": "This course will examine the history of French film through the prism of its representations of criminality. Assigned films may include works by Marcel Carné, Henri-Georges Clouzot, René Clair, Joseph Losey, Jean Renoir, Louis Malle, Jacques Becker, Jean-Pierre Melville, Alain Resnais, Bertrand Tavernier, Michael Haneke, François Ozon, Bertrand Blier, Agnès Varda, Jean-Luc Godard, Maurice Pialat, Claude Chabrol, Robert Bresson, Luis Buñuel, Gaspard Noé, Alain Guiraudie, and Jacques Audiard.\\\\u200B",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "75.01",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 75.01 Faces of the Criminal"
+  },
+  "FREN-75.02": {
+    "description": "France gave birth to cinema in 1895. Since then, French cinema has influenced not only French society, but filmmakers around the world. In this course, we will explore silent masterpieces, New Wave film, and movies of the 21st century to examine the evolution of French film and its impact on French culture. Our analyses will include in-class film excerpts and a selection of movies that will be available to you on DVD or to stream.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "75.02",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 75.02 Toward a History of French Cinema"
+  },
+  "FREN-75.03": {
+    "description": "This course will propose a historical overview of French cinema, with a particular emphasis on the relationship between cinema and the idea of the modern or modernity. How was cinema perceived as a modern, technological art? How was cinema positioned in relation to utopian and dystopian visions of industrial capitalist modernity? How did cinema contribute to these visions? To respond to these questions, this course will examine texts and films associated with many of the most important cultural, intellectual, and political movements in twentieth-century France: socialism, communism, anarchism, naturalism, surrealism, modernism(s), poetic realism, Left Bank cinema, the New Wave, cinéma vérité, formalism, le cinéma du look, postmodernism(s).",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "75.03",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 75.03 Cinema and Modern Life"
+  },
+  "FREN-78": {
+    "description": "As part of this culminating experience, each major will work on an independent project, either a senior thesis or expanding upon work begun in a previous course. The independent project will be developed within the framework of this course using a selection of critical texts that can be viewed as models of literary, cultural, and historical analysis. Lectures by a variety of faculty members will supplement the readings. Students will gain mastery in literary and cultural analysis, close analytical reading skills and composition in French. The course is open only to French and Italian Department senior majors or by petition, which is due by the fifth day of classes of Fall term.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "78",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 78 Senior Major Workshop: Methods in Reading, Writing and Cultural Analysis"
   },
   "FREN-8": {
     "description": "Practice in the active use of the language combined with an introduction to major aspects of French society. Each week students will write papers and participate in discussions based on books, articles, and films emphasizing social and historical concepts.",
@@ -12344,6 +12956,57 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 8 Exploring French Culture and Language"
+  },
+  "FREN-80": {
+    "description": "Literary works (poetry, theater, the novel, the essay) will be examined in their relationship to the other arts. This will include music, painting, the plastic arts, architecture, etc. Sample topics: opera and melodrama; symbolism and Impressionist painting; surrealism in poetry and collage; art criticism by such writers as Baudelaire, Apollinaire, Ponge.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "80",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 80 French Literature and the Other Arts"
+  },
+  "FREN-80.03": {
+    "description": "Infamous men are often portrayed in works of art and literature as predatory and power hungry narcissists. From Don Juan’s sexual predation, to Valmont’s narcissism, the evils of men are, at once, the most reviled and the most seductive to artists and audiences alike. This course will explore the historical progression of “bad-boy” behavior through the literary and musical works of Berlioz, Molière, Laclos and others. We will study miscreants who single-mindedly pursue their destructive goals. By examining how literature and music represent misogyny, we will pay particular attention to what constitutes “bad” behavior, to what initiates such behavior, and to the moral and social implications of such behavior. At the same time, we will discuss how the “good” aesthetics of “bad” (the way in which aesthetic beauty) is made from the raw materials of social and psychological malefaction. These broader questions will help frame our thematic investigation of misbehavior, with discussions on vices such as rakishness, hubris, greed and narcissism. We will focus on how literary and musical genres portray these vices, and then take note of how vices attain an ambiguous meaning within the social and moral systems of these works.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "See department website",
+    "num": "80.03",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 80.03 Men Behaving Badly:  The Offending Sex in Literature and Music"
+  },
+  "FREN-80.04": {
+    "description": "In medieval Western Europe, civilization was a culture of color. Color was omnipresent, whether in interior or exterior paintings, in sacred or secular architecture, in sculpture, furniture or illustrated manuscripts.  A church was not considered complete until it had been painted. Mural paintings adorned with narrative scenes or decorative figures sought to embellish God's earthly Creation; to paint was to undertake a spiritual endeavor.   At the same time, color and images aimed to teach; no scene or figure was without meaning.  From the walls of medieval edifices to the pages of manuscripts, we will explore in this seminar pictorial creation in France from the seventh through the fifteenth centuries.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "See department website",
+    "num": "80.04",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 80.04 Color Coding: The Intensive Use of Color in Medieval Media"
+  },
+  "FREN-81": {
+    "description": "A program of individual study directed by a member of the faculty open to majors, minors and other students who, in the judgment of the instructor, possess relevant preparation.  A proposal, signed by the faculty advisor, must be submitted to the Department for approval by the fifth day of classes of the term.",
+    "instructor": "LaGuardia",
+    "num": "81",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 81 Seminar"
+  },
+  "FREN-87": {
+    "description": "A program of individual study directed by a member of the staff. Open only to French, French Studies and Romance Language Majors. By special permission this course may be taken more than once. A proposal, signed by the faculty advisor, must be submitted to the Department for approval by the fifth day of classes of the term.",
+    "instructor": "LaGuardia",
+    "num": "87",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 87 Honors Thesis Reading and Research"
+  },
+  "FREN-89": {
+    "description": "Honors students will arrange a program of study and research during any term of the senior year on a tutorial basis with individual faculty members. A thesis, written in French, and a public presentation are the normal culmination of this course. A proposal, signed by the faculty advisor, must be submitted to the Departmental Committee on Independent Studies and Honors Theses for approval by the fifth day of classes of the term. For information about application procedures, please review the Honors Program section.",
+    "instructor": "LaGuardia",
+    "num": "89",
+    "offered": "",
+    "subj": "FREN",
+    "title": "FREN 89 Honors Seminar"
   },
   "FREN-9": {
     "description": "An introductory course, offered in the context of the Language Study Abroad program, dealing with major figures, themes, or genres of French literature. Some areas of concern are critical reading and analysis, style, and historical and social perspectives. Assigned work may include independent reading and analysis, frequent short papers, and examinations. Taught by Dartmouth faculty.",
@@ -12923,6 +13586,14 @@
     "subj": "GEOG",
     "title": "GEOG 37 A Climate for Human Security"
   },
+  "GEOG-37.01": {
+    "description": "This course involves field trips led by the members of the Charles University faculty, designed in conjunction with lectures in GEOG 47. The excursions will include topics such as urban development and housing, international migration, health geographies, the environmental effects of energy generation production, and foreign direct investment. Employing short writing assignments and collaborative presentations, the course will expose students to variegated landscapes of central Europe and to potential topics for independent research.",
+    "instructor": "S21: Sneddon/Neely S22: Neely",
+    "num": "37.01",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 37.01 Social and Physical Landscapes of the Czech Republic"
+  },
   "GEOG-39": {
     "description": "Around the world, people suffer because of environmental degradation, from sickening industrial pollution to unnatural disasters to disruptive climate change. This course examines how environmental harms are unequally experienced, as well as how communities organize to protect themselves. We will discuss the concept of “environmental justice” as it has developed through social movements in the United States and elsewhere. We will also explore it as an analytical category that (a) explains how inequality manifests environmentally and (b) enables critical thinking about concepts like the “environment” and mainstream environmentalism and environmental policy. Drawing from Anthropology, Geography, History, Sociology, and other disciplines, we will focus on the lived experiences of environment justice and injustice around the world.",
     "distrib": "Dist:SOC",
@@ -12979,6 +13650,15 @@
     "title": "GEOG 40 Jews and Cities: Urban Encounter and Cultural Transformations",
     "xlist": "HIST 94.14 JWST 12.01"
   },
+  "GEOG-40.02": {
+    "description": "Climate change, terrorist attacks, genocides, contagious outbreaks, and economic collapse preoccupy narratives about human survival. As a result, we are told that our lives are increasingly unstable and precarious—our futures, uncertain. Examining historical evocations of catastrophic events, and how future calamities therefore become imagined, this course examines the relationship between thinking about the future as a yet undetermined sequence of events, and the ways that humans attempt to secure their own survival, or become more resilient to the inevitable. Drawing texts from geography, international relations, literature, political philosophy, and ethics, this course surrounds the phenomena of catastrophe and human survival to ask: What does it mean to live in an age of extreme instability?",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "40.02",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 40.02 Catastrophe and Human Survival"
+  },
   "GEOG-40.03": {
     "description": "Ideas of racial difference are frequently advanced as “natural” truths about the world, linked to normative conceptions of environmental relations. Reciprocally, racism—as a set of deadly ideological and material practices articulated around purported group differences—has profoundly shaped conceptions of non-human nature. This course asks how race is inflected in the politics and practices through which humans interact with the “natural” world, and explores the implications for contemporary movements and mobilizations for environmental justice.",
     "distrib": "Dist:SOC",
@@ -13008,6 +13688,15 @@
     "title": "GEOG 42 Water Policy and Politics",
     "xlist": "JWST 067"
   },
+  "GEOG-43": {
+    "description": "In a world glutted with food, why do millions still suffer chronic hunger? In an international community committed to free trade, why is food the most common source of trade wars and controversies? In a country where less than five percent of the population farms, why does the \"farm lobby\" remain so politically powerful? In societies where food has never been faster or more processed, why are organic and \"slow\" foods in such demand? These are among the questions this course will consider, drawing on the insights of both political economy and cultural analysis.",
+    "distrib": "Dist:INT or SOC; WCult:NW",
+    "instructor": "Freidberg",
+    "num": "43",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 43 Food and Power"
+  },
   "GEOG-44": {
     "description": "Over the past several decades, the people and environments of Southeast Asia have confronted a host of political, economic and cultural processes commonly grouped together under the heading \"development\". As witnessed by recent media reports detailing massive forest fires in Indonesia and dam controversies in Malaysia and Thailand, these development processes have resulted in drastic transformations in the landscapes, forests, and river systems of the region. These processes have likewise produced dramatic alterations in the livelihoods of the people who depend on and interact with the region's ecological systems.",
     "distrib": "Dist:INT or SOC; WCult:NW",
@@ -13017,6 +13706,25 @@
     "subj": "GEOG",
     "title": "GEOG 44 Environment and Politics in Southeast Asia",
     "xlist": "undefined"
+  },
+  "GEOG-45": {
+    "description": "From abandoned stone walls to red-brick mill towns, segregated cities to grass-lawn suburbs, the people and places of New England offer interesting lessons about the interactions betwen culture and nature. This course introduces students to landscape studies in geography by focusing on Dartmouth’s immediate surroundings and its regional setting. Includes several required field trips.",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "num": "45",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 45 Exploring Nature and Culture in New England"
+  },
+  "GEOG-46": {
+    "description": "Over half the world's population live in urban areas. The 1992 Rio Summit raised awareness of the potentially serious environmental, health, and social implications of continuing urbanization. This course explores the environmental effects of urbanization from an international comparative perspective. How do the environmental consequences of urbanization in the developing world (Global South) differ from those associated with the developed world (Global North)? How are notions of environment socially constructed as \"nature\" and how does this translate into political action in different places? The course critically assesses the ability of planners to make lasting improvements in the urban environment.",
+    "distrib": "Dist:INT or SOC",
+    "instructor": "",
+    "num": "46",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 46 Urbanization and the Environment",
+    "xlist": "PBPL 081"
   },
   "GEOG-47": {
     "description": "This course seeks to develop an understanding of the physical morphology and cultural landscape of the contemporary Czech Republic. Special attention will be given to the dialectic of transnational integration and decentralist reaction common in Europe today.",
@@ -13036,6 +13744,16 @@
     "subj": "GEOG",
     "title": "GEOG 47.01 Political Ecology",
     "xlist": "ENVS 067"
+  },
+  "GEOG-48": {
+    "description": "This course asks how historical and contemporary development efforts have shaped indigenous communities. What ideological and technical tools have been used to transform native territories? How have national development programs shaped experience in settler-colonial contexts? Finally, how has native sovereignty been articulated through indigenous development efforts? We will draw on examples from the Americas, Africa, and Asia to understand how place-based development has been part of global networks of imperialism and resistance.",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "48",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 48 Indigeneity and Development",
+    "xlist": "NAS 30.14"
   },
   "GEOG-49": {
     "description": "The purpose of this course is to describe and examine the manifold ways that environmental alterations have occurred - over both geologic and historical timescales. Considerable research over the past several decades has shown that anthropogenic disturbance has significantly modified natural processes frequently leading to degraded conditions. The goal of the course is first to establish that shifts in climate, vegetation, and landscapes are \"natural\" and have occurred over geologic time and that the timing and magnitude of these shifts provides the necessary background to evaluate the type, magnitude, and frequency of anthropogenic disturbance. The second, and major theme is to present and examine the types of human-induced changes in biotic, atmospheric, and terrestrial conditions (e.g. logging, grazing, urbanization), and to evaluate the social and management issues resulting from these anthropogenic disturbances. Lastly, the third part of the course will focus on the human dimensions of global change by exploring the social aspects of environmental change. In the last part of the class, we will focus on how global environmental changes generate impacts at the local scale, and how small-scale transformations propagate into large-scale global environmental issues.",
@@ -13120,6 +13838,53 @@
     "subj": "GEOG",
     "title": "GEOG 54 Geovisualization"
   },
+  "GEOG-55": {
+    "description": "This course develops the elements of critical analysis using geographic information science (GIS). While using GIS as a method to ask questions and analyze geospatial data, students will also explore the ways that GIS is shaped by its underlying assumptions, embedded politics, societal impacts, knowledge-generation capabilities, and other limitations. Lab sessions will incorporate learning GIS analysis in the open source statistical package “R”, in tandem with readings and discussions about the theoretical and social dimensions of GIS.",
+    "distrib": "Dist:TAS",
+    "instructor": "",
+    "num": "55",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 55 Critical Analysis in GIS",
+    "xlist": "EARS 022"
+  },
+  "GEOG-56": {
+    "description": "This interdisciplinary course introduces the principles and methods used to understand health and disease in the geographical context. Topics include monitoring epidemics, tracking disease outbreaks, identifying environmental factors that may promote or hinder health, and studying geographic impediments in accessing health care services. Learning takes place through lecture and discussion, readings of selected manuscripts, hands-on experience in the GIS lab, assignments, and completion of a term project. Prerequisite: GEOG 50 or professor's permission.\nThe new prerequisite will begin Spring 2016.",
+    "distrib": "TAS",
+    "instructor": "Shi",
+    "num": "56",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 56 The Geographies of Health and Disease"
+  },
+  "GEOG-57": {
+    "description": "This course is about how to use GIS technology to solve urban problems. The application problems that will be discussed in the class are from areas including urban planning and design, public administration, business decision-making, environment assessment, land use change, and social and political issues. The data, spatial analytical techniques, and GIS software that have been used in these applications will be examined through studying real-world examples. The class contains three components: the lectures, the lab exercises and the term project. The software packages used for the lab exercises include ArcGIS and MapInfo.",
+    "distrib": "TLA",
+    "instructor": "Shi",
+    "num": "57",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 57 Urban Applications of GIS"
+  },
+  "GEOG-58": {
+    "description": "This course develops the elements of critical analysis using geographic information science (GIS). While using GIS as a method to ask questions and analyze geospatial data, students will also explore the ways that GIS is shaped by its underlying assumptions, embedded politics, societal impacts, knowledge-generation capabilities, and other limitations. Lab sessions will incorporate learning GIS analysis in the open source statistical package “R”, in tandem with readings and discussions about the theoretical and social dimensions of GIS.",
+    "distrib": "Dist:TAS",
+    "instructor": "Alvarez Leon",
+    "num": "58",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 58 Critical Analysis in GIS"
+  },
+  "GEOG-59": {
+    "description": "This course uses geographic information science (GIS) to analyze environmental systems. Students will learn advanced GIS techniques such as topographic analysis, spatial modeling, spatial statistics, remote sensing, and spatiotemporal data analysis.  These methods will be explored through a wide variety of applications, including watershed hydrology, water quality, vegetation, land use/land cover, climate, wildlife ecology, and natural hazards.  In lectures, laboratory exercises, and class projects, students will gain experience in designing and implementing GIS-based solutions to environmental problems.",
+    "distrib": "Dist:TLA",
+    "instructor": "Chipman",
+    "num": "59",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 59 Environmental Applications of GIS",
+    "xlist": "EARS 077"
+  },
   "GEOG-6": {
     "description": "Why are some countries rich and others so persistently poor? What can and should be done about this global inequity and by whom? We address these development questions from the perspective of critical human geography. Focusing on the regions of Latin America, Africa and Asia, we examine how development meanings and practices have varied over time and place, and how they have been influenced by the colonial history, contemporary globalization and international aid organizations.",
     "distrib": "Dist:INT or SOC; WCult:NW",
@@ -13138,6 +13903,15 @@
     "offered": "",
     "subj": "GEOG",
     "title": "GEOG 6.01 Urban Geography"
+  },
+  "GEOG-60": {
+    "description": "What will Earth look like in 2100? Scientists use the world’s most sophisticated computer programs—climate models—to answer such questions. This applications-based class introduces the theory and practicalities of process-based modeling for climate science. We will employ a range of models, from 0-dimensional to fully-coupled global-scale Earth System Models. Focusing on climate change, we will learn the potentials and pitfalls of modeling complex systems and how to evaluate models and their societal relevance.",
+    "distrib": "Dist:SCI",
+    "instructor": "",
+    "num": "60",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 60 Earth System Modeling"
   },
   "GEOG-61": {
     "description": "The focus of this course is the voluntary and involuntary movement of people around the globe. Questions of borders, nativism, transnationalism, the global economy, and legality thread will through our discussions as we consider the factors shaping decisions to leave a home or homeland. Creative works, case studies, and theory regarding these topics will inform and animate our discussions.",
@@ -13194,6 +13968,25 @@
     "subj": "GEOG",
     "title": "GEOG 65 Catastrophe and Human Survival"
   },
+  "GEOG-65.01": {
+    "description": "The focus of this course is the voluntary and involuntary movement of people around the globe. Questions of borders, nativism, transnationalism, the global economy, and legality thread will through our discussions as we consider the factors shaping decisions to leave a home or homeland. Creative works, case studies, and theory regarding these topics will inform and animate our discussions.",
+    "distrib": "Dist:INT or SOC",
+    "instructor": "Wright",
+    "num": "65.01",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 65.01 Global Movements: Migrants, Refugees, and Diasporas"
+  },
+  "GEOG-67": {
+    "description": "Political ecology is an approach to human-environment relations that links a broad understanding of biophysical systems (e.g., tropical forests, coastal ecosystems, river basins) to knowledge regarding the political and economic forces that drive ecological change. Drawing on examples from North America, Southeast Asia, Africa and other regions, this course employs a political ecology framework to examine contemporary debates over urbanization, water resources, the role of science in environmental conflicts and the cultural landscape.",
+    "distrib": "Dist:INT or SOC",
+    "instructor": "Sneddon",
+    "num": "67",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 67 Political Ecology",
+    "xlist": "undefined"
+  },
   "GEOG-67.01": {
     "description": "From silent films to Mad Men, the American city has been the site through which “modern” identities have been imagined and created. This course draws on Cultural Geography and Film and Media Studies in order to interrogate this development. Through a variety of readings and screenings of films and TV shows, we will be examining American downtowns, suburbs, and homes as sites for the construction of classed, racialized, sexualized and gendered identities in three different time periods: the early 20th century, the post WWII era, and the contemporary period. We will interrogate such topics as: the real and imagined role of “shopping” women and gender in the shaping of modern downtowns; the relationship between the American suburb, new sexual identities and the film Pillow Talk; and how a particular nostalgia for the past that has led to the popularity of such shows as Mad Men can also be seen on the streets of Hanover (neo-traditional urbanism).",
     "distrib": "Dist:SOC; WCult:CI",
@@ -13204,6 +13997,25 @@
     "title": "GEOG 67.01 Scenes from the City: Urbanism and Modern American Visual Culture",
     "xlist": "FILM 47.21 "
   },
+  "GEOG-68": {
+    "description": "Around the world, people suffer because of environmental degradation, from sickening industrial pollution to unnatural disasters to disruptive climate change. This course examines how environmental harms are unequally experienced, as well as how communities organize to protect themselves. We will discuss the concept of “environmental justice” as it has developed through social movements in the United States and elsewhere. We will also explore it as an analytical category that (a) explains how inequality manifests environmentally and (b) enables critical thinking about concepts like the “environment” and mainstream environmentalism and environmental policy. Drawing from Anthropology, Geography, History, Sociology, and other disciplines, we will focus on the lived experiences of environment justice and injustice around the world.",
+    "distrib": "Dist:SOC",
+    "instructor": "Greenleaf",
+    "num": "68",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 68 Environmental Justice",
+    "xlist": "ANTH 12.26"
+  },
+  "GEOG-68.01": {
+    "description": "This course examines the question of health, what it is, who it’s for, and who decides. By focusing on three themes – becoming a doctor or healer; health, illness, and suffering; and health as a nature-society question – through both biomedicine and witchcraft, we approach health from multiple angles. So doing, we will learn about a number of different methodological approaches and theoretical orientations, learning not just about specific case studies, but also about how geographers and related social scientists ask and answer questions.",
+    "distrib": "Dist:SOC",
+    "instructor": "Neely",
+    "num": "68.01",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 68.01 Witchcraft and Biomedicine"
+  },
   "GEOG-7": {
     "description": "",
     "instructor": "",
@@ -13211,6 +14023,42 @@
     "offered": "",
     "subj": "GEOG",
     "title": "GEOG 7 First-Year Seminars in Geography"
+  },
+  "GEOG-70.01": {
+    "description": "This course examines the question of health, what it is, who it’s for, and who decides. By focusing on three themes – becoming a doctor or healer; health, illness, and suffering; and health as a nature-society question – through both biomedicine and witchcraft, we approach health from multiple angles. So doing, we will learn about a number of different methodological approaches and theoretical orientations, learning not just about specific case studies, but also about how geographers and related social scientists ask and answer questions.",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "70.01",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 70.01 Witchcraft and Biomedicine"
+  },
+  "GEOG-71": {
+    "description": "This course will explore various themes surrounding the ways in which race shapes the way we understand ideas of place. With a focus on Africa and its diaspora, the course looks at the movement of people and ideas inherent in the concept of diaspora and reflects on how people also reshape social worlds that challenge the way we commonly understand the world to be divided (i.e. by political territories like “countries” or by physical geographies like “continents”). The goal of the course is to start with the concept of “Blackness” and unpack the complexity of various other racial and spatial categories like “Sub-Saharan Africa” “Arab North Africa” “the West” and “diaspora.” The three general themes of territory, flows, and space/futurisms, will be explored in relation to the way they are experienced by people in everyday life, therefore the readings will primarily be ethnographic, following African descendant communities in Africa, Europe and the Americas. However, we will tackle these issues through history and fiction writings as well.",
+    "distrib": "Dist:SOC; WCult:CI",
+    "instructor": "Scott",
+    "num": "71",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 71 Racial Geographies: Race and the Politics of Place"
+  },
+  "GEOG-72": {
+    "description": "Around the world, people suffer because of environmental degradation, from sickening industrial pollution to unnatural disasters to disruptive climate change. This course examines how environmental harms are unequally experienced, as well as how communities organize to protect themselves. We will discuss the concept of “environmental justice” as it has developed through social movements in the United States and elsewhere. We will also explore it as an analytical category that (a) explains how inequality manifests environmentally and (b) enables critical thinking about concepts like the “environment” and mainstream environmentalism and environmental policy. Drawing from Anthropology, Geography, History, Sociology, and other disciplines, we will focus on the lived experiences of environment justice and injustice around the world.",
+    "distrib": "Dist:SOC",
+    "instructor": "",
+    "num": "72",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 72 Environmental Justice"
+  },
+  "GEOG-74": {
+    "description": "During the past quarter century, the gap between the world's richest and poorest regions has steadily widened, even as technological advance has shrunk the distances between them. This class begins by examining how globalization has shaped awareness and expressions of care for distant strangers. It then focuses on the moral economies underlying practices such as Fair Trade, corporate social responsibility, and transnational labor justice campaigns. Some background in international development is recommended.",
+    "distrib": "Dist:INT or SOC",
+    "instructor": "Freidberg",
+    "num": "74",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 74 Moral Economies of Development"
   },
   "GEOG-77": {
     "description": "This course uses geographic information science (GIS) to analyze environmental systems. Students will learn advanced GIS techniques such as topographic analysis, spatial modeling, spatial statistics, remote sensing, and spatiotemporal data analysis.  These methods will be explored through a wide variety of applications, including watershed hydrology, water quality, vegetation, land use/land cover, climate, wildlife ecology, and natural hazards.  In lectures, laboratory exercises, and class projects, students will gain experience in designing and implementing GIS-based solutions to environmental problems.",
@@ -13297,6 +14145,58 @@
     "subj": "GEOG",
     "title": "GEOG 80.07 Race, Space, and Nature"
   },
+  "GEOG-80.08": {
+    "description": "Beyond mapping the world, how do geospatial technologies help shape it? This course analyzes the political, economic, social, and cultural implications of geospatial data, media, and technologies. Topics covered include self-driving cars, Google Maps, and big geospatial datasets like satellite imagery repositories. Drawing on a variety of conceptual frameworks, students will learn how to evaluate geospatial technologies not only through their technical underpinnings, but also via their space-making processes and embeddedness in our everyday lives.",
+    "distrib": "Dist:SOC",
+    "instructor": "Alvarez Leon",
+    "num": "80.08",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 80.08 Geospatial Technologies and Society"
+  },
+  "GEOG-80.09": {
+    "description": "Over 134 million people worldwide are affected by humanitarian emergencies. Geographic methods (e.g. spatial statistics, remote sensing, and mapping) answer questions about the role of place in humanitarian emergencies. We will 1) investigate the use of spatial data and 2) identify challenges that must be addressed to generate technically rigorous and ethical conclusions in humanitarian environments. Critical theory and empirical case studies will inform our discussions. No prior experience with geographical information systems is required.",
+    "distrib": "Dist:TAS",
+    "instructor": "Poole",
+    "num": "80.09",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 80.09 Humanitarian Emergencies and Geographic Methods"
+  },
+  "GEOG-80.10": {
+    "description": "This course interrogates the COVID-19 pandemic, putting it in broader historical, geographic, and scientific contexts.  To do so, it focuses on different disease epidemics, including the Plague, flus, cholera, and HIV/AIDS.  A COVID-19 journal gives students a chance to think, reflect, and process what they are learning and their experiences together.  Through this course, students will better understand science, biomedicine and other healing systems, the medical system, the United States, and global health today.",
+    "distrib": "Dist:INT or SOC",
+    "instructor": "Neely",
+    "num": "80.10",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 80.10 COVID-19 and the Social Life of Epidemics"
+  },
+  "GEOG-81": {
+    "description": "This course involves field trips led by the members of the Charles University faculty, designed in conjunction with lectures in GEOG 47. The excursions will include topics such as urban development and housing, international migration, health geographies, the environmental effects of energy generation production, and foreign direct investment. Employing short writing assignments and collaborative presentations, the course will expose students to variegated landscapes of central Europe and to potential topics for independent research.",
+    "instructor": "Sneddon/Magilligan (20S),  Neely (21S)",
+    "num": "81",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 81 Social and Physical Landscapes of the Czech Republic"
+  },
+  "GEOG-82": {
+    "description": "This course offers the qualified student an opportunity to research a topic of special interest in the Czech Republic under the joint direction of a Dartmouth staff member and Charles University staff. This course is taken as part of a three course sequence by FSP participants (Geography 47, 81, 82).",
+    "distrib": "Dist:SOC; WCult:W",
+    "instructor": "Sneddon/Magilligan (20S),  Neely (21S)",
+    "num": "82",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 82 Independent Study in the Czech Republic"
+  },
+  "GEOG-85": {
+    "description": "Description\nA thesis on a geographic topic selected by the student with the instructor's approval.\nStudents are awarded one course credit for successful completion of this course at the end of the second term of study. Students subsequently register for GEOG 87, and continue with their coursework into a second term.  A final grade will replace the “ON” for both this course and GEOG 87 upon completion of GEOG 87 at the end of the second term of coursework.",
+    "instructor": "",
+    "num": "85",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 85 Senior Thesis I"
+  },
   "GEOG-86": {
     "description": "This course offers the qualified student an opportunity to research a topic of special interest in the Czech Republic under the joint direction of a Dartmouth staff member and Charles University staff. This course is taken as part of a three course sequence by FSP participants (Geography 47, 81, 82).",
     "distrib": "Dist:SOC; WCult:W",
@@ -13305,6 +14205,14 @@
     "offered": "",
     "subj": "GEOG",
     "title": "GEOG 86 Independent Study in the Czech Republic"
+  },
+  "GEOG-87": {
+    "description": "A thesis on a geographic topic selected by the student with the instructor's approval.\nStudents are awarded one course credit for successful completion of this course. Students who have registered for GEOG 85 register for this course and continue with their coursework into a second term.  A final grade will replace the “ON” for both GEOG 85 and this course upon completion of this course at the end of the second term of coursework.",
+    "instructor": "The faculty",
+    "num": "87",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 87 Senior Thesis II"
   },
   "GEOG-9": {
     "description": "The global agricultural sector faces the significant challenge of feeding a population projected to rise to 9 billion by mid-century under an evolving climate.  This course will explore the physical geography of agricultural production systems throughout the world with an emphasis on the interactions between crops, climate, water, soils, and technology.",
@@ -13323,6 +14231,14 @@
     "offered": "",
     "subj": "GEOG",
     "title": "GEOG 9.01 Geographical Information Systems (GIS)"
+  },
+  "GEOG-90": {
+    "description": "This culminating experience exposes students to the elements of conducting geographic research. Students synthesize their knowledge of geography by exploring the epistemological and methodological foundations of geographic research. The course involves the preparation of a research proposal on a topic each student chooses in consultation with the geography faculty.",
+    "instructor": "Domosh: 20F & 21F, Freidberg: 20F & 21F, Lopez: 21W 22W",
+    "num": "90",
+    "offered": "",
+    "subj": "GEOG",
+    "title": "GEOG 90 Research in Geography"
   },
   "GERM-1": {
     "description": "Introduction to written and spoken German.  Intensive study of basic grammar and vocabulary through readings, oral and written drills, composition exercises, and conversation.  Never serves in partial satisfaction of the Distributive or World Culture Requirement.",
@@ -19625,6 +20541,15 @@
     "subj": "MATH",
     "title": "MATH 1 Introduction to Calculus"
   },
+  "MATH-10": {
+    "description": "An introduction to the basic concepts of statistics. Topics include elementary probability theory, descriptive statistics, the binomial and normal distributions, confidence intervals, basic concepts of tests of hypotheses, chi-square tests, nonparametric tests, normal theory t-tests, correlation, and simple regression. Packaged statistical programs will be used. Because of the large overlap in material covered, no student may receive credit for more than one of the courses ECON 10, ENVS 10, GOVT 10, MATH 10, PSYC 10, QSS 15, and SOCY 10, except by special petition to the Committee on Instruction.",
+    "distrib": "Dist:QDS",
+    "instructor": "Zhou, Kaveh, Wong",
+    "num": "10",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 10 Introductory Statistics"
+  },
   "MATH-11": {
     "description": "This briskly paced course can be viewed as equivalent to MATH 13 in terms of prerequisites, but is designed especially for first-year students who have successfully completed a BC calculus curriculum in secondary school. In particular, as part of its syllabus it includes most of the multivariable calculus material present in MATH 8 together with the material from MATH 13. Topics include vector geometry, equations of lines and planes, and space curves (velocity, acceleration, arclength), limits and continuity, partial derivatives, tangent planes and differentials, the Chain Rule, directional derivatives and applications, and optimization problems. It continues with multiple integration, vector fields, line integrals, and finishes with a study of Green's and Stokes' theorem.\nStudents who have successfully completed a BC calculus curriculum in secondary school may complete multivariable calculus either by taking the two term sequence MATH 9 and MATH 13 or by completing the single, faster-paced, MATH 11.",
     "distrib": "Dist:QDS",
@@ -19643,6 +20568,60 @@
     "subj": "MATH",
     "title": "MATH 12 Calculus Plus"
   },
+  "MATH-13": {
+    "description": "This course is a sequel to MATH 8 and provides an introduction to calculus of vector-valued functions. Topics include differentiation and integration of parametrically defined functions with interpretations of velocity, acceleration, arclength and curvature. Other topics include iterated, double, triple and surface integrals including change of coordinates. The remainder of the course is devoted to vector fields, line integrals, Green's theorem, curl and divergence, and Stokes' theorem.",
+    "distrib": "QDS",
+    "instructor": "The Staff (fall), Lord, Lord, Wong, Wong  (winter), Webb, Tassy, Tassy (spring)",
+    "num": "13",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 13 Calculus of Vector-Valued Functions"
+  },
+  "MATH-17": {
+    "description": "Gives prospective Mathematics majors an early opportunity to delve into topics outside the standard calculus sequence. Specific topics will vary from term to term, according to the interests and expertise of the instructor. Designed to be accessible to bright and curious students who have mastered BC Calculus, or its equivalent. This course counts toward the Mathematics major, and is open to all students, but enrollment may be limited, with preference given to first-year students.",
+    "distrib": "QDS",
+    "instructor": "Assaf (winter), Doyle (spring)",
+    "num": "17",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 17 An Introduction to Mathematics Beyond Calculus"
+  },
+  "MATH-19": {
+    "description": "This course introduces the axioms of set theory, the universe of sets, and set theory as a foundation for mathematics. It touches on historical and philosophical aspects of set theory. Mathematical topics covered include the algebra of sets, ordinals and cardinals, trans\\ffinite induction and recursion, and the axiom of choice. Students will learn language and concepts used throughout mathematics, and learn how to write mathematical proofs.",
+    "distrib": "Dist:QDS",
+    "instructor": "Groszek",
+    "num": "19",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 19 Introduction to Set Theory"
+  },
+  "MATH-20": {
+    "description": "Our capacity to fathom the world around us hinges on our ability to understand quantities which are inherently unpredictable. Therefore, in order to gain more accurate mathematical models of the natural world we must incorporate probability into the mix. This course will serve as an introductions to the foundations of probability theory. Topics covered will include some of the following: (discrete and continuous)random variable, random vectors, multivariate distributions, expectations; independence, conditioning, conditional distributions and expectations; strong law of large numbers and the central limit theorem; random walks and Markov chains. There is an honors version of this course: see MATH 60.",
+    "distrib": "QDS",
+    "instructor": "Zhou, Tassy (fall), The Staff (spring)",
+    "num": "20",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 20 Probability"
+  },
+  "MATH-22": {
+    "description": "This course presents the fundamental concepts and applications of linear algebra with emphasis on Euclidean space. Significant goals of the course are that the student develop the ability to perform meaningful computations and to write accurate proofs. Topics include bases, subspaces, dimension, determinants, characteristic polynomials, eigenvalues, eigenvectors, and especially matrix representations of linear transformations and change of basis. Applications may be drawn from areas such as optimization, statistics, biology, physics, and signal processing. Students who plan to take either MATH 63 or MATH 71 are strongly encouraged to take MATH 24.",
+    "distrib": "Dist:QDS",
+    "instructor": "Petok, Williams, Zhou (fall), Orellana, Orellana, Petok, The Staff, Wang (spring)",
+    "num": "22",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 22 Linear Algebra with Applications"
+  },
+  "MATH-23": {
+    "description": "This course is a survey of important types of differential equations, both linear and non-linear. Topics include the study of systems of ordinary differential equations using eigenvectors and eigenvalues, numerical solutions of first and second order equations and of systems, and the solution of elementary partial differential equations using Fourier series.",
+    "distrib": "QDS",
+    "instructor": "Gelb, Glaubitz  (fall), Ma, The Staff, (winter), Lin, Chernov (spring)",
+    "num": "23",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 23 Differential Equations"
+  },
   "MATH-24": {
     "description": "This course is an introduction to the fundamental concepts of linear algebra in abstract vector spaces. The topics and goals of this course are similar to those of MATH 22, but with an additional emphasis on mathematical abstraction and theory. (MATH 24 can be substituted for MATH 22 as a prerequisite for any course or program.)",
     "distrib": "QDS",
@@ -19651,6 +20630,15 @@
     "offered": "",
     "subj": "MATH",
     "title": "MATH 24 Linear Algebra"
+  },
+  "MATH-25": {
+    "description": "The great mathematician C. F. Gauss once wrote \"Mathematics is the queen of sciences and number theory is the queen of mathematics.\" Number theory is that part of mathematics dealing with the integers and certain natural generalizations. Topics include modular arithmetic, unique factorization into primes, linear Diophantine equations, and Fermat's Little Theorem. Discretionary topics may include cryptography, primality testing, partition functions, multiplicative functions, the law of quadratic reciprocity, historically interesting problems.",
+    "distrib": "QDS",
+    "instructor": "Voight",
+    "num": "25",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 25 Number Theory"
   },
   "MATH-26": {
     "description": "",
@@ -19708,6 +20696,15 @@
     "title": "MATH 30.04 Evolutionary Game Theory and Applications",
     "xlist": "QSS 30.04"
   },
+  "MATH-31": {
+    "description": "This course will provide an introduction to fundamental algebraic structures, and may include significant applications. The majority of the course will consist of an introduction to the basic algebraic structures of groups and rings. Additional work will consist either of the development of further algebraic structures or applications of the previously developed theory to areas such as coding theory or crystallography. As a result of the variable syllabus, this course may not serve as an adequate prerequisite for MATH 81. Students who contemplate taking MATH 81 should consider taking MATH 71 instead of this course.",
+    "distrib": "QDS",
+    "instructor": "",
+    "num": "31",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 31 Topics in Algebra"
+  },
   "MATH-31.01": {
     "description": "This course will provide an introduction to fundamental algebraic structures, and may include significant applications. The majority of the course will consist of an introduction to the basic algebraic structures of groups and rings. Additional work will consist either of the development of further algebraic structures or applications of the previously developed theory to areas such as coding theory or crystallography. As a result of the variable syllabus, this course may not serve as an adequate prerequisite for MATH 81. Students who contemplate taking MATH 81 should consider taking MATH 71 instead of this course.",
     "distrib": "QDS",
@@ -19726,6 +20723,25 @@
     "subj": "MATH",
     "title": "MATH 32 The Shape of Space"
   },
+  "MATH-35": {
+    "description": "This course introduces the basic concepts of real-variable theory. Topics include real numbers and cardinality of sets, sequences and series of real numbers, metric spaces, continuous functions, integration theory, sequences and series of functions, and polynomial approximation. Some applications of the theory may be presented. MATH 63 presents similar material, but from a more sophisticated point of view. This course may not serve as an adequate prerequisite for either MATH 73 or 83. Students who contemplate taking one of these two advanced courses should consider taking MATH 63 instead of this course.",
+    "distrib": "QDS",
+    "instructor": "Trout",
+    "num": "35",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 35 Real Analysis"
+  },
+  "MATH-36": {
+    "description": "Disciplines such as anthropology, economics, sociology, psychology, and linguistics all now make extensive use of mathematical models, using the tools of calculus, probability, game theory, network theory, often mixed with a healthy dose of computing. This course introduces students to a range of techniques using current and relevant examples. Students interested in further study of these and related topics are referred to the courses listed in the Mathematics and Social Sciences program.",
+    "distrib": "TAS",
+    "instructor": "Lord",
+    "num": "36",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 36 Mathematical Models in the Social Sciences",
+    "xlist": "undefined"
+  },
   "MATH-37": {
     "description": "Introduction into cellular automata and agent-based modeling using the Java programming language. Focus of this course will be simulation of stochastic events, model parameterization and calibration, model validation, simulation and result visualization. This is a hands-on course with laboratory sessions and training exercises on individual computers.",
     "distrib": "Dist:QDS",
@@ -19734,6 +20750,15 @@
     "offered": "",
     "subj": "MATH",
     "title": "MATH 37 Computational methods in mathematical biology"
+  },
+  "MATH-38": {
+    "description": "The theory of graphs has roots in both practical and recreational mathematics. Today there are major applications of graph theory in management science (operations research) and computer science. This course is a survey of the theory and applications of graphs. Topics will be chosen from among connectivity, trees, and Hamiltonian and Eulerian paths and cycles; isomorphism and reconstructability; planarity, duality, and genus; independence and coloring problems, including interval graphs, interval orderings and perfect graphs, color-critical graphs and the four-color theorem; matchings; network flows, including applications to matchings, higher connectivity, and transportation problems; matroids and their relationship with optimization.",
+    "distrib": "QDS",
+    "instructor": "Lafreniere",
+    "num": "38",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 38 Graph Theory"
   },
   "MATH-4": {
     "description": "This course will establish the relevance of calculus to medicine. It will develop mathematical tools extending the techniques of introductory calculus, including some matrix algebra and solution techniques for first order differential equations. These methods will be used to construct simple and elegant models of phenomena such as the mutation of HIV, spread of infectious disease, and biological disposition of drugs and inorganic toxins, enzyme kinetics and population growth.",
@@ -19761,6 +20786,33 @@
     "offered": "",
     "subj": "MATH",
     "title": "MATH 42 Differential Geometry I"
+  },
+  "MATH-43": {
+    "description": "This course covers the differential and integral calculus of complex variables including such topics as Cauchy's theorem, Cauchy's integral formula and their consequences; singularities, Laurent's theorem, and the residue calculus; harmonic functions and conformal mapping. Applications will include two-dimensional potential theory, fluid flow, and aspects of Fourier analysis.",
+    "distrib": "QDS",
+    "instructor": "van Wyk",
+    "num": "43",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 43 Functions of a Complex Variable"
+  },
+  "MATH-46": {
+    "description": "This course introduces a wide variety of mathematical tools and methods used to analyze phenomena in the physical, life, and social sciences.  This is an introductory course and is accessible to undergraduate and graduate students in mathematics and other scientific disciplines who have completed the prerequisites.  Topics include dimensional analysis and scaling, perturbation analysis, calculus of variations, integral equations, and eigenvalue problems.",
+    "distrib": "Dist:TAS",
+    "instructor": "Glaubitz",
+    "num": "46",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 46 Introduction to Applied Mathematics"
+  },
+  "MATH-47": {
+    "description": "Introduction into cancer biology and basic mathematical approaches to simulate cancer dynamics on the subcellular, cellular, and tissue level. Techniques for quantitative modeling are plentiful, and an increasing number of theoretical approaches are successfully applied to cancer biology. Differential equation models and individual-based cell models paved the way into quantitative cancer biology about two decades ago. Herein we will give an introduction on how such models are derived and how they can be utilized to simulate tumor growth and treatment response. We will then discuss a number of different models and discuss their confirmative and predictive power for cancer biology.",
+    "distrib": "Dist:QDS",
+    "instructor": "",
+    "num": "47",
+    "offered": "",
+    "subj": "MATH",
+    "title": "MATH 47 Introduction to Mathematical Oncology"
   },
   "MATH-5.01": {
     "description": "Language is the medium for politics and political conflict. Candidates debate during elections. Representatives write laws. Nations negotiate peace treaties. Clerics issue Fatwas. Citizens express their opinions about politics on social media sites. These examples, and many others, suggest that to understand what politics is about, we need to know what political actors are saying and writing. This course introduces techniques to collect, analyze, and utilize large collections of text for social science inferences. Students will also have the opportunity to develop their programming abilities.\nWe will explore a range of datasets from the text of The Federalist Papers to the millions of tweets sent to and from members of Congress.",
@@ -20656,6 +21708,14 @@
   "MES 18.02 Art on the Move: Renaissance Italy and the Islamic World-undefined": {
     "subj": "MES 18.02 Art on the Move: Renaissance Italy and the Islamic World"
   },
+  "MICR-128": {
+    "description": "This course provides practical training experience through a full-time internship at an institution outside of the Dartmouth College campuses (Lebanon and Hanover). The goal of this course is to provide students with real-world, hands-on experience with existing enterprises through internship during graduate school. Such experience will expose students to diverse career opportunities during graduate school, providing students with lead-time to focus and network in a field of interest prior to completion of their PhD. Multiple types of training (e.g., project management and business entrepreneurship skills needed in the pharmaceutical and biotechnology industries, teaching experience needed for a successful faculty position in liberal arts colleges) will be particularly valuable for students who go on to conduct NIH-funded research as well as benefit those students who do not follow the academic research career track. Approximately 30% of biomedical PhDs work in the biotech and pharmaceutical industries in research and non-research positions.\n \nExamples of potential internship opportunities are:\n\n    Researcher in a biotechnology or pharmaceutical company\n    Business and marketing associate in a biotechnology or pharmaceutical company\n    Teacher/lecturer at an institution of higher education/college\n    Assistant at a patent law firm\n    Position in office of government policy and legislation\n    Position in office of public health policy\n\n   For this course, the student will propose and arrange a paid or unpaid internship in an existing enterprise (industry, government, or other) in consultation with their Thesis Advisor (primary mentor), Advisory Committee, and MCB Graduate Committee prior to enrollment.  This process should happen in advance of the term of enrollment. Course enrollment is concurrent with the internship and should be for a period of one term. At the end of the internship, the student will make an oral presentation (with Powerpoint slides; approx. 20 minutes) to the MCB community that addresses the nature of the enterprise they were engaged in, the problem they were assigned, and the results and impact of their project. The purpose of the presentation is to share lessons learned from the internship experience with the MCB community. The presentation will be accompanied by a short but complete written report. Neither the presentation nor report should contain confidential information of the enterprise.\n   The Internship Proposal Form  must be completed prior to committing to an internship, and must be signed by the student’s Thesis Advisor and the Course Director. A letter from the Internship Supervisor at the proposed host enterprise must be sent to the Thesis Advisor and Course Director detailing the start/end dates of the internship, and the job function and roles of the intern.\nPrerequisite: Must have completed all MCB Program and course requirements prior to enrolling.  Senior students in their fourth year or beyond who are still conducting their research and are at least 6 months away from thesis defense will be eligible.  Must have prior approval of Thesis Advisor, Advisory Committee and MCB Graduate Committee for internship.  \nThis course is graded on a credit/no credit basis by the Course Director after completion of the written report and oral presentation. International students with visa sponsorship should consult with the Office of Visa and Immigration Services (OVIS) regarding eligibility, and review the appended information on F-1 Curricular Practical Training.\nFinancial matters:\n   The internship may be paid or unpaid by the host enterprise or by Dartmouth stipend, depending on arrangement with their Thesis Advisor (as in cases where the internship is a collaboration that will benefit the Advisor’s research), but the total student/intern salary cannot exceed the amount that student would have otherwise received as Dartmouth stipend. Internship at another academic institution to perform research is discouraged; the goal of this internship program is to expose students to career environments not found within Dartmouth. The Thesis Advisor cannot serve as or appoint the Internship Supervisor (such as in cases where the proposed internship would be hosted by a local company in which the Thesis Advisor has a stake/role).\n   Dartmouth-based health insurance benefits will be paid by the student’s Thesis Advisor for the term.",
+    "instructor": "Yina Huang",
+    "num": "128",
+    "offered": "",
+    "subj": "MICR",
+    "title": "MICR 128 Enterprise Experience Internship"
+  },
   "MICR-295": {
     "description": "This is an independent study course for a student who has an opportunity for relevant training via an unpaid internship or other unpaid learning outside of Dartmouth's curricular offerings.  The training must be for a set period of tine with stipend support from the student's Dartmouth research advisor.  This outside experience must be deemed beneficial to the student's research work and be pre-approved by the research advisor, program chair, MCB chair, and Graduate Studies Office.",
     "instructor": "",
@@ -20747,6 +21807,15 @@
     "title": "MUS 14.03 Electronics for Musicians",
     "xlist": "COCO 017 ENGS 017"
   },
+  "MUS-16": {
+    "description": "This course investigates how musical media stimulate social, cultural, and ideological exchange in the twenty-first century. Through global perspectives, we will consider the roles of film, television, video games, music videos, and related media—from autotune controversies to Guitar Hero tournaments, from the live-tweeting of Wagner’s Ring to Tan Dun’s Internet Symphony for the YouTube Orchestra. Prominent themes include: new media’s purported democratizing effects on the production, circulation, and consumption of music; the changing roles and responsibilities of musicians in an age of digital globalization; and the power of musical media to structure human experience writ large.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "",
+    "num": "16",
+    "offered": "",
+    "subj": "MUS",
+    "title": "MUS 16 Music and Image"
+  },
   "MUS-16.01": {
     "description": "This course is an introduction to the history of visual music, the exploration of the relationship between music and (mostly) abstract imagery. We will investigate this subject from its predecessors to current day—tracing the constantly expanding practices of visual music through painting, cinema, performance, and installation—from intuitive sketch films to complex algorithmic works. Students should bring an enthusiastic interest in the medium and devote serious effort to reading about, viewing, researching, and discussing all things visual music.",
     "distrib": "Dist:ART; WCult:W",
@@ -20775,6 +21844,15 @@
     "subj": "MUS",
     "title": "MUS 16.03 Water In the Lake: Real Events for the Imagination",
     "xlist": "FILM 41.17"
+  },
+  "MUS-17": {
+    "description": "This rubric covers courses that approach physical, social, and cultural aspects of music through the perspective of two or more scholarly disciplines and/or artistic practices. Such courses will typically be cross-listed with other departments or programs and co-taught.",
+    "distrib": "ART",
+    "instructor": "",
+    "num": "17",
+    "offered": "",
+    "subj": "MUS",
+    "title": "MUS 17 Interdisciplinary Studies"
   },
   "MUS-17.01": {
     "description": "This experimental interdisciplinary course explores the intersection of ethnography and art as means of documenting how humans interact with landscape and soundscape in some of the earth’s most extreme environments. Examples are drawn from music and sound art, field recordings, film, photography, writing, and emerging multimedia practices, with a focus on the “cross-breeding” of documentary media and methodologies that are mutually enriching. In addition to reading, writing, listening, and viewing assignments, students will conduct their own empirical exploration of the interrelationship of landscape and soundscape through a self-designed audiovisual project. Throughout the course, students will be challenged to develop their own critical, creative, and sensorial understanding of the relationship of nature and culture, and of the relevance of artistic practice to the human sciences.",
@@ -24586,6 +25664,14 @@
     "subj": "PORT",
     "title": "PORT 80 Seminar"
   },
+  "PORT-83": {
+    "description": "A program of individual study directed by a member of the Spanish and Portuguese faculty. PORT 83 will normally consist of a program of reading and research that is not covered in regularly scheduled course offerings. After consultation with the faculty advisor of the project, all Independent Study proposals must be submitted for approval to the Department. Under normal circumstances, no student may receive credit for this course more than once. Students interested in pursuing an Independent Study must identify their topic and faculty advisor, and present a proposal to their faculty advisor and to the Department for approval no later than the seventh week of the term preceding the term they wish to undertake the Independent Study.",
+    "instructor": "",
+    "num": "83",
+    "offered": "",
+    "subj": "PORT",
+    "title": "PORT 83 Independent Reading and Research"
+  },
   "PORT-9": {
     "description": "This course serves as a transition between the basic Portuguese language sequence and upper-level courses. Through a selective review of grammar, vocabulary-building exercises, and readings and discussion of contemporary topics affecting the Portuguese-speaking world, students will develop their ability to write and speak clear, correct and idiomatic Portuguese in order to achieve competence in the language Open to all classes.",
     "distrib": "LIT",
@@ -24594,6 +25680,22 @@
     "offered": "",
     "subj": "PORT",
     "title": "PORT 9 Writing and Speaking: A Cultural Approach"
+  },
+  "PORT-90": {
+    "description": "Supervised independent research under the direction of a designated advisor. Honors students will normally elect this course as the first in the required sequence (90 and 91) for completion of the Honors Program. PORT 90 is intended to prepare the student for writing the Honors thesis, through readings in primary and secondary texts, theory and methodology. The course will include periodic written assignments and culminate in a final paper.",
+    "instructor": "",
+    "num": "90",
+    "offered": "",
+    "subj": "PORT",
+    "title": "PORT 90 Honors Course"
+  },
+  "PORT-91": {
+    "description": "A prearranged program of study and research during any term of the senior year, on a tutorial basis, with individual faculty members (normally the thesis advisor). A thesis and public presentation are the expected culmination of the course.",
+    "instructor": "",
+    "num": "91",
+    "offered": "",
+    "subj": "PORT",
+    "title": "PORT 91 Honors Seminar"
   },
   "PSYC-1": {
     "description": "This course provides an introduction to the scientific study of the mind, brain, and behavior. Emphasis is placed upon the basic psychological processes of perception, consciousness, cognition, memory, and motivation as well as development, personality, individual differences, social behavior, and psychological disorders.",
@@ -26946,6 +28048,51 @@
     "subj": "RUSS",
     "title": "RUSS 1 Introductory Russian"
   },
+  "RUSS-10": {
+    "description": "An examination of Russia as a cultural, national, and historical entity part of and yet apart from both Europe and Asia. Russia is a continental power of vast proportions whose traditions, character, national myths, and forms of political organization often seem a mirror-image to those of the United States. After a brief survey of Russian history, the course will examine certain determinants of Russian culture, including Christianity, multinationalism, and the status of Russian civilization on the periphery of Europe. The course will then deal with the art, music, and popular literature of Russia, and conclude by examining certain contemporary issues, including the complex coexistence of Russian and Soviet culture. Open to all classes.",
+    "distrib": "Dist:TMV; WCult:CI",
+    "instructor": "Griffin",
+    "num": "10",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 10 Introduction to Russian Civilization"
+  },
+  "RUSS-11": {
+    "description": "Courses offered regularly on special aspects of Russian Culture.",
+    "instructor": "",
+    "num": "11",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 11 Special Topics in Russian Culture"
+  },
+  "RUSS-11.03": {
+    "description": "We will explore a wide variety of domestic and foreign media including film, music, jokes, detective novels, and streaming online videos across the Soviet period and into the present time. Artistic disciplines during the Soviet period were firmly entrenched within cultural industries that featured union memberships, the means to control production, distribution, and exhibition. Nonetheless, what was popular throughout Russo-Soviet history did not always emanate from state guided channels. How do we account for what we perceive as “anomalies” in Russian popular culture: why did people listen to American jazz music under Stalin? Why were Bollywood films more popular than Soviet comedies? Why were Brazilian and Mexican telenovelas standard viewing in Soviet homes? How did the presence of foreign texts relate to the multi-ethnic makeup on the Soviet Union? How were founding mythologies of the nation encoded/rejected in domestic texts?   While popular culture encompasses a multitude of media, special attention will be paid to trends in music and cinema, offering students a comprehensive, historical arc of each medium’s development in Russia. The course will seek to establish a working definition of what we actually mean by “Russian popular culture.” Firstly, how do we differentiate between categorizations of mass culture versus popular culture? Secondly, we will challenge the notion of national culture when referring to the terms “Russian” and “Soviet” culture throughout the semester. Each unit is organized around the construct of “svoi” (“ours”) vs. “chuzhoi” (“theirs”), offering the class a point of comparison for how domestically produced culture often rivaled official foreign imports and blackmarket, unofficial distributed products. We will also explore larger, universal questions that revolve around top-bottom and bottom-up models of how popular culture operates. What does popular culture mean in the capitalist market context, and how might that definition change under socialism?",
+    "distrib": "Dist:INT or SOC; WCult:W",
+    "instructor": "",
+    "num": "11.03",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 11.03 How the Hammer and Sickle Gave Way to McDonalds"
+  },
+  "RUSS-11.04": {
+    "description": "The objective of this course is to give the student an overview of Russian music in order better to understand the cultural, religious, and political history of Russia’s past 1,000 years and to position the student’s ongoing mastery of this history within a larger context. Questions that emerge from this course will find echoes in current cultural, religious, and political issues, and students will be directed to explore these intersections in class discussions and coursework.",
+    "distrib": "Dist:ART; WCult:W",
+    "instructor": "",
+    "num": "11.04",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 11.04 Topics in Music History: Russian Music",
+    "xlist": "MUS 40.05"
+  },
+  "RUSS-12": {
+    "description": "Open to all classes.",
+    "distrib": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "num": "12",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 12 Ethnicity and Nationalism in Russia and the Neighboring States"
+  },
   "RUSS-13": {
     "description": "In this course, we will discuss a variety of genres from Russian folklore. As we move from the familiar genre of the riddle to the often mystifying beliefs and rituals of the ancient Slavs and then to the fairy tale, comfortingly familiar from childhood, we will learn to not only recognize the richness and density of texts that may initially seem uncomplicated but also to discern the patterns and meanings behind the apparently exotic narratives and behaviors. By thoroughly studying one of the world's richest oral traditions, Slavic folk life and folklore, we will acquire the tools and techniques necessary for collecting, documenting, and interpreting folklore -- which is perhaps the most truly international of all arts. The course is based on materials in Russian and East European cultures, but also draws from other traditions. Open to all classes.",
     "distrib": "Dist:INT or LIT; WCult:W",
@@ -26991,6 +28138,14 @@
     "offered": "",
     "subj": "RUSS",
     "title": "RUSS 19 Understanding the Russians: The Role of Language and Culture in Communication"
+  },
+  "RUSS-2": {
+    "description": "An introduction to Russian as a spoken and written language. None of these serves in partial satisfaction of the Distributive or World Culture Requirements.",
+    "instructor": "Rakova",
+    "num": "2",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 2 Introductory Russian"
   },
   "RUSS-21": {
     "description": "This course, taught by the faculty member directing the Moscow program, introduces students to aspects of contemporary Russian culture through a variety of media, including literature and journalism, film, television, and art.  The topic will vary from year to year, depending on the specialty of the faculty member. Credit for this course is awarded to students who have successfully completed the Dartmouth Foreign Study Program in Russia.",
@@ -27231,6 +28386,14 @@
     "title": "RUSS 50.02 The Russian Revolution",
     "xlist": "HIST 055"
   },
+  "RUSS-7": {
+    "description": "",
+    "instructor": "Finkel",
+    "num": "7",
+    "offered": "",
+    "subj": "RUSS",
+    "title": "RUSS 7 First-Year Seminar in Russian"
+  },
   "RUSS-71": {
     "description": "In this seminar, advanced learners and native speakers of Russian have an opportunity to read in the original and to study in depth works that are central to Russian intellectual history and literary tradition. Topics vary from year to year and may concentrate either on individual authors (Pushkin, Chekhov, Gogol), or a period (Middle Ages, The Silver Age, the Post-Soviet era), or a phenomenon (Russian Humor, Popular Culture, Utopianism). The course is conducted in Russian.",
     "distrib": "Dist:LIT; WCult:W",
@@ -27455,6 +28618,33 @@
     "subj": "SART",
     "title": "SART 20 Drawing II"
   },
+  "SART-21": {
+    "description": "Sculpture II is an in-depth approach to the conceptual and physical aspects of making sculpture. Techniques such as woodworking and welding, along with the exploration of unconventional materials, will be used. Contemporary ideas involving installation, outdoor and site specific work will be explored in the cultural context of making sculpture today. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Garand & Associates",
+    "num": "21",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 21 Sculpture II"
+  },
+  "SART-22": {
+    "description": "A course based on drawing the human form. Most work will be done from direct observation. Attention will be paid to issues of mark, light, volume, space, and composition. Students will consider the complex relationship of perception, invention, and visual structure in the context of working from the figure. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Auten",
+    "num": "22",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 22 Figure Drawing"
+  },
+  "SART-23": {
+    "description": "Sculpture through direct observation, and learning to translate perceived form into sculptural form using the figure as subject is the emphasis of this class. Importance is placed on the fundamental sculptural principles of proportion, volume, and gesture, along with the relationship between the physical and psychological aspects of the human form and its contextual presentation. Modeling directly in clay, as well as plaster casts, and other additive processes and materials will be explored. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Garand & Associates",
+    "num": "23",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 23 Figure Sculpture"
+  },
   "SART-25": {
     "description": "Painting I is an introductory class in oil painting techniques, painting language, and critical thinking. Major topics that will be covered include: basic color theory, color mixing, paint application, and color composition. A variety of subjects such as still life, non-observational invention, and the human figure will be emphasized. Supplemental course fee required. Enrollment limited.",
     "distrib": "Dist:ART",
@@ -27481,6 +28671,24 @@
     "offered": "",
     "subj": "SART",
     "title": "SART 27 Printmaking I - Etching"
+  },
+  "SART-28": {
+    "description": "An intensive studio exploration of intermediate printmaking processes such as Monotype, Etching, Relief, and Lithography. Color printing and various other techniques will be taught, and combinations of materials and technique encouraged.   Students develop individual portfolios of work. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Lee & Associates",
+    "num": "28",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 28 Printmaking II"
+  },
+  "SART-29": {
+    "description": "An introductory darkroom course concentrating on the fundamentals of operating and understanding a camera: black & white film processing and printmaking techniques, and the use of the camera as a tool of creative expression. Through lectures, reading discussions, and critiques, students develop the ability to think and participate in critical contemporary art discourse regarding images and image making. The class culminates in a final project focused on conceptual content and fine printing skills. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Seely, Beahan",
+    "num": "29",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 29 Photography I"
   },
   "SART-30": {
     "description": "This intermediate studio course introduces students to aesthetic and theoretical implications of digital photography and to the underlying principles, languages and tools of electronic media. Studio emphasis is on digital workflow from camera input to final-print output, mastering a range of digital equipment, and print quality. The course examines contemporary art world trends, the evolving nuances of broader image culture, and the intersection of photography with architectural space and a range of media. Supplemental course fee required. Enrollment limited.",
@@ -27553,6 +28761,24 @@
     "offered": "",
     "subj": "SART",
     "title": "SART 73 Sculpture III"
+  },
+  "SART-74": {
+    "description": "This course allows students to explore a particular area of printmaking in depth, with added consideration of scale and presentation.  Choosing their own technique(s) and subject(s), each student will develop a portfolio of advanced work in a personal style.  New materials and techniques will be introduced on an individual basis, as appropriate. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Lee & Associates",
+    "num": "74",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 74 Printmaking III"
+  },
+  "SART-75": {
+    "description": "A single problem will constitute the term's work. The student will have the opportunity to concentrate on one subject, to investigate new techniques of photographic craft, and to employ the camera as a means toward the making of a personal, creative statement. Supplemental course fee required. Enrollment limited.",
+    "distrib": "Dist:ART",
+    "instructor": "Seely",
+    "num": "75",
+    "offered": "",
+    "subj": "SART",
+    "title": "SART 75 Photography III"
   },
   "SART-76": {
     "description": "The first half of the two-term culminating experience in Studio Art. The seminar is devoted to developing critical skills and a body of work predicated upon a student's ability to conceive, structure, sustain, and resolve an individual course of study in painting, drawing, printmaking, sculpture, photography, or architecture. Work will be reviewed by the faculty and an outside examiner. Supplemental course fee required.",
@@ -28827,6 +30053,16 @@
     "offered": "",
     "subj": "SPEE",
     "title": "SPEE 40 Resistance To Influence: Inoculation Theory-Based Persuasion"
+  },
+  "SSOC-1": {
+    "description": "This course is designed to acquaint students with the fundamentals of war and peace; that is, with the political uses of military power and the respective roles of military and civilian leaders in formulating and implementing foreign policy. We will also investigate how war affects civil society's social movements and how the characteristics of states' domestic politics arrangements affect or constrain the ways that leaders choose to execute their most preferred strategies. Finally, we will also try to come to an understanding of what war is actually like for those, both combatant and non-combatant, that must participate in war on a daily basis.",
+    "distrib": "SOC",
+    "instructor": "Valentino",
+    "num": "1",
+    "offered": "",
+    "subj": "SSOC",
+    "title": "SSOC 1 War and Peace in the Modern Age",
+    "xlist": "WPS 1 and undefined"
   },
   "THEA-1": {
     "description": "As a set of staged practices rich with social context, theater has sought to document, engage, and affect communities. This course introduces and explores theater from page to stage as a live performing art. Topics include the relationship between theater and society (historical and contemporary), dramatic structure, theatrical representation, and the crafts of theater artists such as directors, designers, playwrights, and actors. We will also engage with live performances and video archives of past performances.",
