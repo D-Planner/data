@@ -49,6 +49,11 @@
         "changed": "AAAS 28.10 Race, Space, and Nature-undefined,AAAS 33.10 Rituals of Breath: Black Performance and Resistance-undefined,AAAS 61.05 Black Agrarian Democracy: Haitian History from Revolution to the Fall of the Duvalier Dictatorship-undefined,AAAS 68.08 Afro/Black Paris in Film and Life-undefined,ANTH 27 Economic Anthropology in a Changing World-undefined,ANTH 50.37 Archaeologies of Religion-undefined,ARTH 28.09 Art on the Move: Renaissance Italy and the Islamic World-undefined,ARTH 83.05 Advanced Seminar: Art and the Law-undefined,COCO 33 Homelands and Diasporas: Russian Jews on Three Continents-undefined,COCO 34 Psychoanalysis and Philosophy-undefined,COCO 35 Color in Art and Philosophy-undefined,COGS 11.05 Moral Psychology-undefined,COLT 39.04 The Case Study: Crime, Medicine, and Modern Society-undefined,COLT 40.08 Sounding Out Power and Dissent-undefined,COSC 49.10 Randomized Algorithms-undefined,COSC 89.27 Security and Privacy of Machine Learning-undefined,EARS 13 Introduction to Computational Methods in Earth Science-undefined,EARS 86 Special Projects-undefined,ENGL 54.17 Psychoanalysis and Philosophy-undefined,ENGL 63.29 Self, Subject, Photography-undefined,FILM 42.19 The Middle East in Film: Picturing the Past and Present-undefined,FILM 44.10 Writing for Television-undefined,FILM 44.11 Sounding Out Power and Dissent-undefined,FREN 20.03 Long Live the Revolution-undefined,GEOG 50.03 GIS Programming and Databases-undefined,GEOG 61.01 Hydroclimatology-undefined,GOVT 39 Political Psychology-undefined,GOVT 83.27 Public Policy and Politics-undefined,GOVT 83.28 Persuasion and the Policy Process-undefined,GOVT 85.44 Soldier, Army, State, War-undefined,GOVT 86.42 Work, Leisure, and a Good Life-undefined,GRK 10.13 New Testament-undefined,HIST 16.02 Plantations and Slavery in the Americas-undefined,HIST 44.02 Arts of Power, from Augustus to the Sun King-undefined,ITAL 35.03 Migration, Ecology, and the Mediterranean-undefined,JWST 10.05 Jewish Music: Traditional and Modern-undefined,JWST 15.01 Silence, Exile, and Cunning: Comparing Jewish and African Diasporic Literatures-undefined,JWST 40.06 Jerusalem: A Cultural History-undefined,JWST 5.01 Homelands and Diasporas: Russian Jews on Three Continents-undefined",
         "hash": "854c0997137aecaf",
         "timestamp": "2020-11-05T01:40:07.861Z"
+      },
+      {
+        "changed": "",
+        "hash": "c90fecb48ad849ax",
+        "timestamp": "2020-11-05T02:12:40.439Z"
       }
     ],
     "timetable": [
@@ -316,8 +321,8 @@
   "current": {
     "orc": {
       "changed": "",
-      "hash": "c90fecb48ad849ax",
-      "timestamp": "2020-11-05T02:12:40.439Z"
+      "hash": "c4dee0cd04c6c209",
+      "timestamp": "2020-11-05T06:49:40.854Z"
     },
     "timetable": {
       "changed": "",
