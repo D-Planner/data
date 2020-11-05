@@ -1191,6 +1191,18 @@
     "subj": "AAAS",
     "title": "AAAS 99 Honors Thesis in African and African American Studies"
   },
+  "AAAS 28.10 Race, Space, and Nature-undefined": {
+    "subj": "AAAS 28.10 Race, Space, and Nature"
+  },
+  "AAAS 33.10 Rituals of Breath: Black Performance and Resistance-undefined": {
+    "subj": "AAAS 33.10 Rituals of Breath: Black Performance and Resistance"
+  },
+  "AAAS 61.05 Black Agrarian Democracy: Haitian History from Revolution to the Fall of the Duvalier Dictatorship-undefined": {
+    "subj": "AAAS 61.05 Black Agrarian Democracy: Haitian History from Revolution to the Fall of the Duvalier Dictatorship"
+  },
+  "AAAS 68.08 Afro/Black Paris in Film and Life-undefined": {
+    "subj": "AAAS 68.08 Afro/Black Paris in Film and Life"
+  },
   "ANTH-1": {
     "description": "This course explores the unity and diversity of humankind by examining our evolution as a single biological species that nonetheless depends for its survival on learned-and therefore varied as well as variable-patterns of cultural adaptation. Lectures and readings address the relationship between the material conditions of our existence, our unique human capacity for creative thought and action, and changes in the size and scale of human societies.",
     "distrib": "Dist:INT or SOC; WCult:CI",
@@ -1960,6 +1972,12 @@
     "offered": "",
     "subj": "ANTH",
     "title": "ANTH 9 Language and Culture"
+  },
+  "ANTH 27 Economic Anthropology in a Changing World-undefined": {
+    "subj": "ANTH 27 Economic Anthropology in a Changing World"
+  },
+  "ANTH 50.37 Archaeologies of Religion-undefined": {
+    "subj": "ANTH 50.37 Archaeologies of Religion"
   },
   "ARAB-1": {
     "description": "An introduction to written and spoken Modern Standard Arabic (MSA). In addition to mastering the basics of grammar, emphasis is placed on active functional communication in the language, reading comprehension, and listening comprehension. Mandatory apprentice-teacher-run drill sessions meet four times/week (4 hours/week) for all beginning Arabic language classes. \nNever serves in partial satisfaction of Distributive or World Culture requirements.",
@@ -3010,6 +3028,12 @@
     "offered": "",
     "subj": "ARTH",
     "title": "ARTH 92 Honors II"
+  },
+  "ARTH 28.09 Art on the Move: Renaissance Italy and the Islamic World-undefined": {
+    "subj": "ARTH 28.09 Art on the Move: Renaissance Italy and the Islamic World"
+  },
+  "ARTH 83.05 Advanced Seminar: Art and the Law-undefined": {
+    "subj": "ARTH 83.05 Advanced Seminar: Art and the Law"
   },
   "ASCL-1.01": {
     "description": "Asian cities, once considered to be recipients or followers of urban models imposed by Western cities, have become new models of urbanism themselves, thereby serving as the heart of the growing body of scholarship which focuses on such dynamic urban processes reshaping cities across the globe. For instance, over the last few decades, Singapore, Shanghai, and Seoul have distinguished themselves as points of reference for other aspiring cities in and beyond Asia. How have Asian cities transformed in an interconnected global economy? How does an interdisciplinary reading of Asian cities provide ways to think anew about Asia today?\n            With Asia at the center of our urban inquiries, this course proposes to read Asian cities from historical and comparative perspectives. The primary purpose of this course is to introduce students to multiple disciplinary approaches to Asia’s urban environments and their dynamic relationships to other parts of the world. The course features instructors from several Dartmouth departments and programs presenting a diversity of theoretical perspectives and empirical studies drawn from cities across East, South, and Southeast Asia.",
@@ -5785,6 +5809,15 @@
     "subj": "COCO",
     "title": "COCO 6 Autism: Science, Story, and Experience"
   },
+  "COCO 33 Homelands and Diasporas: Russian Jews on Three Continents-undefined": {
+    "subj": "COCO 33 Homelands and Diasporas: Russian Jews on Three Continents"
+  },
+  "COCO 34 Psychoanalysis and Philosophy-undefined": {
+    "subj": "COCO 34 Psychoanalysis and Philosophy"
+  },
+  "COCO 35 Color in Art and Philosophy-undefined": {
+    "subj": "COCO 35 Color in Art and Philosophy"
+  },
   "COGS-1": {
     "description": "Cognitive Science aims to understand how the mind works by using tools and insights from a variety of fields including experimental psychology, computer science, linguistics, vision science, philosophy, anthropology, behavioral economics, and neuroscience. This course will introduce you to many of the major tools and theories from these areas as they relate to the study of the mind. We will tour mental processes such as perception, reasoning, memory, attention, imagery, language, intelligence, decision-making, and morality, and discover many strange and amazing properties of mind.",
     "distrib": "Dist:SOC",
@@ -5965,6 +5998,9 @@
     "offered": "",
     "subj": "COGS",
     "title": "COGS 87 Honors Thesis"
+  },
+  "COGS 11.05 Moral Psychology-undefined": {
+    "subj": "COGS 11.05 Moral Psychology"
   },
   "COLT-1": {
     "description": "Do you know how to read? Faces. Words. Pictures. Bodies. Games. Books. People. What are you really doing when you read the world?  This course teaches comparative methods designed to confront the (mis)understandings and (mis)translations that constitute reading across the world's languages, locations, cultures, historical periods, and expressive forms.  Classwork consists of hands-on exercises that engage ancient and modern myths and materials drawn from various media: text, movies, video games, anime, and digital arts.",
@@ -6248,6 +6284,12 @@
     "offered": "",
     "subj": "COLT",
     "title": "COLT 87 Thesis Tutorial"
+  },
+  "COLT 39.04 The Case Study: Crime, Medicine, and Modern Society-undefined": {
+    "subj": "COLT 39.04 The Case Study: Crime, Medicine, and Modern Society"
+  },
+  "COLT 40.08 Sounding Out Power and Dissent-undefined": {
+    "subj": "COLT 40.08 Sounding Out Power and Dissent"
   },
   "COSC-1": {
     "description": "This course introduces computational concepts that are fundamental to computer science and are useful for the sciences, social sciences, engineering, and digital arts. Students will write their own interactive programs to analyze data, process text, draw graphics, manipulate images, and simulate physical systems. Problem decomposition, program efficiency, and good programming style are emphasized throughout the course. No prior programming experience is assumed.",
@@ -6981,6 +7023,12 @@
     "offered": "",
     "subj": "COSC",
     "title": "COSC 99.02 Thesis Research II"
+  },
+  "COSC 49.10 Randomized Algorithms-undefined": {
+    "subj": "COSC 49.10 Randomized Algorithms"
+  },
+  "COSC 89.27 Security and Privacy of Machine Learning-undefined": {
+    "subj": "COSC 89.27 Security and Privacy of Machine Learning"
   },
   "CRWT-040": {
     "description": "These courses are offered periodically, concentrating on particular issues in one or more of the fields of poetry, fiction, and creative nonfiction. Courses may require creative and critical papers and include workshops.",
@@ -7717,6 +7765,12 @@
     "offered": "",
     "subj": "EARS",
     "title": "EARS 91 Science Communication"
+  },
+  "EARS 13 Introduction to Computational Methods in Earth Science-undefined": {
+    "subj": "EARS 13 Introduction to Computational Methods in Earth Science"
+  },
+  "EARS 86 Special Projects-undefined": {
+    "subj": "EARS 86 Special Projects"
   },
   "ECON-1": {
     "description": "Emphasis will be placed on problems and policies of current interest as they relate to resource use and the distribution of income and output. Students will receive an introduction to the theory of supply and demand in both product and factor markets in order to examine selected topics drawn from such areas as industrial organization and antitrust policy, labor economics, international trade, economic development, agriculture, urban problems, poverty and discrimination, public sector economics, and environmental problems.",
@@ -10296,6 +10350,12 @@
     "subj": "ENGL",
     "title": "ENGL 99 Honors Course II"
   },
+  "ENGL 54.17 Psychoanalysis and Philosophy-undefined": {
+    "subj": "ENGL 54.17 Psychoanalysis and Philosophy"
+  },
+  "ENGL 63.29 Self, Subject, Photography-undefined": {
+    "subj": "ENGL 63.29 Self, Subject, Photography"
+  },
   "ENGS-1": {
     "description": "This course is intended to take the mystery out of the technology that we have grown to depend on in our everyday lives. Both the principles behind and examples of devices utilizing electricity, solid and fluid properties, chemical effects, mechanical attributes and other topics will be discussed. In the associated lab project, students will dissect, analyze, (and possibly revive!) a broken gadget or appliance of their choosing. This course has no prerequisite, but enrollment is limited to 50 students.",
     "distrib": "TLA",
@@ -12306,6 +12366,15 @@
     "subj": "FILM",
     "title": "FILM 96 Honors Project II"
   },
+  "FILM 42.19 The Middle East in Film: Picturing the Past and Present-undefined": {
+    "subj": "FILM 42.19 The Middle East in Film: Picturing the Past and Present"
+  },
+  "FILM 44.10 Writing for Television-undefined": {
+    "subj": "FILM 44.10 Writing for Television"
+  },
+  "FILM 44.11 Sounding Out Power and Dissent-undefined": {
+    "subj": "FILM 44.11 Sounding Out Power and Dissent"
+  },
   "FREN-1": {
     "description": "An introduction to French as a spoken and written language. The work includes regular practice in class and scheduled drill-sessions in understanding and using the spoken language. Written exercises and elementary reading materials serve for vocabulary building and discussion. Never serves in partial satisfaction of the Distributive or World Culture Requirements.",
     "instructor": "See department website",
@@ -13016,6 +13085,9 @@
     "offered": "",
     "subj": "FREN",
     "title": "FREN 9 Language Study Abroad: Readings in French Literature"
+  },
+  "FREN 20.03 Long Live the Revolution-undefined": {
+    "subj": "FREN 20.03 Long Live the Revolution"
   },
   "FRIT-31": {
     "description": "Many approaches to language teaching and learning have been proposed and implemented over time. From learning grammar rules and lists of vocabulary to memorization and practice of correct sentences to natural communication, project work, communicative language teaching, and content-based learning, this course will introduce students to some of the language acquisition research that will help them understand how languages are learned. Topics explored in the course will include language awareness, bilingualism, early-child language learning, the major trends in twentieth-century language teaching, and the role of technology in language learning. The course will also offer students the opportunity to reflect on language learning on a personallevel, to find out how they think as language learners and how they can empower themselves to learn languages in an active andengaged manner. Hands-on activities, including class observations, textbook evaluations, and interviews with language learners, will complement the course. Open to all students. Text, lectures, and discussion in English. Students taking the course for major or minor credit in Italian will attend a weekly x-hour and do all written work in Italian. Not open to students who have received credit for FRIT 093.",
@@ -14239,6 +14311,12 @@
     "offered": "",
     "subj": "GEOG",
     "title": "GEOG 90 Research in Geography"
+  },
+  "GEOG 50.03 GIS Programming and Databases-undefined": {
+    "subj": "GEOG 50.03 GIS Programming and Databases"
+  },
+  "GEOG 61.01 Hydroclimatology-undefined": {
+    "subj": "GEOG 61.01 Hydroclimatology"
   },
   "GERM-1": {
     "description": "Introduction to written and spoken German.  Intensive study of basic grammar and vocabulary through readings, oral and written drills, composition exercises, and conversation.  Never serves in partial satisfaction of the Distributive or World Culture Requirement.",
@@ -16197,6 +16275,21 @@
     "subj": "GOVT",
     "title": "GOVT 99 Honors Thesis"
   },
+  "GOVT 39 Political Psychology-undefined": {
+    "subj": "GOVT 39 Political Psychology"
+  },
+  "GOVT 83.27 Public Policy and Politics-undefined": {
+    "subj": "GOVT 83.27 Public Policy and Politics"
+  },
+  "GOVT 83.28 Persuasion and the Policy Process-undefined": {
+    "subj": "GOVT 83.28 Persuasion and the Policy Process"
+  },
+  "GOVT 85.44 Soldier, Army, State, War-undefined": {
+    "subj": "GOVT 85.44 Soldier, Army, State, War"
+  },
+  "GOVT 86.42 Work, Leisure, and a Good Life-undefined": {
+    "subj": "GOVT 86.42 Work, Leisure, and a Good Life"
+  },
   "GRK-1": {
     "description": "Study of Greek grammar, syntax, and vocabulary accompanied by reading of simple Greek prose selections. Never serves in partial satisfaction of the Distributive or World Culture Requirement.",
     "instructor": "Christesen",
@@ -16356,6 +16449,9 @@
     "offered": "",
     "subj": "GRK",
     "title": "GRK 87 Thesis"
+  },
+  "GRK 10.13 New Testament-undefined": {
+    "subj": "GRK 10.13 New Testament"
   },
   "HCDS-010": {
     "description": "This course will offer a student the opportunity to pursue other ventures in learning related to health care delivery. The topic must be approved and supervised by a faculty member and graded at its conclusion. The course is expected to be a high-quality, graduate level experience. It may be:\n\n    A subject studied independently that is unavailable at Dartmouth or not offered at a convenient time\n    A continuation of a course already taken, with new and original work",
@@ -18136,6 +18232,12 @@
     "subj": "HIST",
     "title": "HIST 99.02 Honors Thesis II"
   },
+  "HIST 16.02 Plantations and Slavery in the Americas-undefined": {
+    "subj": "HIST 16.02 Plantations and Slavery in the Americas"
+  },
+  "HIST 44.02 Arts of Power, from Augustus to the Sun King-undefined": {
+    "subj": "HIST 44.02 Arts of Power, from Augustus to the Sun King"
+  },
   "HUM-1": {
     "description": "An introduction to classics of Western Literature and the ways in which later writers have engaged with them. Readings may include Homer's Odyssey,  Dante's Inferno, Plato's Phaedrus, Mann's Death in Venice, Sophocles' Philoctetes, Shakespeare's Twelfth Night and Alice Munro's The Beggar Maid.  The course alternates between lectures and discussion sections, with emphasis on students' class participation and essay writing. Enrollment restricted to 48 first-year students.",
     "instructor": "  Hollister     McGillen, P     McMahon     Walden   Reyes    Roberta Stewart",
@@ -18764,6 +18866,9 @@
     "subj": "ITAL",
     "title": "ITAL 9 Advanced Language Through Culture"
   },
+  "ITAL 35.03 Migration, Ecology, and the Mediterranean-undefined": {
+    "subj": "ITAL 35.03 Migration, Ecology, and the Mediterranean"
+  },
   "JAPN-1": {
     "description": "An introduction to written and spoken modern Japanese. In addition to mastering the basics of grammar, emphasis is placed on active functional communication in the language, reading comprehension, and listening comprehension. Conversational drill and comprehensive exercises in classroom and laboratory provide practice in pronunciation and the use of the basic patterns of speech. Classes are conducted in Japanese. Reading in simple materials is extensive. Mandatory student-run drill sessions meet four times a week for fifty minutes for all beginning Japanese language classes.",
     "instructor": "Ishida, Watanabe",
@@ -19071,8 +19176,20 @@
     "subj": "JWST",
     "title": "JWST 85 Independent Study and Research"
   },
+  "JWST 10.05 Jewish Music: Traditional and Modern-undefined": {
+    "subj": "JWST 10.05 Jewish Music: Traditional and Modern"
+  },
+  "JWST 15.01 Silence, Exile, and Cunning: Comparing Jewish and African Diasporic Literatures-undefined": {
+    "subj": "JWST 15.01 Silence, Exile, and Cunning: Comparing Jewish and African Diasporic Literatures"
+  },
+  "JWST 40.06 Jerusalem: A Cultural History-undefined": {
+    "subj": "JWST 40.06 Jerusalem: A Cultural History"
+  },
   "JWST 44.01 The Middle East in Film: Picturing the Past and Present-undefined": {
     "subj": "JWST 44.01 The Middle East in Film: Picturing the Past and Present"
+  },
+  "JWST 5.01 Homelands and Diasporas: Russian Jews on Three Continents-undefined": {
+    "subj": "JWST 5.01 Homelands and Diasporas: Russian Jews on Three Continents"
   },
   "LACS-1": {
     "description": "This interdisciplinary course introduces students to the geographical conditions, historical roots, and enduring cultural diversity of Latin America and the Caribbean. After a brief survey of the physical and cultural geography of the region, the course examines the history of selected countries to highlight the way European conquest and colonialism have molded Latin American institutions and attitudes. The course then turns to particular case studies of contemporary life and society to analyze the ongoing problems of ethnicity, inequality, and political repression engendered by the region's colonial past. Finally, the course draws on these historical and anthropological understandings to assess recent economic, social, and political developments in Latin America. By juxtaposing historical realities with their living consequences, the course presents a multi-disciplinary perspective on the nature, dynamics-and future prospects-of the many peoples who inhabit this vast and diverse continent.",
