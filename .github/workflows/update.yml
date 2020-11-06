@@ -1,0 +1,14 @@
+name: Core Data Update
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Trigger Update Cloud Function
+        run: curl -X POST https://core.d-planner.com/api/update/
