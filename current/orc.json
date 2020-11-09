@@ -6168,6 +6168,15 @@
     "title": "COLT 57.05 Migration Stories",
     "xlist": "FILM 47.07 INTS 17.04"
   },
+  "COLT-57.11": {
+    "description": "Why do people migrate? How does their migration impact the places they cross? How have migrations trajectories changed in the last 150 years? Why do people embark in a risky journey across the Mediterranean Sea? How do their destination countries react to their arrivals? How does migration chance Europe? These are some of the questions we will try to answer in this class. Using an interdisciplinary approach, we will look at what the impact of migration is on the environment and in the process of changing old ideas about what Europe is. Through an interdisciplinary approach using material that originates from both the humanities (film and literature literature) and the social sciences (mainly geography and sociology), we will explore the present and discuss the possible futures of migrations across the Mediterranean.",
+    "distribs": "Dist:INT; WCult:W",
+    "instructor": "",
+    "number": 57.11,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 57.11 Migration, Ecology, and the Mediterranean"
+  },
   "COLT-60.01": {
     "description": "We will be asking questions about the interplay of literature and language with music.  Does music have “meaning” in the conventional or in any other sense, and if so, does it have a characteristic way of conveying meaning? We will consider several permutations of the relationship of music and language, and especially inspect the fringes, where a listener may say “this is no longer music” or “this is no longer speech.”  Does music without a text in fact always have a text? What happens to poems when they become songs or prose plots when they become opera?  Conversely, are there stories that incorporate music or are composed according to a musical form?  In your writing, you may choose musical examples that suit your tastes and expertise; and you will devise and write a final paper of your choice.",
     "distribs": "Dist:INT or LIT; WCult:W",
@@ -6567,7 +6576,7 @@
   "COSC-55": {
     "description": "The migration of important social processes to distributed, electronic systems raises critical security and privacy issues. Precisely defining security and privacy is difficult; designing and deploying systems that provide these properties is even harder. This course examines what security and privacy mean in these settings, the techniques that might help, and how to use these techniques effectively. Our intention is to equip computer professionals with the breadth of knowledge necessary to navigate this emerging area.",
     "distribs": "Dist:TAS",
-    "instructor": "Palmer (Winter), Pierson (Spring)",
+    "instructor": " Palmer (Fall), Pierson (Winter)",
     "number": 55,
     "offered": "",
     "subject": "COSC",
@@ -18333,6 +18342,14 @@
     "subject": "HUM",
     "title": "HUM 3.05 The Invention of News"
   },
+  "HUM-3.06": {
+    "description": "This course uncovers a lost chapter in the history of modernity, engaging the Middle East in a global context both as object of representation and experimentation but also as incubator of new models of community, literary genres, and historical narratives. From Zionism to Baathism, the 20th century has witnessed the implementation of national projects that can be traced to revivalist movements in the 18th and 19th centuries in Europe and the Ottoman Empire, intellectual and poets writing in Paris, Vienna, Alexandria, and Beirut, imagining new national identities and literary canons. These essays, novels, manifestos, films, paintings, and poems had transformative effects on the Middle East, redrawing its political and cultural map, and redefining what it means to be a Jew or an Arab in the modern age. Examining this map requires a historical and literary inquiry based in comparative models of analysis and case studies.",
+    "instructor": "",
+    "number": 3.06,
+    "offered": "",
+    "subject": "HUM",
+    "title": "HUM 3.06 The Arab, the Jew, and the Construction of Modernity"
+  },
   "HUM-4.01": {
     "description": "Fredric Jameson once described postmodernity as “the effort to take the temperature of the age without instruments and in a situation in which we are not even sure there is so coherent a thing as an ‘age,’ or ‘zeitgeist’ any longer.” Taking the temperature of the age through a comparative reading of modern and postmodern texts, we will try to seize the change from one era and movement to the other by way of elucidating a number of modern and postmodern concepts such as “representation” or “literary self-reflexivity,” “the world as text,” “the death of the author” or “the end of meta-narratives.” Movies, art works, essays and some theoretical texts will enhance the literary readings, which include texts by modern and postmodern writers such as Abish, Fowles, James, Stein, and Woolf. The feature that characterizes and associates the two movements best is their awareness for how form impacts content, or, as Gertrude Stein said, “how writing is written.” The world comes into being and takes shape in the words we use, the texts we write, the images we produce, the movies we shoot, or the maps we draw to name only some of the signifying systems that give the universe a form.",
     "distribs": "Dist:LIT; WCult:W",
@@ -21146,6 +21163,22 @@
     "offered": "",
     "subject": "MATH",
     "title": "MATH 72 Topics in Geometry"
+  },
+  "MATH-72.01": {
+    "description": "Manifolds provide mathematicians and other scientists with a way of grappling with the concept of “space” (from a global viewpoint). The space occupied by an object. The space that we inhabit. The space of solutions to a system of equations. Or, perhaps, the space of configurations of a mechanical system. While manifolds are central to the study of geometry and topology, they also provide an appropriate framework in which to explore aspects of mathematical physics, dynamics, control theory, medical imaging, and robotics, to name just a few. This course will demonstrate how ideas from calculus can be generalized to manifolds, providing a new perspective and toolkit with which to explore problems where “space” plays a fundamental role.",
+    "instructor": "",
+    "number": 72.01,
+    "offered": "",
+    "subject": "MATH",
+    "title": "MATH 72.01 Calculus on Manifolds"
+  },
+  "MATH-72.02": {
+    "description": "Created by Sophus Lie (1842-1899) with the intent of developing a “Galois theory” of differential equations, Lie groups are a mathematically rigorous realization of our intuitive notion of “continuous transformation groups” and play a fundamental role in the study of geometry and physics.\nFormally, a Lie group is a group G equipped with the structure of a smooth manifold with respect to which the group operations (i.e., multiplication and inversion) are smooth. Our exploration of Lie groups will begin with the study of “matrix groups” (e.g., SO(n), SU(n), Sp(n) and SLn(R)). By focusing on this concrete class of examples, we will build our intuition and encounter many of the interesting themes that arise in the general theory of Lie groups.",
+    "instructor": "",
+    "number": 72.02,
+    "offered": "",
+    "subject": "MATH",
+    "title": "MATH 72.02 Lie Groups: An Introduction Via Matrix Groups"
   },
   "MATH-73": {
     "description": "This course is an introduction to graduate level analysis. Divided roughly in half, the first part of the course covers abstract measure theory. The second half of the course covers complex analysis.",
