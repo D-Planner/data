@@ -72030,6 +72030,7 @@
   "202101-ENGG-197-01": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=ENGG&numb=197",
     "distribs": null,
     "enrollment": null,
@@ -72038,8 +72039,8 @@
     "learningObjective": null,
     "limit": null,
     "number": 197,
-    "period": "Arrange",
-    "periodCode": "ARR",
+    "period": "W 1:00 PM-3:00 PM",
+    "periodCode": "OT",
     "room": null,
     "section": "01",
     "status": null,
