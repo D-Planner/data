@@ -405,6 +405,11 @@
         "changed": "202101-ENGG-197-01",
         "hash": "5fc1dd8b33fb7fbd",
         "timestamp": "2020-11-11T16:03:30.062Z"
+      },
+      {
+        "changed": "202101-RAD-3-01",
+        "hash": "103b70c6c3388503",
+        "timestamp": "2020-11-11T17:01:49.547Z"
       }
     ]
   },
@@ -415,9 +420,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-RAD-3-01",
-      "hash": "103b70c6c3388503",
-      "timestamp": "2020-11-11T17:01:49.547Z"
+      "changed": "202101-PSYC-132-01",
+      "hash": "e5fdbdc63c47a14d",
+      "timestamp": "2020-11-11T18:02:07.192Z"
     }
   }
 }
