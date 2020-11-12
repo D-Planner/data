@@ -440,6 +440,11 @@
         "changed": "202101-BIOL-103-01",
         "hash": "156ba1073642422c",
         "timestamp": "2020-11-12T15:04:39.469Z"
+      },
+      {
+        "changed": "202101-MATH-147-01",
+        "hash": "015b1edf4fdc8f52",
+        "timestamp": "2020-11-12T16:02:17.230Z"
       }
     ]
   },
@@ -450,9 +455,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-MATH-147-01",
-      "hash": "015b1edf4fdc8f52",
-      "timestamp": "2020-11-12T16:02:17.230Z"
+      "changed": "202101-ENGS-89-02",
+      "hash": "1bd9ab72f9d55258",
+      "timestamp": "2020-11-12T17:01:44.134Z"
     }
   }
 }
