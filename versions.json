@@ -1145,6 +1145,11 @@
         "changed": "202101-MICR-264-01,202101-MICR-298-01",
         "hash": "779ccc244d8af6c6",
         "timestamp": "2020-11-20T04:04:46.692Z"
+      },
+      {
+        "changed": "202101-COSC-274-01,202101-ENGM-187-01",
+        "hash": "677e83a50fecfcbb",
+        "timestamp": "2020-11-20T08:03:00.549Z"
       }
     ]
   },
@@ -1155,9 +1160,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-COSC-274-01,202101-ENGM-187-01",
-      "hash": "677e83a50fecfcbb",
-      "timestamp": "2020-11-20T08:03:00.549Z"
+      "changed": "202101-BIOC-197-01",
+      "hash": "aa1719304dc8f826",
+      "timestamp": "2020-11-20T10:03:15.301Z"
     }
   }
 }
