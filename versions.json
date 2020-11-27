@@ -1370,6 +1370,11 @@
         "changed": "202101-EARS-117-01,202101-EARS-202-01",
         "hash": "a516f429e623a1cb",
         "timestamp": "2020-11-26T19:03:17.884Z"
+      },
+      {
+        "changed": "202101-COSC-210-01",
+        "hash": "2dbdd7108d69e2af",
+        "timestamp": "2020-11-27T00:03:20.608Z"
       }
     ]
   },
@@ -1380,9 +1385,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-COSC-210-01",
-      "hash": "2dbdd7108d69e2af",
-      "timestamp": "2020-11-27T00:03:20.608Z"
+      "changed": "202101-PHYS-105-01,202101-PHYS-139-01",
+      "hash": "fb3a625af0b3ec27",
+      "timestamp": "2020-11-27T07:01:52.781Z"
     }
   }
 }
