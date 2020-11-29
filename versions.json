@@ -1445,6 +1445,11 @@
         "changed": "202101-BIOL-103-01",
         "hash": "8dac937beb391790",
         "timestamp": "2020-11-29T18:01:38.744Z"
+      },
+      {
+        "changed": "202101-ENGS-123-01",
+        "hash": "3fe78ea8d03bbd59",
+        "timestamp": "2020-11-29T19:01:10.314Z"
       }
     ]
   },
@@ -1455,9 +1460,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-ENGS-123-01",
-      "hash": "3fe78ea8d03bbd59",
-      "timestamp": "2020-11-29T19:01:10.314Z"
+      "changed": "202101-ENGG-296-01,202101-ENGM-184-01,202101-ENGS-123-01",
+      "hash": "359edb55b3a194d5",
+      "timestamp": "2020-11-29T20:03:08.897Z"
     }
   }
 }
