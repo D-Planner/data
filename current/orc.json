@@ -372,6 +372,15 @@
     "subject": "AAAS",
     "title": "AAAS 36.50 Rasta and Rastafari"
   },
+  "AAAS-39": {
+    "description": "The music known as ‘jazz’ has been one of the most revolutionary and influential artistic movements of the past century. Jazz: Black Creative Music and American Culture will provide a basic historical overview of the music, with major themes including the relationship between composition and improvisation; the reinvention of traditional roles of performer, composer, bandleader, and collective ensemble; and the music’s connection to African-American history and the civil rights movement. Not open to students who have received credit for MUS 05.01 or MUS 05.02.",
+    "distribs": "Dist:ART",
+    "instructor": "",
+    "number": 39,
+    "offered": "",
+    "subject": "AAAS",
+    "title": "AAAS 39 Jazz: Black Creative Music and American Culture"
+  },
   "AAAS-39.01": {
     "description": "This course examines jazz from its origins to 1965, with special attention given to pivotal figures such as Louis Armstrong, Charlie Parker, Miles Davis and JohnColtrane. Class work includes listening to, analyzing, and discussing jazz recordings and watching jazz films. Students will also attend live jazz performances and read about the artists who brought this music to life, with the goal being to increase understanding, appreciation and enjoyment of this great American art form.",
     "distribs": "Dist:ART; WCult:W",
@@ -5804,6 +5813,15 @@
     "subject": "COCO",
     "title": "COCO 35 Color in Art and Philosophy"
   },
+  "COCO-36": {
+    "description": "Since the time United States \"purchased\" Alaska from Russia, this land has been seen by many as the \"last frontier\" - a place where tough and adventurous Euro-Americans could strike it rich or get away from the negative consequences of civilized living. Using anthropological and historical works as well as fiction, film and other media, the seminar explores the mythology surrounding the \"land of the midnight sun.\" This myth of the \"last frontier\" - in its development-driven as well as conservationist versions -- is also contrasted with the ways Native Alaskans' have viewed and lived on their land.",
+    "distribs": "Dist:SOC; WCult:CI",
+    "instructor": "",
+    "number": 36,
+    "offered": "",
+    "subject": "COCO",
+    "title": "COCO 36 Alaska: American Dreams and Native Realities"
+  },
   "COCO-6": {
     "description": "What is autism? How do scientists, clinicians, and the public understand it? Can we separate the cultural myths of autism from the medical realities? How do individuals with autism experience the world differently, and how are their lives impacted by public perception of the condition? To address these questions, the course will be divided into three sections: First, students will learn key scientific theories of autism and how to critically evaluate them. Next, they will explore how cultural narratives of autism impact scientific and personal understanding. The course will conclude with a service learning experience, allowing students to experience first-hand the reality of individuals with autism.",
     "distribs": "Dist:WCult:CI",
@@ -6167,6 +6185,15 @@
     "subject": "COLT",
     "title": "COLT 57.05 Migration Stories",
     "xlist": "FILM 47.07 INTS 17.04"
+  },
+  "COLT-57.11": {
+    "description": "Why do people migrate? How does their migration impact the places they cross? How have migrations trajectories changed in the last 150 years? Why do people embark in a risky journey across the Mediterranean Sea? How do their destination countries react to their arrivals? How does migration chance Europe? These are some of the questions we will try to answer in this class. Using an interdisciplinary approach, we will look at what the impact of migration is on the environment and in the process of changing old ideas about what Europe is. Through an interdisciplinary approach using material that originates from both the humanities (film and literature literature) and the social sciences (mainly geography and sociology), we will explore the present and discuss the possible futures of migrations across the Mediterranean.",
+    "distribs": "Dist:INT; WCult:W",
+    "instructor": "",
+    "number": 57.11,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 57.11 Migration, Ecology, and the Mediterranean"
   },
   "COLT-60.01": {
     "description": "We will be asking questions about the interplay of literature and language with music.  Does music have “meaning” in the conventional or in any other sense, and if so, does it have a characteristic way of conveying meaning? We will consider several permutations of the relationship of music and language, and especially inspect the fringes, where a listener may say “this is no longer music” or “this is no longer speech.”  Does music without a text in fact always have a text? What happens to poems when they become songs or prose plots when they become opera?  Conversely, are there stories that incorporate music or are composed according to a musical form?  In your writing, you may choose musical examples that suit your tastes and expertise; and you will devise and write a final paper of your choice.",
@@ -6567,7 +6594,7 @@
   "COSC-55": {
     "description": "The migration of important social processes to distributed, electronic systems raises critical security and privacy issues. Precisely defining security and privacy is difficult; designing and deploying systems that provide these properties is even harder. This course examines what security and privacy mean in these settings, the techniques that might help, and how to use these techniques effectively. Our intention is to equip computer professionals with the breadth of knowledge necessary to navigate this emerging area.",
     "distribs": "Dist:TAS",
-    "instructor": "Palmer (Winter), Pierson (Spring)",
+    "instructor": " Palmer (Fall), Pierson (Winter)",
     "number": 55,
     "offered": "",
     "subject": "COSC",
@@ -6991,7 +7018,7 @@
   },
   "COSC-94": {
     "description": "Advanced undergraduates occasionally arrange with a faculty member a reading course in a subject not occurring in regular courses.",
-    "instructor": "Vosoughi (Fall), Zhou (Winter), Kotz (Spring)",
+    "instructor": "Vosoughi (Fall), Li (Winter), Kotz (Spring)",
     "number": 94,
     "offered": "",
     "subject": "COSC",
@@ -7015,7 +7042,7 @@
   },
   "COSC-99.01": {
     "description": "Individual research on a topic along with a thesis advisor. Permission of the Undergraduate Program Director and thesis advisor required. Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. COSC 99.01 and 99.02 constitute a two-course sequence and must be taken in two consecutive terms, either fall/winter or winter/spring, normally in the senior year.  In order to receive credit for COSC 99.01 and 99.02, a written thesis must be approved by the thesis advisor. A final grade will replace the ‘ON’ for COSC 99.01 after completing COSC 99.02.",
-    "instructor": "Vosoughi (Fall), Zhou (Winter), Kotz (Spring)",
+    "instructor": "Vosoughi (Fall), Li (Winter), Kotz (Spring)",
     "number": 99.01,
     "offered": "",
     "subject": "COSC",
@@ -7023,7 +7050,7 @@
   },
   "COSC-99.02": {
     "description": "Individual research on a topic along with a thesis advisor. Permission of the Undergraduate Program Director and thesis advisor required. Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. COSC 99.01 and 99.02 constitute a two-course sequence and must be taken in two consecutive terms, either fall/winter or winter/spring, normally in the senior year.  In order to receive credit for COSC 99.01 and 99.02, a written thesis must be approved by the thesis advisor. A final grade will replace the ‘ON’ for COSC 99.01 after completing COSC 99.02.",
-    "instructor": "Vosoughi (Fall), Zhou (Winter), Kotz (Spring)",
+    "instructor": "Vosoughi (Fall), Li (Winter), Kotz (Spring)",
     "number": 99.02,
     "offered": "",
     "subject": "COSC",
@@ -18333,6 +18360,15 @@
     "subject": "HUM",
     "title": "HUM 3.05 The Invention of News"
   },
+  "HUM-3.06": {
+    "description": "This course uncovers a lost chapter in the history of modernity, engaging the Middle East in a global context both as object of representation and experimentation but also as incubator of new models of community, literary genres, and historical narratives. From Zionism to Baathism, the 20th century has witnessed the implementation of national projects that can be traced to revivalist movements in the 18th and 19th centuries in Europe and the Ottoman Empire, intellectual and poets writing in Paris, Vienna, Alexandria, and Beirut, imagining new national identities and literary canons. These essays, novels, manifestos, films, paintings, and poems had transformative effects on the Middle East, redrawing its political and cultural map, and redefining what it means to be a Jew or an Arab in the modern age. Examining this map requires a historical and literary inquiry based in comparative models of analysis and case studies.",
+    "distribs": "Dist:INT or LIT; WCult:NW",
+    "instructor": "",
+    "number": 3.06,
+    "offered": "",
+    "subject": "HUM",
+    "title": "HUM 3.06 The Arab, the Jew, and the Construction of Modernity"
+  },
   "HUM-4.01": {
     "description": "Fredric Jameson once described postmodernity as “the effort to take the temperature of the age without instruments and in a situation in which we are not even sure there is so coherent a thing as an ‘age,’ or ‘zeitgeist’ any longer.” Taking the temperature of the age through a comparative reading of modern and postmodern texts, we will try to seize the change from one era and movement to the other by way of elucidating a number of modern and postmodern concepts such as “representation” or “literary self-reflexivity,” “the world as text,” “the death of the author” or “the end of meta-narratives.” Movies, art works, essays and some theoretical texts will enhance the literary readings, which include texts by modern and postmodern writers such as Abish, Fowles, James, Stein, and Woolf. The feature that characterizes and associates the two movements best is their awareness for how form impacts content, or, as Gertrude Stein said, “how writing is written.” The world comes into being and takes shape in the words we use, the texts we write, the images we produce, the movies we shoot, or the maps we draw to name only some of the signifying systems that give the universe a form.",
     "distribs": "Dist:LIT; WCult:W",
@@ -19424,6 +19460,15 @@
     "title": "LACS 38 The Global Caribbean",
     "xlist": "undefined ANTH 033"
   },
+  "LACS-39": {
+    "description": "The course explores the historical struggle between democracy and authoritarianism in Haiti throughout its two hundred seventeen years of independence as a free black nation, which also makes the island one of the oldest sovereign countries in the Western Hemisphere. To understand the island’s history, students are expected to read what historians and writers have written about Haiti; and to read the primary letters of frantic French planters, rebellious African slaves, egalitarian peasants, entrepreneurial market women, conscientious revolutionaries, exuberant military generals, loquacious politicians, feared dictators, and dreaded militias through time. The course will, indeed, move through four important, though overlapping, historical moments. First, we begin with an examination of the 1791-1804 Haitian Revolution when enslaved Africans revolted against the French colonial planters to successfully abolish slavery and to achieve national independence. Second, we read through the formation of grassroots and institutional democratic traditions in the nineteenth century and how they were undone during the 1915-1934 US Occupation of Haiti, where US President Woodrow Wilson ordered the American military to invade Haiti and control the island for almost two decades. Third, we will explore how the undoing of democracy led to the rise of the Francois and Jean-Claude Duvalier dictatorship (1957-1971) and its dreaded militia called the tonton makout militia (often spelled in the following French orthography: tonton macoutes). Finally, we will conclude the class by looking at how and why the Haitian peasantry overthrew the dictatorship to replace it with the democratically elected President Jean-Bertrand Aristide (1991).",
+    "distribs": "Dist:SOC; WCult:NW",
+    "instructor": "",
+    "number": 39,
+    "offered": "",
+    "subject": "LACS",
+    "title": "LACS 39 Black Agrarian Democracy: Haitian History from Revolution to the Fall of the Duvalier Dictatorship"
+  },
   "LACS-4": {
     "description": "The Spanish discovery and conquest of this continent created Latin America and the Caribbean out of the diverse and complex realities of the pre-Columbian world. Since colonial times Latin American and Caribbean cultures have developed against a background of cultural repression, racial conflict, political domination, colonial exploitation, and gender inequality. And yet, in the midst of all this turmoil, Latin America and the Caribbean have produced an extraordinary variety and wealth of artistic creations, ranging from literature to the visual arts, from music to film. In this course we will turn to some of the works by Latin American and Caribbean artists and writers in an attempt to illuminate and explore some of the wonders of the cultural dynamics that shape the many faces of what we call Latin America and the Caribbean.",
     "distribs": "Dist:LIT; WCult:NW",
@@ -19542,6 +19587,15 @@
     "offered": "",
     "subject": "LACS",
     "title": "LACS 50.17 Land, Belonging, and Social Change in Latin America"
+  },
+  "LACS-50.18": {
+    "description": "How does authority reach the ear? What are the sonic features of speaking truth to power? Who shapes the ways we hear, and where might we learn to listen differently? This course sounds out displays of authority as well as how we can act against such structures by turning to representations of the auditory in both literature and cinema. As we consider questions of sound and its reproduction, we will work across geographical contexts to determine which concerns resonate widely and what role acoustics, or the specific properties of a space, might play. Readings will come from writers such as Valeria Luiselli, María Sonia Cristoff, Franz Kafka, Frantz Fanon, and Severo Sarduy, while films will range from Fitzcarraldo to Sorry to Bother You.",
+    "distribs": "Dist:INT",
+    "instructor": "",
+    "number": 50.18,
+    "offered": "",
+    "subject": "LACS",
+    "title": "LACS 50.18 Sounding Out Power and Dissent"
   },
   "LACS-51": {
     "description": "The 1960s and 70s were a time of tremendous political and creative turmoil in the US in general and for Latinos in particular. Joining in the Civil Rights Movement and the anti-Vietnam mobilization, Latinos also fought for their rights founding important political organizations such as the Raza Unida Party; MeCHA, the United Farm Workers, the Brown Berets, the Nuyorican Young Lords Party, among many others. Beyond traditional stereotypes of the 60s as the period of drugs, sex and rock ‘n roll, protesters and political activists were inordinately adept at creating and mobilizing artistic symbols, music, and literature to promote their agenda. We will study the creation of Aztlán as an imaginary Chicano homeland in the Southwest; works of individual Latino artists and writers; important journals (Con Safos, Chismearte, Arte del Varrio); organizations such as the Royal Chicano Air Force, Asco, Galería de la Raza, the Teatro Campesino, the Nuyorican Poets’ Café; national monuments such as Chicano Park; and exhibitions such as Chicano Art: Resistance and Affirmation (CARA; held at UCLA).",
@@ -21146,6 +21200,24 @@
     "offered": "",
     "subject": "MATH",
     "title": "MATH 72 Topics in Geometry"
+  },
+  "MATH-72.01": {
+    "description": "Manifolds provide mathematicians and other scientists with a way of grappling with the concept of “space” (from a global viewpoint). The space occupied by an object. The space that we inhabit. The space of solutions to a system of equations. Or, perhaps, the space of configurations of a mechanical system. While manifolds are central to the study of geometry and topology, they also provide an appropriate framework in which to explore aspects of mathematical physics, dynamics, control theory, medical imaging, and robotics, to name just a few. This course will demonstrate how ideas from calculus can be generalized to manifolds, providing a new perspective and toolkit with which to explore problems where “space” plays a fundamental role.",
+    "distribs": "Dist:QDS",
+    "instructor": "",
+    "number": 72.01,
+    "offered": "",
+    "subject": "MATH",
+    "title": "MATH 72.01 Calculus on Manifolds"
+  },
+  "MATH-72.02": {
+    "description": "Created by Sophus Lie (1842-1899) with the intent of developing a “Galois theory” of differential equations, Lie groups are a mathematically rigorous realization of our intuitive notion of “continuous transformation groups” and play a fundamental role in the study of geometry and physics.\nFormally, a Lie group is a group G equipped with the structure of a smooth manifold with respect to which the group operations (i.e., multiplication and inversion) are smooth. Our exploration of Lie groups will begin with the study of “matrix groups” (e.g., SO(n), SU(n), Sp(n) and SLn(R)). By focusing on this concrete class of examples, we will build our intuition and encounter many of the interesting themes that arise in the general theory of Lie groups.",
+    "distribs": "Dist:QDS",
+    "instructor": "",
+    "number": 72.02,
+    "offered": "",
+    "subject": "MATH",
+    "title": "MATH 72.02 Lie Groups: An Introduction Via Matrix Groups"
   },
   "MATH-73": {
     "description": "This course is an introduction to graduate level analysis. Divided roughly in half, the first part of the course covers abstract measure theory. The second half of the course covers complex analysis.",
