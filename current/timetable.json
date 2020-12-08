@@ -56892,7 +56892,7 @@
     "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=PHYS&numb=137",
     "distribs": null,
-    "enrollment": "3",
+    "enrollment": "2",
     "fys": "N",
     "instructor": "Kristina Lynch",
     "learningObjective": null,
@@ -56917,7 +56917,7 @@
     "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=PHYS&numb=138",
     "distribs": null,
-    "enrollment": "17",
+    "enrollment": "18",
     "fys": "N",
     "instructor": "Kristina Lynch",
     "learningObjective": null,
@@ -57042,7 +57042,7 @@
     "deliveryMode": "Remote, with on-campus components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=PHYS&numb=257",
     "distribs": null,
-    "enrollment": "21",
+    "enrollment": "20",
     "fys": "N",
     "instructor": "Kristina Lynch",
     "learningObjective": null,
@@ -74534,7 +74534,7 @@
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=ENGS&numb=093",
     "distribs": "QDS",
-    "enrollment": "21",
+    "enrollment": "22",
     "fys": "N",
     "instructor": "Ronald Lasky",
     "learningObjective": null,
@@ -79930,6 +79930,7 @@
   "202101-MALS-127-01": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=127",
     "distribs": null,
     "enrollment": "1",
@@ -79954,6 +79955,7 @@
   "202101-MALS-127-02": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=127",
     "distribs": null,
     "enrollment": "1",
@@ -79978,6 +79980,7 @@
   "202101-MALS-127-03": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=127",
     "distribs": null,
     "enrollment": "1",
@@ -80002,6 +80005,7 @@
   "202101-MALS-127-04": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=127",
     "distribs": null,
     "enrollment": "1",
@@ -80026,6 +80030,7 @@
   "202101-MALS-127-05": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=127",
     "distribs": null,
     "enrollment": "1",
@@ -80075,6 +80080,7 @@
   "202101-MALS-137-01": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=137",
     "distribs": null,
     "enrollment": "14",
@@ -80099,6 +80105,7 @@
   "202101-MALS-137-02": {
     "building": null,
     "creditOptions": null,
+    "deliveryMode": "Individualized Study",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=137",
     "distribs": null,
     "enrollment": "9",
