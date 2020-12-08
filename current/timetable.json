@@ -80050,7 +80050,7 @@
   "202101-MALS-130-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=130",
     "distribs": null,
     "enrollment": "8",
@@ -80123,7 +80123,7 @@
   "202101-MALS-210-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=210",
     "distribs": null,
     "enrollment": "10",
@@ -80148,7 +80148,7 @@
   "202101-MALS-239-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=239",
     "distribs": null,
     "enrollment": "10",
@@ -80173,7 +80173,7 @@
   "202101-MALS-337-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=337",
     "distribs": null,
     "enrollment": "9",
@@ -80198,7 +80198,7 @@
   "202101-MALS-369-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=369",
     "distribs": null,
     "enrollment": "11",
@@ -80223,7 +80223,7 @@
   "202101-MALS-373-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=373",
     "distribs": null,
     "enrollment": "13",
@@ -80248,7 +80248,7 @@
   "202101-MALS-700-01": {
     "building": null,
     "creditOptions": null,
-    "deliveryMode": "Remote, entirely asynchronous",
+    "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=MALS&numb=700",
     "distribs": null,
     "enrollment": "4",
