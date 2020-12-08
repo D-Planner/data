@@ -1640,6 +1640,11 @@
         "changed": "202101-BIOL-13-01",
         "hash": "bdeedc12c46eec62",
         "timestamp": "2020-12-08T21:03:05.001Z"
+      },
+      {
+        "changed": "202009-ARTH-63.71-01",
+        "hash": "ea948c07936591be",
+        "timestamp": "2020-12-08T22:02:41.997Z"
       }
     ]
   },
@@ -1650,9 +1655,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202009-ARTH-63.71-01",
-      "hash": "ea948c07936591be",
-      "timestamp": "2020-12-08T22:02:41.997Z"
+      "changed": "202101-ENGG-198-01,202101-ENGG-298-01",
+      "hash": "318eeb2a15ee99cc",
+      "timestamp": "2020-12-08T23:03:03.383Z"
     }
   }
 }
