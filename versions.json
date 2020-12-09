@@ -1665,6 +1665,11 @@
         "changed": "202101-CHEM-140-01",
         "hash": "bb3c024f4cdac3bd",
         "timestamp": "2020-12-09T04:02:04.634Z"
+      },
+      {
+        "changed": "202101-PHYS-138-01,202101-PHYS-257-01",
+        "hash": "4f22ee5f1a2be74e",
+        "timestamp": "2020-12-09T06:03:26.204Z"
       }
     ]
   },
@@ -1675,9 +1680,9 @@
       "timestamp": "2020-11-05T20:00:00.000Z"
     },
     "timetable": {
-      "changed": "202101-PHYS-138-01,202101-PHYS-257-01",
-      "hash": "4f22ee5f1a2be74e",
-      "timestamp": "2020-12-09T06:03:26.204Z"
+      "changed": "202101-COSC-165-01",
+      "hash": "9adbacd17c1e7276",
+      "timestamp": "2020-12-09T12:02:44.486Z"
     }
   }
 }
