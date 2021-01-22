@@ -64806,7 +64806,7 @@
   },
   "202101-ARAB-2-01": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=ARAB&numb=002",
     "distribs": null,
@@ -64831,7 +64831,7 @@
   },
   "202101-ARAB-2-02": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=ARAB&numb=002",
     "distribs": null,
@@ -67831,7 +67831,7 @@
   },
   "202101-CHIN-2-01": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=CHIN&numb=002",
     "distribs": null,
@@ -67856,7 +67856,7 @@
   },
   "202101-CHIN-2-02": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=CHIN&numb=002",
     "distribs": null,
@@ -75378,7 +75378,7 @@
   },
   "202101-FREN-1-01": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=FREN&numb=001",
     "distribs": null,
@@ -75403,7 +75403,7 @@
   },
   "202101-FREN-1-02": {
     "building": null,
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202101&subj=FREN&numb=001",
     "distribs": null,
