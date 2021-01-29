@@ -38007,7 +38007,7 @@
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=BIOL&numb=147",
     "distribs": null,
-    "enrollment": "4",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Olga Zhaxybayeva",
     "learningObjective": null,
@@ -38024,7 +38024,7 @@
     "title": "Genomics:From Data-Analysis",
     "undefined": "91392",
     "wc": null,
-    "xlist": "EEES 147 01"
+    "xlist": "EEES 147 01, QBS 147 01"
   },
   "202009-BIOL-16-01": {
     "building": null,
@@ -44055,7 +44055,7 @@
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=EEES&numb=147",
     "distribs": null,
-    "enrollment": "4",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Olga Zhaxybayeva",
     "learningObjective": null,
@@ -44072,7 +44072,7 @@
     "title": "Genomics:From Data-Analysis",
     "undefined": "90702",
     "wc": null,
-    "xlist": "BIOL 147 01"
+    "xlist": "BIOL 147 01, QBS 147 01"
   },
   "202009-EEES-167-01": {
     "building": null,
@@ -58788,7 +58788,7 @@
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202009&subj=QBS&numb=147",
     "distribs": null,
-    "enrollment": "4",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Olga Zhaxybayeva",
     "learningObjective": null,
@@ -58805,7 +58805,7 @@
     "title": "Genomics:From Data-Analysis",
     "undefined": "91391",
     "wc": null,
-    "xlist": null
+    "xlist": "BIOL 147 01, EEES 147 01"
   },
   "202009-QBS-180-01": {
     "building": null,
