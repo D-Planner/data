@@ -50650,7 +50650,7 @@
     "creditOptions": null,
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.fysem_main#HUM-002-02",
-    "distribs": null,
+    "distribs": "LIT",
     "enrollment": "17",
     "fys": "Y",
     "instructor": "Jonathan Smolin",
@@ -50666,7 +50666,7 @@
     "term": "202101",
     "text": null,
     "title": "The Modern Labyrinth (Discussion)",
-    "wc": null,
+    "wc": "W",
     "xlist": null
   },
   "202101-HUM-2-03": {
@@ -50674,7 +50674,7 @@
     "creditOptions": null,
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.fysem_main#HUM-002-03",
-    "distribs": null,
+    "distribs": "LIT",
     "enrollment": "16",
     "fys": "Y",
     "instructor": "Petra McGillen",
@@ -50690,7 +50690,7 @@
     "term": "202101",
     "text": null,
     "title": "The Modern Labyrinth (Discussion)",
-    "wc": null,
+    "wc": "W",
     "xlist": null
   },
   "202101-HUM-2-04": {
@@ -50698,7 +50698,7 @@
     "creditOptions": null,
     "deliveryMode": "Remote, with synchronous components",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.fysem_main#HUM-002-04",
-    "distribs": null,
+    "distribs": "LIT",
     "enrollment": "16",
     "fys": "Y",
     "instructor": "Kristin O'Rourke",
@@ -50714,7 +50714,7 @@
     "term": "202101",
     "text": null,
     "title": "The Modern Labyrinth (Discussion)",
-    "wc": null,
+    "wc": "W",
     "xlist": null
   },
   "202101-INTS-16-01": {
@@ -79596,7 +79596,7 @@
     "fys": "N",
     "instructor": "Eugenie Carabatsos",
     "learningObjective": null,
-    "limit": "15",
+    "limit": "12",
     "number": 208,
     "period": "Th 4:00 PM-7:00 PM",
     "periodCode": "OT",
@@ -79620,7 +79620,7 @@
     "fys": "N",
     "instructor": "Barbara Kreiger",
     "learningObjective": null,
-    "limit": "15",
+    "limit": "12",
     "number": 209,
     "period": "M 4:00 PM-7:00 PM",
     "periodCode": "OT",
