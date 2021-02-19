@@ -3670,6 +3670,11 @@
         "changed": "202101-ANTH-14-01,202101-GOVT-52-01",
         "hash": "f7e4a798dedd2b44",
         "timestamp": "2021-02-18T19:03:43.835Z"
+      },
+      {
+        "changed": "202101-ECON-21-01",
+        "hash": "6e123373ef4c62ee",
+        "timestamp": "2021-02-18T21:02:18.325Z"
       }
     ]
   },
@@ -3680,9 +3685,9 @@
       "timestamp": "2021-02-11T04:58:30.835Z"
     },
     "timetable": {
-      "changed": "202101-ECON-21-01",
-      "hash": "6e123373ef4c62ee",
-      "timestamp": "2021-02-18T21:02:18.325Z"
+      "changed": "",
+      "hash": "a155523349e27e51",
+      "timestamp": "2021-02-19T05:03:21.872Z"
     }
   }
 }
