@@ -3755,6 +3755,11 @@
         "changed": "202103-PORT-62.03-01",
         "hash": "f59fa9029df7a9b7",
         "timestamp": "2021-02-23T21:03:36.536Z"
+      },
+      {
+        "changed": "202101-MALS-700-01",
+        "hash": "2b392da1af66eb94",
+        "timestamp": "2021-02-23T22:01:29.098Z"
       }
     ]
   },
@@ -3765,9 +3770,9 @@
       "timestamp": "2021-02-22T09:12:58.616Z"
     },
     "timetable": {
-      "changed": "202101-MALS-700-01",
-      "hash": "2b392da1af66eb94",
-      "timestamp": "2021-02-23T22:01:29.098Z"
+      "changed": "202101-BIOL-103-01",
+      "hash": "cec980d69ccf10b6",
+      "timestamp": "2021-02-24T11:05:43.197Z"
     }
   }
 }
