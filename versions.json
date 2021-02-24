@@ -3760,6 +3760,11 @@
         "changed": "202101-MALS-700-01",
         "hash": "2b392da1af66eb94",
         "timestamp": "2021-02-23T22:01:29.098Z"
+      },
+      {
+        "changed": "202101-BIOL-103-01",
+        "hash": "cec980d69ccf10b6",
+        "timestamp": "2021-02-24T11:05:43.197Z"
       }
     ]
   },
@@ -3771,8 +3776,8 @@
     },
     "timetable": {
       "changed": "202101-BIOL-103-01",
-      "hash": "cec980d69ccf10b6",
-      "timestamp": "2021-02-24T11:05:43.197Z"
+      "hash": "2b392da1af66eb94",
+      "timestamp": "2021-02-24T12:03:18.878Z"
     }
   }
 }
