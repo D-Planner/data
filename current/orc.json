@@ -8464,6 +8464,15 @@
     "subject": "ENGL",
     "title": "ENGL 12 Chaucer's &quot;Troilus and Criseyde&quot; and Other Poems"
   },
+  "ENGL-13": {
+    "description": "An introduction to the literature of the \"Middle English\" period (ca. 1100 - ca. 1500), concentrating on the emergence of English as a literary language in the twelfth and early thirteenth centuries and on some of the great masterworks of the late fourteenth century. Readings will include early texts on King Arthur, the Lais of Marie de France, the satirical poem The Owl and the Nightingale, the romance Sir Orfeo, Pearl, and Sir Gawain and the Green Knight, the Book of Margery Kempe, and The York Cycle. Most readings in modern English translation, with some explorations into the original language.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 13,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 13 Medieval English Literature"
+  },
   "ENGL-14": {
     "description": "English lyric and narrative poetry from the early sixteenth century to the mid-seventeenth century.  Poets will include Thomas Wyatt, Edmund Spenser, Philip Sidney, Christopher Marlowe, William Shakespeare, Ben Jonson, John Donne, George Herbert, and Andrew Marvell, among others.  The course will attend to prosody, the evolution of verse forms, European and classical influence, and modes of circulation.",
     "distribs": "Dist:LIT; WCult:W",
@@ -8596,6 +8605,15 @@
     "offered": "",
     "subject": "ENGL",
     "title": "ENGL 27 Tell It Slant: Female, Black, Queer Readings of Early American Poetry"
+  },
+  "ENGL-28": {
+    "description": "A survey of American non-fiction narrative and other prose from the early republic to the rise of modernism. The course examines how autobiographies (Franklin, Douglass, Larcom, Thoreau, Stein) and other prose genres construct individual selves and national belonging while negotiating the pressures of transcendentalism, abolitionism, feminism, and class consciousness by means of aesthetic experimentation. Additional authors vary but often include Jefferson, Apess, Fuller, Hemingway, Adams, Hurston, Kerouac, and Agee.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 28,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 28 Making Americans: Hipsters, Tricksters and Geniuses"
   },
   "ENGL-29": {
     "description": "A survey of the first century of U.S. fiction, this course focuses on historical contexts as well as social and material conditions of the production of narrative as cultural myth. The course is designed to provide an overview of the literary history of the United States novel from the National Period to the threshold of the Modern (1845-1900). To do justice to the range of works under discussion, the lectures will call attention to the heterogeneous cultural contexts out of which these works have emerged as well as the formal and structural components of the different works under discussion. In keeping with this intention, the lectures include the so-called classic texts in American literature, The Last of the Mohicans, Moby Dick, The Scarlet Letter, and The Narrative of the Life of Frederick Douglass, but also the newly canonized Uncle Tom's Cabin, Incidents in the Life of a Slave Girl, Life in the Iron Mills, and Hope Leslie.  The configuration of these works will result in an understanding of the remarkable complexity of United States literary culture.",
@@ -9313,6 +9331,16 @@
     "subject": "ENGL",
     "title": "ENGL 54.02 Arts of Laughter: Comedy and Criticism"
   },
+  "ENGL-54.03": {
+    "description": "This course explores the genre of young adult fiction in the 20th and 21st centuries. While the course will begin with a brief consideration of the conventions and early history of the genre, most of the course will examine post-1970s (mostly American) young adult novels. We’ll trace the evolution of the genre in relation to ideas of racial innocence, sentimentality, consent, queer childhood, and revolutionary girlhood, and position the novels within historical contexts such as the rise of mass incarceration, settler colonialism, fantasies of post-racial politics, and environmental disaster. At the end of the course, we’ll consider how young adult novels have created not just reading but creative communities, and explore the kinds of fan productions that have emerged in relation to young adult novels. The course will include critical and creative assignments. Texts may include The Hunger Games; the Harry Potter series; Are You There God; It’s Me Margaret; The Outsiders; The Astonishing Life of Octavian Nothing; Vivian Apple at the End of the World; Fangirl; Aristotle and Dante Discover the Secrets of the Universe; Absolutely True Diary of a Part-Time Indian; The Fault in Our Stars; Ship Breaker; Long Division; Monster; Akata Witch; Make Your Home Among Strangers.",
+    "distribs": "Dist:LIT; WCult:CI",
+    "instructor": "Stuelke",
+    "number": 54.03,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.03 Young Adult Literature",
+    "xlist": "WGSS 51.09"
+  },
   "ENGL-54.04": {
     "description": "This course is an introduction to literary aesthetics, beginning with Immanuel Kant’s The Critique of Judgment (1790), a foundational text of Western aesthetics which provocatively and systematically explains how people enjoy and judge art, and why they discuss it together. Careful analysis of Kant’s Critique will be followed by revisions and extensions of his theory of taste in 20th and 21st century aesthetics and literary theory. This includes Austin, Genette, Adorno, Zangwill, Ngai, among others.",
     "distribs": "Dist:TMV; WCult:W",
@@ -9322,6 +9350,97 @@
     "subject": "ENGL",
     "title": "ENGL 54.04 Beautiful, Ugly, Cute, Dumpy: An Introduction to Aesthetics"
   },
+  "ENGL-54.05": {
+    "description": "The emergent field of animal studies tackles pressing philosophical and ethical questions about who we are as a species. How are the distinctions between “animal” and “human” understood, destabilized, and/or deconstructed? What does it mean to recognize animals as sentient beings endowed with their own agencies rather than objects for use by humans? This course provides an introduction to animal studies, including such questions as inter-species communication, extinction, animal rights, ecologies, and species identities. Students will study texts across the interdisciplinary field by such authors as Lacan, Derrida, Deleuze, Haraway, Wolfe, Chen, and Moore, as well as foundational texts by Darwin, Montaigne, and Freud. As a class, we will discuss how theoretical perspectives on animals alter our readings of literary texts—including fiction by such authors as Rudyard Kipling, J. M. Coetzee, Karen Joy Fowler, Virginia Woolf, Yann Martel, and Franz Kafka—even as we raise contemporary concerns about climate change, extinction, and species justice.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "Harner",
+    "number": 54.05,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.05 Animal Studies: Theory, Literature, Politics"
+  },
+  "ENGL-54.11": {
+    "description": "In this course, we will primarily examine theories of poetry, relying mainly on The Norton Anthology of Criticism and Theory and Poetry in Theory, 1900-2000 (Blackwell). These volumes provide a rich, comprehensive overview of poetic theory from its beginnings in Greek antiquity virtually to the present, covering Anglo-American, Continental, and other theorists. No single poetry anthology will be used, but poetic examples will be studied at every stage, generally posted on Blackboard. We will consider the \"philosophy\" of poetic composition in different historical periods and contexts, and will examine the continuing interplay between poetic theory and practice. The point of the course will be to get a grip on ways in which people have thought about poetry from the earliest times to the present, and to consider the sometimes antagonistic interplay between theorizing about poetry and writing it.",
+    "distribs": "LIT",
+    "instructor": "",
+    "number": 54.11,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.11 Poetry and Poetic Theory"
+  },
+  "ENGL-54.13": {
+    "description": "This course explores digital gaming. Reading academic and popular texts, we will situate digital gaming in relation to new media, visual, and literary studies. Class discussion will focus on outstanding problems in digital game studies: Where do the histories of technology and gaming meet? How do games change players and how do games shape culture? What about designers and programmers? In what ways are digital games playful and what aspects of them are expressive? What is the future of gaming? Of course this class will also study particular games, and, in addition to writing academic essays, students will invent individual and group projects in the game domain.",
+    "distribs": "TAS",
+    "instructor": "Evens",
+    "number": 54.13,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.13 Digital Game Studies"
+  },
+  "ENGL-54.15": {
+    "description": "This course examines the book as a material and cultural object. We'll consider various practical and theoretical models for understanding the book form and investigating the materials, technologies, institutions, and practices of its production, dissemination, and reception. We'll focus primarily on the printed book in Western Europe and North America, but we'll also spend time talking about the emergence of the codex (book), medieval manuscript books, twentieth and twenty-first century artists' books and the challenges posed by digitality to the book form. The readings for the course will be balanced by frequent use of exemplars drawn from Rauner Library and practical experience in the Book Arts workshop setting type.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "Halasz",
+    "number": 54.15,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.15 History of the Book"
+  },
+  "ENGL-54.16": {
+    "description": "Hamlet, Paradise Lost, Pride and Prejudice, Wuthering Heights, The Waste Land: These texts are among the cornerstones of a literary canon that still exerts enormous influence even as it is intensely contested. How does a play, a novel, or a poem become a “literary classic”? In this course, we will read a series of indisputably “great” texts in order to understand the complex forms of evaluation (aesthetic, political, moral, and commercial) that both underpin and revise notions of canonicity. Drawing on theoretical work by Gauri Viswanathan, Pierre Bourdieu, Theodor Adorno, and Pascale Casanova, we will also consider the varied institutional contexts (from the colonial civil service to the liberal arts classroom, from small presses to multinational publishers, from Masterpiece Theatre to contemporary Bollywood) that govern these processes.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 54.16,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.16 Literary Classics"
+  },
+  "ENGL-54.4": {
+    "description": "This course is organized around two main projects that will investigate the interesting and compelling ways that \"traditional\" forms of literacy are evolving to coexist with digital and social media. First, students will choose a contemporary practice, tool, or genre in which print and digital media have converged (e.g. book lists on Goodreads, e-book hardware, \"Twitter fiction\"), exploring what if anything is \"new\" about it. Next, student groups will design and prototype a digital technology that reimagines the ways that literature is produced or consumed in the context of digital media. This project will accommodate students with varying levels of technical expertise, though no programming experience is presumed. Throughout the course, readings on the history of media, the ethnography of literacy, and human-computer interaction will guide both our writing and production.",
+    "distribs": "Dist:ART",
+    "instructor": "",
+    "number": 54.4,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 54.40 Literary Culture in an Age of Digital Distraction"
+  },
+  "ENGL-55.01": {
+    "description": "This course focuses on the emerging counter-tradition, within American modernism and within the larger tradition of poetry in English, of American women poets in the twentieth century. Taking our cue from Adrienne Rich, who ambiguously titles one book of essays On Lies, Secrets and Silences (is she for or against?), we will follow debates about what makes it possible to break previous silences--and to what degree and in what ways it is useful or satisfying to do so. Topics within this discussion will include sexuality, race, illness, literary modes, female literary succession, and relations with the literary tradition. We will read in the work of eight or nine poets and recent critical and theoretical writings, with some attention in the first weeks to important female and male precursors. The syllabus will include such writers as Edna St.Vincent Millay, HD, Gertrude Stein, Elizabeth Bishop, Gwendolyn Brooks, Sylvia Plath, Anne Sexton, Audre Lorde, Adrienne Rich, Marilyn Hacker, Louise Gluck, Rita Dove.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 55.01,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.01 Modern American Women Poets"
+  },
+  "ENGL-55.02": {
+    "description": "Library digitization has made millions of books, newspapers, and other printed materials accessible to the public. In this course we will learn how to draw on computational resources to analyze a range of materials, including poetry, novels, science fiction short stories, and personal diaries. We will explore debates about the representation of literary texts as \"data\" and consider the challenges \"machine reading\" poses for research in the humanities and how we think about what it means to \"read\" a text. Through case studies we will reflect critically on the history of the digital humanities (formerly known as humanities computing) and will gain practical experience in text analysis.",
+    "distribs": "LIT",
+    "instructor": "",
+    "number": 55.02,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.02 Machine Readings: Text Analysis in the Information Age",
+    "xlist": "QSS 30.02; MATH 5.01; undefined"
+  },
+  "ENGL-55.05": {
+    "description": "A studio-based seminar in which students explore the relationship between text, image, and form through letterpress relief printing techniques and the creation of book structures. Lectures and readings will familiarize students with historic and contemporary literature on the book form. Students will study exemplars from the extensive holdings of Rauner Special Collections and the Sherman Art Library in historical hand press and contemporary artist books. Limited enrollment. Supplemental Course Fee.",
+    "distribs": "ART",
+    "instructor": "",
+    "number": 55.05,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.05 Book Arts Studio Seminar"
+  },
+  "ENGL-55.06": {
+    "description": "The course offers students instruction and opportunities in literary journal operations from the editorial process to defining and maintaining the journal and its agenda. Ethical questions of blind review and the diversity of contributors will also be discussed, as well as issues of promotion and social media and the use of other digital tools. Students will gain invaluable experience in publication systems, copy editing, professional communications,and marketing. Field trips to other campuses or events to meet with representatives of similar student-run publications will be a means of cultivating not only new ideas but also a developing sense in the students of professionalism and community. Enrollment is limited to 15.",
+    "distribs": "ART",
+    "instructor": "",
+    "number": 55.06,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.06 Reading and Publishing the Literary Magazine"
+  },
   "ENGL-55.07": {
     "description": "Walt Whitman said of the American Civil War: \"the real war will never get in the books.\" This course will raise core questions about how war is remembered and represented through text, performance, and visual culture. Our questions will be anchored in concrete case studies but will also raise far-ranging philosophical, ethical, and historical questions that examine instances of war in relation to the aesthetics of war.",
     "distribs": "Dist:INT or ART",
@@ -9330,6 +9449,15 @@
     "offered": "",
     "subject": "ENGL",
     "title": "ENGL 55.07 The Arts of War"
+  },
+  "ENGL-55.08": {
+    "description": "Over the past few years it has been suggested that since the 1990s there has been a major shift in how novels represent characters and consciousness. This new type of novel has been called the \"neuronovel.\" This course takes up questions at the intersection of psychology, neuroscience, and literary studies to explore this thesis. We'll read contemporary work by neurologists and psychologists (Damasio, Sacks, Gazzaniga, Schacter) as well as their late-nineteenth and early-twentieth century precursors (Freud, James, Brentano, Beard) alongside a wide range of literature that allows us to think about the intersection of race, gender, and sexuality with the universalist claims of various scientific and pseudoscientific accounts of the self. Key literary texts include Shelley, McEwan, Lethem, James, Poe, Woolf, Roth, and Wright.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 55.08,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.08 Neuroscience and the Novel"
   },
   "ENGL-55.09": {
     "description": "Barack Obama defined hope as a culturally transformative feeling that required “audacity.” Yet scholars have questioned hope’s ability to bring about change, leading Lauren Berlant to speak of “Cruel Optimism.” Hope, Optimism, Audacity, Cruelty: how does affect impact American culture? We will develop frames for thinking historically and analytically about feeling’s influence on class, gender and ethnicity. Students will develop final projects that integrate imagination into an analysis of the questions hope raises.",
@@ -9366,6 +9494,52 @@
     "offered": "",
     "subject": "ENGL",
     "title": "ENGL 55.13 South African Literature in English"
+  },
+  "ENGL-55.14": {
+    "description": "Native American oral tradition constitutes a rich and complex dimension of the American literary heritage. This course will examine a range of oral genres from several time periods and tribal sources. Oral traditions and the textual sources into which they are anthologized provide valuable insights into the nature of human creativity. They are also full of unique hermeneutical challenges. This course will include some contemporary theoretical approaches to orality and the metaphysics of the voice to unpack some of these questions.",
+    "distribs": "LIT",
+    "instructor": "Palmer",
+    "number": 55.14,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.14 Native American Oral Traditional Literatures"
+  },
+  "ENGL-55.15": {
+    "description": "This seminar is an interdisciplinary study of Shakespeare's The Merchant of Venice that will examine the history of Christianity's attitudes toward Judaism, the fate of Jews within Christian Europe, especially in England prior to the expulsion of the Jews in 1290, and the effect of these histories on the composition of the play, the representations of its main characters, particularly Shylock and Portia, and its reception through the centuries, with attention to its role in modern attitudes toward Jews and toward anti-Semitism. We will approach the material as scholars of history, literature, and religion. We expect to attend closely to the gendered and racialized representations of Jewishness and Christianness in the play and in English culture more generally. The impact of the play will be examined with particular reference to modern German and English literary traditions. We will also examine some major developments in the staging of the play, with particular attention to Yiddish versions, Israeli productions, and Nazi-era German stagings, as well as several film versions. A selection from the major critical literature on the play will be studied.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 55.15,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.15 The Merchant of Venice: The Jew in the Protestant Imagination",
+    "xlist": "JWST 070 REL 74.12"
+  },
+  "ENGL-55.16": {
+    "description": "Ever since natural historians like Charles Lyell and Charles Darwin radically expanded the time scale of Earth’s history, modern writers and filmmakers have looked for new ways to mediate “deep time.” This course is an introduction to their work. During the semester, we discuss the techniques they use to portray the passage of geological time. We also question the political implications of these representations—what they tell us about society in the present. Finally, we consider deep time as an inspiration for new philosophical concepts. The course has three sections: “Deep Time and Early Science Fiction”; “Cold War Countercultures”; and “The Anthropocene.” In addition to essays and exams, we complete a field project about the Harvard Museum of Natural History.",
+    "distribs": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "number": 55.16,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.16 Prehistoric Worlds: Science Fiction and Geological Time"
+  },
+  "ENGL-55.17": {
+    "description": "This course introduces students to an emerging canon of literary autobiography and criticism devoted to the experience of disability. Critical works read in this course will cover such issues as physical access, ableism, neurotypicality, deaf political activism, and intersections of disability and other categories of identity such as race, class, gender, and sexuality. Major authors and texts to be read include Temple Grandin, Oliver Sacks, Thomas Couser, Simi Linton, Rosemarie Garland Thomson, Bartleby, Of Mice and Men, Autobiography of a Face, and Curious Incident of the Dog in the Night.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 55.17,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.17 Disability and Literature"
+  },
+  "ENGL-55.18": {
+    "description": "In this course, students will convert cutting-edge scholarship by a select group of participating Dartmouth researchers into picture books for children, complete with characters and stories (even when the research primarily involves scientific data). Students will learn the basics of picture book composition and design by analyzing classics in relevant sub-genres (there’s a bird laboratory at Cornell that puts out a regular series of picture books that will also be useful as models). In collaborative teams and working closely with the professor and their assigned researcher, students will pitch and defend their ideas, produce mock-up picture books, and present other documents simulating the professional experience of seeking publication for their projects.",
+    "distribs": "Dist:ART",
+    "instructor": "",
+    "number": 55.18,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 55.18 Research As Picture Books"
   },
   "ENGL-55.19": {
     "description": "In 1738, a hundred years before legal emancipation came to England’s New World slave colonies, Jamaica’s Maroons forced the colonial power to sign a treaty granting sovereignty to Maroon communities across the Caribbean island. As the first Africans in the New World to achieve this feat, Maroon warriors directly and indirectly influenced abolitionist and revolutionary movements throughout the Americas—including, of course, revolts in Haiti and the United States. These warriors continued to inspire the revolutionary actions of other oppressed and/or enslaved individuals for generations, and indeed, a revolutionary ethos pervades Jamaican culture and artistic production from the colonial period to the present moment. This course traces the impact of “Jamaican” revolutionary figures on other revolutionary figures and events worldwide. Moving chronologically, from colonialism to the present day, the course examines influences such as African/Jamaican Maroon leaders direct impact on other revolutions throughout the Americas; Mary Seacole’s exchanges with and impact on Florence Nightingale during the Crimean War; Marcus Garvey’s impact on the Harlem Renaissance and the Rastafari religion; Claude McKay’s revolutionary impact on vernacular poetics and on the “Red Scare;” Louise Bennett’s mid-twentieth century revolutionary, feminist, vernacular poetics and her impact on female performers in the Americas, Europe, and Africa; Bob Marley and Damian Marley’s impact on politics and revolutionary movements in Liberia and Ghana; and finally, the impact of Staceyann Chin’s outspoken poetics on LGBTQ rights in the Caribbean and in other marginalized African diasporic communities.",
@@ -10040,6 +10214,14 @@
     "subject": "ENGL",
     "title": "ENGL 92 English Study Abroad III"
   },
+  "ENGL-96": {
+    "description": "A tutorial course to be designed by the student with the assistance of a member of the English Department willing to supervise it. This course is available, as an occasional privilege, to upperclassmen who have demonstrated their ability to do independent work. During the term prior to taking the course, applicants must consult the Department Vice Chair to make arrangements for approval of the project. (Note: ENGL 96 does not normally count towards the English major or minor, though in special circumstances the C.D.C. may approve occasional exceptions to that rule. Students seeking such an exception are asked to petition the C.D.C. before taking ENGL 96. ENGL 96 may not be used to satisfy course group requirements.)",
+    "instructor": "Varies",
+    "number": 96,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 96 Reading Course"
+  },
   "ENGL-98": {
     "description": "Independent study under the direction of a faculty adviser. Honors majors elect this course during the first term in which they are pursuing honors projects. For more information, see “English Honors Program,” and consult the “Guide to Honors” booklet in the English and Creative Writing Department.\n \nStudents are awarded one course credit for successful completion of this course at the end of the second term of study. Students subsequently register for ENGL 99, and continue with their coursework into a second term. A final grade will replace the “ON” for this course upon completion of ENGL 99.",
     "instructor": "Varies",
@@ -10182,6 +10364,14 @@
     "title": "ENGS 17.04 Making Music: The Art, Science, and Symbolism of Musical Instruments",
     "xlist": "COCO 020 MUS 17.04"
   },
+  "ENGS-174": {
+    "description": "This course will address the science and technology of converting key primary energy sources—fossil fuels, biomass, solar radiation, wind, and nuclear fission and fusion—into fuels, electricity, and usable heat. Each of these topics will be analyzed in a common framework including underlying fundamentals, constraints on cost and performance, opportunities and obstacles for improvement, and potential scale.",
+    "instructor": "Laser",
+    "number": 174,
+    "offered": "20F, 21F",
+    "subject": "ENGS",
+    "title": "ENGS ENGS 174 Energy Conversion"
+  },
   "ENGS-18": {
     "description": "This course introduces systems dynamics, an approach to policy design and analysis based upon feedback principles and computer simulation. The approach is useful for gaining an understanding of the underlying structural causes of problem behavior in social, economic, political, environmental, technological, and biological systems. Goals of this approach are to gain better understanding of such problem behaviors and to design policies aimed at improving them. Lectures and exercises illustrate applications of the approach to real, current problems such as urban decay, resource depletion, environmental pollution, product marketing and distribution, and agricultural planning in an expanding population. The similarity and transferability of underlying feedback characteristics among various applications is emphasized. No prior engineering or computer science experience is necessary.",
     "distribs": "TAS",
@@ -10280,6 +10470,14 @@
     "offered": "",
     "subject": "ENGS",
     "title": "ENGS 26 Control Theory"
+  },
+  "ENGS-262": {
+    "description": "This course will provide advanced techniques for the design, modeling, and experimental implementation of complex synthetic biological circuits including feedback control and regulation. Advanced & complex synthetic circuits will be designed and tested in bacteria in the laboratory. Computer aided design, modeling, and simulation will use CADENCE, an industry standard electronic circuit design tool. Applications of synthetic biology to medicine and biotechnology will be discussed. In addition, the students will be expected to design a synthetic biological circuit with feedback and control techniques for a class project.",
+    "instructor": "Sarpeshkar",
+    "number": 262,
+    "offered": "21S, 22S",
+    "subject": "ENGS",
+    "title": "ENGS ENGS 262 Advanced Biological Circuit Engineering"
   },
   "ENGS-27": {
     "description": "This course is an introduction to probabilistic methods for modeling, analyzing, and designing systems. Mathematical topics include the fundamentals of probability, random variables and common probability distributions, basic queueing theory, and stochastic simulation. Applications, drawn from a variety of engineering settings, may include measurement and noise, information theory and coding, computer networks, diffusion, fatigue and failure, reliability, statistical mechanics, ecology, decision making, and robust design.",
@@ -14595,6 +14793,14 @@
     "offered": "",
     "subject": "GOVT",
     "title": "GOVT 20.09 Populism and Democracy in Europe"
+  },
+  "GOVT-20.1": {
+    "description": "The purpose of this course is to explore the nature and implications of the market primarily as a political, but also as a social, economic and even moral phenomenon. From being a marginal, controlled, and secondary social institution in most early societies, markets have risen to become a central mode of social coordination and economic production, distribution and exchange in modern ones throughout the Western and non-Western world. What is the best way of thinking about this transformation in the prominence of the market in human life? Why has it happened, whom has it benefited, whom has it harmed, what functions has it served, what new problems has it created, and what if anything are the limits on the social utility of markets?",
+    "instructor": "",
+    "number": 20.1,
+    "offered": "",
+    "subject": "GOVT",
+    "title": "GOVT 20.10 Markets and Their Critics"
   },
   "GOVT-27": {
     "description": "This course introduces students to major contemporary racial justice debates. It also considers how theories of racial justice might better include the concerns of women of color as well as LGBT and trans persons of color. Throughout the course we will examine questions such as: What constitutes racial injustice? How is gender implicated in said injustice? What, if anything, do blacks and other people of color owe to one another? Should political possibility and pragmatism bound thinking regarding corrective racial justice?",
@@ -19962,7 +20168,7 @@
     "description": "Writing a research paper requires the knowledge of the scope, the genesis, and the methods of the discipline one is engaged in. The goal of this workshop is to make students aware of their own approaches to help them develop their own research projects. It will cover methods of practical implementation, skills and strategies to obtain better results in research and class performance. Apart from learning how to apply and integrate different genre such as excerpts, protocols, reports, summaries, or charts that help preparing a presentation, writing a paper, or finishing a thesis, discussions will address the following questions:\n1. What distinguishes scholarship from other forms of knowledge production (media, encyclopedias);\n2. What research means in the sciences and in the humanities, and how individual disciplines produce knowledge;\n3. What it means to read and write “critically;”\n4. How to distinguish “scientific facts,” from “producing meaning,”\n5. How to turn individual observations and experiences into viable scholarly projects and why framing the right question might be more important than the answer;\n6. How research strategies and different forms of systematic thinking might be helpful at working places outside the university and beyond scholarly projects.\nIn order to practice how to plan or carry out research and how to build an argument, students will be asked to bring in their own work in progress, be it an initial idea for a final paper, a proposal for an independent study, or a chapter of their thesis.",
     "instructor": "Klaus Milich",
     "number": 130,
-    "offered": "18X",
+    "offered": "20W",
     "subject": "MALS",
     "title": "MALS 130 Cultural Studies Research Methods"
   },
@@ -21069,24 +21275,6 @@
     "subject": "MES",
     "title": "MES 16.23 Discovering an Islamic City"
   },
-  "MES-16.3": {
-    "description": "This course is an introduction to twentieth-century fiction across the Arab world. Looking at works from North Africa to the Middle East, we will examine how Arab writers and filmmakers have dealt with such themes as nationalism, immigration, freedom, sexuality, war, violence, and religion. Authors include Tayyib Salih, Mohamed Choukri, Ghassan Kanafani, Tahar Wattar, and Hanah al-Shaykh, among others.",
-    "distribs": "Dist:LIT; WCult:NW",
-    "instructor": "Smolin",
-    "number": 16.3,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 16.30 Modern Arabic Fiction"
-  },
-  "MES-16.31": {
-    "description": "This course explores various aspects of Palestinian existence through literature and cinema.  What does it mean to be “Palestinian”?  What unifies a cultural output produced not only in Arabic, but also in Hebrew and English, by people who carry a variety of citizenships (or none at all)? How have Palestinian authors and filmmakers grappled with issues such as collective identity, the “Other,” and internal social problems?  How have these issues influenced their use of literature and film as art forms?",
-    "distribs": "Dist:LIT; WCult:NW",
-    "instructor": "",
-    "number": 16.31,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 16.31 Palestinian Literature and Cinema"
-  },
   "MES-16.32": {
     "description": "Arabic literature is widely regarded as the foremost intellectual and artistic accomplishment of the Arabs. In the course of over fourteen centuries of vigorous literary activity, Arab poets and writers have elaborated a set of themes that inform Arabo-Islamic culture in profound ways. Offerings of this course might range from the examination of a particular theme to broader comparative studies.Courses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
     "instructor": "",
@@ -21212,16 +21400,6 @@
     "title": "MES 17.18 Jewish Views of Islam",
     "xlist": "JWST 058"
   },
-  "MES-18.01": {
-    "description": "This course focuses primarily on the work ofcontemporary artists who make work in orabout the so-called Middle East. It includesrecent works by artists from nations as diverseas Algeria, Iran, Israel, Lebanon, Morocco,Syria, Turkey and the UAE. One of the mainobjectives of the course is to look at artpractices that attempt to deepen ourunderstanding of the varied cultures,ethnicities and societies that are found in thispart of the world. The geographic focus of thecourse–mostly the Muslim nations of theArabian peninsula and North Africa–is notmeant to perpetuate the assumptions aboutthis region as a monolithic geopolitical entity,nor to blindly label its production according toexisting ethnic, religious or nationalcategories. Against media stereotypes of theregion, the artists studied in this course havemade work that function as a critical platformfor rethinking traditional identity formationsand extending the space of cultural encounteracross borders (territorial, political, linguistic).In many cases these artists may not be livingand working in their country of birth but theirethnicity, religion or citizenship continues toinform both their own sense of identity and theterms of their art practice. Some of the topicsto be discussed include: artistic responses tothe Arab-Israeli conflict, representations ofeveryday life in times of war, the movementand obstruction of people, goods andinformation across borders, the rise of new artmarkets in the Middle East, the politics ofgender and sexuality in the Arab world, andthe of use archival documents to rethink themeaning of evidence, truth and testimony.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Elias",
-    "number": 18.01,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 18.01 Unmaking HIstory: Contemporary Art in the Middle East",
-    "xlist": "ARTH 42.01 ARTH 63.22"
-  },
   "MES-19.02": {
     "description": "This course introduces students to the diversity of feminist approaches on a transnational scale, by examining the movements, activism, media, literature, and Islamic debates produced in predominantly Muslim countries and beyond. We will interrogate concepts of transnationalism, feminism and modernity in terms of historical developments, theoretical usage, the context of colonialism, Islamic theologies, and the modern Muslim nation states. We will explore similarities and differences in women's experiences and feminist methodologies across global Muslim contexts. Course materials will be made up of several primary sources in translation that deal with intersectional issues such as religious and cultural practices, educational systems, politics, race and racism, socioeconomic class, legal rights for men and women, and marriage and the family.",
     "distribs": "Dist:INT or SOC; WCult:NW",
@@ -21241,16 +21419,6 @@
     "subject": "MES",
     "title": "MES 19.03 Arab Feminisms",
     "xlist": "WGSS 24.01"
-  },
-  "MES-19.04": {
-    "description": "In this course, we will study histories of the modern Middle East and North Africa and examine the ways that issues relating to gender and sexuality have affected the politics and social worlds of the region over the course of the past several centuries. This course begins with the medieval Islamicate Empires — Mughal, Safavid, and Ottoman — and then moves through the end of empire, the colonial era, the establishment of the nation state, and the emergence of modern cultural, political, and religious movements. In doing so, we will situate the histories and social worlds of the region in a global frame, asking how global political and economic transformations have affected the region. At the same time that we attend closely to these histories, we will also examine the ways in which the category of “woman” has been mobilized in popular and political discourses in the 18th-21th centuries, paying particular attention to how Muslim and Middle Eastern women have been represented in various political discourses, as well as how they have represented themselves. Through close readings of both primary sources (in translation) and secondary literature — including historiographical, theoretical, and literary texts as well as film and music— we will also tackle the questions, controversies, and stereotypes that have animated debates in both scholarly and popular literature on such topics as the veil, feminism, revolution, human rights, LGBT issues, masculinity, and war.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Nikpour",
-    "number": 19.04,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 19.04 Gender and The Modern Middle East and North Africa",
-    "xlist": "HIST 070"
   },
   "MES-19.05": {
     "description": "“Is Islam sexist?” “What does Islam really say about women?” This course seeks to dismantle the premises of these questions by asking who speaks for Islam, what makes something Islamic, and how are gender and gender roles constructed in Islamic texts and Muslim thought. We will make critical study of the constructions of gender, femininity, masculinity, sexuality, gender relations, marriage and divorce in classical and modern Islamic texts. In asking how Islamic notions of gender are constructed, we will examine both the roles religious texts have played in shaping Muslim life and how Muslim life in its cultural diversity affects readings of religious texts. We will read works of Muslim thought on gender relations in their historical contexts and in relation to one another. Through in-class discussions, critical reading exercises, and short essay assignments, students will strengthen their literacy on global gender issues, study religio-historical ideas on gender, analyze the role of texts in shaping gender in society, and vice versa.",
@@ -21367,16 +21535,6 @@
     "title": "MES 8.01 Introduction to Middle East Politics",
     "xlist": "GOVT 40.25"
   },
-  "MES-81.01": {
-    "description": "This class is a survey of the main trends and themes in Arab theatre from the mid-19th century to contemporary times. Students will be introduced to some of the main playwrights, actors and directors who helped define the art in the Arab world over the last century and a half.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Morsi",
-    "number": 81.01,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 81.01 Arab Theatre",
-    "xlist": "ARAB 81.04 THEA 10.45"
-  },
   "MES-81.02": {
     "description": "In this seminar, we will read Arabic novels in translation published across the Middle East during the past decade. How have the authors of these texts grappled with recent transformations in post-9/11 Arab society, such as globalization, terrorism, gender relations, and war? How have old themes--including the clash between tradition and modernity, East-West relations, and the Israeli-Palestinian conflict--become renewed for the contemporary era? We will examine exciting recent novels from Egypt, Saudi Arabia, Iraq, Libya, Lebanon, and Palestine to answer these questions. This course has no prerequisites but familiarity with the history of the Middle East in the twentieth century and trends in contemporary Arabic prose during this period would be helpful.",
     "distribs": "Dist:LIT; WCult:NW",
@@ -21394,14 +21552,6 @@
     "offered": "",
     "subject": "MES",
     "title": "MES 81.03 Images of the West in the Arabic Novel"
-  },
-  "MES-85": {
-    "description": "Under the direction of members of the faculty, subject to faculty availability. Students should consult with a member of the faculty in the term preceding the term in which the independent work is to be done. A research proposal must be submitted to the Department for approval.",
-    "instructor": "El-Ariss, staff",
-    "number": 85,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 85 Independent Research"
   },
   "MES-87": {
     "description": "Open only to AMELL majors who are participating in the Honors Program. See guide­lines under 'Honors Program.'",
@@ -23256,6 +23406,15 @@
     "subject": "PBPL",
     "title": "PBPL 49 Environmental Policy Research Workshop",
     "xlist": "undefined"
+  },
+  "PBPL-5": {
+    "description": "This course is designed as the gateway offering for students beginning to pursue a minor in public policy through the Rockefeller Center. The term will be divided into four main components: The Nature of Public Policy, Making Public Policy, The Policy Players, and The Policy Game. In the concluding section of the course, we will pursue specific policy domains-environmental policy, education policy, health care policy, welfare policy, immigration policy, and defense policy.",
+    "distribs": "Dist:SOC; WCult:W",
+    "instructor": "Shaiko",
+    "number": 5,
+    "offered": "",
+    "subject": "PBPL",
+    "title": "PBPL 5 Introduction to Public Policy"
   },
   "PBPL-51": {
     "description": "This course focuses on aspects of leadership dealing with the accumulation and utilization of social capital through societal organizations. The literature cover nonprofit leadership, grassroots mobilization, religious leadership, interest group influence, organizational maintenance and political representation, and leadership problems associated with collective action. Students also discuss the roles of political parties as aggregators of societal interests and as intermediaries between citizens and state. Students also evaluate leadership capacity of the media to create informed citizens.",
@@ -26720,6 +26879,24 @@
     "subject": "REL",
     "title": "REL 19.35 Magic, Miracles, and the Prophet Muhammad"
   },
+  "REL-20.01": {
+    "description": "How do we study the evolution and development of religion in society? It was only in the late 19th century that “religion” became an object of academic study with such founders of sociology and cultural anthropology as Sir Edward Tylor, Émile Durkheim, Max Weber, and Mary Douglas, among others. This course invites you to become part of the discussion and to develop your own analysis and writing skills. Through critical readings and class discussions, the course is designed to provide a grounding in the methods and approaches that have created the academic field of “the study of religion.\"",
+    "distribs": "Dist:TMV",
+    "instructor": "Reinhart",
+    "number": 20.01,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 20.01 Classic Works in the Study of Religion"
+  },
+  "REL-20.02": {
+    "description": "Can significant distinctions be drawn between religious and magical ritual? Do magic and religion thrive in opposition to the science of their time or in congruence with it? The course addresses such theoretical questions in the study of religion from perspectives of history, philosophy of science, anthropology, and cognitive science. The course will suggest a general theory of conditions under which religion tends to be or tends not to be magical. Students will be invited to challenge that theory.",
+    "distribs": "Dist:SOC",
+    "instructor": "Benor",
+    "number": 20.02,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 20.02 Magic, Science, and Religion"
+  },
   "REL-20.03": {
     "description": "A study of the principal religious and philosophical arguments for and against religious belief. The first part of the course will consider the question of the justifiability of religious belief through an appeal to religious experience and mysticism, to rational theistic arguments, and to faith, showing the difficulties in each case. The second part of the course will cover alternatives to classical theism and the contemporary challenge of conceptual relativism and religious pluralism.",
     "distribs": "Dist:TMV",
@@ -26737,6 +26914,33 @@
     "offered": "",
     "subject": "REL",
     "title": "REL 20.04 Theoretical Approaches to the Study of Myth: Interpreting Ancient Near Eastern Mythology"
+  },
+  "REL-20.05": {
+    "description": "This course examines basic theoretical and methodological questions about the study of religion. We begin with several definitions and approaches to religion emerging from Sociology, Anthropology, Psychology and Cognitive science, to Comparative Religion. Next we explore the formation of World Religions, the emergence of New Religious Movements, and the problematic definitions of Asian religions. We also explore theoretical issues regarding ritual, mythology, sacred time and scared space, the body and the cosmos.",
+    "distribs": "Dist:INT or TMV; WCult:NW",
+    "instructor": "Raz",
+    "number": 20.05,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 20.05 What is Religion?"
+  },
+  "REL-20.06": {
+    "description": "Shamans are those who communicate with spirits. Or are they? In this course, we unpack various definitions of shamanism and the vigorous debate over this term (the agony). We consider the history of shamanism as a concept, looking at key theories and scholars. We explore shamanism around the world, drawing on scholarship, ethnographies, and lived experience of shamanic practices (the ecstasy). We delve into considerations of gender, medicine, colonialism and indigeneity.",
+    "distribs": "Dist:INT or TMV; WCult:NW",
+    "instructor": "Simpson",
+    "number": 20.06,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 20.06 Shamanism: The Agony and the Ecstasy"
+  },
+  "REL-20.07": {
+    "description": "Most of humanity’s religious history is only accessible using archaeological evidence. Moreover, even where texts are available, they tend to reflect the perspective of elites. This course therefore explores how archaeological methods can help us better understand religious phenomena in past societies. Topics will include the religion (or lack thereof) of our hominid ancestors (e.g. Neanderthals), the state religions of ancient civilizations, and the complementary perspective that archaeology provides on the World Religions.",
+    "distribs": "Dist:INT or SOC; WCult:NW",
+    "instructor": "Wilkinson",
+    "number": 20.07,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 20.07 Archaeologies of Religion"
   },
   "REL-21": {
     "description": "To what extent has religion been a shaping factor in the West’s development and can it be clearly distinguished from wider philosophical, sociological, and political trends? Students will begin to develop expertise in the study of religion and in theoretical literature addressing various questions and concerns raised by thinkers in the West in various historical periods. Open to all classes.",
@@ -30666,6 +30870,16 @@
     "title": "WGSS 44.07 The Struggle for Liberation: Women, Monasticism, and Buddhism",
     "xlist": "REL 41.03"
   },
+  "WGSS-46.01": {
+    "description": "This course will focus primarily on the following questions: What is feminism? What is sexism? What is oppression? What is gender? Is knowledge gendered? Is value gendered? What is a (gendered) self? What would liberation be? In exploring these issues, we will examine the ways feminist theorists have rethought basic concepts in core areas of philosophy such as ethics, social and political philosophy, metaphysics, epistemology, philosophy of law, and philosophy of mind. Open to all classes",
+    "distribs": "Dist:TMV; WCult:CI",
+    "instructor": "Brison",
+    "number": 46.01,
+    "offered": "",
+    "subject": "WGSS",
+    "title": "WGSS 46.01 Philosophy and Gender",
+    "xlist": "undefined"
+  },
   "WGSS-47.03": {
     "description": "This course focuses on the emerging counter-tradition, within American modernism and within the larger tradition of poetry in English, of American women poets in the twentieth century. Taking our cue from Adrienne Rich, who ambiguously titles one book of essays On Lies, Secrets and Silences (is she for or against?), we will follow debates about what makes it possible to break previous silences--and to what degree and in what ways it is useful or satisfying to do so. Topics within this discussion will include sexuality, race, illness, literary modes, female literary succession, and relations with the literary tradition. We will read in the work of eight or nine poets and recent critical and theoretical writings, with some attention in the first weeks to important female and male precursors. The syllabus will include such writers as Edna St.Vincent Millay, HD, Gertrude Stein, Elizabeth Bishop, Gwendolyn Brooks, Sylvia Plath, Anne Sexton, Audre Lorde, Adrienne Rich, Marilyn Hacker, Louise Gluck, Rita Dove.",
     "distribs": "Dist:LIT; WCult:W",
@@ -30723,6 +30937,16 @@
     "subject": "WGSS",
     "title": "WGSS 51.09 Young Adult Literature",
     "xlist": "ENGL 54.03"
+  },
+  "WGSS-51.1": {
+    "description": "What makes an Asian/American “bad” and what makes a text “queer”? How does one shed light and offer insight on the other? How might the “bad” and the “queer” name the refusal and failure to assimilate and align oneself with racial capital, settler colonial logics, and reproductive futurity? How might both terms require us to rethink what narratives of belonging look, feel, and sound like and in turn, become the grounds for alternative solidarities, affiliations, and intimacies across lines of minority difference? To answer these questions, we will engage with primarily contemporary Asian/American works of literature, poetry, film, performance, and art that alters, disrupts, and varies Asian/American narratives of migration, assimilation, and upward mobility. Through these works, we will address historical processes of Asian/American racial, gender, and sexual formation by way of the “bad” and the “queer,” as transformative political and aesthetic categories of inquiry that risk failing to fit in, being wrong, and not belonging.",
+    "distribs": "Dist:LIT; WCult:CI",
+    "instructor": "",
+    "number": 51.1,
+    "offered": "",
+    "subject": "WGSS",
+    "title": "WGSS 51.10 Narratives of Un-belonging: Bad Asians, Queer Texts",
+    "xlist": "ENGL 53.38"
   },
   "WGSS-52.01": {
     "description": "In this course, we will develop an understanding of masculinity as a construct which varies in time and space, and is constantly (re)shaped by such factors as race, class, and sexuality. The contexts of the colonial encounter and its postcolonial aftermath will set the stage for our examination of the ways in which social, political, economic, and cultural factors foster the production of specific masculinities. Texts include Achebe’s Things Fall Apart, Conrad’s Heart of Darkness, Lafferiere’s How to Make Love to a Negro, and additional writings by Irish, Indian, and Australian authors. Our study will be organized around the questions of the production of hegemonic and subaltern masculinities, the representation of the colonial and postcolonial male body, the militarization of masculinity, and the relation between masculinity and nationalism. Theoretical material on masculinities will frame our readings.",
