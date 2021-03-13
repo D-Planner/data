@@ -4225,6 +4225,11 @@
         "changed": "202101-BIOL-103-01",
         "hash": "283ce7fa56132861",
         "timestamp": "2021-03-13T12:05:00.503Z"
+      },
+      {
+        "changed": "202101-BIOL-103-01",
+        "hash": "d83cab14a91f67b9",
+        "timestamp": "2021-03-13T13:04:05.162Z"
       }
     ]
   },
@@ -4235,9 +4240,9 @@
       "timestamp": "2021-03-08T09:07:33.516Z"
     },
     "timetable": {
-      "changed": "202101-BIOL-103-01",
-      "hash": "d83cab14a91f67b9",
-      "timestamp": "2021-03-13T13:04:05.162Z"
+      "changed": "202103-COSC-297-01",
+      "hash": "abaa318669f5b21f",
+      "timestamp": "2021-03-13T18:05:15.379Z"
     }
   }
 }
