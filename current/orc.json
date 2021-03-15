@@ -3107,24 +3107,6 @@
     "title": "ASCL 53.01 Divine Love: Desire, Sex, and Romance in Traditions of India",
     "xlist": "COLT 55.01"
   },
-  "ASCL-54.01": {
-    "description": "In 1947, India was partitioned into India and Pakistan. Since then, these countries have wrestled with issues of governance and development, but colonial rule casts a long shadow over their efforts. This course introduces students to the complex politico-economic landscape of the subcontinent by examining how the idea of development changes in modern South Asian history. How are developmental efforts embedded in contexts of politics, society, and culture? How do political systems affect decisions? This course considers these questions by examining themes such as the colonial state's construction of railway and irrigation networks; Gandhi's critique of industrialization; Nehru's vision of an industrial economy; the challenges posed by Partition and militarization of Pakistan; the Green Revolution; and the onset of economic deregulation.",
-    "distribs": "Dist:INT or SOC; WCult:NW",
-    "instructor": "",
-    "number": 54.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 54.01 Political Economy of Development in Colonial and Postcolonial South Asia"
-  },
-  "ASCL-54.02": {
-    "description": "South Asian society has long been represented by rigid systems of hierarchy. Caste and religion have been represented as inexorable determinants of social possibility. Yet, what are the ways in which people have actually identifed themselves, and to what extent is hierarchical identification a product of South Asia's modern history? This course explores the problems of social and cultural difference in South Asia. How do modern institutions such as the census and electoral politics shape the way in which these problems are perceived today? What are the effects of the introduction of English education? This course explores the problems of social and cultural difference in South Asia.  We focus on religion, caste, language, and gender as factors shaping ethnic identity in South Asia.",
-    "distribs": "Dist:INT or SOC; WCult:NW",
-    "instructor": "",
-    "number": 54.02,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 54.02 Ethnic Identities in Modern South Asia"
-  },
   "ASCL-54.03": {
     "description": "South Asian cities are currently undergoing massive demographic and spatial transformations. These cannot be understood without a consideration of both the specific history of South Asia and a broader account of urban change. This course examines these changes in historical perspective and situates urban South Asia within a global context. How did colonial rule transform cities such as Delhi, Lahore, and Bombay? How were the differing ideologies of India and Pakistan mapped onto new capitals such as Chandigarh and Islamabad? How are ethnic pasts and techno futures reconciled in booming cities such as Bangalore and Mumbai? How are slums produced and what are the experiences of people living in them? What are the connections between the urban environment and political mobilization? We consider a range of sources, including scholarly literature, films, and short stories.",
     "distribs": "Dist:SOC; WCult:NW",
@@ -3220,16 +3202,6 @@
     "offered": "",
     "subject": "ASCL",
     "title": "ASCL 59.02 Topics TBA Foreign Study in India",
-    "xlist": "undefined"
-  },
-  "ASCL-59.03": {
-    "description": "Credit for this course, taught by the FSP director, is given to students who successfully complete this course at the University of Hyderabad while on the ASCL/WGSS FSP. Topics vary from year to year.",
-    "distribs": "WCult:NW",
-    "instructor": "Levin",
-    "number": 59.03,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 59.03 Foreign Study in India -Topics TBA",
     "xlist": "undefined"
   },
   "ASCL-60.01": {
@@ -3442,16 +3414,6 @@
     "title": "ASCL 61.07 Shinto: Foundations, Festivals, and Fox Shrines",
     "xlist": "REL 19.32"
   },
-  "ASCL-61.08": {
-    "description": "Buddhism has long been an established religious tradition and important aspect of cultural heritage in both Korea and Japan. However, there are key differences in how Buddhism developed and how the religion functions today. In South Korea, most people classify themselves as Buddhist or Christian; in Japan, the majority consider themselves non-religious, yet visit Buddhist temples and hold Buddhist funerals; in North Korea, roughly 10,000 Buddhists remain in spite of religious persecution by the state. Clerical marriage is widely accepted in Buddhist sects throughout Japan, whereas the practice has been the subject of heated debate in South Korea since the 1950s. How did these differences emerge, and what common ground remains?",
-    "distribs": "Dist:TMV; WCult:NW",
-    "instructor": "Simpson",
-    "number": 61.08,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 61.08 Buddhism in Korea and Japan: From Tribute Missions to Temple Tourism",
-    "xlist": "REL 41.06"
-  },
   "ASCL-61.09": {
     "description": "This is an introduction to the yin yang and feng shui (geomancy) cosmological and self-cultivation theories and practices. On the one hand, Chinese yin yang and feng shui cosmology is the foundation to understand traditional Chinese art, architecture and culture. On the other hand, they provide us with effective practices for our self-cultivation and to fight against COVID-19. We will learn the basics of the related Chinese cosmological classics, such as I Ching (Yijing or Zhouyi), the Classic of Changes, which has also been considered one of the earliest masterpieces in Chinese literary and intellectual traditions, as well as the arts and theories to improve our lives by creating balanced and optimal environments outside and inside our bodies.",
     "distribs": "Dist:TMV; WCult:NW",
@@ -3460,142 +3422,6 @@
     "offered": "",
     "subject": "ASCL",
     "title": "ASCL 61.09 Yin Yang and Feng Shui: Chinese Cosmology, Divination and Arts of Placement"
-  },
-  "ASCL-62.01": {
-    "description": "Traditional Chinese literature ranges from the earliest examples--divinations inscribed on turtle plastrons and ox scapulae dating back more than 3000 years--to the popular knight-errant novels of the early 19th century. The Opium War of 1839-42 is taken as the cut off point for courses in this topic category, which considers cultural as well as literary themes. Courses reflect the interests and expertise of the teaching staff and include the development of the Chinese script, historical prose, fiction and drama, poetry, and oral literature. Courses under this rubric are defined by historical period and/or literary genres. Courses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Chinese language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.This course is a survey of the major script types in the Chinese writing system and an introduction to the art of Chinese calligraphy. Along with studying the history of Chinese calligraphy, the student will learn about the similar technical origins of Chinese calligraphy and painting, study and practice the basic techniques of Chinese calligraphy, and learn the basic rules of formation of Chinese characters. Classroom practice will give the student hands-on experience of using traditional Chinese writing tools.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Xing",
-    "number": 62.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.01 Chinese Calligraphy"
-  },
-  "ASCL-62.02": {
-    "description": "From folksong collection in Confucian times to current efforts at preserving Intangible Cultural Heritage, this course begins by introducing traditional ideas about the folk and folk culture in China, and how the relationship between folk and elite has changed over time, with special emphasis on the twentieth and twenty-first centuries. Through the examination of local traditions of storytelling, epic singing, folksongs, ritual, and local drama from various time periods and geographical areas, students will gain a deeper, more nuanced understanding of the diversity of regional and ethnic expressive forms within China and how they continue to develop over time through the present day. During this course, you will also become familiar with important theories from folklore studies and learn to apply them in analyzing performances and texts—skills that can be fruitfully extended to both personal and professional areas of your life in the future.",
-    "distribs": "Dist:LIT; WCult:NW",
-    "instructor": "Gibbs",
-    "number": 62.02,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.02 Traditional Performance in China: Past and Present"
-  },
-  "ASCL-62.06": {
-    "description": "This course explores cinematic representations of Korean history and the diverse interpretations of social, cultural, and political issues portrayed in modern and contemporary Korean films. The course is structured by thematic issues, including: Korean ideas about politics and monarchy, North Korea's self-identity, rapid industrialism, South Korea's democratic movement, and Korean's concept of love. The class will view Korean films, and also read novels depicting similar issues and compare and contrast the theatrical and literary representations.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Kim",
-    "number": 62.06,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.06 Exploring Korea Through Film"
-  },
-  "ASCL-62.07": {
-    "description": "This course will introduce the arts and culture of Korea from the prehistoric period through the twentieth century. Significant examples of painting, ceramics, sculpture, and architecture will be closely examined in their political, social, and cultural contexts. We will explore how East Asian motifs were incorporated into traditional Korean art. We will see how Korea struggled to find its artistic identity within the international context during the 20th century.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Kim",
-    "number": 62.07,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.07 Introduction to Korean Art",
-    "xlist": "undefined"
-  },
-  "ASCL-62.08": {
-    "description": "This course examines the art and culture of Korea from the late nineteenth century through the twentieth century. During this period Korea experienced the fall of its 500-year-long dynasty, annexation to Japan, the Korean war, division into two Koreas, and internationalization/globalization.  The class will explore how visual art, including paintings, photographs, posters, ceramics, and film, reflected and expressed the political, socio-economic, and cultural changes and concerns of each period, in both South and North Korea.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Kim",
-    "number": 62.08,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.08 Modern and Contemporary Korean Art",
-    "xlist": "ARTH 62.20"
-  },
-  "ASCL-62.09": {
-    "description": "An examination of major trends in popular visual culture in Japan since the 1980s focused on the growth in production and distribution of animated films, tv series, and video games. Screenings will include works by Miyazaki Hayao, Rintaro, Takahata Isao, and Kon Satoshi. Readings will include both critical and historical sources that will provide the social and economic contexts for the development of the anime industry, theories of animation, and the global impact of Japanese popular culture .",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Washburn",
-    "number": 62.09,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.09 Krieger's Virtual Girlfriend: Japanese Anime and the Idea of the Posthuman",
-    "xlist": "undefined"
-  },
-  "ASCL-62.1": {
-    "description": "This course examines Shinto and Buddhist architectural, sculptural, painting and print traditions from the prehistoric to the modern era. The primary emphasis will be on the relationship of these arts to their doctrinal sources and the ritual, social, and political contexts in which they were created and utilized.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Hockley",
-    "number": 62.1,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.10 Sacred Art and Architecture of Japan",
-    "xlist": "ARTH 32.21"
-  },
-  "ASCL-62.11": {
-    "description": "This course provides a comprehensive introduction to the Japanese painting tradition. Surveying a broad range of themes, formats, and styles and exploring the relationship between indigenous sensibilities and the traditions Japanese artists borrowed from continental Asia and the West, it defines the unique aesthetic experience offered by Japanese sacred and secular painting. Its focus on patronage and studio practice emphasizes the social, political, and cultural processes that underscored important developments in the painting tradition.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Hockley",
-    "number": 62.11,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.11 The Japanese Painting Tradition",
-    "xlist": "ARTH 32.22"
-  },
-  "ASCL-62.12": {
-    "description": "A survey of the Japanese print tradition from its inception in the seventeenth century through modern prints in the early twentieth century, this course emphasizes the relationship between prints and the political, social, and cultural milieu in which they circulated. The curriculum includes applications of recent critiques and theoretical approaches from fields as diverse as sexuality and gender studies, mass culture and media studies, aesthetics of popular arts, and the sociology of consumption.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Hockley",
-    "number": 62.12,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.12 Japanese Prints",
-    "xlist": "ARTH 62.30"
-  },
-  "ASCL-62.13": {
-    "description": "This course will focus on women as the subjects, the creators, and the patrons of art in China, Korea, and Japan from the 16th century to the present.  It will be organized chronologically, culturally, and thematically.  This will involve an exploration of powerful matrons of art and their aspirations, a historical survey of women artists and their artistic contributions, and an examination of the religious and secular images of women and its limitations.  The course will also look at contemporary artists and investigate their artistic discourses, messages, and experimentations.  Extensive attention will be given to the creation, modification, and persistence of these images throughout history, due to various social, economical, psychological, and intellectual conditions. This course will develop students’ thinking skills in the history of art and improve their ability to conduct research and communicate both orally and in writing within the discipline.\n\\fThis course requires no previous coursework or experience, but is intended for those who like interdisciplinary approaches to art and culture.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Kim",
-    "number": 62.13,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 62.13 Women, Gender, and Art in East Asia",
-    "xlist": "ARTH 62.81"
-  },
-  "ASCL-63.01": {
-    "description": "This course investigates systems of healing practiced in, and derived from, Asia. We will focus primarily on three Asian medical systems: Ayurveda, Chinese medicine, and Tibetan medicine. We will strive to understand how these medical systems are based on coherent logics that are not only biologically but also culturally determined. We will also analyze the deployment of these medical systems in non-Asian contexts, and examine the relationship between Asian systems and \"western\" biomedicine.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Armbrecht",
-    "number": 63.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 63.01 Asian Medical Systems",
-    "xlist": "ANTH 045"
-  },
-  "ASCL-64.01": {
-    "description": "This course explores Korean history between 1876 and 1945, as Korea entered the modern period. First, we will examine how Japan, China, and Korea responded to Western imperialism in the 19th century, and then how China and Korea responded to Japanese imperialism early in the 20th century. The second half of the class will explore the Japanese colonial government's assimilation policy during the colonial period in Korea, and how Korea was affected by and reacted to various aspects of this policy. The establishment of historiography, formulation of aesthetic and cultural cannons, and shaping of images of Koreans and their land will be explored by examining diverse media including literature, photographs, exhibition catalogues, and other primary sources. The class will conclude with the continuing legacy of the Japanese colonial period. All readings are in English. No prior knowledge of Korea or Korean language assumed.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Kim",
-    "number": 64.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.01 Cultural Struggles in Colonial Korea"
-  },
-  "ASCL-64.03": {
-    "description": "This course explores the history of the Democratic People's Republic of Korea (North Korea) from a global perspective. Topics include the Japanese colonial legacies; liberation, division, and foreign occupation between 1945 and 1950; the meanings of the Korean War; comparing Kim Il-Sung's North Korean revolution with Park Chung-hee's state building in the South; the reality of \"Self-Reliance\"; social control and everyday life; and issues around human rights.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Suh",
-    "number": 64.03,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.03 North Korea: Origins and Transitions",
-    "xlist": "undefined"
-  },
-  "ASCL-64.04": {
-    "description": "This course examines Korean Christians’ beliefs and practices, which have shaped and brought tensions to current socio-religious phenomena. Topics include the Korean origins of Christianity, the encounter between Catholicism and Neo-Confucianism in the eighteenth century, Protestant missionaries’ role in medicine and education, the rise of nationalism and Christianity under Japanese colonialism, churches in North Korea, Pentecostalism under South Korea’s rapid industrialization and democratization, Korean missionaries around the world, and Christian musicians and entertainers in Korea, as well as the interface between gender and Korean Christian culture.",
-    "distribs": "Dist:TMV; WCult:NW",
-    "instructor": "Suh",
-    "number": 64.04,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.04 Christianity in Korea",
-    "xlist": "undefined undefined"
   },
   "ASCL-64.05": {
     "description": "This course explores the emergence of the two Koreas, from a global perspective. Beginning with the legacies of the Chos\\\\u014Fn Dynasty, we will examine the impact of Japanese colonialism on the divergence of the two nation-states: the Republic of Korea (South Korea) and the Democratic People’s Republic of Korea (North Korea). Analyzing scholarly writings and primary sources, the course will focus on the domestic and international processes through which the two regimes clashed and competed in the context of the Cold War. We will primarily focus on drastic differences manifested between the two countries’ ideologies, cultures, and political economies, but also pay attention to unexpected parallels experienced by Koreans across the hostile division. Students will pursue a final research project, in consultation with the instructor, on a comparison of their choice related to the themes of this course. No prior knowledge of the Koreas or the Korean language is expected.",
@@ -3607,26 +3433,6 @@
     "title": "ASCL 64.05 The Two Koreas, 1948-Present",
     "xlist": "HIST 78.03"
   },
-  "ASCL-64.08": {
-    "description": "This survey course traces China's social, political, and cultural development from the relative peace and prosperity of the high Qing period, through the devastating wars and imperialist incursions of the nineteenth century, to the efforts, both vain and fruitful, to build an independent and powerful new nation. Open to all classes.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Crossley",
-    "number": 64.08,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.08 The History of China since 1800",
-    "xlist": "HIST 05.03"
-  },
-  "ASCL-64.09": {
-    "description": "China's history, from the 3rd century BCE to the twentieth century, examined in the context of global developments in demography, economy, urbanization, technology, trade, and the arts. Open to sophomores, juniors, and seniors.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Crossley",
-    "number": 64.09,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.09 Late Imperial China in Global Context",
-    "xlist": "HIST 072"
-  },
   "ASCL-64.11": {
     "description": "A survey of Japanese history from the mid-nineteenth century to the present. Topics to be covered include the building of a modern state and the growth of political opposition, industrialization and its social consequences, the rise and fall of the Japanese colonial empire, and the postwar economic 'miracle.'",
     "distribs": "Dist:SOC; WCult:NW",
@@ -3637,16 +3443,6 @@
     "title": "ASCL 64.11 The Emergence of Modern Japan",
     "xlist": "HIST 05.05"
   },
-  "ASCL-64.12": {
-    "description": "This course examines the internal and external forces that have shaped Japan's government, economy, and society since 1945. Topics to be treated include American Occupation reforms, the conservative hegemony in politics, rapid economic growth and its costs, the mass middle-class society, and Japan's changing world role. Open to all classes.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Ericson",
-    "number": 64.12,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.12 Postwar Japan: From Occupied Nation to Economic Superpower",
-    "xlist": "HIST 079"
-  },
   "ASCL-64.13": {
     "description": "A comparative exploration of Chinese and Japanese thought, from the formation of Confucianism in the Warring States period to the confrontation between traditional thought and the imported ideologies of the twentieth centuries. In writing assignments, students may concentrate upon either Chinese or Japanese topics. Open to sophomores, juniors, and seniors.",
     "distribs": "Dist:TMV; WCult:NW",
@@ -3656,64 +3452,6 @@
     "subject": "ASCL",
     "title": "ASCL 64.13 Intellectual History of East Asia",
     "xlist": "HIST 074"
-  },
-  "ASCL-64.14": {
-    "description": "This course explores the history of Choson Korea (1392-1910) through the experiences of outcasts and commoners. By examining the desires and despair of peasants, slaves, rebels, entertainers, and religious minorities, thls course assesses the foundation of the state and the operation of society as manifested at the margins of society. How did the religious and intellectual heritage of Korea legitimize hereditary status, slave ownership, gender division, and regional discrimination? In what ways did ordinary people conform to or struggle against elite governing?  Docs the longevity of the Chason dynasty testify to the successful control of the status system by those at the top? Or does the stability elucidate social mobility and dynamic interactions across the status divisions? Focusing on various status groups illuminates the mechanisms of domination, compliance, and resistance carried out at the micro level. The experiences of the underrepresented shed light on the transition to modern Korea and present the complicated process of constructing Korean identity over time. A background in Korean history is not required.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Suh",
-    "number": 64.14,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 64.14 Slaves and Rebels in Korea, 1392-1910",
-    "xlist": "HIST 78.04"
-  },
-  "ASCL-67.01": {
-    "description": "This course offers a survey of Japanese politics with a focus on understanding the electoral and policy-making processes in Japan from theoretical and comparative perspectives. No prior knowledge of Japanese politics is required. The course will explore electoral systems and voting behavior, candidate selection and electoral campaign, dynamics of party competition, executive-legislative relationships, local politics and central-local relationships, the roles of the mass media and civil society in policy making, etc.",
-    "distribs": "Dist:INT or SOC; WCult:NW",
-    "instructor": "Horiuchi",
-    "number": 67.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 67.01 Politics of Japan: A Unique Democracy?",
-    "xlist": "undefined"
-  },
-  "ASCL-69.22": {
-    "description": "For the past two centuries, Edo-Tokyo has been the spatial, temporal, and conceptual focal point of Japan’s political, economic, and aesthetic modernization. We will explore the city’s historical and cultural transformation between the early nineteenth century and the present using three separate but interrelated disciplinary rubrics for “reading” the city: (1) urban visuality, (2) literary and filmic textuality, and (3) ethnography. While the course moves through these three rubrics roughly in order, our goal will to be develop synthetic approaches to analyzing the broader urban “text” known as “Edo-Tokyo.”",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Toback",
-    "number": 69.22,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 69.22 Reading Edo-Tokyo: An Interdisciplinary Approach"
-  },
-  "ASCL-69.23": {
-    "description": "This course explores the origins and development of the warrior class that dominated and redefined the political economy and high culture of Japan between the twelfth and nineteenth centuries. Through readings, discussions, lectures, and films, we will examine such topics as the rise of the samurai, the transition from imperial to warrior government, the evolution of samurai values and beliefs, and the legacy of warrior rule and culture for modern Japan.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "Ericson",
-    "number": 69.23,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 69.23 Shogun and Samurai: Japan in the Age of the Warrior"
-  },
-  "ASCL-70.01": {
-    "description": "This course provides an introduction to the sacred architecture of Asia through a series of case studies that include Buddhist monasteries, Hindu temples, Mosques, Daoist and Confucian temples, Shinto shrines, funerary architecture, and the sacred dimensions political authority as manifested in palaces, city plans, and mausolea. The pan-Asiatic nature and long historical development of Buddhism, Hinduism, and Islam affords opportunities to examine national and sectarian adaptations of architectural practices. Focusing on relationships between sacred architecture and religious doctrine, ritual practice, and the communities that use sacred sites this course introduces an array of analytical approaches to sacred architecture that students will learn to employ in class discussion and written assignments. This course has no prerequisites and assumes no prior experience with Asian religions or architectural studies.",
-    "distribs": "Dist:INT or ART; WCult:NW",
-    "instructor": "Hockley",
-    "number": 70.01,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.01 Sacred Architecture of Asia",
-    "xlist": "undefined"
-  },
-  "ASCL-70.02": {
-    "description": "This class explores the interaction between the cultures of East Asia and the West from as early as c. 200 BCE to the early 20th century. The course consists largely of four themes: the Silk Road and the Arts, the Pottery Stories, the Jesuits and the Arts, and Asian Arts in Europe. The class starts with the Silk Road, the world’s first great superhighway that from ancient times linked East Asia to the Mediterranean World across Central Asia, and examines how ideas, art, and religions traveled and were transformed through their journey. The second theme, the Porcelain stories, conveys how aesthetics, technology, designs and motifs were transmitted from East to West and vice versa. We will ask questions, such as: Why was porcelain so desirable? Where did porcelain rank in the hierarchy of art forms and materials in Asia and Europe? How much did a piece of porcelain cost at any moment in time? Why did Japan and Korea have “the Pottery War” and what was the significance of that war in East Asia (and Europe)? The third theme, the Jesuits and the Arts, looks at the hybrid blend of two or more traditions and the artistic productions that arose from those blends. We also will examine together the paintings of Asian and European artists, the paintings of European artists on Asian themes with a traditional Asian medium, and the work of Asian painters’ on European subject matter with a European medium. The last theme, Asian art in Europe, scrutinizes the Western reception of Asian subjects, motifs, designs, and aesthetic values, and their appropriation for artistic productions. European interpretation (or imitation) of Chinese arts, so called Chinoiseries, and the Japanese influence on European art, known as Japonism, will be closely examined. Through lectures, readings, and films, we will explore the historical and artistic links between East and West and some selected art associated with those routes. This course requires no previous experience, but is intended for those who like interdisciplinary approaches to art and culture. No previous coursework is required.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Kim",
-    "number": 70.02,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.02 East Meets West",
-    "xlist": "undefined"
   },
   "ASCL-70.03": {
     "description": "Because animated films have traditionally been targeted at children, animators in Asia have often been able to side-step much of the political control exercised by some of their more centralized governments to create sophisticated artistic works that speak as much to educated adults as they do to children. The course will feature the most interesting of these works from China, Japan, and Korea, and students will analyze them within a socio-political and cultural context. Particular attention will be paid to the development of both originality and argumentation in student papers and class participation.",
@@ -3734,34 +3472,6 @@
     "subject": "ASCL",
     "title": "ASCL 70.04 Tokyo and Shanghai as Ideas: Urban Space/Imagined Modernity"
   },
-  "ASCL-70.05": {
-    "description": "China has profoundly influenced every formative element of identity in Japan: language, legal and political institutions, religion, philosophy, and the visual and literary arts. This course surveys key historical moments  -- the Taika Reforms of the seventh century, mid-Heian appropriations of Tang court society, Tokugawa adaptations of Ming and Qing culture – to examine how the process of translating Chinese cultural forms radically reshaped Japanese society and impacted the vexed modern relationship between the two nations.",
-    "distribs": "Dist:INT or LIT; WCult:NW",
-    "instructor": "Washburn",
-    "number": 70.05,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.05 China in the Japanese Imagination: Translations of Identity"
-  },
-  "ASCL-70.06": {
-    "description": "This course examines magical and supernatural elements in literature and films from China, Japan, India and Southeast Asia. It studies artistic, psychological and political implications and interregional traditions of folklore and fiction. Literary texts include Pu Song Lin’s Strange Tales from a Studio, Catherine Lim’s The Howling Silence, Batin Long bin Hok’s Jah Hut Tales and Tunku Halim’s Dark Demon Rising. Films may include Akira Kurosawa’s Dreams, Masaki Kobayashi’s Kwaidan and contemporary works such as Chan Wook Park’s Thirst.",
-    "distribs": "Dist:INT or LIT; WCult:NW",
-    "instructor": "Chin",
-    "number": 70.06,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.06 Magic and Supernaturalism in Asian Literature and Film"
-  },
-  "ASCL-70.07": {
-    "description": "This course studies the performance traditions of Asia, focusing on China, Japan, Indonesia and India. Classical forms studied include Noh, Bunraku, Beijing opera, Sanskrit drama, Balinese dance and Javanese puppet theater. Attention is paid to social, religious and aesthetic influences on these traditions, theories on which they are based, the history behind the theatrical practices, and training and dramatic techniques. Students gain an appreciation of the rich variety and scope of theatrical conventions of Asia.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Chin",
-    "number": 70.07,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.07 Asian Performance Traditions",
-    "xlist": "undefined"
-  },
   "ASCL-70.08": {
     "description": "This course examines nomadic pastoralism as an economic system adapted to ecologically marginal environments and as a socio-political system adapted to the culturally heterogeneous regions of Central Asia and the Middle East. We will survey the changing roles of nomadic peoples to gain insight into the political and social dynamics of historical and contemporary societies in this region. Nomad society, its origins and development, the ecology of the pastoralism, gender, and identity issues as well as the relationship between nomad and sedentary societies and the role of pastoralism as a route of cultural transmission and economic exchange are examined.",
     "distribs": "Dist:INT or SOC; WCult:NW",
@@ -3771,26 +3481,6 @@
     "subject": "ASCL",
     "title": "ASCL 70.08 Nomads from Central Asia to the Middle East"
   },
-  "ASCL-70.09": {
-    "description": "A survey of music and music-making whose origins are at least partially in the non-European world. In Spring 2015, the class will address ways that particular kinds of music are culturally and socially contextualized, comodified, and transformed as they circulate globally. Examples include Indian raga, Javanese gamelan, and Gnawa trance music. Course work will include listening, reading, and critical writing assignments. Where possible, visiting musicians will be invited to demonstrate and discuss the music under consideration.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Levin",
-    "number": 70.09,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.09 Global Sounds",
-    "xlist": "undefined"
-  },
-  "ASCL-70.1": {
-    "description": "Drawing from the world’s rich and diverse musical traditions, this course focuses on music and musical life in a particular geographic region or on a specific topic addressed from a cross-cultural and/or interdisciplinary perspective. The focus of this particular topic is on music from the lands of the Silk Road--the network of trade routes that crisscrossed Eurasia, linking East Asia, South Asia, and Central Asia with Persia, the Middle East, and Europe. Examples will be drawn from contemporary musical traditions of Central Asia, Korea, Japan, China, Azerbaijan, and India. No prior musical experience is required.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "Levin",
-    "number": 70.1,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.10 Music from the Lands of the Silk Road",
-    "xlist": "undefined"
-  },
   "ASCL-70.11": {
     "description": "This course will examine Japanese and Jewish responses to twentieth-century atrocities.  We will pay close attention to how catastrophic events are mourned and memorialized through narrative. We will analyze eyewitness accounts of the events, memoirs, fiction, feature films and filmed testimonies, photography museum exhibits, etc.  We will discuss issues such as the nature of mourning and the process of mourning through art and culture; the memorializing of tragedy; the ethics of the representation of tragedy; revenge and survivor guilt.  Throughout, we will be asking about the possibilities, and the difficulties, of comparing responses by different cultures to different types of atrocities. This will require accounting for differences in religious belief, notions of psychology, and literary and artistic form.  Is the process of mourning universal? Are the responses to atrocity?  Is comparing the Japanese and Jewish cases ethically suspect? How does a nation that has victimized mourn its own victimization?",
     "distribs": "Dist:LIT; WCult:NW",
@@ -3799,15 +3489,6 @@
     "offered": "",
     "subject": "ASCL",
     "title": "ASCL 70.11 Catastrophe, Memory, and Narrative: Japanese and Jewish Responses to Atrocity"
-  },
-  "ASCL-70.12": {
-    "description": "Borderlands are where modern nation-states are geographically defined and where their orders are both challenged and reinforced. This course studies the formation of modern nations in Asia and its consequences in the twentieth century from a “borderland perspective.” The cases to be studied include Hokkaido in Japan, Manchuria in mainland China, the Partition of India and Pakistan, the division of the two Koreas, the Taiwan island, and the highlands connecting East and South Asia commonly referred to as Zomia. The long historical process from colonial expansion to post-war demarcation across Asia, along with the ordinary people’s experience of this process, is witnessed by writers and artists from the borderlands with distinctive creativity and criticism. The disciplinary perspectives involved in the course range from literature, film, and art to history, anthropology, and linguistics. Enrollment is open, and there are no prerequisites. You do not need to know any Asian language to take the course.",
-    "distribs": "Dist:LIT; WCult:NW",
-    "instructor": "Xie",
-    "number": 70.12,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 70.12 Voices and Images from Asian Borderlands"
   },
   "ASCL-70.16": {
     "description": "This course is an interdisciplinary survey of food and beverage in Japan from premodern times to the present. Through lectures, readings, discussions, and films, we will explore the subject from the multiple perspectives of history, culture, and contemporary politics and society. The topics covered will range from food production and consumption to religious and artistic representations and the construction of cultural identities in Japan’s past and present.",
@@ -3901,15 +3582,6 @@
     "offered": "",
     "subject": "ASCL",
     "title": "ASCL 80.06 Chinese Calligraphy and Manuscript Culture: Orchid Pavillion"
-  },
-  "ASCL-80.07": {
-    "description": "For more than a century, development has been a central theme in the study of Asian politics, culture, and societies.  But what is “development,” exactly?  This seminar explores the history of development in Asia by treating development as a species of politics, rather than a socio-economic process.  In the assigned readings and discussions, we will examine the complex interactions between development and empire in various places in Asia, in both colonial and postcolonial contexts.  We will also compare recent efforts by scholars to develop new methodological approaches to the study of development ideas and practices in Asia.  In addition to completing the assigned readings, each student will write an article-length paper about a particular topic or event in the history of development in Asia.  This paper must be based on original research in primary sources.",
-    "distribs": "Dist:INT or SOC; WCult:NW",
-    "instructor": "Miller",
-    "number": 80.07,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 80.07 The History of Development in Asia"
   },
   "ASCL-80.08": {
     "description": "An examination of Western and Japanese imperialism in East Asia from the Opium War to the Pacific War. Subjects to be treated include the imposition of unequal treaties, the \"scramble for concessions\" in China, the creation of Japan's formal and informal empires, and the rise and fall of the Greater East Asia Co-Prosperity Sphere. Open to all classes.",
@@ -10692,15 +10364,6 @@
     "subject": "ENGS",
     "title": "ENGS 6 Technology and Biosecurity"
   },
-  "ENGS-60": {
-    "description": "In this course the physical and operational principles behind important electronic devices such as the solar cell and transistor are introduced. Semiconductor electron and hole concentrations and carrier transport are discussed. Carrier generation and recombination including optical absorption and light emission are covered. P-N junction operation and its application to diodes, solar cells, LEDs, and photodiodes is developed. The field-effect transistor (FET) and bipolar junction transistor (BJT) are then discussed and their terminal operation developed. Application of transistors to bipolar and CMOS analog and digital circuits is introduced. The course is primarily intended for students interested in electronics, including digital, analog, power and energy, both at component and integrated circuit levels. The course may also be useful to students interested in electronic materials, device microfabrication and communications.",
-    "distribs": "TLA",
-    "instructor": "Fossum",
-    "number": 60,
-    "offered": "",
-    "subject": "ENGS",
-    "title": "ENGS 60 Introduction to Solid-State Electronic Devices"
-  },
   "ENGS-61": {
     "description": "This course will build on ENGS 32, providing a foundation for transistor- level analog and digital circuit design. The course will start with an introduction to the semiconductor industry and how it has dramatically altered the modern way of life, resulting in diverse technologies such as telecommunications, lighting and transportation. This will lead into basic semiconductor theory and CMOS device models, two-port linearized models, and finally single- and multi-stage amplifiers with applications motivated by wireless communications and biomedical instrumentation. The second half of the class will focus on digital circuits. Topics will include designing and optimizing complex static CMOS devices in terms of energy, delay, and area of computational blocks and memory arrays. The class will have weekly labs and a final project that will utilize modern computer-aided tools. The course will prepare the student for advanced study of highly-integrated electrical circuits.",
     "distribs": "TLA",
@@ -13983,15 +13646,6 @@
     "offered": "",
     "subject": "GEOG",
     "title": "GEOG 71 Racial Geographies: Race and the Politics of Place"
-  },
-  "GEOG-72": {
-    "description": "Around the world, people suffer because of environmental degradation, from sickening industrial pollution to unnatural disasters to disruptive climate change. This course examines how environmental harms are unequally experienced, as well as how communities organize to protect themselves. We will discuss the concept of “environmental justice” as it has developed through social movements in the United States and elsewhere. We will also explore it as an analytical category that (a) explains how inequality manifests environmentally and (b) enables critical thinking about concepts like the “environment” and mainstream environmentalism and environmental policy. Drawing from Anthropology, Geography, History, Sociology, and other disciplines, we will focus on the lived experiences of environment justice and injustice around the world.",
-    "distribs": "Dist:SOC",
-    "instructor": "",
-    "number": 72,
-    "offered": "",
-    "subject": "GEOG",
-    "title": "GEOG 72 Environmental Justice"
   },
   "GEOG-74": {
     "description": "During the past quarter century, the gap between the world's richest and poorest regions has steadily widened, even as technological advance has shrunk the distances between them. This class begins by examining how globalization has shaped awareness and expressions of care for distant strangers. It then focuses on the moral economies underlying practices such as Fair Trade, corporate social responsibility, and transnational labor justice campaigns. Some background in international development is recommended.",
@@ -20168,7 +19822,7 @@
     "description": "Writing a research paper requires the knowledge of the scope, the genesis, and the methods of the discipline one is engaged in. The goal of this workshop is to make students aware of their own approaches to help them develop their own research projects. It will cover methods of practical implementation, skills and strategies to obtain better results in research and class performance. Apart from learning how to apply and integrate different genre such as excerpts, protocols, reports, summaries, or charts that help preparing a presentation, writing a paper, or finishing a thesis, discussions will address the following questions:\n1. What distinguishes scholarship from other forms of knowledge production (media, encyclopedias);\n2. What research means in the sciences and in the humanities, and how individual disciplines produce knowledge;\n3. What it means to read and write “critically;”\n4. How to distinguish “scientific facts,” from “producing meaning,”\n5. How to turn individual observations and experiences into viable scholarly projects and why framing the right question might be more important than the answer;\n6. How research strategies and different forms of systematic thinking might be helpful at working places outside the university and beyond scholarly projects.\nIn order to practice how to plan or carry out research and how to build an argument, students will be asked to bring in their own work in progress, be it an initial idea for a final paper, a proposal for an independent study, or a chapter of their thesis.",
     "instructor": "Klaus Milich",
     "number": 130,
-    "offered": "20W",
+    "offered": "18X",
     "subject": "MALS",
     "title": "MALS 130 Cultural Studies Research Methods"
   },
@@ -20195,14 +19849,6 @@
     "offered": "Every Term",
     "subject": "MALS",
     "title": "MALS 137 Thesis Research"
-  },
-  "MALS-140": {
-    "description": "This writing course uses a discussion-based, workshop-centered approach to allow both novice and experienced writers to develop their abilities in fiction and particularly the form of the short story. Weekly reading assignments will draw from both past and contemporary writers across numerous genres, with an effort being made to expose students to a wide variety of voices and styles. We will approach these stories with an eye towards not only their literary weight but also will examine the internal elements that make them succeed. Students are expected to both read and actively critique peer work that will be selected in advance of each class by the instructor. Weekly writing assignments will involve both new work and revision of this work, and students will complete several stories of varying length throughout the term. The course’s reading will include authors such as: Borges, Carver, Egan, Gogol, Greene, Hammett, Kundera, Lardner, Le Guin, Maupassant, O’Connor, Oates, Salter.",
-    "instructor": "Saul Lelchuk",
-    "number": 140,
-    "offered": "19X",
-    "subject": "MALS",
-    "title": "MALS 140 Writing Workshop: Fiction"
   },
   "MALS-191": {
     "description": "“Preserving the Past” will explore the theoretical implications, practical applications, and literary dimensions of oral history.  Through reading and discussion, students will be exposed to a variety of oral histories and evaluate the uses of individual and/or collective memory as a means of documenting, understanding, and appreciating the past. Oral history will be examined as a literary genre with consideration of how the oral historian becomes a creative writer whose work relies almost wholly on the voices of those interviewed. The special demands of oral biography will be considered as well.\nIssues to be addressed include: the place of oral history—by nature personal and subjective—in the larger historical framework; changes demanded by a shift in medium as the oral historian transfers taped commentary to print; the role of the oral historian/oral biographer as re-caster and re-arranger of memory; evolving recording technologies and the impact of the medium on oral history’s “message” and “massage.”\nSelected oral histories (see Required Reading) will be contrasted with and compared to traditional historical accounts of similar events, as well as to one another as regards purpose, methodology, style, and literary effectiveness. Additionally students can consult historical works (see Recommended Reading) for insights into the ways in which oral history has been included. The roles and responsibilities of the practitioner as interviewer, archivist, historian, biographer, and artist will be examined and critiqued.        \nThe Course  agenda will hone students skills in interviewing, listening, transcribing, editing and organizing – moving from the spoken word to a final polished oral history work.    \nEach student will produce an oral history project comprised of 6-12 voices on a cultural, institutional, local, familial, personal, or event-based topic. Ongoing guidance will be available through one-on-one meetings  as the student goes through the process of selecting a theme and individuals to interview, preparing for and conducting interviews, transcribing and editing tapes, and fashioning from them the final work. Through discussing their projects in the Workshop component of the course, students will have the opportunity to network and benefit from feedback.\nRequirements\n\n    Timely and thorough readings of assigned works to be reflected in informed participation in class discussions. (Books must be on hand for the sessions they are to be discussed.)\n    Participation in a Collateral Readers’ Panel based on in-depth reading/viewing of a portion of a traditional historical work/documentary that deals with one or more of the subjects treated in an assigned oral history. Submission of a satisfactory Oral History Project.\n\nGrades will be based on the quality of work in all of the above. Attendance at all class sessions is mandatory. \nHours\nStudents must meet with either professor a minimum of four times during scheduled Friday hours for one-on-one consultations.",
@@ -21275,6 +20921,24 @@
     "subject": "MES",
     "title": "MES 16.23 Discovering an Islamic City"
   },
+  "MES-16.3": {
+    "description": "This course is an introduction to twentieth-century fiction across the Arab world. Looking at works from North Africa to the Middle East, we will examine how Arab writers and filmmakers have dealt with such themes as nationalism, immigration, freedom, sexuality, war, violence, and religion. Authors include Tayyib Salih, Mohamed Choukri, Ghassan Kanafani, Tahar Wattar, and Hanah al-Shaykh, among others.",
+    "distribs": "Dist:LIT; WCult:NW",
+    "instructor": "Smolin",
+    "number": 16.3,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 16.30 Modern Arabic Fiction"
+  },
+  "MES-16.31": {
+    "description": "This course explores various aspects of Palestinian existence through literature and cinema.  What does it mean to be “Palestinian”?  What unifies a cultural output produced not only in Arabic, but also in Hebrew and English, by people who carry a variety of citizenships (or none at all)? How have Palestinian authors and filmmakers grappled with issues such as collective identity, the “Other,” and internal social problems?  How have these issues influenced their use of literature and film as art forms?",
+    "distribs": "Dist:LIT; WCult:NW",
+    "instructor": "",
+    "number": 16.31,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 16.31 Palestinian Literature and Cinema"
+  },
   "MES-16.32": {
     "description": "Arabic literature is widely regarded as the foremost intellectual and artistic accomplishment of the Arabs. In the course of over fourteen centuries of vigorous literary activity, Arab poets and writers have elaborated a set of themes that inform Arabo-Islamic culture in profound ways. Offerings of this course might range from the examination of a particular theme to broader comparative studies.Courses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
     "instructor": "",
@@ -21400,6 +21064,16 @@
     "title": "MES 17.18 Jewish Views of Islam",
     "xlist": "JWST 058"
   },
+  "MES-18.01": {
+    "description": "This course focuses primarily on the work ofcontemporary artists who make work in orabout the so-called Middle East. It includesrecent works by artists from nations as diverseas Algeria, Iran, Israel, Lebanon, Morocco,Syria, Turkey and the UAE. One of the mainobjectives of the course is to look at artpractices that attempt to deepen ourunderstanding of the varied cultures,ethnicities and societies that are found in thispart of the world. The geographic focus of thecourse–mostly the Muslim nations of theArabian peninsula and North Africa–is notmeant to perpetuate the assumptions aboutthis region as a monolithic geopolitical entity,nor to blindly label its production according toexisting ethnic, religious or nationalcategories. Against media stereotypes of theregion, the artists studied in this course havemade work that function as a critical platformfor rethinking traditional identity formationsand extending the space of cultural encounteracross borders (territorial, political, linguistic).In many cases these artists may not be livingand working in their country of birth but theirethnicity, religion or citizenship continues toinform both their own sense of identity and theterms of their art practice. Some of the topicsto be discussed include: artistic responses tothe Arab-Israeli conflict, representations ofeveryday life in times of war, the movementand obstruction of people, goods andinformation across borders, the rise of new artmarkets in the Middle East, the politics ofgender and sexuality in the Arab world, andthe of use archival documents to rethink themeaning of evidence, truth and testimony.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "Elias",
+    "number": 18.01,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 18.01 Unmaking HIstory: Contemporary Art in the Middle East",
+    "xlist": "ARTH 42.01 ARTH 63.22"
+  },
   "MES-19.02": {
     "description": "This course introduces students to the diversity of feminist approaches on a transnational scale, by examining the movements, activism, media, literature, and Islamic debates produced in predominantly Muslim countries and beyond. We will interrogate concepts of transnationalism, feminism and modernity in terms of historical developments, theoretical usage, the context of colonialism, Islamic theologies, and the modern Muslim nation states. We will explore similarities and differences in women's experiences and feminist methodologies across global Muslim contexts. Course materials will be made up of several primary sources in translation that deal with intersectional issues such as religious and cultural practices, educational systems, politics, race and racism, socioeconomic class, legal rights for men and women, and marriage and the family.",
     "distribs": "Dist:INT or SOC; WCult:NW",
@@ -21419,6 +21093,16 @@
     "subject": "MES",
     "title": "MES 19.03 Arab Feminisms",
     "xlist": "WGSS 24.01"
+  },
+  "MES-19.04": {
+    "description": "In this course, we will study histories of the modern Middle East and North Africa and examine the ways that issues relating to gender and sexuality have affected the politics and social worlds of the region over the course of the past several centuries. This course begins with the medieval Islamicate Empires — Mughal, Safavid, and Ottoman — and then moves through the end of empire, the colonial era, the establishment of the nation state, and the emergence of modern cultural, political, and religious movements. In doing so, we will situate the histories and social worlds of the region in a global frame, asking how global political and economic transformations have affected the region. At the same time that we attend closely to these histories, we will also examine the ways in which the category of “woman” has been mobilized in popular and political discourses in the 18th-21th centuries, paying particular attention to how Muslim and Middle Eastern women have been represented in various political discourses, as well as how they have represented themselves. Through close readings of both primary sources (in translation) and secondary literature — including historiographical, theoretical, and literary texts as well as film and music— we will also tackle the questions, controversies, and stereotypes that have animated debates in both scholarly and popular literature on such topics as the veil, feminism, revolution, human rights, LGBT issues, masculinity, and war.",
+    "distribs": "Dist:SOC; WCult:NW",
+    "instructor": "Nikpour",
+    "number": 19.04,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 19.04 Gender and The Modern Middle East and North Africa",
+    "xlist": "HIST 070"
   },
   "MES-19.05": {
     "description": "“Is Islam sexist?” “What does Islam really say about women?” This course seeks to dismantle the premises of these questions by asking who speaks for Islam, what makes something Islamic, and how are gender and gender roles constructed in Islamic texts and Muslim thought. We will make critical study of the constructions of gender, femininity, masculinity, sexuality, gender relations, marriage and divorce in classical and modern Islamic texts. In asking how Islamic notions of gender are constructed, we will examine both the roles religious texts have played in shaping Muslim life and how Muslim life in its cultural diversity affects readings of religious texts. We will read works of Muslim thought on gender relations in their historical contexts and in relation to one another. Through in-class discussions, critical reading exercises, and short essay assignments, students will strengthen their literacy on global gender issues, study religio-historical ideas on gender, analyze the role of texts in shaping gender in society, and vice versa.",
@@ -21535,6 +21219,16 @@
     "title": "MES 8.01 Introduction to Middle East Politics",
     "xlist": "GOVT 40.25"
   },
+  "MES-81.01": {
+    "description": "This class is a survey of the main trends and themes in Arab theatre from the mid-19th century to contemporary times. Students will be introduced to some of the main playwrights, actors and directors who helped define the art in the Arab world over the last century and a half.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "Morsi",
+    "number": 81.01,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 81.01 Arab Theatre",
+    "xlist": "ARAB 81.04 THEA 10.45"
+  },
   "MES-81.02": {
     "description": "In this seminar, we will read Arabic novels in translation published across the Middle East during the past decade. How have the authors of these texts grappled with recent transformations in post-9/11 Arab society, such as globalization, terrorism, gender relations, and war? How have old themes--including the clash between tradition and modernity, East-West relations, and the Israeli-Palestinian conflict--become renewed for the contemporary era? We will examine exciting recent novels from Egypt, Saudi Arabia, Iraq, Libya, Lebanon, and Palestine to answer these questions. This course has no prerequisites but familiarity with the history of the Middle East in the twentieth century and trends in contemporary Arabic prose during this period would be helpful.",
     "distribs": "Dist:LIT; WCult:NW",
@@ -21552,6 +21246,14 @@
     "offered": "",
     "subject": "MES",
     "title": "MES 81.03 Images of the West in the Arabic Novel"
+  },
+  "MES-85": {
+    "description": "Under the direction of members of the faculty, subject to faculty availability. Students should consult with a member of the faculty in the term preceding the term in which the independent work is to be done. A research proposal must be submitted to the Department for approval.",
+    "instructor": "El-Ariss, staff",
+    "number": 85,
+    "offered": "",
+    "subject": "MES",
+    "title": "MES 85 Independent Research"
   },
   "MES-87": {
     "description": "Open only to AMELL majors who are participating in the Honors Program. See guide­lines under 'Honors Program.'",
@@ -25049,15 +24751,6 @@
     "subject": "PHYS",
     "title": "PHYS 15 Introductory Physics I, Honors Section"
   },
-  "PHYS-16": {
-    "description": "Electric and magnetic fields of charges and currents. Electromagnetic induction. Dielectric and magnetic materials. Circuit theory. Maxwell's equations, electromagnetic waves and optics. Special relativity. One laboratory period per week.",
-    "distribs": "Dist:SLA",
-    "instructor": "Mueller",
-    "number": 16,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 16 Introductory Physics II, Honors Section"
-  },
   "PHYS-19": {
     "description": "The general theme of this course is the wave-particle duality of radiation and matter, with an introduction to special relativity. Classical wave phenomena in mechanical and electromagnetic systems including beats, interference, and diffraction. Quantum aspects of electromagnetic radiation include the photoelectric effect, Compton scattering and pair production and annihilation. Quantum aspects of matter include DeBroglie waves, electron diffraction, and the spectrum of the hydrogen atom. The Schrödinger equation is discussed in one and three spatial dimensions.",
     "distribs": "Dist:SCI",
@@ -25094,16 +24787,6 @@
     "subject": "PHYS",
     "title": "PHYS 3 General Physics I"
   },
-  "PHYS-30": {
-    "description": "Introduction to the principles of physics and engineering applied to biological problems. Topics include the architecture of biological cells, molecular motion, entropic forces, enzymes and molecular machines, and nerve impulses.",
-    "distribs": "Dist:TAS",
-    "instructor": "Samkoe (winter), Brown (spring)",
-    "number": 30,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 30 Biological Physics",
-    "xlist": "ENGS 030"
-  },
   "PHYS-31": {
     "description": "",
     "distribs": "Dist:SCI",
@@ -25131,15 +24814,6 @@
     "subject": "PHYS",
     "title": "PHYS 31.02 Research Methods in 21st Century Physics and Astronomy"
   },
-  "PHYS-31.03": {
-    "description": "This course will introduce students to research methods used within astronomy, as well as to the cutting-edge research conducted in South Africa and its impact on South African society.  Students will be introduced to modern  tools used by astronomers, with an emphasis on hands-on practice using Python for scientific analyses. From guest lecturers and site visits, students will learn about science and society in South Africa.  Offered as part of the Astronomy FSP.",
-    "distribs": "Dist:SCI",
-    "instructor": "Chaboyer, Hickox, Newton",
-    "number": 31.03,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 31.03 Research Methods in 21st Century Astronomy in South Africa"
-  },
   "PHYS-4": {
     "description": "The fundamental laws and phenomena of electricity, magnetism, and light, including quantum mechanical concepts; atomic and nuclear physics. One laboratory period per week.",
     "distribs": "Dist:SLA",
@@ -25166,15 +24840,6 @@
     "offered": "",
     "subject": "PHYS",
     "title": "PHYS 41 Electricity and Magnetism"
-  },
-  "PHYS-42": {
-    "description": "Detailed solutions of the Schrödinger equation for a variety of systems including bound states and scattering states in one and three dimensions. Matrix representations of spin and orbital angular momenta. Applications to atomic, molecular and nuclear problems are emphasized.",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 42,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 42 Introductory Quantum Mechanics"
   },
   "PHYS-43": {
     "description": "Kinetic theory of gases. Boltzmann's Principle. Boltzmann, Bose-Einstein and Fermi-Dirac statistics. The statistical approach to thermodynamics. Applications to radiation, atoms, molecules, and condensed matter.",
@@ -25238,15 +24903,6 @@
     "offered": "",
     "subject": "PHYS",
     "title": "PHYS 66 Relativistic Electrodynamics"
-  },
-  "PHYS-68": {
-    "description": "The physics of ionized gases with emphasis on the theory of waves and instabilities. Includes introduction to magnetohydrodynamics and kinetic theory of plasmas.",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 68,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 68 Introductory Plasma Physics"
   },
   "PHYS-7": {
     "description": "",
@@ -25361,15 +25017,6 @@
     "offered": "",
     "subject": "PHYS",
     "title": "PHYS 87 Undergraduate Research"
-  },
-  "PHYS-90": {
-    "description": "An in-depth study of the formal apparatus and postulates of non-relativistic quantum mechanics. Dirac formalism for pure quantum states and operators, quantum measurements and uncertainty relations. Mixed quantum states and density operators. Quantum dynamics in Schrödinger and Heisenberg picture. Symmetries and conservation laws, angular momentum theory. Approximation methods: time-independent and time-dependent perturbation theory.",
-    "distribs": "Dist:SCI",
-    "instructor": "Ramanathan",
-    "number": 90,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 90 Intermediate Quantum Mechanics"
   },
   "PHYS-91": {
     "description": "Formalism of quantum mechanics, operator methods and transformation theory. Measurement theory and uncertainty relations. Position and momentum representation. The harmonic oscillator and ladder operators. Introduction to path integrals. Perturbation methods: WKB, time-independent and time-dependent perturbation theory. Interaction of matter and radiation and selection rules. Symmetries and conservation laws.",
@@ -26055,15 +25702,6 @@
     "subject": "PSYC",
     "title": "PSYC 60 Principles of Human Brain Mapping with fMRI"
   },
-  "PSYC-63": {
-    "description": "A deep understanding of any social species requires understanding why and how brains interact. Paradoxically, social neuroscience has focused nearly exclusively on mapping the brain as if it evolved in isolation. This focus on the individual brain is understandable as serious methodological constraints have traditionally limited multi-brain, interactive paradigms. Making headway on how brains interact, however, is becoming increasingly tractable. This course highlights scientific and technological innovations advancing our understanding of how human minds meet during social interaction. Conceptual and methodological challenges of studying human interaction are dealt with in class discussions, laboratories, and small group research projects on selected topics.",
-    "distribs": "Dist:SOC",
-    "instructor": "Stolk",
-    "number": 63,
-    "offered": "",
-    "subject": "PSYC",
-    "title": "PSYC 63 Experimental Study of Human Interaction"
-  },
   "PSYC-65": {
     "description": "The primary focus of this course is the physiological basis of behavior from a systems perspective. Such topics as localization of function, neural models, and the physiological bases of sensory/motor systems, learning/memory, and spatial cognition are considered. The laboratory introduces the student to the anatomy and physiology of the mammalian central nervous system and to some of the principal techniques used in systems and behavioral neuroscience.  Laboratory sections will be assigned during the first week of class.",
     "distribs": "Dist:SLA",
@@ -26257,15 +25895,6 @@
     "subject": "QBS",
     "title": "QBS 271 Advanced Epidemiology Journal Club: Epigenetics"
   },
-  "QSS-15": {
-    "description": "Methods for transforming raw facts into useful information. Directed toward students with an aptitude for mathematics. Emphasis is placed on the understanding, use, and both oral and written interpretation of exploratory data analysis within the rules of scientific method. With permission from the responsible department, QSS 015 may be used to satisfy some pre-medical, natural science, and social science departmental requirements in mathematics, statistics, and methodology. Limited enrollment.\nBecause of the large overlap in material covered, no student may receive credit for more than one of the courses ECON 10, ENVS 10, GOVT 10, MATH 10, PSYC 10, QSS 15, and SOCY 10, except by special petition to the Committee on Instruction.",
-    "distribs": "QDS",
-    "instructor": "Herron, Lo",
-    "number": 15,
-    "offered": "",
-    "subject": "QSS",
-    "title": "QSS 15 Introduction to Data Analysis"
-  },
   "QSS-17": {
     "description": "Big data are everywhere – in government, academic research, media, business, and everyday life. To tell the stories hidden behind blizzards of data, effective visualization is critical. This course primarily teaches R, a free software environment for statistical computing and graphics, which is widely regarded as one of the most versatile and flexible tools for data visualization and, more broadly, data science. Students completing the course will know how to “wrangle” and visualize data critical to their scientific endeavors.",
     "distribs": "Dist:TLA",
@@ -26312,16 +25941,6 @@
     "subject": "QSS",
     "title": "QSS 30.01 Sports Analytics"
   },
-  "QSS-30.02": {
-    "description": "Language is the medium for politics and political conflict. Candidates debate during elections. Representatives write laws. Nations negotiate peace treaties. Clerics issue Fatwas. Citizens express their opinions about politics on social media sites. These examples, and many others, suggest that to understand what politics is about, we need to know what political actors are saying and writing. This course introduces techniques to collect, analyze, and utilize large collections of text for social science inferences.  Students will also have the opportunity to develop their programming abilities.\n\\fWe will explore a range of datasets from the text of The Federalist Papers to the millions of tweets sent to and from members of Congress.",
-    "distribs": "Dist:TLA",
-    "instructor": "Westwood",
-    "number": 30.02,
-    "offered": "",
-    "subject": "QSS",
-    "title": "QSS 30.02 Computational Text Analysis for the Social Sciences",
-    "xlist": "undefined MATH 05.01"
-  },
   "QSS-30.03": {
     "description": "This class is a lab-style seminar in which we will design, field, and analyze an experimental study. Our goal is to publish a scholarly article about our findings in a peer-reviewed journal of political science - an ambitious project that will require a substantial commitment from each student. Flexibility will also be essential since the course will evolve during the semester based on the needs of the project.  The subject of the experimental study varies term to term and will be determined prior to the beginning of classes. Although the experimental study will vary each term, students may not repeat this course for credit.",
     "distribs": "Dist:QDS",
@@ -26341,16 +25960,6 @@
     "subject": "QSS",
     "title": "QSS 30.04 Evolutionary Game Theory and Applications",
     "xlist": "undefined"
-  },
-  "QSS-30.05": {
-    "description": "This course focuses on using data from historical censuses (1850-2000) to examine U.S. history. We will discuss what the census tells us about the past, the role of the census in policy-making, and the history of the census. The course comprises four units: race, (im)migration, work, and family. For each, you will learn how to find, analyze, and visualize census data using R and how to write about quantitative historical analysis in a digital medium.",
-    "distribs": "QDS; WCult:W",
-    "instructor": "",
-    "number": 30.05,
-    "offered": "",
-    "subject": "QSS",
-    "title": "QSS 30.05 Topics in Digital History: U.S. History Through Census Data",
-    "xlist": "HIST 90.01"
   },
   "QSS-30.06": {
     "description": "More than half a century after the height of the Civil Rights Movement, inequalities between black Americans and white Americans persist. Across a myriad of measures---including health, employment, income, wealth, education, and incarceration---black Americans are fundamentally different than whites. Leveraging contemporary data and modern quantitative techniques, we evaluate black-white racial gaps by the numbers and among other things consider how racial inequalities in the United States might alter the American political landscape.",
@@ -28619,15 +28228,6 @@
     "offered": "",
     "subject": "SART",
     "title": "SART 74 Printmaking III"
-  },
-  "SART-75": {
-    "description": "While interwoven with Photography 2, the emphasis of this course is on building an increasingly independent artistic-research practice with focused critiques and individualized assignments. It will center around a single self-driven problem that will constitute the term's work. The student will have the opportunity to concentrate on one subject, to investigate new techniques of photographic craft, hone critique and critical thinking skills, and to employ the camera as a means toward the making of a personal, creative statement. Enrollment limited. Supplemental course fee required.",
-    "distribs": "Dist:ART",
-    "instructor": "Seely",
-    "number": 75,
-    "offered": "",
-    "subject": "SART",
-    "title": "SART 75 Photography III - Contemporary Photography & Research"
   },
   "SART-76": {
     "description": "The first half of the two-term culminating experience in Studio Art. The seminar is devoted to developing critical skills and a body of work predicated upon a student's ability to conceive, structure, sustain, and resolve an individual course of study in painting, drawing, printmaking, sculpture, photography, or architecture. Work will be reviewed by the faculty and an outside examiner. Supplemental course fee required.",
