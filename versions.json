@@ -4245,6 +4245,11 @@
         "changed": "202103-ENGG-19903-01",
         "hash": "a8f86de3efa104d7",
         "timestamp": "2021-03-14T04:05:37.886Z"
+      },
+      {
+        "changed": "202101-BIOL-103-01",
+        "hash": "18544f67307ecc0d",
+        "timestamp": "2021-03-15T08:05:46.293Z"
       }
     ]
   },
@@ -4256,8 +4261,8 @@
     },
     "timetable": {
       "changed": "202101-BIOL-103-01",
-      "hash": "18544f67307ecc0d",
-      "timestamp": "2021-03-15T08:05:46.293Z"
+      "hash": "a8f86de3efa104d7",
+      "timestamp": "2021-03-15T10:06:32.022Z"
     }
   }
 }
