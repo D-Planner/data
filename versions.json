@@ -5210,6 +5210,11 @@
         "changed": "202109-MATH-71-01,202109-PHIL-1.03-01",
         "hash": "ab1b86a488960962",
         "timestamp": "2021-09-19T06:04:42.514Z"
+      },
+      {
+        "changed": "202109-COSC-165-01",
+        "hash": "2ac354fc49cf5aab",
+        "timestamp": "2021-09-19T07:03:17.910Z"
       }
     ]
   },
@@ -5220,9 +5225,9 @@
       "timestamp": "2021-03-15T09:06:22.930Z"
     },
     "timetable": {
-      "changed": "202109-COSC-165-01",
-      "hash": "2ac354fc49cf5aab",
-      "timestamp": "2021-09-19T07:03:17.910Z"
+      "changed": "202109-COGS-44-01,202109-COSC-76-01",
+      "hash": "380cc3113bd45d23",
+      "timestamp": "2021-09-19T08:01:51.142Z"
     }
   }
 }
