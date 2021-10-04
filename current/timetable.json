@@ -92709,7 +92709,7 @@
     "xlist": null
   },
   "202109-SPAN-2-01": {
-    "building": "Reed Hall",
+    "building": "Haldeman Center",
     "creditOptions": null,
     "crn": "91562",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202109&subj=SPAN&numb=002",
@@ -92722,7 +92722,7 @@
     "number": 2,
     "period": "MTuWThF 9:05-9:55",
     "periodCode": "9S",
-    "room": "110",
+    "room": "046",
     "section": "01",
     "status": "IP",
     "subject": "SPAN",
@@ -92733,7 +92733,7 @@
     "xlist": null
   },
   "202109-SPAN-2-02": {
-    "building": "Reed Hall",
+    "building": "Haldeman Center",
     "creditOptions": null,
     "crn": "91233",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202109&subj=SPAN&numb=002",
@@ -92746,7 +92746,7 @@
     "number": 2,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": "110",
+    "room": "046",
     "section": "02",
     "status": "IP",
     "subject": "SPAN",
@@ -92901,7 +92901,7 @@
     "xlist": null
   },
   "202109-SPAN-3-01": {
-    "building": "Reed Hall",
+    "building": "Haldeman Center",
     "creditOptions": null,
     "crn": "91294",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202109&subj=SPAN&numb=003",
@@ -92914,7 +92914,7 @@
     "number": 3,
     "period": "MTuWThF 9:05-9:55",
     "periodCode": "9S",
-    "room": "102",
+    "room": "252",
     "section": "01",
     "status": "IP",
     "subject": "SPAN",
@@ -92925,7 +92925,7 @@
     "xlist": null
   },
   "202109-SPAN-3-02": {
-    "building": "Reed Hall",
+    "building": "Haldeman Center",
     "creditOptions": null,
     "crn": "91302",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202109&subj=SPAN&numb=003",
@@ -92938,7 +92938,7 @@
     "number": 3,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": "102",
+    "room": "252",
     "section": "02",
     "status": "IP",
     "subject": "SPAN",
