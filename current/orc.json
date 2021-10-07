@@ -552,6 +552,14 @@
     "title": "AAAS 55.01 African Cinema",
     "xlist": "FILM 42.09"
   },
+  "AAAS-55.02": {
+    "description": "This course will consider the mapping of race onto the idea of Africa and how Africa came to constitute a unique racial category. We will therefore conduct an “archeology of race” and engage the argument by historians of race in Africa that Africa was a major laboratory of race. Our primary material will consist of motion pictures, in an effort to reckon with the role of motion pictures as prime technologies of racial othering and their deep imbrications in colonial projects.",
+    "instructor": "",
+    "number": 55.02,
+    "offered": "",
+    "subject": "AAAS",
+    "title": "AAAS 55.02 The Idea of Africa: Deconstructing Race in the Iconography of a Continent"
+  },
   "AAAS-56": {
     "description": "This course examines the relationship between politics and the novel in Africa. I have selected novels from different parts of Africa. We will approach the selected novels as instruments of political interest and products of political contexts. We will then proceed to put these novels in a triangular conversation with political theorists of Africa and the political philosophies of African leaders. Topics include democracy and governance, clientelism and patrimonialism, failed states, gender, and grassroots activism.",
     "distribs": "Dist:LIT; WCult:NW",
@@ -2477,6 +2485,22 @@
     "subject": "ARTH",
     "title": "ARTH 26.03 Foreign Study III"
   },
+  "ARTH-26.04": {
+    "description": "No site offers the same enduring importance for Western history and culture as the city of Rome. As a secular and spiritual capital, it bears evidence to three millennia of human ambitions and evolving patterns of social and political organization. Its topography is a vast archive, which we will engage though lectures, discussions, group projects, movies and by immersing ourselves into the city itself. This course surveys the topography and urbanism of Rome from its origins to the present. While the immediate goal will be to study the city, the larger goal will be to provide a conceptual framework with which to consider the power and function of cities—one of humanity’s most important inventions. We will ponder such essential questions as: why and how did cities like Rome arise and change over centuries? What social, cultural, topographic forces push and pull at a city’s built fabric? How were individual structures, public spaces, and neighborhoods built to respond to such forces?",
+    "instructor": "",
+    "number": 26.04,
+    "offered": "",
+    "subject": "ARTH",
+    "title": "ARTH 26.04 FSP: The Architecture and Urbanism of Rome"
+  },
+  "ARTH-26.05": {
+    "description": "We shall study the periods known as the Renaissance and Baroque, which evolved in Italy between about 1300 and 1650 and were marked by a revived interest in naturalism. This artistic language was inspired by Classical Antiquity, and has endured to modern times. Our focus will be on Rome, where art was influenced by new approaches to reality, philosophy and religion, and where powerful patrons of art such as bankers and Popes reshaped the face of the city, and ultimately that of Europe.\nThe style of around 1300 (the age of Giotto and Dante) prompted a move towards physical immediacy and the expression of emotions, and in the early 1400s the great discoveries in geometry, perspective and rational lighting further enhanced the visual arts, enabling painters to create increasingly sophisticated images. This approach peaked in the late 1400s with the emergence of Leonardo, Michelangelo and Raphael, leading to more dynamic and poetic approaches in draftsmanship and design, including the phenomenon known as Mannerism. In the late 1500s Roman churches were enhanced by the work of Barocci, and 1600 saw the arrival of great Northern European painters such as Rubens. Annibale Carracci, Caravaggio and their followers introduced a new directness, coupled with an intimate connection with the viewer. Our syllabus will conclude with the startling theatrical drama of the Roman Baroque.\nWe shall address the social and historical context of artworks, in an exciting period that saw the invention of printing, a change in the status of the artist, and a shift in perception on the part of the beholder. Among the related themes to be studied are materials and techniques; style and influence; religious and mythological iconography; and patronage and collecting.",
+    "instructor": "",
+    "number": 26.05,
+    "offered": "",
+    "subject": "ARTH",
+    "title": "ARTH 26.05 FSP: Art in Rome, 1300-1650"
+  },
   "ARTH-27.01": {
     "description": "This course explores the Renaissance phenomenon of the “ideal city” – its origins, successes, and spectacular failures. During the fifteenth and sixteenth centuries, major artists and architects like Leonardo da Vinci participated in a radical experiment that transformed how urban spaces were designed, represented, and built. The Renaissance city was reinvented as a utopia, featuring straight processional avenues, a rigid street plan, and monumental sculptures inserted into public squares like props on a stage. We will consider a wide range of case studies, from fictional cities imagined in the pages of sketchbooks to new cities and towns that were built from the ground up. Throughout, we will question how architects exploited the basic infrastructure of daily life – roads, gates, walls, squares, and even sewage systems – to perfect their environments. How were those principles used to promote civic virtue and good governance or to reinforce social hierarchies and absolutist rule? We will make frequent visits to the Rauner Special Collections Library to work directly with rare books. The course requires no prior knowledge of art history, architecture, or the Renaissance.",
     "distribs": "Dist:ART",
@@ -3238,6 +3262,15 @@
     "subject": "ASCL",
     "title": "ASCL 51.05 Religions of Southeast Asia",
     "xlist": "REL 02.01"
+  },
+  "ASCL-51.06": {
+    "description": "This intermediate-level course explores how Buddhist concepts of embodiment affect daily life and society in Southeast Asian contexts. We will also consider how cultural understandings of gender and sexuality influence local religious practices in the Buddhist-majority countries of Thailand, Vietnam, Cambodia, and Myanmar. Our materials will lead us to analyze how religion, sexuality, and gender intersect with one another, as well as how these intersections impact broader understandings of authority, wisdom, beauty, death, and loyalty.",
+    "distribs": "Dist:TMV; WCult:NW",
+    "instructor": "",
+    "number": 51.06,
+    "offered": "",
+    "subject": "ASCL",
+    "title": "ASCL 51.06 Buddhism, Sexuality, & Gender in Southeast Asia"
   },
   "ASCL-52.01": {
     "description": "This experimental interdisciplinary course explores traditional North Indian (Hindustani) music and dance as both an artistic practice and a cultural system. Course work combines regular group lessons on the tabla—the principal percussion instrument in the performance of Hindustani raga—with weekly reading, listening, and viewing assignments focusing on Indian music theory,history, and aesthetics. Visiting artists will demonstrate the central dance, instrumental, and vocal forms of Hindustani performing arts. No prior musical experience required.",
@@ -5464,6 +5497,15 @@
     "subject": "CLST",
     "title": "CLST 10.13 New Testament"
   },
+  "CLST-10.14": {
+    "description": "A small-enrollment seminar offering an introduction to Plato's thought and to a rich vein of material illustrating Greek attitudes and assumptions on erotic love for both sexes. The primary text is Plato's Symposium, which we will study in translation while learning the Greek alphabet and a few key vocabulary items in Greek. As time allows during the term, we will explore some of the rich body of evidence that exists in Greek poetry, oratory, and the visual arts either confirming or contradicting the impression given by Plato.",
+    "distribs": "Dist:TMV; WCult:W",
+    "instructor": "",
+    "number": 10.14,
+    "offered": "",
+    "subject": "CLST",
+    "title": "CLST 10.14 Plato's Symposium"
+  },
   "CLST-11": {
     "description": "Courses offered under this rubric explore specific facets of the history of ancient Greece and Rome",
     "distribs": "WCult:W",
@@ -6355,6 +6397,14 @@
     "title": "COLT 40.07 Video Games and the Meaning of Life",
     "xlist": "FILM 50.04 MUS 046"
   },
+  "COLT-49.08": {
+    "description": "The sea is a gateway that opens us toward the elements. It also introduces human beings toward the strange and the unknown. The sea entices human beings to leave the homeland and seek adventures and discover new territories. This course will examine the various ways in which human beings invent themselves and their communities via encounters with the maritime. Selections will be drawn from the Gilgamesh, Homer, Euripides, Cicero, Shakespeare, Melville, Walcott and the theories of Arendt and Schmitt. How do different encounters with the maritime form and transform our self-understanding and our relationship with those around us? How does the need to go beyond our territorial boundaries teach us about freedom and the nature of being human? How can the sea change our conception of the political?",
+    "instructor": "",
+    "number": 49.08,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 49.08 The Sea and the City"
+  },
   "COLT-49.09": {
     "description": "What does sickness look like? What do personal picture-stories of illness and recovery tell us that traditional medical narratives cannot? In this course, students will read graphic narratives depicting first-hand experiences of physical (dis)ability, mental illness, disease, and neurodivergence. Discussion and readings will explore autobiography, word-image theories and comics analysis, as well as competing conceptions of illness and recovery within and across primary texts. Other readings will include scholarship on the ethics of storytelling and patient-centered perspectives on medicine. Authors may include David B., Ellen Forney, Art Spiegelman, Cece Bell, Harvey Pekar, Frank Miller, and others.",
     "distribs": "Dist:LIT; WCult:W",
@@ -6414,6 +6464,15 @@
     "title": "COLT 57.10 Social Revolutions East and West: Japan and the United States in the 1960s",
     "xlist": "ASCL 70.18"
   },
+  "COLT-57.12": {
+    "description": "What is “mafia”? Organized crime, global big business, shadow state, deeply entrenched mentalities, glamorized myth, all of the above? This course focusses on Italian mafias (primarily the Sicilian Cosa Nostra) and, to a lesser degree, other Italian and Italian-American mafias. We will examine the conditions in which mafias emerged; those that make it possible for mafias to continue to thrive today; the social “codes” of the mafias, such as honor, omertà, and vendetta; and the forms that mafias take in the collective cultural imagination, in particular as they have been translated and represented in fiction and film on both sides of the Atlantic. In the process, we will explore Italian history and contemporary society and discuss topics such as the uses and abuses of power and the attraction of outlaw cultures. \nThis course is not open to students who have received credit for ITAL 07.07.",
+    "distribs": "Dist:INT or SOC; WCult:W",
+    "instructor": "",
+    "number": 57.12,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 57.12 Mafias"
+  },
   "COLT-60.01": {
     "description": "We will be asking questions about the interplay of literature and language with music.  Does music have “meaning” in the conventional or in any other sense, and if so, does it have a characteristic way of conveying meaning? We will consider several permutations of the relationship of music and language, and especially inspect the fringes, where a listener may say “this is no longer music” or “this is no longer speech.”  Does music without a text in fact always have a text? What happens to poems when they become songs or prose plots when they become opera?  Conversely, are there stories that incorporate music or are composed according to a musical form?  In your writing, you may choose musical examples that suit your tastes and expertise; and you will devise and write a final paper of your choice.",
     "distribs": "Dist:INT or LIT; WCult:W",
@@ -6422,6 +6481,14 @@
     "offered": "",
     "subject": "COLT",
     "title": "COLT 60.01 Literature and Music"
+  },
+  "COLT-62.08": {
+    "description": "Since the advent of cinema, literature has provided a rich medium from which filmmakers could draw to tell their stories.  Adaptation studies explores the exchanges and connections between these mediums, as well as others, from theater to dance, music, graphic novels, and art. What makes an adaptation successful?  How important is textual fidelity – should a film, for example, try to follow a novel as faithfully as it can, or is it possible for something to be gained, not lost, in the “translation” of a story from one form to another, from the words of a poem to the music of an orchestra, or the words of a novella to the visuals of a film?  Is the cliche that “the book is always better than the movie” true – that is, is there some authentic “spirit” of a text that can be preserved in an adaptation of that text?  How might sociopolitical concerns influence the ways in which adaptations are conceived, especially considered comparatively across different times and different cultures? In critically analyzing the translation of a narrative from one medium to another, we will ask questions related to intertextuality, textual fluidity, the idea of authenticity, and what it is that we consider to be a unique and cohesive text in the first place (and simultaneously, the problems with these assumptions).  Readings and viewings may include works by Shakespeare, Satrapi, Sophocles, Kurosawa, Esquivel, Melville, and Mallarme.",
+    "instructor": "",
+    "number": 62.08,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 62.08 Film Adaptation and Literature"
   },
   "COLT-63.02": {
     "description": "Conspiracy narrative has come to dominate our national and international political discourse like no other time in modern history. It is therefore essential that we understand the operation of conspiracy narrative, its psychological allure and political function, and its devastating social consequences. In this course, we will investigate two national conspiracist traditions, the American and the Russian, and the parallel rise and stunning convergence of Russian and American conspiracism in our current political moment. In order to do so, we will inquire into the historical origins, the form, function, and effectiveness of conspiracist narratives in these two traditions in the 20th and 21st centuries. Ultimately we will approach conspiracy theories as ways of knowing, of penetrating and ordering complex and opaque realities. They are also powerful narrative weapons that imperil the shared truths on which cohesive societies are based. Our course texts include The Master and Margarita (Bulgakov), The Crucible (Miller), and Libra (DeLillo), Ivan the Terrible Part II (Eisenstein) The Manchurian Candidate (Frankenheimer) and The Matrix (The Wachkowskis) as well as literary and cultural studies of conspiracist narrative and ideation.",
@@ -6432,6 +6499,15 @@
     "subject": "COLT",
     "title": "COLT 63.02 Modern Conspiracy: The Russian and American Conspiracist Traditions",
     "xlist": "RUSS 38.10"
+  },
+  "COLT-63.03": {
+    "description": "It is no accident that we find ourselves today in the midst of populist unrest. Our course Mobs, Crowds, and the People: Activism in Populist Times explores the longstanding history of popular unrest and mobilization, fear of the people in literature, philosophy, theology and film from across three continents. Populism is central to current debates about politics and the future of democracy, from radical right organizations in Europe to left-wing parties and presidents in Southern Europe and Latin America to the Occupy Wall Street Movement, Bernie Sanders, Donald Trump and the “Capitol Riot” in the United States. But populism is also one of the most contested concepts in the humanities and political theory. Is populism an ideology or a revolutionary strategy? A style of politics? And, crucially, who are “the people” in populism?",
+    "distribs": "WCult:W",
+    "instructor": "",
+    "number": 63.03,
+    "offered": "",
+    "subject": "COLT",
+    "title": "COLT 63.03 Mobs, Crowds, and the People: Activism in Populist Times"
   },
   "COLT-64.01": {
     "description": "Why do the Nazis remain the world’s epitome of evil? What did they actually do? And how specifically are they remembered, depicted, emulated, despised or ignored since the catastrophes of the mid-twentieth Century? In this course we will examine the main events connected with the Second World War, the genocide of European Jewry and Roma-Sinti, forced resettlements of various populations, and the Allied attacks on the German civilian population.  We will analyze the different stages of coming to grips with that past on the part of German and some other postwar societies, by examining together a number of controversies like those surrounding the Nuremberg, Frankfurt, Eichmann and Barbie trials, the campaign to build a Holocaust memorial in Berlin, Neonazism, the Wehrmacht photo exhibition, and the current campaign to remember German civilian casualties and losses.  Approaching our topic with interdisciplinary and comparative methodology, that is, by utilizing history, journalism, video testimony, music, literature, and art, including film, photography and architecture, students will develop their own perspectives on the formation of postwar German identity and why Nazis remain the epitome of evil. An individual midterm project will allow students to practice the skill of summarizing different sides of a debate, and a final group project will invite students to solidify what they have learned in the course about the formation of national identity by creatively staging a contemporary debate about the Nazi past.",
@@ -8203,6 +8279,14 @@
     "subject": "ECON",
     "title": "ECON 29 International Finance and Open-Economy Macroeconomics"
   },
+  "ECON-3": {
+    "description": "This course covers many of the same basic calculus topics as Math 3, but with the focus on developing an understanding of the mathematical structure of economics, since having mathematical skill is essential to the study of economics. Examples of economic applications of calculus topics include using derivatives to study consumer demand and labor productivity and using integrals to study income distributions.  Additionally, key statistical measures needed for econometrics classes, such as expected value and variance will be introduced.",
+    "instructor": "",
+    "number": 3,
+    "offered": "",
+    "subject": "ECON",
+    "title": "ECON 3 Essential Mathematics for Economic Analysis"
+  },
   "ECON-32": {
     "description": "This course will examine the key elements of a monetary policy framework, investigate how monetary policy decisions influence financial conditions and macroeconomic outcomes, and consider the practical challenges of monetary policymaking in a global context. Basic methods in time-series econometrics will be used to analyze macro data, construct forecasts. and assess current monetary policy strategies. Students will work together in teams, each of which will collect and analyze information for a specific country and give a series of oral presentations to the class.",
     "distribs": "Dist:SOC",
@@ -9641,6 +9725,14 @@
     "subject": "ENGL",
     "title": "ENGL 53.49 Graphic Medicine"
   },
+  "ENGL-53.5": {
+    "description": "This lecture course surveys testimonial forms produced throughout the African diaspora. Along the way, we will ask a number of questions: What constitutes an act of witness? Who are its addressees, and to what does it testify? On whose behalf might it speak? We will encounter diverse examples of Black testimonial expression, including works of autobiography, fiction, ethnography, legal theory, literary criticism, visual art, film, and musical performance. These works will be drawn from the United States, Canada, Brazil, Haiti, South Africa, Senegal, and Sudan. Students will also have the opportunity to produce a creative testimonial project.",
+    "instructor": "",
+    "number": 53.5,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 53.50 Black Testimony"
+  },
   "ENGL-54.01": {
     "description": "What happens when movie writers and directors adapt Shakespeare’s plays for the screen? How does an audience’s awareness of a literary precedent influence reception? What kinds of adaptations do we value and what role does their faithfulness to originals play? This course will look at twelve adaptations of major plays that most consider somewhat radical (e.g. Chicken Rice War; Omkara, Ran, Forbidden Planet, Scotland, P.A.) exploring the conceptual and cinematic strengths of the adaptations, as well as what their attempts to preserve or recast elements of Shakespeare’s plays reveals about the energies of the originals. Each film should thus prove a site of discussion in its own right, as well as an interpretive text that both critiques and argues the merits of the source text. Students can expect to read seven plays and see at least two adaptations of each, writing short responses to each play and film on canvas. Course Group IV",
     "distribs": "Dist:LIT; WCult:W",
@@ -10436,6 +10528,14 @@
     "offered": "",
     "subject": "ENGL",
     "title": "ENGL 73.02 Toni Morrison Senior Seminar"
+  },
+  "ENGL-73.03": {
+    "description": "This course is structured around iterations of black grief within, but mostly beyond the genre of poetry. What curator Okwui Enwezor calls the contemporary “emergency of black grief” is over four centuries old. We will explore modes of release from black cultural producers who attend to the multiple losses sustained by black subjects. The resulting productions span the range of representation from dance, painting, photography, music, film, and craftwork. The course will be organized around three parts, each focusing on the sensorial: Sight, Sound, and Touch. Together we will consider what it means to mourn in an antiblack world resistant to acknowledging the violences endured by black subjects in the United States and beyond its borders.",
+    "instructor": "",
+    "number": 73.03,
+    "offered": "",
+    "subject": "ENGL",
+    "title": "ENGL 73.03 Black Elegies"
   },
   "ENGL-73.05": {
     "description": "A study of Nobel Prize writers from various Anglophone countries, this course examines authors' aesthetic innovations alongside their engagement in cultural, socio-political, and national discourses. Although the focus will be on poetry, the course will also explore the relationship between different genres (including essays, plays, and novels) and various socio-historical moments. Authors will include William Faulkner, Nadine Gordimer, Seamus Heaney, Wole Soyinka, Rabindranath Tagore, Derek Walcott, Patrick White, and W.B. Yeats.",
@@ -14001,6 +14101,14 @@
     "subject": "GEOG",
     "title": "GEOG 3 Introduction to the Natural Environment"
   },
+  "GEOG-3.01": {
+    "description": "This course introduces key approaches to the geographic study of nature-society relations. It is organized around four topical themes (health, climate, energy, and environmental justice) as well as four analytical approaches (political ecology, coupled human-natural systems, non-Western natures, and the environmental humanities). Applying these frameworks to diverse case studies will help us understand how social processes drive ecological transformations, and how those transformations are experienced and understood by societies in different geographical contexts.",
+    "instructor": "",
+    "number": 3.01,
+    "offered": "",
+    "subject": "GEOG",
+    "title": "GEOG 3.01 Living with Nature: Introduction to Nature-Society Relations"
+  },
   "GEOG-30.01": {
     "description": "The Jewish diasporic encounter in Europe took place almost entirely in an urban context. The legal, political and cultural framework of the European city shaped the trajectory of the Jews in a profound and lasting way, and cities and metropolises continue to shape Jewish civilization in many ways. From the Venetian ghetto to the Lower East Side, from the pletzl in Paris to the vast neighborhoods in the first Jewish metropolises in Eastern Europe, the different settings shaped Jewish civilization.\n\\fThis course proposes a close reading of this urban context: what were the legal and political foundations, how did Jews organize themselves in cities, what economic opportunities did they develop?\n\\fThis class will use a broad range of materials: literary texts, the press, scholarly analysis (historical, sociological, anthropological), film, art and art history.",
     "distribs": "Dist:SOC; WCult:CI",
@@ -14012,13 +14120,13 @@
     "xlist": "HIST 74.14/JWST 12.01 "
   },
   "GEOG-31": {
-    "description": "This course examines the spatial and temporal patterns underlying the distribution of the Earth’s living organisms (plants, animals and microbes) as well as the biological and physical processes responsible for these patterns. The topics covered will include species range limits, biodiversity, island biogeography, vegetation dynamics/disturbance ecology, human impacts on living organisms, and conservation. The course will emphasize field-based learning, with several class meetings devoted to mapping vegetation patterns and observing animal behaviors in the local area.",
-    "distribs": "SLA",
+    "description": "In this class we use tools of critical geography to think relationally about colonization, post-colonialism, and decolonization. We begin with the material and imaginative geographies produced through colonization—identifying the mappings, categories, and binaries integral to empire. We then consider how diaspora, migration, and displacement have reconfigured these relationships. Finally, we turn to the ongoing work of decolonization-an imperative both in the world and in our own thinking about the world.",
+    "distribs": "Dist:SLA",
     "instructor": "",
     "number": 31,
     "offered": "",
     "subject": "GEOG",
-    "title": "GEOG 31 The Local and Global Biosphere"
+    "title": "GEOG 31 Postcolonial Geographies - Empire, Diaspora, Decolonization"
   },
   "GEOG-32": {
     "description": "Cities are not only home to most of humanity, but also unique and varied physical environments. This course will introduce students to these environments and the challenges of making them both livable and sustainable. It will cover three subject areas: 1) the biophysical features of cities, 2) environmental problems associated with urbanization, and 3) approaches to addressing these problems. In order to appreciate the geographic diversity of cities, the course will examine a wide range of urban environments across the world.",
@@ -16489,6 +16597,15 @@
     "subject": "GOVT",
     "title": "GOVT 84.40 Democratic Erosion"
   },
+  "GOVT-84.41": {
+    "description": "This seminar investigates the rapid economic rise of China since 1978. It focuses on the unorthodox ideas and strategies China's policymakers followed as they embarked upon economic liberalization; on China's foreign economic policies including the Belt and Road Initiative; and on relations with the United States. The seminar finishes with a review of the social, political and economic challenges China faces as it emerges as a powerful middle income country with global ambitions.",
+    "distribs": "Dist:INT or SOC; WCult:NW",
+    "instructor": "",
+    "number": 84.41,
+    "offered": "",
+    "subject": "GOVT",
+    "title": "GOVT 84.41 China as Economic Superpower: From Mao to Shenzhen"
+  },
   "GOVT-85.01": {
     "description": "This course explores diplomacy, the essential instrument of foreign policy. We will begin with elemental questions:  What is diplomacy? Who uses it and how?  The course will examine both the daily work of diplomats -- how they obtain and use information on the politics, economics and society of their host nations – and the way in which negotiations are conducted at the highest levels.  The course will take up a number of case studies (possibilities include Bosnia, the Gulf War, Kirkuk, North Korea, and Iran) in order to answer the following questions: What makes for successful negotiations?   Is the threat of force essential to effective diplomacy?  When is multilateral diplomacy more effective than unilateral action?  What is the role of the United Nations?   The class will engage in debates and other in-class exercises that utilize critical diplomatic skills.",
     "distribs": "Dist:INT or SOC",
@@ -18384,6 +18501,22 @@
     "title": "HIST 90.13 Placing History: A Exploration of Local History through Archives, Fieldwork, & Digital Maps",
     "xlist": "NAS 30.22"
   },
+  "HIST-90.14": {
+    "description": "This course charts the long history and continuing legacies of the British Empire, an entity that has transformed every single continent over the last four centuries and is widely associated with the makings of the modern world. We examine how and why a powerful and expansive British Empire emerged and sustained itself. Equally, we zoom in on the regular contestation and even outright rebellion that this transcontinental polity inspired. This course is an opportunity to think connectively and comparatively about historical experiences in America, India, the Caribbean and Africa among multiple other British imperial spaces. Through the prism of a changing British Empire, we trace the rise and evolution of global trade, slavery, the consumption of commodities such as sugar, tea, opium, and cotton; and new ideas about governance, sovereignty, race and identity. We conclude with a discussion of the persistence of imperial institutions, laws and power relations in shaping the world we inhabit. Students will be introduced to major debates about imperialism and colonialism and the political, economic, environmental, legal and racial underpinnings of the British Empire. Students will read a combination of primary and secondary sources every week and will develop a research paper drawn from original sources over the course of the term.",
+    "instructor": "",
+    "number": 90.14,
+    "offered": "",
+    "subject": "HIST",
+    "title": "HIST 90.14 The Global British Empire, 1600 – The Present"
+  },
+  "HIST-90.17": {
+    "description": "This course explores one of the most radical experiments of the European Middle Ages: the military crusading orders. The members of these organizations were imagined to constitute a \"new knighthood\" of monkish warriors, theoretically living according to a strict monastic rule and dedicated to the protection and expansion of Christian society as the military branch of the church. These institutions–and the Middle Ages more broadly–have resurfaced as one contested site in a raging culture war over race, power, and identity in the United States and abroad. This course takes this recent trend as a prompt for placing the military orders within their medieval context, beginning with their emergence from a longer history of Judeo-Christian holy war. More broadly, we will also take the military orders as a case study for historical questions about the intersection of religious belief, group identity, and acts of violence in human societies. Given the place of the military orders in the modern imagination, from conspiracy theories to far-right ideologies, a central goal of this course is to equip students with the skills to evaluate historical sources first-hand and also to engage critically with a wide range of historical arguments.",
+    "instructor": "",
+    "number": 90.17,
+    "offered": "",
+    "subject": "HIST",
+    "title": "HIST 90.17 Templars, Teutonic Knights, and the Medieval Military Crusading Orders"
+  },
   "HIST-91.01": {
     "description": "This course will focus on the interactions of the three major religious communities of the medieval Mediterranean—Christians, Jewish, and Muslim—beginning with the First Crusade in 1096 and ending with the arrival of the Black Death in 1347. By examining topics such as pilgrimage, crusade, and jihad, the status of minority communities, and intellectual life, we will explore how Christians, Jews, and Muslims clashed, cooperated, influenced, and misunderstood each other. Open to all classes.",
     "distribs": "Dist:TMV; WCult:W",
@@ -18580,6 +18713,15 @@
     "subject": "HIST",
     "title": "HIST 94.15 History of the Holocaust",
     "xlist": "JWST 37.01"
+  },
+  "HIST-94.16": {
+    "description": "This hands-on course focuses on the ancient Roman production, the development and use of money at Rome, the logistics of coin production, and the methods for studying coinage to write ancient history. Students learn basic numismatic methodology by handling and studying coins from the collection in Dartmouth’s Hood Museum of Art and prepare material for a coin installation. A final unit treats the ethics of coin collecting and the role of the modern museum.",
+    "distribs": "Dist:SOC; WCult:W",
+    "instructor": "",
+    "number": 94.16,
+    "offered": "",
+    "subject": "HIST",
+    "title": "HIST 94.16 Before Billboards and Twitter: Roman Coins Text"
   },
   "HIST-95.01": {
     "description": "Through lectures, readings, discussions, and fieldwork this course explores aspects of London's history from medieval to modern times. Using the city itself as a living laboratory for historical thinking, the course relates the development of London and its neighborhoods to the larger concentric histories of nation, region, empire, and world.",
@@ -20025,6 +20167,15 @@
     "title": "LACS 40.10 Migrant Nation: Immigration and Racialization in the Making of the United States",
     "xlist": "HIST 31.02"
   },
+  "LACS-41.2": {
+    "description": "This course surveys a series of critical paradigms for studying American literature and culture in a hemispheric context. We’ll explore a variety of approaches to hemispheric literary and cultural studies, considering reanimations of the conquest, comparative and shared romantic and revolutionary discourses, the literature of the hemispheric South, borderlands studies, the study of state-sponsored literary institutions that cross national borders, and inter-American attempts to imagine solidarity across the hemisphere. At the end of the course, students will have the opportunity to produce a creative project rendering their own hemispheric imaginary. Authors may include Leonora Sansay, Martin Delany, María Ruiz de Burton, Jose Martí, Américo Paredes, Carmen Lyra, Gabriel García Márquez, Jamaica Kincaid, and Giannina Braschi. All texts are available in translation.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 41.2,
+    "offered": "",
+    "subject": "LACS",
+    "title": "LACS 41.20 Literature and Culture of the Americas"
+  },
   "LACS-42": {
     "description": "Mexico City once the capital of New Spain overlies the remains of Tenochtitlan, capital of the Aztec empire. This course examines the development of the Aztec empire, the organization of Aztec society and religion, and the Spanish conquest of the Aztec. It ends with an introduction to Nahua society in the first century after conquest. We will also consider the varied perspectives of Aztec history offered by Nahua texts, archaeology, history, and art history. (ARCH)",
     "distribs": "Dist:SOC; WCult:NW",
@@ -21055,7 +21206,7 @@
     "description": "Writing a research paper requires the knowledge of the scope, the genesis, and the methods of the discipline one is engaged in. The goal of this workshop is to make students aware of their own approaches to help them develop their own research projects. It will cover methods of practical implementation, skills and strategies to obtain better results in research and class performance. Apart from learning how to apply and integrate different genre such as excerpts, protocols, reports, summaries, or charts that help preparing a presentation, writing a paper, or finishing a thesis, discussions will address the following questions:\n1. What distinguishes scholarship from other forms of knowledge production (media, encyclopedias);\n2. What research means in the sciences and in the humanities, and how individual disciplines produce knowledge;\n3. What it means to read and write “critically;”\n4. How to distinguish “scientific facts,” from “producing meaning,”\n5. How to turn individual observations and experiences into viable scholarly projects and why framing the right question might be more important than the answer;\n6. How research strategies and different forms of systematic thinking might be helpful at working places outside the university and beyond scholarly projects.\nIn order to practice how to plan or carry out research and how to build an argument, students will be asked to bring in their own work in progress, be it an initial idea for a final paper, a proposal for an independent study, or a chapter of their thesis.",
     "instructor": "Klaus Milich",
     "number": 130,
-    "offered": "20W",
+    "offered": "18X",
     "subject": "MALS",
     "title": "MALS 130 Cultural Studies Research Methods"
   },
@@ -30593,6 +30744,14 @@
     "subject": "SOCY",
     "title": "SOCY 75 Neighborhoods and Health",
     "xlist": "QSS 30.15"
+  },
+  "SOCY-76": {
+    "description": "This course sets out to understand race and ethnicity as the product of, as well as a basis for, political struggles. The conventional sociological understanding of race and ethnicity focuses on difference. That is, although sociologists take pains to argue that racial and ethnic differences are socially constructed, the vast, long-standing inequality among racial and ethnic groups make it very tempting to perceive the status quo as inevitable, if not natural. In order to counter this trend, we have to center the concept of power and trace how racial and ethnic divisions came to emerge from the political struggles of the past. And in doing so, it is crucial to understand not only successes but also failures of white supremacy—namely that non-whites have always disrupted workings of the dominant system, sometimes through electoral politics and other times through direct action.",
+    "instructor": "",
+    "number": 76,
+    "offered": "",
+    "subject": "SOCY",
+    "title": "SOCY 76 Race, Power, and Politics"
   },
   "SOCY-79": {
     "description": "",
