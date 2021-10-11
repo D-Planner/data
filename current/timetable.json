@@ -88047,7 +88047,7 @@
     "xlist": null
   },
   "202109-PHIL-1.01-01": {
-    "building": "Blunt",
+    "building": "Remote",
     "creditOptions": "NR Eligible",
     "crn": "91334",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202109&subj=PHIL&numb=01.01",
@@ -88060,7 +88060,7 @@
     "number": 1.01,
     "period": "TuTh4:30-6:20, W 5:30-6:20",
     "periodCode": "3B",
-    "room": "007",
+    "room": "Remote",
     "section": "01",
     "status": "IP",
     "subject": "PHIL",
