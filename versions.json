@@ -6010,6 +6010,11 @@
         "changed": "202109-CHEM-140-01",
         "hash": "0c44222238d4f74e",
         "timestamp": "2021-10-11T19:05:35.643Z"
+      },
+      {
+        "changed": "202109-PHIL-1.01-01",
+        "hash": "aab2d78bd4603d00",
+        "timestamp": "2021-10-11T20:04:39.022Z"
       }
     ]
   },
@@ -6020,9 +6025,9 @@
       "timestamp": "2021-10-04T09:04:02.684Z"
     },
     "timetable": {
-      "changed": "202109-PHIL-1.01-01",
-      "hash": "aab2d78bd4603d00",
-      "timestamp": "2021-10-11T20:04:39.022Z"
+      "changed": "202109-ASTR-2-01,202109-ASTR-3-01",
+      "hash": "8dd17c63bf0722aa",
+      "timestamp": "2021-10-12T13:05:58.297Z"
     }
   }
 }
