@@ -107,6 +107,15 @@
     "title": "AAAS 20.01 Dartmouth Black Lives",
     "xlist": "HIST 10.04"
   },
+  "AAAS-20.15": {
+    "description": "What is Black Feminist Thought? Why Black Feminist Thought? And just whom is Black Feminist Thought for? This course considers the disciplinary formations and political happenings of Black Feminist Thought in the United States—from its role in the university department to its presence on the ground. Highlighting interlocking issues related to gender, sexuality, race, and economics, we will mine political speeches, visual art, live performance, literature, and theoretical discourse.",
+    "distribs": "Dist:SOC; WCult:CI",
+    "instructor": "",
+    "number": 20.15,
+    "offered": "",
+    "subject": "AAAS",
+    "title": "AAAS 20.15 Introduction to Black Feminist Thought"
+  },
   "AAAS-20.5": {
     "description": "Beyond noting that Wheelock owned slaves, little is known of Dartmouth's other historical connections, if any, to the institution of slavery.   This research seminar investigates the college's economic entanglement in the trade and slaveholding; as a site for the intellectual legitimation and contestation of slavery; and the contributions of enslaved persons to its development. We will also review the origins, findings and responses to similar collective memory projects at other institutions including Brown, Emory and Yale.",
     "distribs": "Dist:SOC",
@@ -554,6 +563,7 @@
   },
   "AAAS-55.02": {
     "description": "This course will consider the mapping of race onto the idea of Africa and how Africa came to constitute a unique racial category. We will therefore conduct an “archeology of race” and engage the argument by historians of race in Africa that Africa was a major laboratory of race. Our primary material will consist of motion pictures, in an effort to reckon with the role of motion pictures as prime technologies of racial othering and their deep imbrications in colonial projects.",
+    "distribs": "Dist:ART; WCult:NW",
     "instructor": "",
     "number": 55.02,
     "offered": "",
@@ -1865,6 +1875,15 @@
     "offered": "",
     "subject": "ANTH",
     "title": "ANTH 50.43 Social, Environmental, and Health Impacts of Human Conflict"
+  },
+  "ANTH-50.44": {
+    "description": "This course explores what we have learned about human evolution, behavior, and biological diversity in the 150 years since Charles Darwin wrote The Descent of Man. The course will coincide with a Winter symposium in which the contributing authors of A Most Interesting Problem: What Darwin’s Descent of Man Got Right and Wrong about Human Evolution will visit campus, give talks, and engage with our students. ANTH 50.44 is designed for anthropology and biology majors.",
+    "distribs": "Dist:SCI",
+    "instructor": "",
+    "number": 50.44,
+    "offered": "",
+    "subject": "ANTH",
+    "title": "ANTH 50.44 Darwin and Human Evolution"
   },
   "ANTH-51": {
     "description": "Between the 16th and mid-20th centuries, European nations and Japan colonized much of the rest of the world. This course examines similarities and differences in the practices of these colonial powers in different regions at different times and the impact they had on indigenous peoples and societies. It traces the ways in which colonial processes and experiences have shaped the politics, economics, and identities of both developed and developing nations in the world today.",
@@ -6484,6 +6503,7 @@
   },
   "COLT-62.08": {
     "description": "Since the advent of cinema, literature has provided a rich medium from which filmmakers could draw to tell their stories.  Adaptation studies explores the exchanges and connections between these mediums, as well as others, from theater to dance, music, graphic novels, and art. What makes an adaptation successful?  How important is textual fidelity – should a film, for example, try to follow a novel as faithfully as it can, or is it possible for something to be gained, not lost, in the “translation” of a story from one form to another, from the words of a poem to the music of an orchestra, or the words of a novella to the visuals of a film?  Is the cliche that “the book is always better than the movie” true – that is, is there some authentic “spirit” of a text that can be preserved in an adaptation of that text?  How might sociopolitical concerns influence the ways in which adaptations are conceived, especially considered comparatively across different times and different cultures? In critically analyzing the translation of a narrative from one medium to another, we will ask questions related to intertextuality, textual fluidity, the idea of authenticity, and what it is that we consider to be a unique and cohesive text in the first place (and simultaneously, the problems with these assumptions).  Readings and viewings may include works by Shakespeare, Satrapi, Sophocles, Kurosawa, Esquivel, Melville, and Mallarme.",
+    "distribs": "Dist:LIT",
     "instructor": "",
     "number": 62.08,
     "offered": "",
@@ -7053,6 +7073,14 @@
     "offered": "",
     "subject": "COSC",
     "title": "COSC 69.15 Robotics Perception Systems"
+  },
+  "COSC-69.16": {
+    "description": "Frequently, the source code for an important operating system component, malware, or piece of commercial software is not available. This course explores the art and science of reverse engineering such systems to discover how they work, how they connect to other systems, and how they may be controlled. In this course, you will develop an understanding of how systems and development tool chains are built \"under the hood\". You will learn to read compiled binaries without available source code, to recover program logic, and to modify (de)compiled binaries. We will seek to understand the challenges of reverse engineering larger programs, and of automating reverse engineering.",
+    "instructor": "",
+    "number": 69.16,
+    "offered": "",
+    "subject": "COSC",
+    "title": "COSC 69.16 Basics of Reverse Engineering"
   },
   "COSC-70": {
     "description": "This course introduces core computational and mathematical techniques for data analysis and physical modeling, foundational to applications including computational biology, computer vision, graphics, machine learning, and robotics. The approaches covered include modeling and optimizing both linear and nonlinear systems, representing and computing with uncertainty, analyzing multi-dimensional data, and sampling from complex domains. The techniques are both grounded in mathematical principles and practically applied to problems from a broad range of areas. Not open to students who have received credit for COSC 70.01.",
@@ -7924,6 +7952,15 @@
     "title": "EARS 65 Remote Sensing",
     "xlist": "GEOG 051"
   },
+  "EARS-65.01": {
+    "description": "This course is an introduction to remote sensing of the environment – the acquisition of information about the earth from a distance, typically via spaceborne sensors. In this course, we will examine all components of the remote sensing process, from the electromagnetic radiation environment, to sensor design and data collection, to image interpretation and analysis.  Not open to students who have received credit for EARS 65/GEOG 51.",
+    "distribs": "Dist:TAS",
+    "instructor": "",
+    "number": 65.01,
+    "offered": "",
+    "subject": "EARS",
+    "title": "EARS 65.01 Remote Sensing of the Environment"
+  },
   "EARS-66": {
     "description": "This course is an introduction to groundwater and the technical analyses of groundwater resources. A series of case studies are used to introduce the physical, chemical, and technical aspects of groundwater budgets, groundwater resource evaluation (including well hydraulics and numerical modeling), and the transport and fate of contaminants. The case studies also allow students to gain insight into the complexity of sustainable groundwater resource management through exploration of the ideas of safe yield, surface-groundwater interactions, and water quality standards.",
     "distribs": "Dist:SCI",
@@ -8281,6 +8318,7 @@
   },
   "ECON-3": {
     "description": "This course covers many of the same basic calculus topics as Math 3, but with the focus on developing an understanding of the mathematical structure of economics, since having mathematical skill is essential to the study of economics. Examples of economic applications of calculus topics include using derivatives to study consumer demand and labor productivity and using integrals to study income distributions.  Additionally, key statistical measures needed for econometrics classes, such as expected value and variance will be introduced.",
+    "distribs": "Dist:QDS",
     "instructor": "",
     "number": 3,
     "offered": "",
@@ -14103,6 +14141,7 @@
   },
   "GEOG-3.01": {
     "description": "This course introduces key approaches to the geographic study of nature-society relations. It is organized around four topical themes (health, climate, energy, and environmental justice) as well as four analytical approaches (political ecology, coupled human-natural systems, non-Western natures, and the environmental humanities). Applying these frameworks to diverse case studies will help us understand how social processes drive ecological transformations, and how those transformations are experienced and understood by societies in different geographical contexts.",
+    "distribs": "Dist:SOC",
     "instructor": "",
     "number": 3.01,
     "offered": "",
@@ -14120,8 +14159,8 @@
     "xlist": "HIST 74.14/JWST 12.01 "
   },
   "GEOG-31": {
-    "description": "In this class we use tools of critical geography to think relationally about colonization, post-colonialism, and decolonization. We begin with the material and imaginative geographies produced through colonization—identifying the mappings, categories, and binaries integral to empire. We then consider how diaspora, migration, and displacement have reconfigured these relationships. Finally, we turn to the ongoing work of decolonization-an imperative both in the world and in our own thinking about the world.",
-    "distribs": "Dist:SLA",
+    "description": "In this class we use tools of critical geography to think relationally about colonization, post-colonialism, and decolonization. We begin with the material and imaginative geographies produced through colonization—identifying the mappings, categories, and binaries integral to empire. We then consider how diaspora, migration, and displacement have reconfigured these relationships. Finally, we turn to the ongoing work of decolonization—an imperative both in the world and in our own thinking about the world.",
+    "distribs": "Dist:SOC",
     "instructor": "",
     "number": 31,
     "offered": "",
@@ -16965,6 +17004,7 @@
   },
   "GOVT-86.46": {
     "description": "This class explores theories of the historical relationship between ideologies of racial difference and practices of capital accumulation since the rise of the Atlantic slave-trade. Students will examine the ways in which a host of thinkers, critics, and historians have formulated and employed the concept of “racial capitalism” to reimagine and confront the entanglement of race and capitalism in two central ways: first, as a theory of capitalism in which the movement, settlement, and economic exploitation of people of color is seen as indissociable from regimes of capital accumulation; and second, as a critique of standard accounts of capitalism that view racism as a cultural deviation from the market’s economic logic. Students will be introduced to a wide range of theoretical and historical approaches to interpreting race and capitalism while also learning about key concepts and debates in critical race theory, Black feminist thought, and the history of political economy.",
+    "distribs": "Dist:SOC; WCult:CI",
     "instructor": "",
     "number": 86.46,
     "offered": "",
@@ -16973,6 +17013,7 @@
   },
   "GOVT-86.47": {
     "description": "This class explores key works, ideas, and themes in modern political theory throughout the rise and development of capitalism, from the late seventeenth century to the present. Our approach will be to place primary texts in Western political thought within the socioeconomic contexts in which they were originally written and read, paying particular attention to how political thinkers have responded to pivotal events, innovations, crises, and policies that marked the capitalist societies in which they lived. Each session will focus on a specific moment of convergence between political theory and the history of capitalism, including: political economy and finance, the Enlightenment and colonial slavery, liberalism and the Industrial Revolution, and critical theory and Silicon Valley. Students will acquire an in-depth understanding of central concepts and problems in Western political theory and develop the necessary skills to analyze, discuss, and write about such concepts and problems within a long-range socioeconomic context.",
+    "distribs": "Dist:SOC",
     "instructor": "",
     "number": 86.47,
     "offered": "",
@@ -18503,6 +18544,7 @@
   },
   "HIST-90.14": {
     "description": "This course charts the long history and continuing legacies of the British Empire, an entity that has transformed every single continent over the last four centuries and is widely associated with the makings of the modern world. We examine how and why a powerful and expansive British Empire emerged and sustained itself. Equally, we zoom in on the regular contestation and even outright rebellion that this transcontinental polity inspired. This course is an opportunity to think connectively and comparatively about historical experiences in America, India, the Caribbean and Africa among multiple other British imperial spaces. Through the prism of a changing British Empire, we trace the rise and evolution of global trade, slavery, the consumption of commodities such as sugar, tea, opium, and cotton; and new ideas about governance, sovereignty, race and identity. We conclude with a discussion of the persistence of imperial institutions, laws and power relations in shaping the world we inhabit. Students will be introduced to major debates about imperialism and colonialism and the political, economic, environmental, legal and racial underpinnings of the British Empire. Students will read a combination of primary and secondary sources every week and will develop a research paper drawn from original sources over the course of the term.",
+    "distribs": "Dist:INT; WCult:W",
     "instructor": "",
     "number": 90.14,
     "offered": "",
@@ -18511,6 +18553,7 @@
   },
   "HIST-90.17": {
     "description": "This course explores one of the most radical experiments of the European Middle Ages: the military crusading orders. The members of these organizations were imagined to constitute a \"new knighthood\" of monkish warriors, theoretically living according to a strict monastic rule and dedicated to the protection and expansion of Christian society as the military branch of the church. These institutions–and the Middle Ages more broadly–have resurfaced as one contested site in a raging culture war over race, power, and identity in the United States and abroad. This course takes this recent trend as a prompt for placing the military orders within their medieval context, beginning with their emergence from a longer history of Judeo-Christian holy war. More broadly, we will also take the military orders as a case study for historical questions about the intersection of religious belief, group identity, and acts of violence in human societies. Given the place of the military orders in the modern imagination, from conspiracy theories to far-right ideologies, a central goal of this course is to equip students with the skills to evaluate historical sources first-hand and also to engage critically with a wide range of historical arguments.",
+    "distribs": "Dist:SOC; WCult:W",
     "instructor": "",
     "number": 90.17,
     "offered": "",
@@ -26385,6 +26428,14 @@
     "subject": "PHYS",
     "title": "PHYS 2 Understanding the Universe: From Atoms to the Big Bang"
   },
+  "PHYS-22": {
+    "description": "This course surveys two of the most important areas of mathematical physics: linear algebra and the theory differential equations. Topics from linear algebra include complex numbers, systems of equations, matrices, vector spaces, and the eigenvalue problem. Topics from differential equations include linear differential equations, homogenous and non-homogenous differential equations with constant coefficients, and partial differential equations (separation of variables). The application of these techniques to problems in physics and astronomy will be emphasized.  Not open to students who have received credit for Phys 82.02",
+    "instructor": "",
+    "number": 22,
+    "offered": "",
+    "subject": "PHYS",
+    "title": "PHYS 22 Applied Mathematical Methods for Physicists"
+  },
   "PHYS-24": {
     "description": "The theme of this course is the application of the principles of physics to the structure of matter on various scales. The Schrödinger equation is discussed in three spatial dimensions, with emphasis on the description of hydrogenic wavefunctions. Spin and the Pauli exclusion principle. Applications may include many-electron atoms, molecules, solids, nuclei and elementary particles. (NOTE: Renumbered to Physics 40 with description change; last offering of 24 is 15S.)",
     "distribs": "Dist:SCI",
@@ -26451,6 +26502,7 @@
   },
   "PHYS-31.04": {
     "description": "This course provides a structured introduction to some of the key methods used in 21st Century Astronomy Research. In this course students will gain hands-on experience using computational techniques for data analysis and modeling in python. Students will be introduced to all aspects of the research process, from reviewing the literature, to producing high quality plots, to presenting their research to their peers. Ethical questions related to conducting research in the US will be explored. Not open to students who have received credit for PHYS 31.02, PHYS 31.03.",
+    "distribs": "Dist:SLA",
     "instructor": "",
     "number": 31.04,
     "offered": "",
@@ -29649,6 +29701,14 @@
     "title": "RUSS 38.16 Putin's Sacred Reign",
     "xlist": "REL 19.36"
   },
+  "RUSS-38.18": {
+    "description": "Sex and nonnormative sexuality have always been taboo-weapons in Russia in fight against cultural and political opponents, reinforcing the ‘us-them’ dichotomy (Russia-West; underground-official; regime-opposition). This course outlines the development of cultural and sociopolitical taboos in Russia through different historical periods and examines how the (un)official discourses about sex and the body changed or persisted over time: from bawdy folklore to Pushkin; from fin-de-siecle libertinage to Soviet anti-sexuality; from late/post-Soviet hypersexuality to taboos in Putin’s Russia.",
+    "instructor": "",
+    "number": 38.18,
+    "offered": "",
+    "subject": "RUSS",
+    "title": "RUSS 38.18 Taboo Russia: Sex, Body, and Politics"
+  },
   "RUSS-41": {
     "description": "The language-learning goal of the course is to expand the students’ vocabulary, work with new vocabulary and idioms, to review and reinforce certain grammatical and stylistic subtleties. Students will be introduced to Russian cultural traditions and some specifically Russian attitudes in an exploration of problems of cross-cultural communication and miscommunication. There will be films, short stories, and articles for discussion.",
     "instructor": "Rakova",
@@ -30747,6 +30807,7 @@
   },
   "SOCY-76": {
     "description": "This course sets out to understand race and ethnicity as the product of, as well as a basis for, political struggles. The conventional sociological understanding of race and ethnicity focuses on difference. That is, although sociologists take pains to argue that racial and ethnic differences are socially constructed, the vast, long-standing inequality among racial and ethnic groups make it very tempting to perceive the status quo as inevitable, if not natural. In order to counter this trend, we have to center the concept of power and trace how racial and ethnic divisions came to emerge from the political struggles of the past. And in doing so, it is crucial to understand not only successes but also failures of white supremacy—namely that non-whites have always disrupted workings of the dominant system, sometimes through electoral politics and other times through direct action.",
+    "distribs": "Dist:SOC; WCult:W",
     "instructor": "",
     "number": 76,
     "offered": "",
@@ -31478,6 +31539,15 @@
     "title": "THEA 10.57 Dance Theatre of Harlem Workshop: Collaborative Storytelling Through Movement",
     "xlist": "AAAS 31.10"
   },
+  "THEA-10.64": {
+    "description": "This course explores representations of feminist and queer Africa in theatre, dance, and film. How do female-identified, nonbinary, and/or queer African artists use creative expression to navigate and challenge neocolonial, heteropatriarchal regimes and advance ideas of LGBTQIA  rights and gender equality? Although several countries will be considered during the term, Kenya and Uganda receive a particular emphasis. All students are welcome; no prior knowledge of Africa and/or theories of gender and sexuality are needed.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "",
+    "number": 10.64,
+    "offered": "",
+    "subject": "THEA",
+    "title": "THEA 10.64 Feminist and Queer Africa on Stage & Screen"
+  },
   "THEA-10.65": {
     "description": "This course provides an overview of women's dramatic writing and cultural expression from Latin America and considers how these texts intersect, reflect, disrupt or resist canonical literary movements in Latin America. Course content includes traditional dramatic forms as well as non-literary, visual and performative forms of expression.  By examining works of very diverse ranges, we will also challenge society’s and the authors’ conceptualizations of Latin American women as a way to critique underlying issues of race, class, gender, and other power structures.",
     "distribs": "Dist:ART; WCult:NW",
@@ -31487,6 +31557,15 @@
     "subject": "THEA",
     "title": "THEA 10.65 Performeras on the Latin American Stage",
     "xlist": "LACS 049 SPAN 65.09"
+  },
+  "THEA-10.68": {
+    "description": "This course follows the history of theatre in the Latinx Americas (encompassing a hemispheric approach) for social change. Students will learn about Theatre of the Oppressed, guerilla theatre in all its forms used throughout Latin America and Latinx communities, playwrights writing about social justice issues, and activist performance. We will focus on plays and performances that have as their central theme rebellion and the rebel as we question the nature of rebellion, its manifestations, and consequences.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "",
+    "number": 10.68,
+    "offered": "",
+    "subject": "THEA",
+    "title": "THEA 10.68 Staging Rebellion. Dissidence in Latinx American Theatre"
   },
   "THEA-10.71": {
     "description": "An advanced acting class in the art of performing comedy. Building on the basics of Acting I, this course will examine how the fundamentals of acting are adapted to playing a heightened comedic text.  Students will be introduced to a broad range of comedic performance, past and present, from sketch comedy to standup to films and television, developing a vocabulary of reference points, styles, and approaches to be applied in their rehearsals of the text.  The course will culminate in a public presentation of the play. Roles may be shared.",
