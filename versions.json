@@ -6090,6 +6090,11 @@
         "changed": "202109-BIOL-14-01,202109-REL-40.07-01",
         "hash": "de01b1bb0c51f95d",
         "timestamp": "2021-10-18T15:05:15.389Z"
+      },
+      {
+        "changed": "202109-MATH-3-04,202109-MATH-3-05",
+        "hash": "4e1f812cc76c2a2a",
+        "timestamp": "2021-10-18T16:06:34.069Z"
       }
     ]
   },
@@ -6100,9 +6105,9 @@
       "timestamp": "2021-10-11T09:03:18.855Z"
     },
     "timetable": {
-      "changed": "202109-MATH-3-04,202109-MATH-3-05",
-      "hash": "4e1f812cc76c2a2a",
-      "timestamp": "2021-10-18T16:06:34.069Z"
+      "changed": "202109-ENGG-297-02",
+      "hash": "c7b6afca1d9bee0c",
+      "timestamp": "2021-10-18T19:03:11.707Z"
     }
   }
 }
