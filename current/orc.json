@@ -551,6 +551,15 @@
     "title": "AAAS 54 Postcolonial African Drama",
     "xlist": "undefined"
   },
+  "AAAS-54.05": {
+    "description": "This course explores representations of feminist and queer Africa in theatre, dance, and film. How do female-identified, nonbinary, and/or queer African artists use creative expression to navigate and challenge neocolonial, heteropatriarchal regimes and advance ideas of LGBTQIA  rights and gender equality? Although several countries will be considered during the term, Kenya and Uganda receive a particular emphasis. All students are welcome; no prior knowledge of Africa and/or theories of gender and sexuality are needed.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "",
+    "number": 54.05,
+    "offered": "",
+    "subject": "AAAS",
+    "title": "AAAS 54.05 Feminist and Queer Africa on Stage & Screen"
+  },
   "AAAS-55.01": {
     "description": "This course focuses on the cinemas of Francophone Africa. We will examine early Western filmic representations of Africans as savages devoid of culture and history. We will then examine how African filmmakers have challenged those images by creating new depictions of their societies, offering Africa through African eyes. We will explore the social, historical, and political contexts of these films and explore their aesthetic and narrative characteristics. We will discuss issues and theories related to the definition of the so-called third world cinema, postcolonial cinema, and postmodern cinema.",
     "distribs": "Dist:ART; WCult:NW",
@@ -3072,6 +3081,14 @@
     "offered": "",
     "subject": "ARTH",
     "title": "ARTH 81.02 Advanced Seminar: History of Museums and Collecting"
+  },
+  "ARTH-81.03": {
+    "description": "The technology of print transformed the early modern world. Distant places, people, and things were suddenly thrust into view, allowing the armchair traveler to hold the world in their hands. New ideas, made material in paper and ink, richocheted across the globe. But print posed an existential problem: it called into question some of the most basic assumptions around images and image making that had long governed visual culture. How does reproducibility challenge authenticity? How are authorship and ownership defined? This advanced study interrogates the rise of printed images between 1500 and 1800 and its enduring impact on artistic and architectural culture. Special attention will be paid to major figures in the history of European printmaking, including Albrecht Durer, Rembrandt, and Giovanni Battista Piranesi.",
+    "instructor": "",
+    "number": 81.03,
+    "offered": "",
+    "subject": "ARTH",
+    "title": "ARTH 81.03 The Viral Image: Early Modern Prints"
   },
   "ARTH-82.01": {
     "description": "This course provides an introduction to the arts and culture of the Joseon dynasty (1392-1910), which was founded on Confucianism. We will examine Confucian phisophy and how Confucian ideas shaped the social hierarchy, gender roles, and aesthetic values through exploration of the architecture of royal palaces and aristocratic houses, paintngs both sacred and secular, ceramics, textiles and other crafts. Use of colors, symbolic motifs, and stories in the arts and cultures will be investigated. Understanding Korea’s final 500-year dynasty will deepen students’ comprehension of contemporary Korean culture as it manifests the legacy of Joseon Korea.",
@@ -9765,6 +9782,7 @@
   },
   "ENGL-53.5": {
     "description": "This lecture course surveys testimonial forms produced throughout the African diaspora. Along the way, we will ask a number of questions: What constitutes an act of witness? Who are its addressees, and to what does it testify? On whose behalf might it speak? We will encounter diverse examples of Black testimonial expression, including works of autobiography, fiction, ethnography, legal theory, literary criticism, visual art, film, and musical performance. These works will be drawn from the United States, Canada, Brazil, Haiti, South Africa, Senegal, and Sudan. Students will also have the opportunity to produce a creative testimonial project.",
+    "distribs": "Dist:LIT; WCult:CI",
     "instructor": "",
     "number": 53.5,
     "offered": "",
@@ -10569,6 +10587,7 @@
   },
   "ENGL-73.03": {
     "description": "This course is structured around iterations of black grief within, but mostly beyond the genre of poetry. What curator Okwui Enwezor calls the contemporary “emergency of black grief” is over four centuries old. We will explore modes of release from black cultural producers who attend to the multiple losses sustained by black subjects. The resulting productions span the range of representation from dance, painting, photography, music, film, and craftwork. The course will be organized around three parts, each focusing on the sensorial: Sight, Sound, and Touch. Together we will consider what it means to mourn in an antiblack world resistant to acknowledging the violences endured by black subjects in the United States and beyond its borders.",
+    "distribs": "Dist:LIT; WCult:CI",
     "instructor": "",
     "number": 73.03,
     "offered": "",
@@ -11896,6 +11915,14 @@
     "subject": "ENVS",
     "title": "ENVS 80.14 Environment, Media and Communication"
   },
+  "ENVS-80.15": {
+    "description": "The course examines the three main (often conflicting) objectives of the EU energy policy, namely the transition to low-carbon energy sources, the establishment of a common and competitive energy market, and ensuring energy security. It helps to understand the functioning of the EU by explaining the dynamics of conflict between supranational institutions and Member States. And it answers the question of whether the EU can become carbon neutral by 2050, as it has committed to.",
+    "instructor": "",
+    "number": 80.15,
+    "offered": "",
+    "subject": "ENVS",
+    "title": "ENVS 80.15 EU Energy Policy"
+  },
   "ENVS-83": {
     "description": "This course is designed to train students to conduct research in the area of human-environment interactions. Such interactions include humans extracting important renewable and non-renewable natural resources such as fish and forests, as well as producing wastes, such as greenhouse gases, as the result of modern economic activities. Students will learn data collection and analysis techniques and explore primary literature that uses these techniques in order to understand how they are implemented. Building on this process, a primary goal of the course is to have each student fully develop their own research proposal. This course is recommended for students planning to conduct graduate-level research or senior theses related to human-environment interactions.",
     "distribs": "SOC",
@@ -13121,6 +13148,15 @@
     "offered": "",
     "subject": "FREN",
     "title": "FREN 10.22 Du Tragique: le chagrin et la pitie dans la littérature française et francophone"
+  },
+  "FREN-10.23": {
+    "description": "This course, introduction to French literature, is a survey of French literature that focuses on one topic: the Atlantic world. As we read texts from each period, we will discover different versions of the Atlantic world, one that exists between many French Atlantic spaces: Caribbean, North American, African, and European. Across these representations, the Atlantic exists as a prism through which authors investigate cross-cultural romance, cultural practices, and the relative notions of beauty. The Atlantic also emerges to prominence during France’s first empire. Before the eighteenth century, the Mediterranean, as an imaginary space of empire and cross-cultural contact, eclipses the Atlantic. As the first and then the second French Empire grows, the Atlantic world takes on a stronger presence in the French imaginary.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 10.23,
+    "offered": "",
+    "subject": "FREN",
+    "title": "FREN 10.23 The French Atlantic"
   },
   "FREN-11": {
     "description": "This 1-credit course is designed for students who have studied French for one to three years in high school, or those who have been exposed to French through family ties or have spent some time in a Francophone environment. It is also suitable for students with little or no knowledge of the French language, but who have a strong background in another Romance language (i.e. Spanish, Italian, Romanian, Portuguese, Catalan, and also Latin).  French 11 is an accelerated course that combines French 1 and 2 in one term, offering an exciting and fast-paced atmosphere in which to learn French. The course will have a web-based component, which, through cultural, grammar and multimedia learning activities, will complement face-to-face work and prepare students for in-class work. Students will learn to talk about familiar events in the present and the past, as well as formulate plans for the future. Weekly cultural videos will situate in context the grammatical content of the course, making it relevant and meaningful. Students will be actively engaged in a variety of creative written and oral activities that will help them develop their language skills. Upon successful completion of this course, students will be able to sign up for French 3 or apply for our French LSAs in Lyon or Toulouse. With the goal of facilitating the acquisition of the target language, this course will be conducted entirely in French.",
@@ -20082,6 +20118,15 @@
     "title": "LACS 24.70 Solo Performance",
     "xlist": "THEA 025"
   },
+  "LACS-25.12": {
+    "description": "This course follows the history of theatre in the Latinx Americas (encompassing a hemispheric approach) for social change. Students will learn about Theatre of the Oppressed, guerilla theatre in all its forms used throughout Latin America and Latinx communities, playwrights writing about social justice issues, and activist performance. We will focus on plays and performances that have as their central theme rebellion and the rebel as we question the nature of rebellion, its manifestations, and consequences.",
+    "distribs": "Dist:ART; WCult:NW",
+    "instructor": "",
+    "number": 25.12,
+    "offered": "",
+    "subject": "LACS",
+    "title": "LACS 25.12 Staging Rebellion. Dissidence in Latinx American Theatre"
+  },
   "LACS-30.06": {
     "description": "With emergence of filmmakers such as Alejandro Inarrirtu (México), Lucrecia Martel (Argentina), and José Padilha (Brazil), the last decade has seen a creative boom in Latin American cinema that includes art house cinema, blockbusters, documentary, and experimental film. Beginning with a quick overview of key forerunners, this course will focus on the major directors, genres and aesthetic trends that characterize the new Latin American cinema. On the one hand, we will pay special attention to the distinct national cinemas:the different historical and cultural contexts out of which they emerge; and the different aesthitics that this gives rise to.",
     "distribs": "Dist:INT",
@@ -24790,6 +24835,14 @@
     "subject": "PBPL",
     "title": "PBPL 82.07 Consumer Debt, Bankruptcy, and Economic Policy"
   },
+  "PBPL-82.08": {
+    "description": "This course prepares Dartmouth students to undertake field research to answer a substantive policy question. Skills covered will include survey design, data analysis, stakeholder interviews, participant observation, literature review, and community-engaged research methods. This course is designed to prepare students to conduct independent field research in domestic or international settings. As part of the course, students will participate in the design of a field research project in rural Northern New England.",
+    "instructor": "",
+    "number": 82.08,
+    "offered": "",
+    "subject": "PBPL",
+    "title": "PBPL 82.08 Field Research Methods: Methods and Practice"
+  },
   "PBPL-83.01": {
     "description": "This class examines how people form policy preferences and the process by which those preferences do—or do not—get translated into public policies in the United States. The course will examine three aspects of this process:  elite rhetorical strategy, the media routines that generate coverage of policy debates, and mass opinion.  We will assess the way political elites, the media mass, and ordinary people interact to create policies that can be either intelligent or pathological.",
     "distribs": "Dist:SOC",
@@ -29252,6 +29305,15 @@
     "title": "REL 74.17 Islam in Africa",
     "xlist": "undefined undefined"
   },
+  "REL-8.01": {
+    "description": "This course presents African Americans who have created religious and spiritual lives amid the variety of possibilities for religious belonging in the second half of the twentieth century and the early twenty-first century. By engaging an emerging canon of autobiographies, we will take seriously the writings of theologians, religious laity, spiritual gurus, hip hop philosophers, LGBT clergy, religious minorities, and scholars of religion as foundational for considering contemporary religious authority through popular and/or institutional forms of African American religious leadership. Themes of spiritual formation and religious belonging as a process—healing, self-making, writing, growing up, renouncing, dreaming, and liberating—characterize the religious journeys of the African American writers, thinkers, and leaders whose works we will examine. Each weekly session will also incorporate relevant audiovisual religious media, including online exhibits, documentary films, recorded sermons, tv series, performance art, and music.",
+    "distribs": "Dist:TMV; WCult:CI",
+    "instructor": "",
+    "number": 8.01,
+    "offered": "",
+    "subject": "REL",
+    "title": "REL 8.01 Transformative Spiritual Journeys. Contemporary Memoirs of African American Religion"
+  },
   "REL-80": {
     "description": "The contents of this course will vary from term to term, see individual topic descriptions.",
     "distribs": "TMV",
@@ -29701,8 +29763,18 @@
     "title": "RUSS 38.16 Putin's Sacred Reign",
     "xlist": "REL 19.36"
   },
+  "RUSS-38.17": {
+    "description": "This course examines modern Russia and its culture in a historical and global context. By focusing on Russian culture, socioeconomic issues, and geopolitical affairs of the late-20th and 21st century, we will discuss the impact of history on Russia’s present, on Russian consciousness and identity, and on the major trends in Russian society and politics. We will analyze how Russia demonstrates power and presents itself around the world, and how it is perceived by others.",
+    "distribs": "Dist:LIT; WCult:W",
+    "instructor": "",
+    "number": 38.17,
+    "offered": "",
+    "subject": "RUSS",
+    "title": "RUSS 38.17 Modern Russia and it's Culture: Historical Roots and Global context"
+  },
   "RUSS-38.18": {
     "description": "Sex and nonnormative sexuality have always been taboo-weapons in Russia in fight against cultural and political opponents, reinforcing the ‘us-them’ dichotomy (Russia-West; underground-official; regime-opposition). This course outlines the development of cultural and sociopolitical taboos in Russia through different historical periods and examines how the (un)official discourses about sex and the body changed or persisted over time: from bawdy folklore to Pushkin; from fin-de-siecle libertinage to Soviet anti-sexuality; from late/post-Soviet hypersexuality to taboos in Putin’s Russia.",
+    "distribs": "Dist:SOC; WCult:CI",
     "instructor": "",
     "number": 38.18,
     "offered": "",

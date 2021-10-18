@@ -107,6 +107,11 @@
         "changed": "AAAS-55.02,ARTH-26.04,ARTH-26.05,ASCL-51.06,CLST-10.14,COLT-49.08,COLT-57.12,COLT-62.08,COLT-63.03,ECON-3,ENGL-53.5,ENGL-73.03,GEOG-3.01,GOVT-84.41,HIST-90.14,HIST-90.17,HIST-94.16,LACS-41.2,SOCY-76,ECS-NaN,GEOG-31,GRK-NaN,MALS-130",
         "hash": "82bd471b009371e3",
         "timestamp": "2021-10-04T09:04:02.684Z"
+      },
+      {
+        "changed": "AAAS-20.15,ANTH-50.44,COSC-69.16,EARS-65.01,PHYS-22,RUSS-38.18,THEA-10.64,THEA-10.68,ECS-NaN,GEOG-31,GRK-NaN",
+        "hash": "44efde7005329526",
+        "timestamp": "2021-10-11T09:03:18.855Z"
       }
     ],
     "timetable": [
@@ -6085,9 +6090,9 @@
   },
   "current": {
     "orc": {
-      "changed": "AAAS-20.15,ANTH-50.44,COSC-69.16,EARS-65.01,PHYS-22,RUSS-38.18,THEA-10.64,THEA-10.68,ECS-NaN,GEOG-31,GRK-NaN",
-      "hash": "44efde7005329526",
-      "timestamp": "2021-10-11T09:03:18.855Z"
+      "changed": "AAAS-54.05,ARTH-81.03,ENVS-80.15,FREN-10.23,LACS-25.12,PBPL-82.08,REL-8.01,RUSS-38.17,ECS-NaN,GRK-NaN",
+      "hash": "7eddf012f8dc3c1e",
+      "timestamp": "2021-10-18T09:04:36.977Z"
     },
     "timetable": {
       "changed": "202109-ECON-20-02,202109-MATH-3-03",
