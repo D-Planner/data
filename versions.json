@@ -6510,6 +6510,11 @@
         "changed": "202201-ENGM-184-01",
         "hash": "8dc4054d44dc97cd",
         "timestamp": "2021-12-26T05:02:01.003Z"
+      },
+      {
+        "changed": "202201-COSC-299-01",
+        "hash": "165b0c28a6c0d3c1",
+        "timestamp": "2021-12-26T08:01:36.229Z"
       }
     ]
   },
@@ -6520,9 +6525,9 @@
       "timestamp": "2021-10-11T09:03:18.855Z"
     },
     "timetable": {
-      "changed": "202201-COSC-299-01",
-      "hash": "165b0c28a6c0d3c1",
-      "timestamp": "2021-12-26T08:01:36.229Z"
+      "changed": "202201-COSC-189-01",
+      "hash": "abc6d8c729dd4d8d",
+      "timestamp": "2021-12-26T09:03:18.206Z"
     }
   }
 }
