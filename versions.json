@@ -6505,6 +6505,11 @@
         "changed": "202201-PSYC-110-01,202201-PSYC-288-01",
         "hash": "daeb36e05e056630",
         "timestamp": "2021-12-26T03:02:54.101Z"
+      },
+      {
+        "changed": "202201-ENGM-184-01",
+        "hash": "8dc4054d44dc97cd",
+        "timestamp": "2021-12-26T05:02:01.003Z"
       }
     ]
   },
@@ -6515,9 +6520,9 @@
       "timestamp": "2021-10-11T09:03:18.855Z"
     },
     "timetable": {
-      "changed": "202201-ENGM-184-01",
-      "hash": "8dc4054d44dc97cd",
-      "timestamp": "2021-12-26T05:02:01.003Z"
+      "changed": "202201-COSC-299-01",
+      "hash": "165b0c28a6c0d3c1",
+      "timestamp": "2021-12-26T08:01:36.229Z"
     }
   }
 }
