@@ -6615,6 +6615,11 @@
         "changed": "202201-MALS-369-01",
         "hash": "c5b34bf10a1b6f60",
         "timestamp": "2021-12-29T21:01:46.034Z"
+      },
+      {
+        "changed": "202201-COSC-169-01,202201-ENGG-269-01",
+        "hash": "6b62fe591fbef15e",
+        "timestamp": "2021-12-29T22:02:15.848Z"
       }
     ]
   },
@@ -6625,9 +6630,9 @@
       "timestamp": "2021-12-27T09:06:02.279Z"
     },
     "timetable": {
-      "changed": "202201-COSC-169-01,202201-ENGG-269-01",
-      "hash": "6b62fe591fbef15e",
-      "timestamp": "2021-12-29T22:02:15.848Z"
+      "changed": "202201-ENGG-198-01,202201-QBS-270-01",
+      "hash": "a2bca19ef728fa3c",
+      "timestamp": "2021-12-29T23:02:27.067Z"
     }
   }
 }
