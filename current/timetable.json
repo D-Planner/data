@@ -92363,7 +92363,7 @@
     "periodCode": "10A",
     "room": "101",
     "section": "01",
-    "status": null,
+    "status": "IP",
     "subject": "SOCY",
     "term": "202201",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202201&p_crn=10704",
