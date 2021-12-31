@@ -6665,6 +6665,11 @@
         "changed": "202201-COSC-236-01,202201-ENGG-198-04",
         "hash": "6812b8af4f113e4f",
         "timestamp": "2021-12-31T05:02:11.651Z"
+      },
+      {
+        "changed": "202201-ENGS-132-01",
+        "hash": "50a96e0bc2aaccca",
+        "timestamp": "2021-12-31T18:01:25.575Z"
       }
     ]
   },
@@ -6675,9 +6680,9 @@
       "timestamp": "2021-12-27T09:06:02.279Z"
     },
     "timetable": {
-      "changed": "202201-ENGS-132-01",
-      "hash": "50a96e0bc2aaccca",
-      "timestamp": "2021-12-31T18:01:25.575Z"
+      "changed": "202201-PHYS-107-01",
+      "hash": "b4222060f73a2f52",
+      "timestamp": "2021-12-31T19:01:32.103Z"
     }
   }
 }
