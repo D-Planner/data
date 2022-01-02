@@ -6755,6 +6755,11 @@
         "changed": "202201-ENGG-296-01,202201-ENGM-182-01,202201-ENGM-187-01",
         "hash": "26b5d30fe19f469e",
         "timestamp": "2022-01-02T21:01:37.276Z"
+      },
+      {
+        "changed": "202201-GENE-261-01",
+        "hash": "ba765fdffec62b16",
+        "timestamp": "2022-01-02T22:01:53.959Z"
       }
     ]
   },
@@ -6765,9 +6770,9 @@
       "timestamp": "2021-12-27T09:06:02.279Z"
     },
     "timetable": {
-      "changed": "202201-GENE-261-01",
-      "hash": "ba765fdffec62b16",
-      "timestamp": "2022-01-02T22:01:53.959Z"
+      "changed": "202201-ANTH-50.31-01,202201-MALS-226-01,202201-MALS-372-01",
+      "hash": "7fb1dca91b8cbc1c",
+      "timestamp": "2022-01-02T23:03:23.579Z"
     }
   }
 }
