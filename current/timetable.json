@@ -72182,7 +72182,7 @@
   },
   "202201-CHIN-2-01": {
     "building": "Anonymous Hall",
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "crn": "10209",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202201&subj=CHIN&numb=002",
     "distribs": null,
@@ -72206,7 +72206,7 @@
   },
   "202201-CHIN-2-02": {
     "building": "Anonymous Hall",
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "crn": "10220",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202201&subj=CHIN&numb=002",
     "distribs": null,
