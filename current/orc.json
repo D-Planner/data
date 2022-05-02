@@ -107,15 +107,6 @@
     "title": "AAAS 20.01 Dartmouth Black Lives",
     "xlist": "HIST 10.04"
   },
-  "AAAS-20.15": {
-    "description": "What is Black Feminist Thought? Why Black Feminist Thought? And just whom is Black Feminist Thought for? This course considers the disciplinary formations and political happenings of Black Feminist Thought in the United States—from its role in the university department to its presence on the ground. Highlighting interlocking issues related to gender, sexuality, race, and economics, we will mine political speeches, visual art, live performance, literature, and theoretical discourse.",
-    "distribs": "Dist:SOC; WCult:CI",
-    "instructor": "",
-    "number": 20.15,
-    "offered": "",
-    "subject": "AAAS",
-    "title": "AAAS 20.15 Introduction to Black Feminist Thought"
-  },
   "AAAS-20.5": {
     "description": "Beyond noting that Wheelock owned slaves, little is known of Dartmouth's other historical connections, if any, to the institution of slavery.   This research seminar investigates the college's economic entanglement in the trade and slaveholding; as a site for the intellectual legitimation and contestation of slavery; and the contributions of enslaved persons to its development. We will also review the origins, findings and responses to similar collective memory projects at other institutions including Brown, Emory and Yale.",
     "distribs": "Dist:SOC",
@@ -383,15 +374,6 @@
     "title": "AAAS 35 Modern Black American Literature",
     "xlist": "undefined"
   },
-  "AAAS-35.01": {
-    "description": "This course is structured around iterations of black grief within, but mostly beyond the genre of poetry. What curator Okwui Enwezor calls the contemporary “emergency of black grief” is over four centuries old. We will explore modes of release from black cultural producers who attend to the multiple losses sustained by black subjects. The resulting productions span the range of representation from dance, painting, photography, music, film, and craftwork. The course will be organized around three parts, each focusing on the sensorial: Sight, Sound, and Touch. Together we will consider what it means to mourn in an antiblack world resistant to acknowledging the violences endured by black subjects in the United States and beyond its borders.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 35.01,
-    "offered": "",
-    "subject": "AAAS",
-    "title": "AAAS 35.01 Black Elegies"
-  },
   "AAAS-35.5": {
     "description": "The persistence of black life, and blackness as a way of thinking about the organization of both human and nonhuman forms of life, has been absolutely central to the story of the United States and the Americas more broadly. This course provides an interdisciplinary exploration of the writing of thinkers from across the African diaspora, with special emphasis on literary works and criticism centrally concerned with the intersections of black literary studies and African American environmental thought. We will draw on a range of texts in order to wrestle with some of the key concerns of African American writers from the 19th century through the present. Students will be introducedto a range of methods and approaches to the meta-disciplinary work of black literary studies. By the end of the course, students will be expected to possess a working knowledge of several major themes, figures and moments within the black expressive tradition.",
     "distribs": "Dist:LIT; WCult:W",
@@ -528,7 +510,7 @@
     "offered": "",
     "subject": "AAAS",
     "title": "AAAS 50 Colonialism, Development, and the Environment in Africa and Asia",
-    "xlist": "ENVS 045 HIST 075"
+    "xlist": "ENVS 045; HIST 075; ASCL 54.07 "
   },
   "AAAS-51": {
     "description": "This course is designed to provide students with a specific and global view of the diversity of literatures from the African continent. We will read texts written in English or translated from French, Portuguese, Arabic and African languages. Through novels, short stories, poetry, and drama, we will explore such topics as the colonial encounter, the conflict between tradition and modernity, the negotiation of African identities, post-independence disillusion, gender issues, apartheid and post-apartheid. In discussing this variety of literatures from a comparative context, we will assess the similarities and the differences apparent in the cultures and historical contexts from which they emerge. Readings include Chinua Achebe's Things Fall Apart, Naguib Mahfouz's Midaq Alley, Calixthe Beyala's The Sun Hath Looked Upon Me, Camara Laye's The African Child, and Luandino Vieira's Luanda.",
@@ -560,15 +542,6 @@
     "title": "AAAS 54 Postcolonial African Drama",
     "xlist": "undefined"
   },
-  "AAAS-54.05": {
-    "description": "This course explores representations of feminist and queer Africa in theatre, dance, and film. How do female-identified, nonbinary, and/or queer African artists use creative expression to navigate and challenge neocolonial, heteropatriarchal regimes and advance ideas of LGBTQIA  rights and gender equality? Although several countries will be considered during the term, Kenya and Uganda receive a particular emphasis. All students are welcome; no prior knowledge of Africa and/or theories of gender and sexuality are needed.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 54.05,
-    "offered": "",
-    "subject": "AAAS",
-    "title": "AAAS 54.05 Feminist and Queer Africa on Stage & Screen"
-  },
   "AAAS-55.01": {
     "description": "This course focuses on the cinemas of Francophone Africa. We will examine early Western filmic representations of Africans as savages devoid of culture and history. We will then examine how African filmmakers have challenged those images by creating new depictions of their societies, offering Africa through African eyes. We will explore the social, historical, and political contexts of these films and explore their aesthetic and narrative characteristics. We will discuss issues and theories related to the definition of the so-called third world cinema, postcolonial cinema, and postmodern cinema.",
     "distribs": "Dist:ART; WCult:NW",
@@ -578,15 +551,6 @@
     "subject": "AAAS",
     "title": "AAAS 55.01 African Cinema",
     "xlist": "FILM 42.09"
-  },
-  "AAAS-55.02": {
-    "description": "This course will consider the mapping of race onto the idea of Africa and how Africa came to constitute a unique racial category. We will therefore conduct an “archeology of race” and engage the argument by historians of race in Africa that Africa was a major laboratory of race. Our primary material will consist of motion pictures, in an effort to reckon with the role of motion pictures as prime technologies of racial othering and their deep imbrications in colonial projects.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 55.02,
-    "offered": "",
-    "subject": "AAAS",
-    "title": "AAAS 55.02 The Idea of Africa: Deconstructing Race in the Iconography of a Continent"
   },
   "AAAS-56": {
     "description": "This course examines the relationship between politics and the novel in Africa. I have selected novels from different parts of Africa. We will approach the selected novels as instruments of political interest and products of political contexts. We will then proceed to put these novels in a triangular conversation with political theorists of Africa and the political philosophies of African leaders. Topics include democracy and governance, clientelism and patrimonialism, failed states, gender, and grassroots activism.",
@@ -1877,15 +1841,6 @@
     "subject": "ANTH",
     "title": "ANTH 50.40 Anthropology of Disaster"
   },
-  "ANTH-50.41": {
-    "description": "Drawing on a variety of disciplines, such as anthropology, history, sociology, political science, and cultural studies, and sources ranging from academic works to works of fiction and films, the course first explores the history and culture of Russian (pre-1917) and especially Soviet Jews (1917-1991)—a major and significant segment of the world Jewry—prior to the massive immigration of the 1970s-1990s. The rest of the course involves a comparison of the experience of Russian-speaking Jews in the three major countries they have immigrated to—Israel, US, and Germany—as well as those remaining in Russia today.",
-    "distribs": "Dist:INT or SOC; WCult:CI",
-    "instructor": "",
-    "number": 50.41,
-    "offered": "",
-    "subject": "ANTH",
-    "title": "ANTH 50.41 Homelands and Diasporas: Russian Jews on Three Continents"
-  },
   "ANTH-50.42": {
     "description": "This course compares how Maori in New Zealand and Maya in Mexico and Guatemala survived European colonialism to become distinct peoples in a world of postcolonial nation states. Comparison addresses both the diversity of indigenous worlds and changes in European colonialism between the sixteenth and nineteenth centuries through the study of cultures as emergent interactions of meaning and power within and between groups, and of racism as the rationalization of institutionalized inequalities across human differences.",
     "distribs": "Dist:INT or SOC; WCult:CI",
@@ -1903,24 +1858,6 @@
     "offered": "",
     "subject": "ANTH",
     "title": "ANTH 50.43 Social, Environmental, and Health Impacts of Human Conflict"
-  },
-  "ANTH-50.44": {
-    "description": "This course explores what we have learned about human evolution, behavior, and biological diversity in the 150 years since Charles Darwin wrote The Descent of Man. The course will coincide with a Winter symposium in which the contributing authors of A Most Interesting Problem: What Darwin’s Descent of Man Got Right and Wrong about Human Evolution will visit campus, give talks, and engage with our students. ANTH 50.44 is designed for anthropology and biology majors.",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 50.44,
-    "offered": "",
-    "subject": "ANTH",
-    "title": "ANTH 50.44 Darwin and Human Evolution"
-  },
-  "ANTH-50.45": {
-    "description": "In this course, we will study the effects of epidemics and pandemics on different cultures throughout history. Towards this end, we will examine how art and design have served to forge community bonds; how visual culture has changed in times of crisis; and how communities across the world, in different times and spaces, eventually find resilience in fundamentally altered worlds.",
-    "distribs": "Dist:SOC",
-    "instructor": "",
-    "number": 50.45,
-    "offered": "",
-    "subject": "ANTH",
-    "title": "ANTH 50.45 Archaeology of Epidemics"
   },
   "ANTH-51": {
     "description": "Between the 16th and mid-20th centuries, European nations and Japan colonized much of the rest of the world. This course examines similarities and differences in the practices of these colonial powers in different regions at different times and the impact they had on indigenous peoples and societies. It traces the ways in which colonial processes and experiences have shaped the politics, economics, and identities of both developed and developing nations in the world today.",
@@ -2541,23 +2478,6 @@
     "subject": "ARTH",
     "title": "ARTH 26.03 Foreign Study III"
   },
-  "ARTH-26.04": {
-    "description": "No site offers the same enduring importance for Western history and culture as the city of Rome. As a secular and spiritual capital, it bears evidence to three millennia of human ambitions and evolving patterns of social and political organization. Its topography is a vast archive, which we will engage though lectures, discussions, group projects, movies and by immersing ourselves into the city itself. This course surveys the topography and urbanism of Rome from its origins to the present. While the immediate goal will be to study the city, the larger goal will be to provide a conceptual framework with which to consider the power and function of cities—one of humanity’s most important inventions. We will ponder such essential questions as: why and how did cities like Rome arise and change over centuries? What social, cultural, topographic forces push and pull at a city’s built fabric? How were individual structures, public spaces, and neighborhoods built to respond to such forces?",
-    "instructor": "",
-    "number": 26.04,
-    "offered": "",
-    "subject": "ARTH",
-    "title": "ARTH 26.04 FSP: The Architecture and Urbanism of Rome"
-  },
-  "ARTH-26.05": {
-    "description": "We shall study the periods known as the Renaissance and Baroque, which evolved in Italy between about 1300 and 1650 and were marked by a revived interest in naturalism. This artistic language was inspired by Classical Antiquity, and has endured to modern times. Our focus will be on Rome, where art was influenced by new approaches to reality, philosophy and religion, and where powerful patrons of art such as bankers and Popes reshaped the face of the city, and ultimately that of Europe.\nThe style of around 1300 (the age of Giotto and Dante) prompted a move towards physical immediacy and the expression of emotions, and in the early 1400s the great discoveries in geometry, perspective and rational lighting further enhanced the visual arts, enabling painters to create increasingly sophisticated images. This approach peaked in the late 1400s with the emergence of Leonardo, Michelangelo and Raphael, leading to more dynamic and poetic approaches in draftsmanship and design, including the phenomenon known as Mannerism. In the late 1500s Roman churches were enhanced by the work of Barocci, and 1600 saw the arrival of great Northern European painters such as Rubens. Annibale Carracci, Caravaggio and their followers introduced a new directness, coupled with an intimate connection with the viewer. Our syllabus will conclude with the startling theatrical drama of the Roman Baroque.\nWe shall address the social and historical context of artworks, in an exciting period that saw the invention of printing, a change in the status of the artist, and a shift in perception on the part of the beholder. Among the related themes to be studied are materials and techniques; style and influence; religious and mythological iconography; and patronage and collecting.",
-    "distribs": "Dist:ART; WCult:W",
-    "instructor": "",
-    "number": 26.05,
-    "offered": "",
-    "subject": "ARTH",
-    "title": "ARTH 26.05 FSP: Art in Rome, 1300-1650"
-  },
   "ARTH-27.01": {
     "description": "This course explores the Renaissance phenomenon of the “ideal city” – its origins, successes, and spectacular failures. During the fifteenth and sixteenth centuries, major artists and architects like Leonardo da Vinci participated in a radical experiment that transformed how urban spaces were designed, represented, and built. The Renaissance city was reinvented as a utopia, featuring straight processional avenues, a rigid street plan, and monumental sculptures inserted into public squares like props on a stage. We will consider a wide range of case studies, from fictional cities imagined in the pages of sketchbooks to new cities and towns that were built from the ground up. Throughout, we will question how architects exploited the basic infrastructure of daily life – roads, gates, walls, squares, and even sewage systems – to perfect their environments. How were those principles used to promote civic virtue and good governance or to reinforce social hierarchies and absolutist rule? We will make frequent visits to the Rauner Special Collections Library to work directly with rare books. The course requires no prior knowledge of art history, architecture, or the Renaissance.",
     "distribs": "Dist:ART",
@@ -3111,15 +3031,6 @@
     "subject": "ARTH",
     "title": "ARTH 81.02 Advanced Seminar: History of Museums and Collecting"
   },
-  "ARTH-81.03": {
-    "description": "The technology of print transformed the early modern world. Distant places, people, and things were suddenly thrust into view, allowing the armchair traveler to hold the world in their hands. New ideas, made material in paper and ink, richocheted across the globe. But print posed an existential problem: it called into question some of the most basic assumptions around images and image making that had long governed visual culture. How does reproducibility challenge authenticity? How are authorship and ownership defined? This advanced study interrogates the rise of printed images between 1500 and 1800 and its enduring impact on artistic and architectural culture. Special attention will be paid to major figures in the history of European printmaking, including Albrecht Durer, Rembrandt, and Giovanni Battista Piranesi.",
-    "distribs": "Dist:ART; WCult:W",
-    "instructor": "",
-    "number": 81.03,
-    "offered": "",
-    "subject": "ARTH",
-    "title": "ARTH 81.03 The Viral Image: Early Modern Prints"
-  },
   "ARTH-82.01": {
     "description": "This course provides an introduction to the arts and culture of the Joseon dynasty (1392-1910), which was founded on Confucianism. We will examine Confucian phisophy and how Confucian ideas shaped the social hierarchy, gender roles, and aesthetic values through exploration of the architecture of royal palaces and aristocratic houses, paintngs both sacred and secular, ceramics, textiles and other crafts. Use of colors, symbolic motifs, and stories in the arts and cultures will be investigated. Understanding Korea’s final 500-year dynasty will deepen students’ comprehension of contemporary Korean culture as it manifests the legacy of Joseon Korea.",
     "distribs": "Dist:INT or ART; WCult:NW",
@@ -3329,15 +3240,6 @@
     "title": "ASCL 51.05 Religions of Southeast Asia",
     "xlist": "REL 02.01"
   },
-  "ASCL-51.06": {
-    "description": "This intermediate-level course explores how Buddhist concepts of embodiment affect daily life and society in Southeast Asian contexts. We will also consider how cultural understandings of gender and sexuality influence local religious practices in the Buddhist-majority countries of Thailand, Vietnam, Cambodia, and Myanmar. Our materials will lead us to analyze how religion, sexuality, and gender intersect with one another, as well as how these intersections impact broader understandings of authority, wisdom, beauty, death, and loyalty.",
-    "distribs": "Dist:TMV; WCult:NW",
-    "instructor": "",
-    "number": 51.06,
-    "offered": "",
-    "subject": "ASCL",
-    "title": "ASCL 51.06 Buddhism, Sexuality, & Gender in Southeast Asia"
-  },
   "ASCL-52.01": {
     "description": "This experimental interdisciplinary course explores traditional North Indian (Hindustani) music and dance as both an artistic practice and a cultural system. Course work combines regular group lessons on the tabla—the principal percussion instrument in the performance of Hindustani raga—with weekly reading, listening, and viewing assignments focusing on Indian music theory,history, and aesthetics. Visiting artists will demonstrate the central dance, instrumental, and vocal forms of Hindustani performing arts. No prior musical experience required.",
     "distribs": "Dist:ART; WCult:NW",
@@ -3402,7 +3304,8 @@
     "number": 54.07,
     "offered": "",
     "subject": "ASCL",
-    "title": "ASCL 54.07 Colonialism, Development, and the Environment in Africa and Asia"
+    "title": "ASCL 54.07 Colonialism, Development, and the Environment in Africa and Asia",
+    "xlist": "HIST 75; AAAS 50; ENVS 45"
   },
   "ASCL-54.08": {
     "description": "This course examines the history of South Asia during the nineteenth and twentieth centuries. Themes of the course include the development of British imperialism, the impact of colonial rule on Indian rural society and economy, processes of cultural change, the development of nationalism, the historical role of Gandhi, the emergence of Hindu-Muslim conflict, and the character of post-colonial South Asia. Open to all classes.",
@@ -5563,15 +5466,6 @@
     "subject": "CLST",
     "title": "CLST 10.13 New Testament"
   },
-  "CLST-10.14": {
-    "description": "A small-enrollment seminar offering an introduction to Plato's thought and to a rich vein of material illustrating Greek attitudes and assumptions on erotic love for both sexes. The primary text is Plato's Symposium, which we will study in translation while learning the Greek alphabet and a few key vocabulary items in Greek. As time allows during the term, we will explore some of the rich body of evidence that exists in Greek poetry, oratory, and the visual arts either confirming or contradicting the impression given by Plato.",
-    "distribs": "Dist:TMV; WCult:W",
-    "instructor": "",
-    "number": 10.14,
-    "offered": "",
-    "subject": "CLST",
-    "title": "CLST 10.14 Plato's Symposium"
-  },
   "CLST-11": {
     "description": "Courses offered under this rubric explore specific facets of the history of ancient Greece and Rome",
     "distribs": "WCult:W",
@@ -6463,23 +6357,6 @@
     "title": "COLT 40.07 Video Games and the Meaning of Life",
     "xlist": "FILM 50.04 MUS 046"
   },
-  "COLT-49.08": {
-    "description": "The sea is a gateway that opens us toward the elements. It also introduces human beings toward the strange and the unknown. The sea entices human beings to leave the homeland and seek adventures and discover new territories. This course will examine the various ways in which human beings invent themselves and their communities via encounters with the maritime. Selections will be drawn from the Gilgamesh, Homer, Euripides, Cicero, Shakespeare, Melville, Walcott and the theories of Arendt and Schmitt. How do different encounters with the maritime form and transform our self-understanding and our relationship with those around us? How does the need to go beyond our territorial boundaries teach us about freedom and the nature of being human? How can the sea change our conception of the political?",
-    "instructor": "",
-    "number": 49.08,
-    "offered": "",
-    "subject": "COLT",
-    "title": "COLT 49.08 The Sea and the City"
-  },
-  "COLT-49.09": {
-    "description": "What does sickness look like? What do personal picture-stories of illness and recovery tell us that traditional medical narratives cannot? In this course, students will read graphic narratives depicting first-hand experiences of physical (dis)ability, mental illness, disease, and neurodivergence. Discussion and readings will explore autobiography, word-image theories and comics analysis, as well as competing conceptions of illness and recovery within and across primary texts. Other readings will include scholarship on the ethics of storytelling and patient-centered perspectives on medicine. Authors may include David B., Ellen Forney, Art Spiegelman, Cece Bell, Harvey Pekar, Frank Miller, and others.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 49.09,
-    "offered": "",
-    "subject": "COLT",
-    "title": "COLT 49.09 Graphic Medicine"
-  },
   "COLT-51.01": {
     "description": "This course is designed to provide students with a specific and global view of the diversity of literatures from the African continent. We will read texts written in English or translated from French, Portuguese, Arabic and African languages. Through novels, short stories, poetry, and drama, we will explore such topics as the colonial encounter, the conflict between tradition and modernity, the negotiation of African identities, post-independence disillusion, gender issues, apartheid and post-apartheid. In discussing this variety of literatures from a comparative context, we will assess the similarities and the differences apparent in the cultures and historical contexts from which they emerge. Readings include Chinua Achebe's Things Fall Apart, Naguib Mahfouz's Midaq Alley, Calixthe Beyala's The Sun Hath Looked Upon Me, Camara Laye's The African Child, and Luandino Vieira's Luanda.",
     "distribs": "Dist:INT or LIT; WCult:NW",
@@ -6530,15 +6407,6 @@
     "title": "COLT 57.10 Social Revolutions East and West: Japan and the United States in the 1960s",
     "xlist": "ASCL 70.18"
   },
-  "COLT-57.12": {
-    "description": "What is “mafia”? Organized crime, global big business, shadow state, deeply entrenched mentalities, glamorized myth, all of the above? This course focusses on Italian mafias (primarily the Sicilian Cosa Nostra) and, to a lesser degree, other Italian and Italian-American mafias. We will examine the conditions in which mafias emerged; those that make it possible for mafias to continue to thrive today; the social “codes” of the mafias, such as honor, omertà, and vendetta; and the forms that mafias take in the collective cultural imagination, in particular as they have been translated and represented in fiction and film on both sides of the Atlantic. In the process, we will explore Italian history and contemporary society and discuss topics such as the uses and abuses of power and the attraction of outlaw cultures. \nThis course is not open to students who have received credit for ITAL 07.07.",
-    "distribs": "Dist:INT or SOC; WCult:W",
-    "instructor": "",
-    "number": 57.12,
-    "offered": "",
-    "subject": "COLT",
-    "title": "COLT 57.12 Mafias"
-  },
   "COLT-60.01": {
     "description": "We will be asking questions about the interplay of literature and language with music.  Does music have “meaning” in the conventional or in any other sense, and if so, does it have a characteristic way of conveying meaning? We will consider several permutations of the relationship of music and language, and especially inspect the fringes, where a listener may say “this is no longer music” or “this is no longer speech.”  Does music without a text in fact always have a text? What happens to poems when they become songs or prose plots when they become opera?  Conversely, are there stories that incorporate music or are composed according to a musical form?  In your writing, you may choose musical examples that suit your tastes and expertise; and you will devise and write a final paper of your choice.",
     "distribs": "Dist:INT or LIT; WCult:W",
@@ -6547,15 +6415,6 @@
     "offered": "",
     "subject": "COLT",
     "title": "COLT 60.01 Literature and Music"
-  },
-  "COLT-62.08": {
-    "description": "Since the advent of cinema, literature has provided a rich medium from which filmmakers could draw to tell their stories.  Adaptation studies explores the exchanges and connections between these mediums, as well as others, from theater to dance, music, graphic novels, and art. What makes an adaptation successful?  How important is textual fidelity – should a film, for example, try to follow a novel as faithfully as it can, or is it possible for something to be gained, not lost, in the “translation” of a story from one form to another, from the words of a poem to the music of an orchestra, or the words of a novella to the visuals of a film?  Is the cliche that “the book is always better than the movie” true – that is, is there some authentic “spirit” of a text that can be preserved in an adaptation of that text?  How might sociopolitical concerns influence the ways in which adaptations are conceived, especially considered comparatively across different times and different cultures? In critically analyzing the translation of a narrative from one medium to another, we will ask questions related to intertextuality, textual fluidity, the idea of authenticity, and what it is that we consider to be a unique and cohesive text in the first place (and simultaneously, the problems with these assumptions).  Readings and viewings may include works by Shakespeare, Satrapi, Sophocles, Kurosawa, Esquivel, Melville, and Mallarme.",
-    "distribs": "Dist:LIT",
-    "instructor": "",
-    "number": 62.08,
-    "offered": "",
-    "subject": "COLT",
-    "title": "COLT 62.08 Film Adaptation and Literature"
   },
   "COLT-63.02": {
     "description": "Conspiracy narrative has come to dominate our national and international political discourse like no other time in modern history. It is therefore essential that we understand the operation of conspiracy narrative, its psychological allure and political function, and its devastating social consequences. In this course, we will investigate two national conspiracist traditions, the American and the Russian, and the parallel rise and stunning convergence of Russian and American conspiracism in our current political moment. In order to do so, we will inquire into the historical origins, the form, function, and effectiveness of conspiracist narratives in these two traditions in the 20th and 21st centuries. Ultimately we will approach conspiracy theories as ways of knowing, of penetrating and ordering complex and opaque realities. They are also powerful narrative weapons that imperil the shared truths on which cohesive societies are based. Our course texts include The Master and Margarita (Bulgakov), The Crucible (Miller), and Libra (DeLillo), Ivan the Terrible Part II (Eisenstein) The Manchurian Candidate (Frankenheimer) and The Matrix (The Wachkowskis) as well as literary and cultural studies of conspiracist narrative and ideation.",
@@ -6566,15 +6425,6 @@
     "subject": "COLT",
     "title": "COLT 63.02 Modern Conspiracy: The Russian and American Conspiracist Traditions",
     "xlist": "RUSS 38.10"
-  },
-  "COLT-63.03": {
-    "description": "It is no accident that we find ourselves today in the midst of populist unrest. Our course Mobs, Crowds, and the People: Activism in Populist Times explores the longstanding history of popular unrest and mobilization, fear of the people in literature, philosophy, theology and film from across three continents. Populism is central to current debates about politics and the future of democracy, from radical right organizations in Europe to left-wing parties and presidents in Southern Europe and Latin America to the Occupy Wall Street Movement, Bernie Sanders, Donald Trump and the “Capitol Riot” in the United States. But populism is also one of the most contested concepts in the humanities and political theory. Is populism an ideology or a revolutionary strategy? A style of politics? And, crucially, who are “the people” in populism?",
-    "distribs": "WCult:W",
-    "instructor": "",
-    "number": 63.03,
-    "offered": "",
-    "subject": "COLT",
-    "title": "COLT 63.03 Mobs, Crowds, and the People: Activism in Populist Times"
   },
   "COLT-64.01": {
     "description": "Why do the Nazis remain the world’s epitome of evil? What did they actually do? And how specifically are they remembered, depicted, emulated, despised or ignored since the catastrophes of the mid-twentieth Century? In this course we will examine the main events connected with the Second World War, the genocide of European Jewry and Roma-Sinti, forced resettlements of various populations, and the Allied attacks on the German civilian population.  We will analyze the different stages of coming to grips with that past on the part of German and some other postwar societies, by examining together a number of controversies like those surrounding the Nuremberg, Frankfurt, Eichmann and Barbie trials, the campaign to build a Holocaust memorial in Berlin, Neonazism, the Wehrmacht photo exhibition, and the current campaign to remember German civilian casualties and losses.  Approaching our topic with interdisciplinary and comparative methodology, that is, by utilizing history, journalism, video testimony, music, literature, and art, including film, photography and architecture, students will develop their own perspectives on the formation of postwar German identity and why Nazis remain the epitome of evil. An individual midterm project will allow students to practice the skill of summarizing different sides of a debate, and a final group project will invite students to solidify what they have learned in the course about the formation of national identity by creatively staging a contemporary debate about the Nazi past.",
@@ -7120,14 +6970,6 @@
     "offered": "",
     "subject": "COSC",
     "title": "COSC 69.15 Robotics Perception Systems"
-  },
-  "COSC-69.16": {
-    "description": "Frequently, the source code for an important operating system component, malware, or piece of commercial software is not available. This course explores the art and science of reverse engineering such systems to discover how they work, how they connect to other systems, and how they may be controlled. In this course, you will develop an understanding of how systems and development tool chains are built \"under the hood\". You will learn to read compiled binaries without available source code, to recover program logic, and to modify (de)compiled binaries. We will seek to understand the challenges of reverse engineering larger programs, and of automating reverse engineering.",
-    "instructor": "",
-    "number": 69.16,
-    "offered": "",
-    "subject": "COSC",
-    "title": "COSC 69.16 Basics of Reverse Engineering"
   },
   "COSC-70": {
     "description": "This course introduces core computational and mathematical techniques for data analysis and physical modeling, foundational to applications including computational biology, computer vision, graphics, machine learning, and robotics. The approaches covered include modeling and optimizing both linear and nonlinear systems, representing and computing with uncertainty, analyzing multi-dimensional data, and sampling from complex domains. The techniques are both grounded in mathematical principles and practically applied to problems from a broad range of areas. Not open to students who have received credit for COSC 70.01.",
@@ -7999,15 +7841,6 @@
     "title": "EARS 65 Remote Sensing",
     "xlist": "GEOG 051"
   },
-  "EARS-65.01": {
-    "description": "This course is an introduction to remote sensing of the environment – the acquisition of information about the earth from a distance, typically via spaceborne sensors. In this course, we will examine all components of the remote sensing process, from the electromagnetic radiation environment, to sensor design and data collection, to image interpretation and analysis.  Not open to students who have received credit for EARS 65/GEOG 51.",
-    "distribs": "Dist:TAS",
-    "instructor": "",
-    "number": 65.01,
-    "offered": "",
-    "subject": "EARS",
-    "title": "EARS 65.01 Remote Sensing of the Environment"
-  },
   "EARS-66": {
     "description": "This course is an introduction to groundwater and the technical analyses of groundwater resources. A series of case studies are used to introduce the physical, chemical, and technical aspects of groundwater budgets, groundwater resource evaluation (including well hydraulics and numerical modeling), and the transport and fate of contaminants. The case studies also allow students to gain insight into the complexity of sustainable groundwater resource management through exploration of the ideas of safe yield, surface-groundwater interactions, and water quality standards.",
     "distribs": "Dist:SCI",
@@ -8062,15 +7895,6 @@
     "subject": "EARS",
     "title": "EARS 71 River Processes and Watershed Science",
     "xlist": "GEOG 62.01"
-  },
-  "EARS-72": {
-    "description": "Geobiology – the study of interactions between earth and life over geologic timescales – is a young and transdisciplinary field that has grown out of exciting advances in the earth and life sciences. This course examines the many ways in which life has left its mark on our planet. Topics include the origin of life, microbial metabolism and the rise of oxygen on Earth 2.5 billion years ago, the evolution of biomineralization, the environmental context for animal evolution 540 million years ago, planetary/life interactions and the potential for life elsewhere in the universe. Geobiology utilizes tools and ideas from geology, geochemistry, geomicrobiology and paleoecology. Course content and required readings draw from the evolving ideas in the scientific literature.",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 72,
-    "offered": "",
-    "subject": "EARS",
-    "title": "EARS 72 Geobiology"
   },
   "EARS-73": {
     "description": "This course examines the use of stable, radiogenic and cosmogenic isotopes as tools to study Earth processes, particularly processes that are environmentally important. The theory of isotope principles are introduced followed by their applications in investigating Earth's systems. The main applications include studies of climate change, hydrological processes, biogeochemical cycles, Earth's early environment, origin of life, erosion and mountain building. Labs provide hands on opportunities for students to learn mass spectrometry and isotopic data collection and interpretation.",
@@ -8371,15 +8195,6 @@
     "offered": "",
     "subject": "ECON",
     "title": "ECON 29 International Finance and Open-Economy Macroeconomics"
-  },
-  "ECON-3": {
-    "description": "This course covers many of the same basic calculus topics as Math 3, but with the focus on developing an understanding of the mathematical structure of economics, since having mathematical skill is essential to the study of economics. Examples of economic applications of calculus topics include using derivatives to study consumer demand and labor productivity and using integrals to study income distributions.  Additionally, key statistical measures needed for econometrics classes, such as expected value and variance will be introduced.",
-    "distribs": "Dist:QDS",
-    "instructor": "",
-    "number": 3,
-    "offered": "",
-    "subject": "ECON",
-    "title": "ECON 3 Essential Mathematics for Economic Analysis"
   },
   "ECON-32": {
     "description": "This course will examine the key elements of a monetary policy framework, investigate how monetary policy decisions influence financial conditions and macroeconomic outcomes, and consider the practical challenges of monetary policymaking in a global context. Basic methods in time-series econometrics will be used to analyze macro data, construct forecasts. and assess current monetary policy strategies. Students will work together in teams, each of which will collect and analyze information for a specific country and give a series of oral presentations to the class.",
@@ -8815,12 +8630,12 @@
     "title": "PH 161 Independent Internship 1"
   },
   "ECS-NaN": {
-    "description": "Students may participate in Directed Research through arrangements with a faculty member. Directed research is subject to approval by an approved TDI faculty supervisor and either the Executive Director of Education (for masters degree students) or the Chair of their program (for PhD students). Directed Research (PH 196-199) grants credit to MPH, MS, and PhD students prior to their qualifying exam for carrying out research activity, including a specific literature review for a research proposal or dissertation, design, analysis, writing, and preparing a PhD proposal. Directed Research (PH 296-299) grants credit exclusively to PhD candidates and post-docs for carrying out research activity. Contrast these with Directed Readings courses (PH 186-189) which are for ‘deep background’ reading for a student’s general training or exploring a topic area. \nAll terms: By arrangement (HP/P/LP/NC)\nPH 196 is 0.50 units; PH 197 is 1.0 units; PH 198 is 2.0 units; PH 199 is 3.0 units.\nPrerequisites for Masters degree students: Core courses or permission of the Associate Director of Education and an Approved Proposal. To obtain approval of proposal, submit to Center for Education the Research cover sheet and proposal with an electronic signature or email from the proposed TDI faculty supervisor.",
-    "instructor": "Varies",
+    "description": "Students may participate in Directed Research through arrangements with a faculty member. Directed research is subject to approval by an approved TDI faculty supervisor and either the Executive Director of Education (for masters degree students) or the Chair of their program (for PhD students). Directed Research (PH 196-199) grants credit to MPH, MS, and PhD students prior to their qualifying exam for carrying out research activity, including a specific literature review for a research proposal or dissertation, design, analysis, writing, and preparing a PhD proposal. Directed Research (PH 296-299) grants credit exclusively to PhD candidates and post-docs for carrying out research activity. Contrast these with Directed Readings courses (PH 186-189) which are for ‘deep background’ reading for a student’s general training or exploring a topic area.\nAll terms: By arrangement. \nPH 296 is 0.50 units; PH 297 is 1.0 units; PH 298 is 2.0 units; PH 299 is 3.0 units.\nPrerequisites: PhD candidacy status, including successfully defending the thesis proposal.",
+    "instructor": "",
     "number": null,
     "offered": "",
     "subject": "ECS",
-    "title": "PH 196-199 Directed Research"
+    "title": "PH 296-299 Doctoral Research"
   },
   "EDUC-1": {
     "description": "Education, development, and learning are inextricably intertwined. In this course, we will explore how pre-Kindergarten through high school education is informed by scientific evidence across multiple domains. Topics to be explored may include the educational system in America; the research-to-practice gap and educational misconceptions; social, emotional, and motivational development in school context; memory, study strategies, metacognition, and assessment as related to learning; and learning and teaching in early math, science, and reading. Open to all classes.",
@@ -9819,15 +9634,6 @@
     "subject": "ENGL",
     "title": "ENGL 53.49 Graphic Medicine"
   },
-  "ENGL-53.5": {
-    "description": "This lecture course surveys testimonial forms produced throughout the African diaspora. Along the way, we will ask a number of questions: What constitutes an act of witness? Who are its addressees, and to what does it testify? On whose behalf might it speak? We will encounter diverse examples of Black testimonial expression, including works of autobiography, fiction, ethnography, legal theory, literary criticism, visual art, film, and musical performance. These works will be drawn from the United States, Canada, Brazil, Haiti, South Africa, Senegal, and Sudan. Students will also have the opportunity to produce a creative testimonial project.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 53.5,
-    "offered": "",
-    "subject": "ENGL",
-    "title": "ENGL 53.50 Black Testimony"
-  },
   "ENGL-54.01": {
     "description": "What happens when movie writers and directors adapt Shakespeare’s plays for the screen? How does an audience’s awareness of a literary precedent influence reception? What kinds of adaptations do we value and what role does their faithfulness to originals play? This course will look at twelve adaptations of major plays that most consider somewhat radical (e.g. Chicken Rice War; Omkara, Ran, Forbidden Planet, Scotland, P.A.) exploring the conceptual and cinematic strengths of the adaptations, as well as what their attempts to preserve or recast elements of Shakespeare’s plays reveals about the energies of the originals. Each film should thus prove a site of discussion in its own right, as well as an interpretive text that both critiques and argues the merits of the source text. Students can expect to read seven plays and see at least two adaptations of each, writing short responses to each play and film on canvas. Course Group IV",
     "distribs": "Dist:LIT; WCult:W",
@@ -10624,15 +10430,6 @@
     "subject": "ENGL",
     "title": "ENGL 73.02 Toni Morrison Senior Seminar"
   },
-  "ENGL-73.03": {
-    "description": "This course is structured around iterations of black grief within, but mostly beyond the genre of poetry. What curator Okwui Enwezor calls the contemporary “emergency of black grief” is over four centuries old. We will explore modes of release from black cultural producers who attend to the multiple losses sustained by black subjects. The resulting productions span the range of representation from dance, painting, photography, music, film, and craftwork. The course will be organized around three parts, each focusing on the sensorial: Sight, Sound, and Touch. Together we will consider what it means to mourn in an antiblack world resistant to acknowledging the violences endured by black subjects in the United States and beyond its borders.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 73.03,
-    "offered": "",
-    "subject": "ENGL",
-    "title": "ENGL 73.03 Black Elegies"
-  },
   "ENGL-73.05": {
     "description": "A study of Nobel Prize writers from various Anglophone countries, this course examines authors' aesthetic innovations alongside their engagement in cultural, socio-political, and national discourses. Although the focus will be on poetry, the course will also explore the relationship between different genres (including essays, plays, and novels) and various socio-historical moments. Authors will include William Faulkner, Nadine Gordimer, Seamus Heaney, Wole Soyinka, Rabindranath Tagore, Derek Walcott, Patrick White, and W.B. Yeats.",
     "distribs": "LIT",
@@ -10750,15 +10547,6 @@
     "offered": "",
     "subject": "ENGL",
     "title": "ENGL 74.11 High Theory"
-  },
-  "ENGL-74.12": {
-    "description": "This will be a senior seminar based on discussion of various literary, popular, critical, theoretical, and eco-critical texts related to gardens; we will consider issues of power involved in an apparently apolitical leisure activity. Students will be encouraged to find their own topics of interest for discussion and for a final paper modeled on journal articles. We begin where much of English-language culture begins, with the “Book of Genesis.” In that text, the Garden of Eden is the site of creation, and its story suggests questions about who owns a garden, what it means, whom it is for, and what can disrupt or destroy it. We will then move on to other questions of meaning and belonging suggested by gardens as topic and trope, beginning with some postcolonial gardens and critiques that explicitly comment upon the politics, ethics, and power relations encoded in these topics. We will also consider a broad range of related issues and discourses connecting humans and the environment. Literary authors will include Francis Hodgson Burnett, H.D., T.S. Eliot, Ross Gay, Derek Jarman, Jamaica Kincaid, Andrew Marvell, John Milton, Olive Senior.\n \nNot open to students who have received credit for ENGL 64.02.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 74.12,
-    "offered": "",
-    "subject": "ENGL",
-    "title": "ENGL 74.12 Garden Politics"
   },
   "ENGL-75.02": {
     "description": "The 21st century drumbeat of climate doomsday has ushered in a new speculative genre of planetary crisis dubbed climate fiction or “cli-fi,” the science fiction of the late Anthropocene. But how is this genre new, and why limit such queries to fiction? How does the specter of species death and global pandemonium have a literary and cultural history as well as a geophysical, earth systems one? This seminar, through historical and contemporary critique, read transversally across an array of media from novels to theory and film, will situate where we are now with literature from the past about the emergence of steam power, land enclosures, energy systems, and Arctic exploration to account for how we might secure the future. Topics include entanglements of anthopogenic processes with other planetary effects in theories of Capitalocene, Plantationocene, and Chthulucene from the conquest of the Americas to the untimely present. Readings include eighteenth century and romantic natural history, bad weather, contemporary “cli-fi,” ecological theory, and at least one film, such as Steven Spielberg’s blockbuster Ready Player One (2018).",
@@ -11217,14 +11005,6 @@
     "offered": "",
     "subject": "ENGS",
     "title": "ENGS 44 Sustainable Design"
-  },
-  "ENGS-45": {
-    "description": "Today, more than 50% of the world population lives in cities on less than 2% of the planetary surface. This urbanization is expected to remain a megatrend for the next decades. The resulting concentration of infrastructure and activities has created human ecosystems distinct from natural ecosystems, and their future depends not only on their internal sustainability but also on symbiotic interactions with the natural ecosystems on which they ultimately depend. This engineering course addresses the technological aspects of urban sustainability, including energy procurement, energy consumption and green energy, air quality, water supply, use and treatment, building infrastructure, transportation, resource conservation, decarbonization, city planning and the role of automation and information technology in modern sustainable cities. In the context of the triple bottom line (the framework that considers financial, social and environmental impacts), the course further addresses, but to a lesser extent, the aspects of sustainable economics and urban social wellbeing and cities as a hub for innovation.",
-    "instructor": "",
-    "number": 45,
-    "offered": "",
-    "subject": "ENGS",
-    "title": "ENGS 45 Sustainable Urban Systems (Berlin)"
   },
   "ENGS-46": {
     "description": "A survey of advanced methods used to analyze the occurrence and movement of water in the natural environment. The watershed processes controlling the generation of runoff and streamflow are highlighted, and used to explore the transport and fate sediment and contaminants in watersheds.  Throughout the course the ideas and concepts are explored through the primary literature, with emphasis given to methods of observation, measurement, data analysis, and prediction.",
@@ -11790,7 +11570,7 @@
     "offered": "",
     "subject": "ENVS",
     "title": "ENVS 45 Colonialism, Development, and the Environment in Africa and Asia",
-    "xlist": "AAAS 050 HIST 075"
+    "xlist": "AAAS 050; HIST 075; ASCL 54.07 "
   },
   "ENVS-50": {
     "description": "Students working together in groups will formulate and justify policy measures that they think would be appropriate to deal with a local environmental problem. The purposes of this coordinating course are to (1) give students an opportunity to see how the disciplinary knowledge acquired in their various courses and departmental major programs can be integrated in a synthetic manner; (2) provide a forum for an in-depth evaluation of a significant environmental policy problem; and (3) give students the experience of working as a project team toward the solution of a real-world problem. Considerable field work may be involved, and the final examination will consist of a public presentation and defense of student-generated policy recommendations.  Open only to seniors or to other classes with permission of the instructor. Satisfies the Culminating Experience requirement.",
@@ -11961,15 +11741,6 @@
     "offered": "",
     "subject": "ENVS",
     "title": "ENVS 80.14 Environment, Media and Communication"
-  },
-  "ENVS-80.15": {
-    "description": "The course examines the three main (often conflicting) objectives of the EU energy policy, namely the transition to low-carbon energy sources, the establishment of a common and competitive energy market, and ensuring energy security. It helps to understand the functioning of the EU by explaining the dynamics of conflict between supranational institutions and Member States. And it answers the question of whether the EU can become carbon neutral by 2050, as it has committed to.",
-    "distribs": "Dist:INT or SOC",
-    "instructor": "",
-    "number": 80.15,
-    "offered": "",
-    "subject": "ENVS",
-    "title": "ENVS 80.15 EU Energy Policy"
   },
   "ENVS-83": {
     "description": "This course is designed to train students to conduct research in the area of human-environment interactions. Such interactions include humans extracting important renewable and non-renewable natural resources such as fish and forests, as well as producing wastes, such as greenhouse gases, as the result of modern economic activities. Students will learn data collection and analysis techniques and explore primary literature that uses these techniques in order to understand how they are implemented. Building on this process, a primary goal of the course is to have each student fully develop their own research proposal. This course is recommended for students planning to conduct graduate-level research or senior theses related to human-environment interactions.",
@@ -12369,15 +12140,6 @@
     "subject": "FILM",
     "title": "FILM 41.20 Special Effects in Film History"
   },
-  "FILM-41.21": {
-    "description": "This course lends an ear to the roles and power of musical media in the new millennium. Prominent themes include: new media’s purported democratizing effects on the production, circulation, and consumption of sound; the changing roles, responsibilities, and relevance of musicians and media artists in the digital age; and the potential for musical and social media to redraw the boundaries human experience, ethics, memory, and identity at large.",
-    "distribs": "Dist:ART; WCult:W",
-    "instructor": "",
-    "number": 41.21,
-    "offered": "",
-    "subject": "FILM",
-    "title": "FILM 41.21 Music and Media in Everyday Life"
-  },
   "FILM-42.02": {
     "description": "An exploration of selected films by French new wave directors Jean Rouch, Alain Resnais, Agnès Varda, François Truffaut, Chris Marker, and Jean-Luc Godard, with emphasis on relationships between fiction, documentary, and reality. We will consider these works in relation to aesthetic, cultural, and political developments in postwar France.  We will also explore the role of film criticism and of venues such as the Cinémathèque française.",
     "distribs": "Dist: ART; W",
@@ -12644,15 +12406,6 @@
     "subject": "FILM",
     "title": "FILM 44.10 Writing for Television",
     "xlist": "CRWT 41.01"
-  },
-  "FILM-44.12": {
-    "description": "This course will consider the mapping of race onto the idea of Africa and how Africa came to constitute a unique racial category. We will therefore conduct an “archeology of race” and engage the argument by historians of race in Africa that Africa was a major laboratory of race. Our primary material will consist of motion pictures, in an effort to reckon with the role of motion pictures as prime technologies of racial othering and their deep imbrications in colonial projects.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 44.12,
-    "offered": "",
-    "subject": "FILM",
-    "title": "FILM 44.12 The Idea of Africa: Deconstructing Race in the Iconography of a Continent"
   },
   "FILM-45": {
     "description": "This course will examine the history of television as an emerging technology; its dynamic interaction with government, private industry, and audiences; and its impact on society and culture. It will include a consideration of both pre-television media (especially radio) and new media (cyber-culture) as they inform a historical understanding of TV. The norms and practices of the network era (1955-1985) will be positioned as a functional middle-ground, much in the way that classical Hollywood Cinema (1920-1960) serves as middle-ground in motion picture history. Students will be encouraged to develop their capacity for a critical distance from contemporary media via this historicized approach. Open to all classes. Limited to 50 students.",
@@ -13214,15 +12967,6 @@
     "offered": "",
     "subject": "FREN",
     "title": "FREN 10.22 Du Tragique: le chagrin et la pitie dans la littérature française et francophone"
-  },
-  "FREN-10.23": {
-    "description": "This course, introduction to French literature, is a survey of French literature that focuses on one topic: the Atlantic world. As we read texts from each period, we will discover different versions of the Atlantic world, one that exists between many French Atlantic spaces: Caribbean, North American, African, and European. Across these representations, the Atlantic exists as a prism through which authors investigate cross-cultural romance, cultural practices, and the relative notions of beauty. The Atlantic also emerges to prominence during France’s first empire. Before the eighteenth century, the Mediterranean, as an imaginary space of empire and cross-cultural contact, eclipses the Atlantic. As the first and then the second French Empire grows, the Atlantic world takes on a stronger presence in the French imaginary.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 10.23,
-    "offered": "",
-    "subject": "FREN",
-    "title": "FREN 10.23 The French Atlantic"
   },
   "FREN-11": {
     "description": "This 1-credit course is designed for students who have studied French for one to three years in high school, or those who have been exposed to French through family ties or have spent some time in a Francophone environment. It is also suitable for students with little or no knowledge of the French language, but who have a strong background in another Romance language (i.e. Spanish, Italian, Romanian, Portuguese, Catalan, and also Latin).  French 11 is an accelerated course that combines French 1 and 2 in one term, offering an exciting and fast-paced atmosphere in which to learn French. The course will have a web-based component, which, through cultural, grammar and multimedia learning activities, will complement face-to-face work and prepare students for in-class work. Students will learn to talk about familiar events in the present and the past, as well as formulate plans for the future. Weekly cultural videos will situate in context the grammatical content of the course, making it relevant and meaningful. Students will be actively engaged in a variety of creative written and oral activities that will help them develop their language skills. Upon successful completion of this course, students will be able to sign up for French 3 or apply for our French LSAs in Lyon or Toulouse. With the goal of facilitating the acquisition of the target language, this course will be conducted entirely in French.",
@@ -13964,15 +13708,6 @@
     "subject": "GEOG",
     "title": "GEOG 1.01 The Natural Environment"
   },
-  "GEOG-1.02": {
-    "description": "This course is an introduction to the study of physical systems that form the basics of the global environment: weather and climate, soils and vegetation, landforms and landscape evolution. We will be examining the spatial patterns of these systems over the globe, their inter-relationships, and their reaction to naturally and human-induced changes over time.",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 1.02,
-    "offered": "",
-    "subject": "GEOG",
-    "title": "GEOG 1.02 The Natural Environment"
-  },
   "GEOG-11": {
     "description": "Questions about how knowledge is produced, who produces it, and what \"counts\" as knowledge are fundamental to the research process. This course focuses on building understandings of qualitative research methods and methodologies employed by geographers to produce knowledge about social relations, human perceptions, and human-environment interactions. The course introduces several of the main qualitative methods available for geographic analysis and interpretation, and places these methods within broader questions of how research is conceived and carried out.",
     "distribs": "SOC",
@@ -14131,15 +13866,6 @@
     "subject": "GEOG",
     "title": "GEOG 29 Global Cities"
   },
-  "GEOG-3.01": {
-    "description": "This course introduces key approaches to the geographic study of nature-society relations. It is organized around four topical themes (health, climate, energy, and environmental justice) as well as four analytical approaches (political ecology, coupled human-natural systems, non-Western natures, and the environmental humanities). Applying these frameworks to diverse case studies will help us understand how social processes drive ecological transformations, and how those transformations are experienced and understood by societies in different geographical contexts.",
-    "distribs": "Dist:SOC",
-    "instructor": "",
-    "number": 3.01,
-    "offered": "",
-    "subject": "GEOG",
-    "title": "GEOG 3.01 Living with Nature: Introduction to Nature-Society Relations"
-  },
   "GEOG-30.01": {
     "description": "The Jewish diasporic encounter in Europe took place almost entirely in an urban context. The legal, political and cultural framework of the European city shaped the trajectory of the Jews in a profound and lasting way, and cities and metropolises continue to shape Jewish civilization in many ways. From the Venetian ghetto to the Lower East Side, from the pletzl in Paris to the vast neighborhoods in the first Jewish metropolises in Eastern Europe, the different settings shaped Jewish civilization.\n\\fThis course proposes a close reading of this urban context: what were the legal and political foundations, how did Jews organize themselves in cities, what economic opportunities did they develop?\n\\fThis class will use a broad range of materials: literary texts, the press, scholarly analysis (historical, sociological, anthropological), film, art and art history.",
     "distribs": "Dist:SOC; WCult:CI",
@@ -14151,13 +13877,13 @@
     "xlist": "HIST 74.14/JWST 12.01 "
   },
   "GEOG-31": {
-    "description": "In this class we use tools of critical geography to think relationally about colonization, post-colonialism, and decolonization. We begin with the material and imaginative geographies produced through colonization—identifying the mappings, categories, and binaries integral to empire. We then consider how diaspora, migration, and displacement have reconfigured these relationships. Finally, we turn to the ongoing work of decolonization—an imperative both in the world and in our own thinking about the world.",
-    "distribs": "Dist:SOC",
+    "description": "This course examines the spatial and temporal patterns underlying the distribution of the Earth’s living organisms (plants, animals and microbes) as well as the biological and physical processes responsible for these patterns. The topics covered will include species range limits, biodiversity, island biogeography, vegetation dynamics/disturbance ecology, human impacts on living organisms, and conservation. The course will emphasize field-based learning, with several class meetings devoted to mapping vegetation patterns and observing animal behaviors in the local area.",
+    "distribs": "SLA",
     "instructor": "",
     "number": 31,
     "offered": "",
     "subject": "GEOG",
-    "title": "GEOG 31 Postcolonial Geographies - Empire, Diaspora, Decolonization"
+    "title": "GEOG 31 The Local and Global Biosphere"
   },
   "GEOG-32": {
     "description": "Cities are not only home to most of humanity, but also unique and varied physical environments. This course will introduce students to these environments and the challenges of making them both livable and sustainable. It will cover three subject areas: 1) the biophysical features of cities, 2) environmental problems associated with urbanization, and 3) approaches to addressing these problems. In order to appreciate the geographic diversity of cities, the course will examine a wide range of urban environments across the world.",
@@ -14372,15 +14098,6 @@
     "offered": "",
     "subject": "GEOG",
     "title": "GEOG 50.03 GIS Programming and Databases"
-  },
-  "GEOG-50.04": {
-    "description": "This course is an introduction to remote sensing of the environment – the acquisition of information about the earth from a distance, typically via spaceborne sensors. In this course, we will examine all components of the remote sensing process, from the electromagnetic radiation environment, to sensor design and data collection, to image interpretation and analysis.  Not open to students who have received credit for EARS 65/GEOG 51.",
-    "distribs": "Dist:TAS",
-    "instructor": "",
-    "number": 50.04,
-    "offered": "",
-    "subject": "GEOG",
-    "title": "GEOG 50.04 Remote Sensing of the Environment"
   },
   "GEOG-51": {
     "description": "Remote Sensing involves the acquisition of information about the earth from airborne and satellite sensors. Both vector (GIS and GPS) and raster (image) data will be treated with an emphasis on their interpretation for various geographic and earth science applications. A significant part of the course will be devoted to practical exercises; there will be a final project involving the computer processing and interpretation of these data.",
@@ -14874,44 +14591,6 @@
     "title": "GERM 42.11 Literature and Psychoanalysis: The Cultural Legacy of Sigmund Freud (in English)",
     "xlist": "COLT 66.02"
   },
-  "GERM-42.12": {
-    "description": "\\fThis seminar follows the traces of the Robinsonade and the adventure novel. Where do the roots of such adventures lie—adventures that are experienced and capable of being told as tales? When did it become possible to turn adventures into a business or entertainment? What is an adventure to begin with? Can it be described as a form? These questions themselves show just how wide a net we have to cast if we are to apprehend something of what constitutes adventures and adventurers. This question needs to be considered in the terms of literary, cultural, and media history. With regard to adventurers (both male and female), a highly interesting question to examine is whether they consciously expose themselves to danger in order to experience an adventure or whether the adventure is the inadvertent consequence of fate or accident. The character and significance of these questions changes as they approach the present, in which the pursuit of adventure is becoming ever more widespread and its documentation includes real-time transmission almost as a matter of course.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 42.12,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 42.12 Fictions of Survival: Robinsonades and Adventure Stories (in English)"
-  },
-  "GERM-42.13": {
-    "description": "In this class we will investigate different texts and representations of female experiences by Jewish authors from the Weimar Republic to the end of the 20th century.  The intersection of gender with Jewish German culture became one of the most important topics in cultural and literary research during the last decades. We will read and discuss lyrical and political, essayistic and autobiographical texts written by authors under extremely different political and historical circumstances; and we also will discuss theoretical and methodological problems in the field of Jewish German history and culture. Taught in English translation. Students taking the class for major or minor credit in German Studies will have the option to enroll in an additional German-language discussion section.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "Von der Lühe",
-    "number": 42.13,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 42.13 Gender and Jewish-German Culture",
-    "xlist": "JWST 53.01"
-  },
-  "GERM-42.14": {
-    "description": "The rise of fascism in Europe resulted in the displacement of countless Central-European Jews, who sought refuge in France, Switzerland, Sweden, Istanbul, Palestine, and above all in the United States. This course explores how German-Jewish writers, artists, and intellectuals responded to the condition of exile during the period of National Socialism and its aftermath. These writers constituted what Erika and Klaus Mann called “The Other Germany” by carrying forward the avant-garde possibilities of Weimar culture and offering political resistance to the Nazi regime from outside of Germany. Yet they were also confronted with the challenges of exile, including homelessness, alienation, and the struggle to form communities, along with painful questions about their own German identity and their relationship to the German language.\nExamining works by Arendt, Mann, Brecht, Benjamin, Auerbach, Kracauer, Lasker-Schüler, Seghers, Sachs, Celan, Adorno, Werfel, Zinnemann, Lorre, and Schoenberg, the course will address key topics raised by the German-Jewish experience of exile, including nostalgia, loss, antisemitism, the corruption of the German language by National Socialism, bilingualism, the political significance of the refugee experience and resistance to fascism, the complex image of America in the works of German-Jewish refugees, and the religious meanings of exile.",
-    "distribs": "Dist:INT or LIT; WCult:CI",
-    "instructor": "McGillen, M",
-    "number": 42.14,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 42.14 German-Jewish Exile Literature (in English)"
-  },
-  "GERM-43": {
-    "description": "European borders have become a popular setting in world cinema since the development of global tourism and the recently declared “international immigration crisis”.\n\\f\nIn this class, we study film as an aesthetic and political medium and explore how directors construct and deconstruct borders in their audience’s imagination. We analyze the concept of cinematic 'borderscapes' and examine how depictions of borders rely on narratives, images and imaginations. We do not only assess who is crossing international borders – commuters, tourists, immigrants, refugees, human traffickers and their victims – but we also examine who is welcome to cross, who is welcome to stay and who has to be expelled. We put German cosmopolitan road movies, tourist films and tales of successful and unsuccessful migration and integration in the context of global cinema and analyze differences in debates surrounding multiculturalism, migration and mobility, national identity and human rights.",
-    "distribs": "Dist:INT or ART; WCult:CI",
-    "instructor": "",
-    "number": 43,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 43 Migration, Mobility and the Movies:  German Film in Global Context",
-    "xlist": "FILM 42.18"
-  },
   "GERM-43.01": {
     "description": "Recent German films such as The Lives of Others,  Downfall, Head On or Run Lola Run have enjoyed much international success at festivals and box offices and drawn attention to a new generation of German-languages filmmakers.  This class will explore contemporary German culture of the last twenty years through their lens.  We will discuss some of the main challenges that German society is facing today:  overcoming the divide between East and West integrating immigrant cultures, and coming to terms with the history of the Third Reich. In our analysis of popular mainstream movies as well as low–budget independent productions, we will also address how filmmakers today refer to their rich tradition of German cinema before reunification, e.g. the Expressionist cinema of the 1920s or the New German Cinema of the 1970s.  No German knowledge is required for this class – all films are available and subtitled in English.  By special arrangement, this course can also  count toward a German Studies major or minor.  (in English Translation) Open to all Classes.",
     "distribs": "Dist:ART",
@@ -15058,33 +14737,6 @@
     "offered": "",
     "subject": "GERM",
     "title": "GERM 61 The Age of Goethe (1749-1832)"
-  },
-  "GERM-64.01": {
-    "description": "Kafka’s stories are the epitome of modern tragicomedy. In few other writers do we find despair and hope, guilt and redemption, dream and reality, in such close proximity. Kafka expresses the struggles of the modern self through the labyrinth-like character of his prose, through which we as readers must find a path. The course will read Kafka closely -  with attention to questions of authority, law, and self-fulfillment - and develop strategies of literary criticism and interpretation.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "McGillen, M ",
-    "number": 64.01,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 64.01 Lit of the Modern Period: Franz Kafka and the Modern Self\""
-  },
-  "GERM-64.02": {
-    "description": "To be a writer in 19th-century Germany meant to interact with a thriving media market: For the first time, writers wrote for a mass readership and published in illustrated magazines, where their writings appeared together with news items, pulp fiction, other kinds of entertainment, and images. Reading works by Heine, Fontane, Droste, and others, we will explore the complex aesthetic strategies with which they responded to this media challenge. The course will refine key research methods in German Studies. Conducted in German. Open to all classes. Can be taken as a Culminating Experience by doing additional work.\n\\f",
-    "distribs": "Dist:LIT; WCult:W\n                                            ",
-    "instructor": "McGillen, P",
-    "number": 64.02,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 64.02 Pulp Fiction Meets High Literature: Media and Writing in 19th-Century Germany"
-  },
-  "GERM-64.03": {
-    "description": "This class provides an introduction into Weimar Republic Culture and its rich political and aesthetic legacy.  Writers, artists, filmmakers, scientists, philosophers, and political activists collaborated widely and produced new perspectives and forms for understanding the self and its relationship to language, to others and to the world.  We will discuss among others artistic movements such as expressionism, Dada and New Objectivity, modernist genres such as the collage or the stream-of-consciousness novel, groundbreaking authors such as Thomas Mann and Bertolt Brecht, the rich German-Jewish cultural life before the rise of fascism and the way in which sciences and the arts converged.  The class will be conducted in German.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 64.03,
-    "offered": "",
-    "subject": "GERM",
-    "title": "GERM 64.03 Weimar Republic Culture"
   },
   "GERM-64.04": {
     "description": "The modern theater is born from the spirit of unrest and revolution. This course is an introduction to the concept of the revolution and its relation to some of the most ground-breaking plays of modern drama. Particular emphasis will be given to the intersection between theater and history, art and politics, stage and the passion for justice. But along the way, we will cross the question of love, betrayal, disgust, rage, melancholia and death. We will read plays by Georg Büchner, Bertolt Brecht and Peter Weiss, and by contemporary playwrights Heiner Müller and Elfriede Jelinek (class in German).",
@@ -16067,15 +15719,6 @@
     "subject": "GOVT",
     "title": "GOVT 66.02 Constitutional Law, Development, and Theory"
   },
-  "GOVT-66.03": {
-    "description": "Can we defend the value of democracy against serious and thoughtful criticism? Using a combination of classic and contemporary texts, this course encourages students to think rigorously about one of their most basic political values. It examines the origins of democratic theory in ancient Athenian political practice and the normative and practical criticisms of more contemporary thinkers. What makes politics \"democratic?\" What features distinguish the democratic regime from other regimes? What is democracy supposed to reflect or achieve? And what kinds of concerns about democracy did ancient philosophers like Plato and Aristotle raise? How (and why) did early modern and Enlightenment thinkers relocate the grounds for preferring democracy to other regimes?",
-    "distribs": "Dist:TMV; WCult:W",
-    "instructor": "",
-    "number": 66.03,
-    "offered": "",
-    "subject": "GOVT",
-    "title": "GOVT 66.03 Democratic Theory"
-  },
   "GOVT-67": {
     "description": "This course examines the normative and constitutional (textual) bases for protecting certain civil liberties or rights in the United States. The aim is not only to learn the constitutional language of civil liberties but also to think critically about it. Areas covered may include: property, race, sex, abortion, religious and cultural rights, gun rights, sexual freedom and \"alternative\" marriage, and animal rights.",
     "distribs": "WCult:W",
@@ -16387,15 +16030,6 @@
     "offered": "",
     "subject": "GOVT",
     "title": "GOVT 84.40 Democratic Erosion"
-  },
-  "GOVT-84.41": {
-    "description": "This seminar investigates the rapid economic rise of China since 1978. It focuses on the unorthodox ideas and strategies China's policymakers followed as they embarked upon economic liberalization; on China's foreign economic policies including the Belt and Road Initiative; and on relations with the United States. The seminar finishes with a review of the social, political and economic challenges China faces as it emerges as a powerful middle income country with global ambitions.",
-    "distribs": "Dist:INT or SOC; WCult:NW",
-    "instructor": "",
-    "number": 84.41,
-    "offered": "",
-    "subject": "GOVT",
-    "title": "GOVT 84.41 China as Economic Superpower: From Mao to Shenzhen"
   },
   "GOVT-85.01": {
     "description": "This course explores diplomacy, the essential instrument of foreign policy. We will begin with elemental questions:  What is diplomacy? Who uses it and how?  The course will examine both the daily work of diplomats -- how they obtain and use information on the politics, economics and society of their host nations – and the way in which negotiations are conducted at the highest levels.  The course will take up a number of case studies (possibilities include Bosnia, the Gulf War, Kirkuk, North Korea, and Iran) in order to answer the following questions: What makes for successful negotiations?   Is the threat of force essential to effective diplomacy?  When is multilateral diplomacy more effective than unilateral action?  What is the role of the United Nations?   The class will engage in debates and other in-class exercises that utilize critical diplomatic skills.",
@@ -16753,24 +16387,6 @@
     "subject": "GOVT",
     "title": "GOVT 86.45 Race, Justice, and the Law",
     "xlist": "PHIL 38.03"
-  },
-  "GOVT-86.46": {
-    "description": "This class explores theories of the historical relationship between ideologies of racial difference and practices of capital accumulation since the rise of the Atlantic slave-trade. Students will examine the ways in which a host of thinkers, critics, and historians have formulated and employed the concept of “racial capitalism” to reimagine and confront the entanglement of race and capitalism in two central ways: first, as a theory of capitalism in which the movement, settlement, and economic exploitation of people of color is seen as indissociable from regimes of capital accumulation; and second, as a critique of standard accounts of capitalism that view racism as a cultural deviation from the market’s economic logic. Students will be introduced to a wide range of theoretical and historical approaches to interpreting race and capitalism while also learning about key concepts and debates in critical race theory, Black feminist thought, and the history of political economy.",
-    "distribs": "Dist:SOC; WCult:CI",
-    "instructor": "",
-    "number": 86.46,
-    "offered": "",
-    "subject": "GOVT",
-    "title": "GOVT 86.46 Theories of Racial Capitalism"
-  },
-  "GOVT-86.47": {
-    "description": "This class explores key works, ideas, and themes in modern political theory throughout the rise and development of capitalism, from the late seventeenth century to the present. Our approach will be to place primary texts in Western political thought within the socioeconomic contexts in which they were originally written and read, paying particular attention to how political thinkers have responded to pivotal events, innovations, crises, and policies that marked the capitalist societies in which they lived. Each session will focus on a specific moment of convergence between political theory and the history of capitalism, including: political economy and finance, the Enlightenment and colonial slavery, liberalism and the Industrial Revolution, and critical theory and Silicon Valley. Students will acquire an in-depth understanding of central concepts and problems in Western political theory and develop the necessary skills to analyze, discuss, and write about such concepts and problems within a long-range socioeconomic context.",
-    "distribs": "Dist:SOC",
-    "instructor": "",
-    "number": 86.47,
-    "offered": "",
-    "subject": "GOVT",
-    "title": "GOVT 86.47 The Rise of Capitalism"
   },
   "GOVT-90": {
     "description": "Course taught by a member of the faculty of the Department of International Relations of the London School of Economics and Political Science. Dartmouth students attend class with the LSE faculty member. (This course counts as a mid-level course and not as a seminar for the major or minor).",
@@ -17148,15 +16764,6 @@
     "subject": "HIST",
     "title": "HIST 10.04 Dartmouth Black Lives",
     "xlist": "AAAS 20.01"
-  },
-  "HIST-10.05": {
-    "description": "Working with manuscripts is one of the most exciting experiences in research on the Pre-Modern era, a direct link to the past, its people and its ideas. But it can be daunting to approach a material literary artefact. This course is an introduction to the basic methods and skills of Latin paleography, from the Roman scripts of Late Antiquity to the Humanist scripts of the Renaissance. It is designed to introduce students to the skills and knowledge needed to work with Latin-language manuscript material produced (mainly) before the advent of the printing press. It will also examine how technologies of writing and communication changed as a product of political, religious, and social change. The course will cover paleography, codicology, and diplomatics. The course will meet in Rauner Library (or, occasionally in the Book Arts Studio). Students will work closely with manuscripts in the College collections, supplemented with digital images of manuscripts held in other libraries around the world. As a practicum, the course is a hands-on introduction to the work of the paleographer, and students will learn to assess, transcribe, translate, and interpret manuscripts in their historical context as pieces of historical evidence.",
-    "distribs": "Dist:SOC; WCult:W",
-    "instructor": "",
-    "number": 10.05,
-    "offered": "",
-    "subject": "HIST",
-    "title": "HIST 10.05 Latin Paleography"
   },
   "HIST-11": {
     "description": "This course begins with an examination of relations between England and its American Colonies in the middle of the eighteenth century. It deals with the collapse of British authority in America, emphasizing the social and intellectual sources of rebellion. Treatment of the war years focuses more on the problem of political and economic adjustment than on military history. The final topic covered is the adoption of a federal Constitution.",
@@ -17911,7 +17518,7 @@
     "offered": "",
     "subject": "HIST",
     "title": "HIST 70 Gender and The Modern Middle East and North Africa",
-    "xlist": "MES 19.04"
+    "xlist": "MES 19.04, WGSS 24.02"
   },
   "HIST-70.02": {
     "description": "This course examines the history of Iran from the early modern to the contemporary period. We will start in the era of the Islamicate empires then move through European imperialism, the rise of modern nationalism, the Constitutional Revolution (1905-1911), the formation of Pahlavi state institutions, the 1953 coup, the 1979 revolutionary movement, the establishment of the Islamic Republic, the Iran-Iraq War, and more. Students will learn to think through Iranian history in domestic and global contexts.",
@@ -17968,7 +17575,8 @@
     "number": 75,
     "offered": "",
     "subject": "HIST",
-    "title": "HIST 75 Colonialism, Development, and the Environment in Africa and Asia"
+    "title": "HIST 75 Colonialism, Development, and the Environment in Africa and Asia",
+    "xlist": "AAAS 050; ENVS 45; ASCL 54.07"
   },
   "HIST-76": {
     "description": "This course examines the history of modern South Asia (focusing on the nations of India, Pakistan and Bangladesh) from the eighteenth century to the present. Key themes include: the character of British colonialism and its impact on Indian society; cultural change and the “invention” of new religious and caste identities; the Indian middle class; the emergence of the Indian national movement under Mahatma Gandhi; Partition in 1947 and Partition violence; and post-independence South Asian politics and economy.",
@@ -18294,33 +17902,6 @@
     "title": "HIST 90.13 Placing History: A Exploration of Local History through Archives, Fieldwork, & Digital Maps",
     "xlist": "NAS 30.22"
   },
-  "HIST-90.14": {
-    "description": "This course charts the long history and continuing legacies of the British Empire, an entity that has transformed every single continent over the last four centuries and is widely associated with the makings of the modern world. We examine how and why a powerful and expansive British Empire emerged and sustained itself. Equally, we zoom in on the regular contestation and even outright rebellion that this transcontinental polity inspired. This course is an opportunity to think connectively and comparatively about historical experiences in America, India, the Caribbean and Africa among multiple other British imperial spaces. Through the prism of a changing British Empire, we trace the rise and evolution of global trade, slavery, the consumption of commodities such as sugar, tea, opium, and cotton; and new ideas about governance, sovereignty, race and identity. We conclude with a discussion of the persistence of imperial institutions, laws and power relations in shaping the world we inhabit. Students will be introduced to major debates about imperialism and colonialism and the political, economic, environmental, legal and racial underpinnings of the British Empire. Students will read a combination of primary and secondary sources every week and will develop a research paper drawn from original sources over the course of the term.",
-    "distribs": "Dist:INT; WCult:W",
-    "instructor": "",
-    "number": 90.14,
-    "offered": "",
-    "subject": "HIST",
-    "title": "HIST 90.14 The Global British Empire, 1600 – The Present"
-  },
-  "HIST-90.16": {
-    "description": "This course examines the dynamics of China’s revolutionary ideology in the context of the modern world through the lens of nationalism. By employing a range of discussions of China’s nationalist discourse, we will encounter and construe the voices of various groups of people for whom the rhetoric and ideology of nationalism emerged as a question or dilemma, developed as a motivating force, and fermented as a problem. The course proceeds chronologically, beginning in the late nineteenth century and moving to the present. Each week’s readings, including primary and secondary texts, also discuss particular aspects of nationalism and its connection to China’s revolutionary agenda. Focusing on China and its Asian surroundings, this course will explore major historical themes, including reform versus revolution, intellectuals and society, center and locality, ethnicity and identity, violence and confrontation, foreign relations and national strategies, charisma and mass movements, and nation-building and propaganda.",
-    "distribs": "Dist:SOC; WCult:NW",
-    "instructor": "",
-    "number": 90.16,
-    "offered": "",
-    "subject": "HIST",
-    "title": "HIST 90.16 Nationalism and Revolution in China, 1890-Present"
-  },
-  "HIST-90.17": {
-    "description": "This course explores one of the most radical experiments of the European Middle Ages: the military crusading orders. The members of these organizations were imagined to constitute a \"new knighthood\" of monkish warriors, theoretically living according to a strict monastic rule and dedicated to the protection and expansion of Christian society as the military branch of the church. These institutions–and the Middle Ages more broadly–have resurfaced as one contested site in a raging culture war over race, power, and identity in the United States and abroad. This course takes this recent trend as a prompt for placing the military orders within their medieval context, beginning with their emergence from a longer history of Judeo-Christian holy war. More broadly, we will also take the military orders as a case study for historical questions about the intersection of religious belief, group identity, and acts of violence in human societies. Given the place of the military orders in the modern imagination, from conspiracy theories to far-right ideologies, a central goal of this course is to equip students with the skills to evaluate historical sources first-hand and also to engage critically with a wide range of historical arguments.",
-    "distribs": "Dist:SOC; WCult:W",
-    "instructor": "",
-    "number": 90.17,
-    "offered": "",
-    "subject": "HIST",
-    "title": "HIST 90.17 Templars, Teutonic Knights, and the Medieval Military Crusading Orders"
-  },
   "HIST-91.01": {
     "description": "This course will focus on the interactions of the three major religious communities of the medieval Mediterranean—Christians, Jewish, and Muslim—beginning with the First Crusade in 1096 and ending with the arrival of the Black Death in 1347. By examining topics such as pilgrimage, crusade, and jihad, the status of minority communities, and intellectual life, we will explore how Christians, Jews, and Muslims clashed, cooperated, influenced, and misunderstood each other. Open to all classes.",
     "distribs": "Dist:TMV; WCult:W",
@@ -18518,15 +18099,6 @@
     "subject": "HIST",
     "title": "HIST 94.15 History of the Holocaust",
     "xlist": "JWST 37.01"
-  },
-  "HIST-94.16": {
-    "description": "This hands-on course focuses on the ancient Roman production, the development and use of money at Rome, the logistics of coin production, and the methods for studying coinage to write ancient history. Students learn basic numismatic methodology by handling and studying coins from the collection in Dartmouth’s Hood Museum of Art and prepare material for a coin installation. A final unit treats the ethics of coin collecting and the role of the modern museum.",
-    "distribs": "Dist:SOC; WCult:W",
-    "instructor": "",
-    "number": 94.16,
-    "offered": "",
-    "subject": "HIST",
-    "title": "HIST 94.16 Before Billboards and Twitter: Roman Coins Text"
   },
   "HIST-95.01": {
     "description": "Through lectures, readings, discussions, and fieldwork this course explores aspects of London's history from medieval to modern times. Using the city itself as a living laboratory for historical thinking, the course relates the development of London and its neighborhoods to the larger concentric histories of nation, region, empire, and world.",
@@ -19373,15 +18945,6 @@
     "subject": "ITAL",
     "title": "ITAL 37.10 Mafias"
   },
-  "ITAL-37.11": {
-    "description": "This course considers the role of culture and identity, migration, evolution of language, gender, race, and class issues, and studies the diverse cultural and artistic productions (literary, cinematic, musical, multi-media) that exemplify the tensions and negotiations between cultures and people.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 37.11,
-    "offered": "",
-    "subject": "ITAL",
-    "title": "ITAL 37.11 Migrants, Sopranos, Race, and Italian American Film"
-  },
   "ITAL-4": {
     "description": "This course introduces students to various topics of Italian culture through specificexamples taken from the context of Italy’s capital, largest city, and one of the West’smost complex symbols: Rome. Topics include stereotypes and the idea of nationalidentity, society and politics, youth culture, family and gender roles, the arts, andgastronomy. Students will learn to engage with Italian cultural phenomena through inclasslectures and discussions, frequent site visit sites pertinent to the material we study,as well as 6 half-day guided tours of important monuments and museums of Rome.",
     "distribs": "Dist:SOC; WCult:CI",
@@ -19844,15 +19407,6 @@
     "title": "LACS 24.70 Solo Performance",
     "xlist": "THEA 025"
   },
-  "LACS-25.12": {
-    "description": "This course follows the history of theatre in the Latinx Americas (encompassing a hemispheric approach) for social change. Students will learn about Theatre of the Oppressed, guerilla theatre in all its forms used throughout Latin America and Latinx communities, playwrights writing about social justice issues, and activist performance. We will focus on plays and performances that have as their central theme rebellion and the rebel as we question the nature of rebellion, its manifestations, and consequences.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 25.12,
-    "offered": "",
-    "subject": "LACS",
-    "title": "LACS 25.12 Staging Rebellion. Dissidence in Latinx American Theatre"
-  },
   "LACS-30.06": {
     "description": "With emergence of filmmakers such as Alejandro Inarrirtu (México), Lucrecia Martel (Argentina), and José Padilha (Brazil), the last decade has seen a creative boom in Latin American cinema that includes art house cinema, blockbusters, documentary, and experimental film. Beginning with a quick overview of key forerunners, this course will focus on the major directors, genres and aesthetic trends that characterize the new Latin American cinema. On the one hand, we will pay special attention to the distinct national cinemas:the different historical and cultural contexts out of which they emerge; and the different aesthitics that this gives rise to.",
     "distribs": "Dist:INT",
@@ -19981,15 +19535,6 @@
     "title": "LACS 40.10 Migrant Nation: Immigration and Racialization in the Making of the United States",
     "xlist": "HIST 31.02"
   },
-  "LACS-41.2": {
-    "description": "This course surveys a series of critical paradigms for studying American literature and culture in a hemispheric context. We’ll explore a variety of approaches to hemispheric literary and cultural studies, considering reanimations of the conquest, comparative and shared romantic and revolutionary discourses, the literature of the hemispheric South, borderlands studies, the study of state-sponsored literary institutions that cross national borders, and inter-American attempts to imagine solidarity across the hemisphere. At the end of the course, students will have the opportunity to produce a creative project rendering their own hemispheric imaginary. Authors may include Leonora Sansay, Martin Delany, María Ruiz de Burton, Jose Martí, Américo Paredes, Carmen Lyra, Gabriel García Márquez, Jamaica Kincaid, and Giannina Braschi. All texts are available in translation.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 41.2,
-    "offered": "",
-    "subject": "LACS",
-    "title": "LACS 41.20 Literature and Culture of the Americas"
-  },
   "LACS-42": {
     "description": "Mexico City once the capital of New Spain overlies the remains of Tenochtitlan, capital of the Aztec empire. This course examines the development of the Aztec empire, the organization of Aztec society and religion, and the Spanish conquest of the Aztec. It ends with an introduction to Nahua society in the first century after conquest. We will also consider the varied perspectives of Aztec history offered by Nahua texts, archaeology, history, and art history. (ARCH)",
     "distribs": "Dist:SOC; WCult:NW",
@@ -20019,15 +19564,6 @@
     "subject": "LACS",
     "title": "LACS 44.40 On Survivors, Memories, and Tombs: State Violence in South America through Literature and Cinema",
     "xlist": "COLT 52.05"
-  },
-  "LACS-46.6": {
-    "description": "This course focuses on how anarchism developed in Latin America and the Caribbean at the turn of the twentieth century. It offers a brief historical and historiographical introduction to the idea of anarchism and its first adherents in the region. It also explores the materiality of anarchist transnational networks and the creation of working-class intellectual communities. The class ends by critically examining the legacies of anarchism in contemporary Latin America and the Caribbean.",
-    "distribs": "Dist:TMV; WCult:NW",
-    "instructor": "",
-    "number": 46.6,
-    "offered": "",
-    "subject": "LACS",
-    "title": "LACS 46.60 Transnational Utopias: Latin American Anarchisms"
   },
   "LACS-47": {
     "description": "This course seeks to address major issues in twentieth-century Latin America through the history of three or four countries. Topics discussed will include development, imperialism, nationalism, revolution, state formation and violence. Open to all classes.",
@@ -21986,15 +21522,6 @@
     "title": "MES 12.13 Modern Iran",
     "xlist": "HIST 70.02"
   },
-  "MES-13.12": {
-    "description": "Do you believe in miracles? What are they, anyway? And how did the Middle East’s long history of miracle-working influence expectations of what Islam and the Prophet Muhammad would be like? Do modern Muslims still believe in and work miracles? In this course students will explore these questions through sources related to the prophetic history of the Middle East, the miraculous events of Muhammad’s lifetime and the role of miracles in the Islamic world today.\nNot open to students who have received credit for REL 19.35",
-    "distribs": "Dist:TMV; WCult:NW",
-    "instructor": "",
-    "number": 13.12,
-    "offered": "",
-    "subject": "MES",
-    "title": "MES 13.12 Magic, Miracles, and the Prophet Muhammad"
-  },
   "MES-15.01": {
     "description": "Fiction presents an abundance of rich and creative possibilities. Through the magic of imagination, fiction takes us deep inside worlds and into the lives of characters. This course trains students to recognize the qualities that make for spellbinding fiction, including the natural rhythm and tone, mapping the structure, and shaping the content. The Art of Fiction course teaches the essential elements of sketching a story, creating a great opening, devising structure and plot twists, incorporating tension, implementing flashback and viewpoint, and mastering the art of dialogue. Students learn techniques of crafting a story, originating colorful characters, and developing ways of bringing imagination and intrigue into a literary work. They will learn how their stories can be woven into unforgettable narratives by mastering rhythm, tempo, tone, and brevity. Students will explore the process of developing lively characters, mapping out a plot, describing realistic settings, adding subtext and layers of meaning, and penning captivating fiction.",
     "distribs": "Dist:LIT; WCult:NW",
@@ -22379,7 +21906,7 @@
     "offered": "",
     "subject": "MES",
     "title": "MES 19.04 Gender and The Modern Middle East and North Africa",
-    "xlist": "HIST 070"
+    "xlist": "HIST 070; WGSS 24.02"
   },
   "MES-19.05": {
     "description": "“Is Islam sexist?” “What does Islam really say about women?” This course seeks to dismantle the premises of these questions by asking who speaks for Islam, what makes something Islamic, and how are gender and gender roles constructed in Islamic texts and Muslim thought. We will make critical study of the constructions of gender, femininity, masculinity, sexuality, gender relations, marriage and divorce in classical and modern Islamic texts. In asking how Islamic notions of gender are constructed, we will examine both the roles religious texts have played in shaping Muslim life and how Muslim life in its cultural diversity affects readings of religious texts. We will read works of Muslim thought on gender relations in their historical contexts and in relation to one another. Through in-class discussions, critical reading exercises, and short essay assignments, students will strengthen their literacy on global gender issues, study religio-historical ideas on gender, analyze the role of texts in shaping gender in society, and vice versa.",
@@ -24064,15 +23591,6 @@
     "subject": "NAS",
     "title": "NAS 30.23 Making Kin with Machines: Indigenous Technologies and Digital Media"
   },
-  "NAS-30.24": {
-    "description": "This course brings Indigenous perspectives to studies of music and sound using the overarching theme of relationality, focusing primarily on Indigenous communities in what is now known as the United States and Canada. In many Indigenous communities, reciprocal relationships between human and more-than-human entities—including land, water, deities, animals, and plants—are the foundation for culture and being in the world. Music and sound are often an important part of these relationships. Additionally, Indigenous conceptualizations of music and sound challenge western understandings of music as an object, a text, a background, a leisure activity, and something restricted to those with “natural” talent. Rather, Indigenous music and sound are frequently active agents, fundamental components of protocol, repositories for knowledge, and practices of a wide variety of people in the community. How does music enact relationships? How can music be used to violate relationships, and how can music repair them? What does it mean to be in “good relation,” and how does music play a role? Previous knowledge of music is not required.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 30.24,
-    "offered": "",
-    "subject": "NAS",
-    "title": "NAS 30.24 Sound Relations: Indigenous Musical Perspectives"
-  },
   "NAS-31": {
     "description": "Indians are uncanny absences in the American narrative and yet persistent fixtures in our national literature from its origins to the present day. This course examines the pervasive appearance of the seductive, strange, and evolving Indian figure in works by prominent American authors such as Nathaniel Hawthorne, Herman Melville, James Fenimore Cooper, William Faulkner, Ernest Hemingway, Willa Cather, and Toni Morrison. We will explore the shifting and ideological role of the Indian as tragic emblem, savage defender, spiritual ally, and modern foil. We will explore the complicated ways that the literary Indian has served to both authenticate and trouble the nation's founding narratives and desires, and more recently, to stand as a mythical antidote to postmodern crises of value, economics, ecology, and spirituality. We will consider the appeal of such tropes in particular regional and historical contexts, such as the Reconstruction South, as well as racial or ethnic ones, such as the African American appropriation of Indian resistance, nobility, and genealogies.",
     "distribs": "Dist:LIT; WCult:W",
@@ -24354,15 +23872,6 @@
     "subject": "PBPL",
     "title": "PBPL 40 Economics of Public Policymaking"
   },
-  "PBPL-40.01": {
-    "description": "This course is meant to build upon your introductory programming course and to equip you with the computing literacy to conduct social science research in the age of “big data.” This has two core components. First is learning the background tools (e.g., Github; Latex; working on the command line) to conduct transparent and reproducible research. Second is learning programming skills essential for social science in the big data era, with a focus on using Python for various applied tasks as well as R for tasks like data visualization and SQL for tasks like working with the relational databases that form the backbone of many real-world government and commercial datasets.",
-    "distribs": "Dist:TAS",
-    "instructor": "",
-    "number": 40.01,
-    "offered": "",
-    "subject": "PBPL",
-    "title": "PBPL 40.01 Modern Statistical Computing"
-  },
   "PBPL-41": {
     "description": "This course is designed for students who intend to use their writing and communication skills to effect tangible change. Course materials will draw from various areas of public policy, and students will develop policy arguments through position papers, strategy memos, public talks, multi-media tools, as well as op-ed pieces and \"letters to the editor\" to be submitted to local newspapers. Students will strengthen their understanding and practice of public persuasion, as well as their capacity to analyze the components of effective argument.",
     "distribs": "Dist:ART; WCult:W",
@@ -24587,14 +24096,6 @@
     "offered": "",
     "subject": "PBPL",
     "title": "PBPL 82.07 Consumer Debt, Bankruptcy, and Economic Policy"
-  },
-  "PBPL-82.08": {
-    "description": "This course prepares Dartmouth students to undertake field research to answer a substantive policy question. Skills covered will include survey design, data analysis, stakeholder interviews, participant observation, literature review, and community-engaged research methods. This course is designed to prepare students to conduct independent field research in domestic or international settings. As part of the course, students will participate in the design of a field research project in rural Northern New England.",
-    "instructor": "",
-    "number": 82.08,
-    "offered": "",
-    "subject": "PBPL",
-    "title": "PBPL 82.08 Field Research Methods: Methods and Practice"
   },
   "PBPL-83.01": {
     "description": "This class examines how people form policy preferences and the process by which those preferences do—or do not—get translated into public policies in the United States. The course will examine three aspects of this process:  elite rhetorical strategy, the media routines that generate coverage of policy debates, and mass opinion.  We will assess the way political elites, the media mass, and ordinary people interact to create policies that can be either intelligent or pathological.",
@@ -26234,15 +25735,6 @@
     "subject": "PHYS",
     "title": "PHYS 2 Understanding the Universe: From Atoms to the Big Bang"
   },
-  "PHYS-22": {
-    "description": "This course surveys two of the most important areas of mathematical physics: linear algebra and the theory differential equations. Topics from linear algebra include complex numbers, systems of equations, matrices, vector spaces, and the eigenvalue problem. Topics from differential equations include linear differential equations, homogenous and non-homogenous differential equations with constant coefficients, and partial differential equations (separation of variables). The application of these techniques to problems in physics and astronomy will be emphasized.  Not open to students who have received credit for Phys 82.02",
-    "distribs": "Dist:SCI",
-    "instructor": "",
-    "number": 22,
-    "offered": "",
-    "subject": "PHYS",
-    "title": "PHYS 22 Applied Mathematical Methods for Physicists"
-  },
   "PHYS-24": {
     "description": "The theme of this course is the application of the principles of physics to the structure of matter on various scales. The Schrödinger equation is discussed in three spatial dimensions, with emphasis on the description of hydrogenic wavefunctions. Spin and the Pauli exclusion principle. Applications may include many-electron atoms, molecules, solids, nuclei and elementary particles. (NOTE: Renumbered to Physics 40 with description change; last offering of 24 is 15S.)",
     "distribs": "Dist:SCI",
@@ -26309,7 +25801,6 @@
   },
   "PHYS-31.04": {
     "description": "This course provides a structured introduction to some of the key methods used in 21st Century Astronomy Research. In this course students will gain hands-on experience using computational techniques for data analysis and modeling in python. Students will be introduced to all aspects of the research process, from reviewing the literature, to producing high quality plots, to presenting their research to their peers. Ethical questions related to conducting research in the US will be explored. Not open to students who have received credit for PHYS 31.02, PHYS 31.03.",
-    "distribs": "Dist:SLA",
     "instructor": "",
     "number": 31.04,
     "offered": "",
@@ -26651,15 +26142,6 @@
     "offered": "",
     "subject": "PORT",
     "title": "PORT 61 The Portuguese-Speaking World: Genre"
-  },
-  "PORT-61.03": {
-    "description": "This course introduces students to the fundamentals of the genre and, through an attentive reading approach associated with trends in literary criticism, directs the discussion on the diversity of topics focused on representative short stories from the Lusophone World Literatures. The selections include the eight Portuguese-speaking countries (Angola, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Portugal, Sao Tome and Príncipe, and East Timor), as well as the former Portuguese overseas territory of Goa (India), the last Portuguese Empire Colony, Macau (China), and Lusophone communities in the United States, Canada, and Japan.",
-    "distribs": "Dist:LIT; WCult:NW",
-    "instructor": "",
-    "number": 61.03,
-    "offered": "",
-    "subject": "PORT",
-    "title": "PORT 61.03 The Short Story in the Lusophone World Literatures"
   },
   "PORT-62": {
     "description": "Film, television, the visual and graphic arts, and music have redefined national space and identity in the Portuguese-speaking world.  Individual offerings of this course may focus on one or more of the following: film, television and the politics of mass media; theater, performance and performativity; festivals, popular and folk songs, comics and the graphic arts; sports and national identity.  Students will become familiar with relevant concepts in analysis, theory, and cultural studies and learn how issues of representation in those cultural productions are linked to their literary counterparts.",
@@ -29059,15 +28541,6 @@
     "title": "REL 74.17 Islam in Africa",
     "xlist": "undefined undefined"
   },
-  "REL-8.01": {
-    "description": "This course presents African Americans who have created religious and spiritual lives amid the variety of possibilities for religious belonging in the second half of the twentieth century and the early twenty-first century. By engaging an emerging canon of autobiographies, we will take seriously the writings of theologians, religious laity, spiritual gurus, hip hop philosophers, LGBT clergy, religious minorities, and scholars of religion as foundational for considering contemporary religious authority through popular and/or institutional forms of African American religious leadership. Themes of spiritual formation and religious belonging as a process—healing, self-making, writing, growing up, renouncing, dreaming, and liberating—characterize the religious journeys of the African American writers, thinkers, and leaders whose works we will examine. Each weekly session will also incorporate relevant audiovisual religious media, including online exhibits, documentary films, recorded sermons, tv series, performance art, and music.",
-    "distribs": "Dist:TMV; WCult:CI",
-    "instructor": "",
-    "number": 8.01,
-    "offered": "",
-    "subject": "REL",
-    "title": "REL 8.01 Transformative Spiritual Journeys. Contemporary Memoirs of African American Religion"
-  },
   "REL-80": {
     "description": "The contents of this course will vary from term to term, see individual topic descriptions.",
     "distribs": "TMV",
@@ -29516,24 +28989,6 @@
     "subject": "RUSS",
     "title": "RUSS 38.16 Putin's Sacred Reign",
     "xlist": "REL 19.36"
-  },
-  "RUSS-38.17": {
-    "description": "This course examines modern Russia and its culture in a historical and global context. By focusing on Russian culture, socioeconomic issues, and geopolitical affairs of the late-20th and 21st century, we will discuss the impact of history on Russia’s present, on Russian consciousness and identity, and on the major trends in Russian society and politics. We will analyze how Russia demonstrates power and presents itself around the world, and how it is perceived by others.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 38.17,
-    "offered": "",
-    "subject": "RUSS",
-    "title": "RUSS 38.17 Modern Russia and it's Culture: Historical Roots and Global context"
-  },
-  "RUSS-38.18": {
-    "description": "Sex and nonnormative sexuality have always been taboo-weapons in Russia in fight against cultural and political opponents, reinforcing the ‘us-them’ dichotomy (Russia-West; underground-official; regime-opposition). This course outlines the development of cultural and sociopolitical taboos in Russia through different historical periods and examines how the (un)official discourses about sex and the body changed or persisted over time: from bawdy folklore to Pushkin; from fin-de-siecle libertinage to Soviet anti-sexuality; from late/post-Soviet hypersexuality to taboos in Putin’s Russia.",
-    "distribs": "Dist:SOC; WCult:CI",
-    "instructor": "",
-    "number": 38.18,
-    "offered": "",
-    "subject": "RUSS",
-    "title": "RUSS 38.18 Taboo Russia: Sex, Body, and Politics"
   },
   "RUSS-41": {
     "description": "The language-learning goal of the course is to expand the students’ vocabulary, work with new vocabulary and idioms, to review and reinforce certain grammatical and stylistic subtleties. Students will be introduced to Russian cultural traditions and some specifically Russian attitudes in an exploration of problems of cross-cultural communication and miscommunication. There will be films, short stories, and articles for discussion.",
@@ -30418,24 +29873,6 @@
     "subject": "SOCY",
     "title": "SOCY 49.24 Sociology of Human Rights"
   },
-  "SOCY-49.25": {
-    "description": "The question of Jewish difference has been foundational in the formation of both Christendom and Islam. Of course, the question of race, and the racialization of the Jews, is often thought to be modern phenomenon when Race Science became prominent in the nineteenth century. But lately scholars have begun to re-think the category of race in connection with modernity and to reconsider race as a construct that extends back at least into the Middle Ages.\n\\\\fThis course will look at the long historical trajectory of Jews and race, beginning in the Middle Ages and focusing primarily on European modernity, America, including the complex alliance of Jews and Blacks from slavery to BLM, the role of race in the Israeli/Palestinian conflict and the rise of Islamophobia. The goal of this course is to better understand the nature of Jews as a genos/race/ethos/people as they are labeled by others as well as how they self-identify. Jews identified as a “race,” and were identified as such by others, until the 1930s, after which ethnos served as a substitute. The question of “whiteness” loomed large for Jews in America; are Jews white, and if so, what are the implications of their “whiteness”? Finally, we will explore more recent iterations of this vexing issue in contemporary politics that includes “Jews of Color,” Zionism, Israel/Palestine, conversion to Judaism, and progressive politics in America.",
-    "distribs": "Dist:INT or TMV; WCult:W",
-    "instructor": "",
-    "number": 49.25,
-    "offered": "",
-    "subject": "SOCY",
-    "title": "SOCY 49.25 Jews and Race"
-  },
-  "SOCY-49.26": {
-    "description": "The purpose of this course is to explore the nature and implications of the market primarily as a political, but also as a social, economic and even moral phenomenon. From being a marginal, controlled, and secondary social institution in most early societies, markets have risen to become a central mode of social coordination and economic production, distribution and exchange in modern ones throughout the Western and non-Western world. What is the best way of thinking about this transformation in the prominence of the market in human life? Why has it happened, whom has it benefited, whom has it harmed, what functions has it served, what new problems has it created, and what if anything are the limits on the social utility of markets?",
-    "distribs": "Dist:INT or SOC",
-    "instructor": "",
-    "number": 49.26,
-    "offered": "",
-    "subject": "SOCY",
-    "title": "SOCY 49.26 Markets and Their Critics"
-  },
   "SOCY-50": {
     "description": "This course will consider the relationship between law and society, analyzing law as an expression of cultural values, a reflection of social and political structure, and an instrument of social control and social change. Complimenting this general perspective will be a more detailed examination of selected legal institutions, such as the court system, the police, regulatory agencies, and the legal profession. Readings will include both theoretical works and empirical studies.",
     "distribs": "Dist:SOC; WCult:W",
@@ -30649,15 +30086,6 @@
     "title": "SOCY 75 Neighborhoods and Health",
     "xlist": "QSS 30.15"
   },
-  "SOCY-76": {
-    "description": "This course sets out to understand race and ethnicity as the product of, as well as a basis for, political struggles. The conventional sociological understanding of race and ethnicity focuses on difference. That is, although sociologists take pains to argue that racial and ethnic differences are socially constructed, the vast, long-standing inequality among racial and ethnic groups make it very tempting to perceive the status quo as inevitable, if not natural. In order to counter this trend, we have to center the concept of power and trace how racial and ethnic divisions came to emerge from the political struggles of the past. And in doing so, it is crucial to understand not only successes but also failures of white supremacy—namely that non-whites have always disrupted workings of the dominant system, sometimes through electoral politics and other times through direct action.",
-    "distribs": "Dist:SOC; WCult:W",
-    "instructor": "",
-    "number": 76,
-    "offered": "",
-    "subject": "SOCY",
-    "title": "SOCY 76 Race, Power, and Politics"
-  },
   "SOCY-79": {
     "description": "",
     "instructor": "Varies",
@@ -30711,15 +30139,6 @@
     "offered": "",
     "subject": "SOCY",
     "title": "SOCY 79.11 Nationalism and the Radical Right"
-  },
-  "SOCY-79.13": {
-    "description": "This course introduces students to a cultural history of the relationship between Sociology and Literature in America from the early twentieth century to the present. Taking inspiration from recent scholarly approaches to literary interpretation that draw on sociological methods for interpreting texts quantitatively, relationally, and descriptively, we will also examine the ways in which sociology has long been occupied by phenomena often associated with literature: subjectivity, uncertainty, and linguistic form. Beginning with the institutionalization of sociology in the 1920s and 1930s, we will explore aesthetic texts alongside sociological works and other cultural documents. In doing so we will situate ourselves in a historical milieu and reconsider conventional literary categories and lineages such as documentary and docupoetry, the photo-essay, and New Journalism through the lens of their response to and use of sociological methods and tropes.",
-    "distribs": "Dist:LIT; WCult:W",
-    "instructor": "",
-    "number": 79.13,
-    "offered": "",
-    "subject": "SOCY",
-    "title": "SOCY 79.13 Socio/Poetics: Sociological Method and Literary Form"
   },
   "SOCY-80": {
     "description": "This course offers the qualified student an opportunity to pursue a subject of special interest, under the direction of a faculty adviser assigned to the student for periodic (usually weekly) conferences. Ordinarily at least one formal paper embodying the results of the reading or research is required. In special situations students may work as a team on a single project. Occasionally credit may be given in SOCY 80 for a research project done in an off-campus term, provided arrangements are made well in advance and adequate off-campus supervision can be assured. Although every effort will be made to accommodate qualified students desiring to carry an independent study, there is no guarantee that independent study can be arranged for any given student in any given term, and preference is given to senior and junior Sociology majors. Normally no student may take SOCY 80 more than twice during the undergraduate career. By permission of a Sociology faculty member prior to registration.",
@@ -31392,15 +30811,6 @@
     "title": "THEA 10.57 Dance Theatre of Harlem Workshop: Collaborative Storytelling Through Movement",
     "xlist": "AAAS 31.10"
   },
-  "THEA-10.64": {
-    "description": "This course explores representations of feminist and queer Africa in theatre, dance, and film. How do female-identified, nonbinary, and/or queer African artists use creative expression to navigate and challenge neocolonial, heteropatriarchal regimes and advance ideas of LGBTQIA  rights and gender equality? Although several countries will be considered during the term, Kenya and Uganda receive a particular emphasis. All students are welcome; no prior knowledge of Africa and/or theories of gender and sexuality are needed.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 10.64,
-    "offered": "",
-    "subject": "THEA",
-    "title": "THEA 10.64 Feminist and Queer Africa on Stage & Screen"
-  },
   "THEA-10.65": {
     "description": "This course provides an overview of women's dramatic writing and cultural expression from Latin America and considers how these texts intersect, reflect, disrupt or resist canonical literary movements in Latin America. Course content includes traditional dramatic forms as well as non-literary, visual and performative forms of expression.  By examining works of very diverse ranges, we will also challenge society’s and the authors’ conceptualizations of Latin American women as a way to critique underlying issues of race, class, gender, and other power structures.",
     "distribs": "Dist:ART; WCult:NW",
@@ -31410,15 +30820,6 @@
     "subject": "THEA",
     "title": "THEA 10.65 Performeras on the Latin American Stage",
     "xlist": "LACS 049 SPAN 65.09"
-  },
-  "THEA-10.68": {
-    "description": "This course follows the history of theatre in the Latinx Americas (encompassing a hemispheric approach) for social change. Students will learn about Theatre of the Oppressed, guerilla theatre in all its forms used throughout Latin America and Latinx communities, playwrights writing about social justice issues, and activist performance. We will focus on plays and performances that have as their central theme rebellion and the rebel as we question the nature of rebellion, its manifestations, and consequences.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 10.68,
-    "offered": "",
-    "subject": "THEA",
-    "title": "THEA 10.68 Staging Rebellion. Dissidence in Latinx American Theatre"
   },
   "THEA-10.71": {
     "description": "An advanced acting class in the art of performing comedy. Building on the basics of Acting I, this course will examine how the fundamentals of acting are adapted to playing a heightened comedic text.  Students will be introduced to a broad range of comedic performance, past and present, from sketch comedy to standup to films and television, developing a vocabulary of reference points, styles, and approaches to be applied in their rehearsals of the text.  The course will culminate in a public presentation of the play. Roles may be shared.",
@@ -31768,7 +31169,7 @@
   },
   "TUCK-1": {
     "description": "The purpose of this course is to introduce students to the principles of financial accounting and to teach students to be critical users of financial statements. The course is divided into two parts. The first part introduces students to the concepts and measurements underlying financial statements. The second part focuses on analyzing financial statements and understanding the choices firms make in reporting financial results. Students will be exposed to the decisions firms make relating to their operating, capital investment, and financing activities and how managers use discretion to affect reported financial results. Priority given to seniors, juniors, and then sophomores.",
-    "instructor": "Jordan M. Schoenfeld",
+    "instructor": "Thomas L. Porter",
     "number": 1,
     "offered": "",
     "subject": "TUCK",
@@ -31900,7 +31301,8 @@
     "number": 24.02,
     "offered": "",
     "subject": "WGSS",
-    "title": "WGSS 24.02 Gender and The Modern Middle East and North Africa"
+    "title": "WGSS 24.02 Gender and The Modern Middle East and North Africa",
+    "xlist": "HIST 70; MES 19.04"
   },
   "WGSS-26.02": {
     "description": "This course will trace the involvement of U.S. women in radical political movements from the mid-nineteenth century to the present including: Abolitionism; Anti-lynching; Socialist Trade Unionism; the Ku Klux Klan; the Communist Party; the National Welfare Rights Organization; the Civil Rights Movement; the New Left; the New Right; the direct-action wing of the anti-abortion movement; Earth First; and the neo-Nazi American Front. It will also examine the relationship between feminist ideologies and non-gender-specific radical political ideologies centered on race, class, and other social identifiers.",
@@ -32559,33 +31961,6 @@
     "offered": "",
     "subject": "WGSS",
     "title": "WGSS 66.09 Black Consciousness and Black Feminisms"
-  },
-  "WGSS-66.13": {
-    "description": "In this class we will investigate different texts and representations of female experiences by Jewish authors from the Weimar Republic to the end of the 20th century.  The intersection of gender with Jewish German culture became one of the most important topics in cultural and literary research during the last decades. We will read and discuss lyrical and political, essayistic and autobiographical texts written by authors under extremely different political and historical circumstances; and we also will discuss theoretical and methodological problems in the field of Jewish German history and culture. Taught in English translation. Students taking the class for major or minor credit in German Studies will have the option to enroll in an additional German-language discussion section.",
-    "distribs": "Dist:LIT; WCult:CI",
-    "instructor": "",
-    "number": 66.13,
-    "offered": "",
-    "subject": "WGSS",
-    "title": "WGSS 66.13 Gender and Jewish-German Culture"
-  },
-  "WGSS-66.14": {
-    "description": "This course examines the changing economic roles of women and men in modern economies and the trade-offs faced by households. The origins and persistence of these trade-offs are analyzed through the lenses of economic models. The ultimate objective is to provide you with the tools to critically address a wide range of real-world questions related to gender and family. For instance: How have technological changes in the home and the market transformed families? In what ways are families in the US becoming increasingly stratified? What forces led married women to enter paid employment? What forces might lead them to “opt-out”? What is the rationale for paid parental leave? Why some firms offer it? Should they?",
-    "distribs": "Dist:SOC",
-    "instructor": "",
-    "number": 66.14,
-    "offered": "",
-    "subject": "WGSS",
-    "title": "WGSS 66.14 Gender and Family Issues in Modern Economies"
-  },
-  "WGSS-66.15": {
-    "description": "This course explores representations of feminist and queer Africa in theatre, dance, and film. How do female-identified, nonbinary, and/or queer African artists use creative expression to navigate and challenge neocolonial, heteropatriarchal regimes and advance ideas of LGBTQIA  rights and gender equality? Although several countries will be considered during the term, Kenya and Uganda receive a particular emphasis. All students are welcome; no prior knowledge of Africa and/or theories of gender and sexuality are needed.",
-    "distribs": "Dist:ART; WCult:NW",
-    "instructor": "",
-    "number": 66.15,
-    "offered": "",
-    "subject": "WGSS",
-    "title": "WGSS 66.15 Feminist and Queer Africa on Stage & Screen"
   },
   "WGSS-67.01": {
     "description": "This course will examine how Freud’s own writings, his biography, and his biographers have \\fshaped the perceptions of psychoanalysis as a specifically Jewish theory and practice.  Through \\fa reading of Freud’s texts on gender, sexuality, and religion, we will trace the connects between psychoanalysis, Jewishness, and gender that have impacted theoretical discussion.  We will explore critique, including Horney, Reich, and Marcuse, and recent debate on the status of Freud in the U.S.",
