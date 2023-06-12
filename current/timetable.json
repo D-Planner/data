@@ -1150,7 +1150,7 @@
     "xlist": "ENGL 53.35 01"
   },
   "AAAS-88.17-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60083",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=AAAS&numb=88.17",
@@ -1164,7 +1164,7 @@
     "number": 88.17,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "002",
     "section": "01",
     "status": null,
     "subject": "AAAS",
@@ -1675,7 +1675,7 @@
     "xlist": "REL 067 01"
   },
   "ANTH-12.19-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60428",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ANTH&numb=12.19",
@@ -1689,7 +1689,7 @@
     "number": 12.19,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "ANTH",
@@ -1825,7 +1825,7 @@
     "xlist": null
   },
   "ANTH-3-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": "NR Eligible",
     "crn": "60088",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ANTH&numb=003",
@@ -1839,7 +1839,7 @@
     "number": 3,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "ANTH",
@@ -2075,7 +2075,7 @@
     "xlist": null
   },
   "ANTH-50.21-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60085",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ANTH&numb=50.21",
@@ -2089,7 +2089,7 @@
     "number": 50.21,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "002",
     "section": "01",
     "status": null,
     "subject": "ANTH",
@@ -4350,7 +4350,7 @@
     "xlist": "ASCL 62.12 01"
   },
   "ARTH-62.3-202306-01": {
-    "building": null,
+    "building": "Hood Museum",
     "creditOptions": null,
     "crn": "60061",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ARTH&numb=62.30",
@@ -4364,7 +4364,7 @@
     "number": 62.3,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "122",
     "section": "01",
     "status": "IP",
     "subject": "ARTH",
@@ -4425,7 +4425,7 @@
     "xlist": null
   },
   "ARTH-63.13-202306-01": {
-    "building": null,
+    "building": "Carpenter Hall",
     "creditOptions": null,
     "crn": "60056",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ARTH&numb=63.13",
@@ -4439,7 +4439,7 @@
     "number": 63.13,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "201c",
     "section": "01",
     "status": "IP",
     "subject": "ARTH",
@@ -5175,7 +5175,7 @@
     "xlist": "REL 010 01"
   },
   "ASCL-61.1-202306-01": {
-    "building": null,
+    "building": "Anonymous Hall",
     "creditOptions": null,
     "crn": "60109",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ASCL&numb=61.10",
@@ -5189,7 +5189,7 @@
     "number": 61.1,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "314",
     "section": "01",
     "status": "IP",
     "subject": "ASCL",
@@ -5325,7 +5325,7 @@
     "xlist": "ARTH 62.30 01"
   },
   "ASCL-62.12-202306-01": {
-    "building": null,
+    "building": "Hood Museum",
     "creditOptions": null,
     "crn": "60059",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ASCL&numb=62.12",
@@ -5339,7 +5339,7 @@
     "number": 62.12,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "122",
     "section": "01",
     "status": "IP",
     "subject": "ASCL",
@@ -5625,7 +5625,7 @@
     "xlist": null
   },
   "ASCL-70.18-202306-01": {
-    "building": null,
+    "building": "Silsby Hall",
     "creditOptions": "NR Eligible",
     "crn": "60104",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ASCL&numb=70.18",
@@ -5639,7 +5639,7 @@
     "number": 70.18,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "113",
     "section": "01",
     "status": "IP",
     "subject": "ASCL",
@@ -6075,7 +6075,7 @@
     "xlist": null
   },
   "ASTR-1-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60413",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ASTR&numb=001",
@@ -6089,7 +6089,7 @@
     "number": 1,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "006",
     "section": "01",
     "status": null,
     "subject": "ASTR",
@@ -6150,7 +6150,7 @@
     "xlist": null
   },
   "ASTR-2-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60200",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ASTR&numb=002",
@@ -6164,7 +6164,7 @@
     "number": 2,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "006",
     "section": "01",
     "status": null,
     "subject": "ASTR",
@@ -7725,7 +7725,7 @@
     "xlist": null
   },
   "BIOL-13-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60082",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=013",
@@ -7739,7 +7739,7 @@
     "number": 13,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "200",
     "section": "01",
     "status": null,
     "subject": "BIOL",
@@ -7825,7 +7825,7 @@
     "xlist": null
   },
   "BIOL-14-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": "NR Eligible",
     "crn": "60300",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=014",
@@ -7839,7 +7839,7 @@
     "number": 14,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "200",
     "section": "01",
     "status": null,
     "subject": "BIOL",
@@ -8080,7 +8080,7 @@
     "crn": "60179",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=169",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "2",
     "fys": "N",
     "instructor": "Amanda Amodeo",
     "languageRequirement": null,
@@ -8600,7 +8600,7 @@
     "xlist": null
   },
   "BIOL-22-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": "NR Eligible",
     "crn": "60368",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=022",
@@ -8614,7 +8614,7 @@
     "number": 22,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "BIOL",
@@ -10075,7 +10075,7 @@
     "xlist": null
   },
   "BIOL-45-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60063",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=045",
@@ -10089,7 +10089,7 @@
     "number": 45,
     "period": "TuTh4:30-6:20, F 4:35-5:25",
     "periodCode": "3B",
-    "room": null,
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "BIOL",
@@ -10500,7 +10500,7 @@
     "xlist": null
   },
   "BIOL-72-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60387",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=BIOL&numb=072",
@@ -10514,7 +10514,7 @@
     "number": 72,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "BIOL",
@@ -13800,7 +13800,7 @@
     "xlist": null
   },
   "CHEM-52-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": "NR Eligible",
     "crn": "60180",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CHEM&numb=052",
@@ -13814,7 +13814,7 @@
     "number": 52,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "200",
     "section": "01",
     "status": null,
     "subject": "CHEM",
@@ -13825,7 +13825,7 @@
     "xlist": null
   },
   "CHEM-52-202306-02": {
-    "building": null,
+    "building": "Burke HallSteele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60119",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CHEM&numb=052",
@@ -13839,7 +13839,7 @@
     "number": 52,
     "period": "M 3:16 PM-6:10 PMM 2:10 PM-3:15 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "309006",
     "section": "02",
     "status": "IP",
     "subject": "CHEM",
@@ -13850,7 +13850,7 @@
     "xlist": null
   },
   "CHEM-52-202306-03": {
-    "building": null,
+    "building": "Burke HallSteele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60197",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CHEM&numb=052",
@@ -13864,7 +13864,7 @@
     "number": 52,
     "period": "Tu 3:31 PM-6:25 PMTu 2:25 PM-3:30 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "309006",
     "section": "03",
     "status": null,
     "subject": "CHEM",
@@ -14200,7 +14200,7 @@
     "xlist": null
   },
   "CHEM-63-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60117",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CHEM&numb=063",
@@ -14214,7 +14214,7 @@
     "number": 63,
     "period": "MWF 8:50-9:55, Th 9:05-9:55",
     "periodCode": "9L",
-    "room": null,
+    "room": "315",
     "section": "01",
     "status": null,
     "subject": "CHEM",
@@ -15475,7 +15475,7 @@
     "xlist": null
   },
   "CHIN-41-202306-01": {
-    "building": null,
+    "building": "Anonymous Hall",
     "creditOptions": "NR Eligible",
     "crn": "60102",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CHIN&numb=041",
@@ -15489,7 +15489,7 @@
     "number": 41,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "114",
     "section": "01",
     "status": null,
     "subject": "CHIN",
@@ -15750,7 +15750,7 @@
     "xlist": null
   },
   "CLST-10.15-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60089",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CLST&numb=10.15",
@@ -15764,7 +15764,7 @@
     "number": 10.15,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": "IP",
     "subject": "CLST",
@@ -15800,7 +15800,7 @@
     "xlist": null
   },
   "CLST-11.02-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60068",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CLST&numb=11.02",
@@ -15814,7 +15814,7 @@
     "number": 11.02,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": "IP",
     "subject": "CLST",
@@ -15850,7 +15850,7 @@
     "xlist": "REL 031 01, WGSS 43.02 01"
   },
   "CLST-11.2-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60184",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CLST&numb=11.20",
@@ -15864,7 +15864,7 @@
     "number": 11.2,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "CLST",
@@ -16425,7 +16425,7 @@
     "xlist": "RUSS 38.12 01"
   },
   "COCO-30-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60077",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COCO&numb=030",
@@ -16439,7 +16439,7 @@
     "number": 30,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "COCO",
@@ -17424,6 +17424,31 @@
     "wc": null,
     "xlist": null
   },
+  "COLT-110-202309-01": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "92374",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202309&subj=COLT&numb=110",
+    "distribs": null,
+    "enrollment": "0",
+    "fys": "N",
+    "instructor": "Ainsley Morse",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "12",
+    "number": 110,
+    "period": "Arrange",
+    "periodCode": "ARR",
+    "room": null,
+    "section": "01",
+    "status": "IP",
+    "subject": "COLT",
+    "term": "202309",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202309&p_crn=92374",
+    "title": "Supervised UG Teaching in COLT",
+    "wc": null,
+    "xlist": null
+  },
   "COLT-179-202303-01": {
     "building": null,
     "creditOptions": null,
@@ -17475,7 +17500,7 @@
     "xlist": "GERM 42.04 01"
   },
   "COLT-18.04-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60073",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COLT&numb=18.04",
@@ -17489,7 +17514,7 @@
     "number": 18.04,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "104",
     "section": "01",
     "status": null,
     "subject": "COLT",
@@ -17975,7 +18000,7 @@
     "xlist": "INTS 17.10 01, ITAL 35.02 01"
   },
   "COLT-57.1-202306-01": {
-    "building": null,
+    "building": "Silsby Hall",
     "creditOptions": "NR Eligible",
     "crn": "60107",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COLT&numb=57.10",
@@ -17989,7 +18014,7 @@
     "number": 57.1,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "113",
     "section": "01",
     "status": "IP",
     "subject": "COLT",
@@ -18775,7 +18800,7 @@
     "xlist": null
   },
   "COSC-124-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60353",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=124",
@@ -18789,7 +18814,7 @@
     "number": 124,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "B07",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -18825,7 +18850,7 @@
     "xlist": null
   },
   "COSC-125-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60321",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=125",
@@ -18839,7 +18864,7 @@
     "number": 125,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "009",
     "section": "01",
     "status": "IP",
     "subject": "COSC",
@@ -18900,7 +18925,7 @@
     "xlist": null
   },
   "COSC-129-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60361",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=129",
@@ -18914,7 +18939,7 @@
     "number": 129,
     "period": "TuTh4:30-6:20, F 4:35-5:25",
     "periodCode": "3B",
-    "room": null,
+    "room": "B07",
     "section": "01",
     "status": "IP",
     "subject": "COSC",
@@ -19200,7 +19225,7 @@
     "xlist": null
   },
   "COSC-19.01-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60364",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=19.01",
@@ -19214,7 +19239,7 @@
     "number": 19.01,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "041",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -19575,7 +19600,7 @@
     "xlist": null
   },
   "COSC-24-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60362",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=024",
@@ -19589,7 +19614,7 @@
     "number": 24,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "B07",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -19650,7 +19675,7 @@
     "xlist": null
   },
   "COSC-25.01-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60075",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=25.01",
@@ -19664,7 +19689,7 @@
     "number": 25.01,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "009",
     "section": "01",
     "status": "IP",
     "subject": "COSC",
@@ -20300,7 +20325,7 @@
     "xlist": null
   },
   "COSC-29.05-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60351",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=29.05",
@@ -20314,7 +20339,7 @@
     "number": 29.05,
     "period": "TuTh4:30-6:20, F 4:35-5:25",
     "periodCode": "3B",
-    "room": null,
+    "room": "B07",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -21450,7 +21475,7 @@
     "xlist": null
   },
   "COSC-55-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60333",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=055",
@@ -21464,7 +21489,7 @@
     "number": 55,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "201",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -21525,7 +21550,7 @@
     "xlist": "ENGS 031 01"
   },
   "COSC-56-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60315",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=056",
@@ -21539,7 +21564,7 @@
     "number": 56,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "008",
     "section": "01",
     "status": "IP",
     "subject": "COSC",
@@ -21575,7 +21600,7 @@
     "xlist": null
   },
   "COSC-61-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60343",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=COSC&numb=061",
@@ -21589,7 +21614,7 @@
     "number": 61,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "008",
     "section": "01",
     "status": null,
     "subject": "COSC",
@@ -23000,7 +23025,7 @@
     "xlist": null
   },
   "CRWT-10-202306-01": {
-    "building": null,
+    "building": "Carpenter Hall",
     "creditOptions": "NR Eligible",
     "crn": "60114",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CRWT&numb=010",
@@ -23014,7 +23039,7 @@
     "number": 10,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "103",
     "section": "01",
     "status": "IP",
     "subject": "CRWT",
@@ -23125,7 +23150,7 @@
     "xlist": null
   },
   "CRWT-11-202306-01": {
-    "building": null,
+    "building": "Carpenter Hall",
     "creditOptions": "NR Eligible",
     "crn": "60219",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=CRWT&numb=011",
@@ -23139,7 +23164,7 @@
     "number": 11,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "201c",
     "section": "01",
     "status": null,
     "subject": "CRWT",
@@ -25200,7 +25225,7 @@
     "xlist": null
   },
   "EARS-40-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": null,
     "crn": "60341",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EARS&numb=040",
@@ -25214,7 +25239,7 @@
     "number": 40,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "EARS",
@@ -25225,7 +25250,7 @@
     "xlist": null
   },
   "EARS-40-202306-02": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60352",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EARS&numb=040",
@@ -25239,7 +25264,7 @@
     "number": 40,
     "period": "M 2:05 PM-5:05 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "414",
     "section": "02",
     "status": null,
     "subject": "EARS",
@@ -25250,7 +25275,7 @@
     "xlist": null
   },
   "EARS-40-202306-03": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60354",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EARS&numb=040",
@@ -25264,7 +25289,7 @@
     "number": 40,
     "period": "Tu 2:25 PM-5:25 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "414",
     "section": "03",
     "status": null,
     "subject": "EARS",
@@ -25350,7 +25375,7 @@
     "xlist": null
   },
   "EARS-5-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": "NR Eligible",
     "crn": "60367",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EARS&numb=005",
@@ -25364,7 +25389,7 @@
     "number": 5,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "100",
     "section": "01",
     "status": null,
     "subject": "EARS",
@@ -26825,7 +26850,7 @@
     "xlist": null
   },
   "ECON-20-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60108",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=020",
@@ -26839,7 +26864,7 @@
     "number": 20,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "002",
     "section": "01",
     "status": null,
     "subject": "ECON",
@@ -26850,7 +26875,7 @@
     "xlist": null
   },
   "ECON-20-202306-02": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60137",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=020",
@@ -26864,7 +26889,7 @@
     "number": 20,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "002",
     "section": "02",
     "status": "IP",
     "subject": "ECON",
@@ -27025,7 +27050,7 @@
     "xlist": null
   },
   "ECON-21-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60127",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=021",
@@ -27039,7 +27064,7 @@
     "number": 21,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "L02",
     "section": "01",
     "status": null,
     "subject": "ECON",
@@ -27050,7 +27075,7 @@
     "xlist": null
   },
   "ECON-21-202306-02": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60129",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=021",
@@ -27064,7 +27089,7 @@
     "number": 21,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "L02",
     "section": "02",
     "status": "IP",
     "subject": "ECON",
@@ -27225,7 +27250,7 @@
     "xlist": null
   },
   "ECON-22-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60091",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=022",
@@ -27239,7 +27264,7 @@
     "number": 22,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": "IP",
     "subject": "ECON",
@@ -27250,7 +27275,7 @@
     "xlist": null
   },
   "ECON-22-202306-02": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60092",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=022",
@@ -27264,7 +27289,7 @@
     "number": 22,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "001",
     "section": "02",
     "status": "IP",
     "subject": "ECON",
@@ -27575,7 +27600,7 @@
     "xlist": null
   },
   "ECON-26-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60110",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=026",
@@ -27589,7 +27614,7 @@
     "number": 26,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "ECON",
@@ -27600,7 +27625,7 @@
     "xlist": null
   },
   "ECON-26-202306-02": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60120",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ECON&numb=026",
@@ -27614,7 +27639,7 @@
     "number": 26,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "002",
     "section": "02",
     "status": null,
     "subject": "ECON",
@@ -30030,7 +30055,7 @@
     "crn": "60350",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EEES&numb=169",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "2",
     "fys": "N",
     "instructor": "Amanda Amodeo",
     "languageRequirement": null,
@@ -30255,7 +30280,7 @@
     "crn": "60113",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=EEES&numb=198",
     "distribs": null,
-    "enrollment": "0",
+    "enrollment": "1",
     "fys": "N",
     "instructor": "Matthew Ayres",
     "languageRequirement": null,
@@ -31180,7 +31205,7 @@
     "crn": "30626",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202303&subj=ENGG&numb=192",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "0",
     "fys": "N",
     "instructor": null,
     "languageRequirement": null,
@@ -31205,7 +31230,7 @@
     "crn": "32476",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202303&subj=ENGG&numb=192",
     "distribs": null,
-    "enrollment": "3",
+    "enrollment": "4",
     "fys": "N",
     "instructor": "Kimberley Samkoe",
     "languageRequirement": null,
@@ -32380,7 +32405,7 @@
     "crn": "60046",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGG&numb=298",
     "distribs": null,
-    "enrollment": "58",
+    "enrollment": "62",
     "fys": "N",
     "instructor": null,
     "languageRequirement": null,
@@ -32480,7 +32505,7 @@
     "crn": "60048",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGG&numb=300",
     "distribs": null,
-    "enrollment": "8",
+    "enrollment": "9",
     "fys": "N",
     "instructor": "Charles Wyman",
     "languageRequirement": null,
@@ -33125,7 +33150,7 @@
     "xlist": null
   },
   "ENGL-48-202306-01": {
-    "building": null,
+    "building": "Thornton Hall",
     "creditOptions": null,
     "crn": "60166",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=048",
@@ -33139,7 +33164,7 @@
     "number": 48,
     "period": "TuTh4:30-6:20, F 4:35-5:25",
     "periodCode": "3B",
-    "room": null,
+    "room": "102",
     "section": "01",
     "status": null,
     "subject": "ENGL",
@@ -33175,7 +33200,7 @@
     "xlist": null
   },
   "ENGL-52.17-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": "NR Eligible",
     "crn": "60118",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=52.17",
@@ -33189,7 +33214,7 @@
     "number": 52.17,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "107",
     "section": "01",
     "status": "IP",
     "subject": "ENGL",
@@ -33325,7 +33350,7 @@
     "xlist": "AAAS 88.12 01"
   },
   "ENGL-53.39-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60112",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=53.39",
@@ -33339,7 +33364,7 @@
     "number": 53.39,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "107",
     "section": "01",
     "status": null,
     "subject": "ENGL",
@@ -33725,7 +33750,7 @@
     "xlist": null
   },
   "ENGL-62.05-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": "NR Eligible",
     "crn": "60208",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=62.05",
@@ -33739,7 +33764,7 @@
     "number": 62.05,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "112",
     "section": "01",
     "status": null,
     "subject": "ENGL",
@@ -33775,7 +33800,7 @@
     "xlist": null
   },
   "ENGL-63.1-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60194",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=63.10",
@@ -33789,7 +33814,7 @@
     "number": 63.1,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "103",
     "section": "01",
     "status": null,
     "subject": "ENGL",
@@ -33850,7 +33875,7 @@
     "xlist": null
   },
   "ENGL-64.04-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60182",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGL&numb=64.04",
@@ -33864,7 +33889,7 @@
     "number": 64.04,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": null,
     "subject": "ENGL",
@@ -35850,21 +35875,21 @@
     "xlist": null
   },
   "ENGS-15.07-202306-01": {
-    "building": null,
+    "building": "MacLean",
     "creditOptions": null,
     "crn": "60619",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=15.07",
     "distribs": null,
     "enrollment": "20",
     "fys": "N",
-    "instructor": null,
+    "instructor": "Michael D'Andrea",
     "languageRequirement": null,
     "learningObjective": null,
     "limit": "20",
     "number": 15.07,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "132",
     "section": "01",
     "status": null,
     "subject": "ENGS",
@@ -36425,7 +36450,7 @@
     "xlist": null
   },
   "ENGS-2-202306-01": {
-    "building": null,
+    "building": "MacLean",
     "creditOptions": null,
     "crn": "60115",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=002",
@@ -36439,7 +36464,7 @@
     "number": 2,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "B01 Zalesk",
     "section": "01",
     "status": "IP",
     "subject": "ENGS",
@@ -36600,7 +36625,7 @@
     "xlist": null
   },
   "ENGS-21-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60123",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=021",
@@ -36614,7 +36639,7 @@
     "number": 21,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "116",
     "section": "01",
     "status": "IP",
     "subject": "ENGS",
@@ -36700,7 +36725,7 @@
     "xlist": null
   },
   "ENGS-22-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60128",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=022",
@@ -36714,7 +36739,7 @@
     "number": 22,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "116",
     "section": "01",
     "status": "IP",
     "subject": "ENGS",
@@ -36975,7 +37000,7 @@
     "xlist": null
   },
   "ENGS-24-202306-01": {
-    "building": null,
+    "building": "MacLean",
     "creditOptions": null,
     "crn": "60140",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=024",
@@ -36989,7 +37014,7 @@
     "number": 24,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "B01 Zalesk",
     "section": "01",
     "status": null,
     "subject": "ENGS",
@@ -37050,7 +37075,7 @@
     "xlist": null
   },
   "ENGS-25-202306-01": {
-    "building": null,
+    "building": "MacLean",
     "creditOptions": null,
     "crn": "60146",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=025",
@@ -37064,7 +37089,7 @@
     "number": 25,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "132",
     "section": "01",
     "status": null,
     "subject": "ENGS",
@@ -37150,7 +37175,7 @@
     "xlist": null
   },
   "ENGS-27-202306-01": {
-    "building": null,
+    "building": "Engineering & CS Center",
     "creditOptions": null,
     "crn": "60154",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=027",
@@ -37164,7 +37189,7 @@
     "number": 27,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "008",
     "section": "01",
     "status": null,
     "subject": "ENGS",
@@ -37375,7 +37400,7 @@
     "xlist": null
   },
   "ENGS-33-202306-01": {
-    "building": null,
+    "building": "Cummings",
     "creditOptions": null,
     "crn": "60241",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENGS&numb=033",
@@ -37389,7 +37414,7 @@
     "number": 33,
     "period": "MWF 8:50-9:55, Th 9:05-9:55",
     "periodCode": "9L",
-    "room": null,
+    "room": "200",
     "section": "01",
     "status": null,
     "subject": "ENGS",
@@ -39100,7 +39125,7 @@
     "xlist": null
   },
   "ENVS-25-202306-01": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60142",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENVS&numb=025",
@@ -39114,7 +39139,7 @@
     "number": 25,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "ENVS",
@@ -39450,7 +39475,7 @@
     "xlist": null
   },
   "ENVS-61-202306-01": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60130",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=ENVS&numb=061",
@@ -39464,7 +39489,7 @@
     "number": 61,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "ENVS",
@@ -40050,7 +40075,7 @@
     "xlist": null
   },
   "FILM-1-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60177",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FILM&numb=001",
@@ -40064,7 +40089,7 @@
     "number": 1,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "104",
     "section": "01",
     "status": null,
     "subject": "FILM",
@@ -40775,7 +40800,7 @@
     "xlist": "MUS 16.04 01"
   },
   "FILM-47.01-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60169",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FILM&numb=47.01",
@@ -40789,7 +40814,7 @@
     "number": 47.01,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "109",
     "section": "01",
     "status": "IP",
     "subject": "FILM",
@@ -40800,7 +40825,7 @@
     "xlist": null
   },
   "FILM-47.01-202306-02": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60174",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FILM&numb=47.01",
@@ -40814,7 +40839,7 @@
     "number": 47.01,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "109",
     "section": "02",
     "status": "IP",
     "subject": "FILM",
@@ -40925,7 +40950,7 @@
     "xlist": null
   },
   "FILM-48.02-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60288",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FILM&numb=48.02",
@@ -40939,7 +40964,7 @@
     "number": 48.02,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "247",
     "section": "01",
     "status": "IP",
     "subject": "FILM",
@@ -41100,7 +41125,7 @@
     "xlist": "COLT 40.07 01, MUS 046 01"
   },
   "FILM-51-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60132",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FILM&numb=051",
@@ -41114,7 +41139,7 @@
     "number": 51,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "247",
     "section": "01",
     "status": "IP",
     "subject": "FILM",
@@ -41600,7 +41625,7 @@
     "xlist": null
   },
   "FREN-10.1-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": "NR Eligible",
     "crn": "60229",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FREN&numb=10.10",
@@ -41614,7 +41639,7 @@
     "number": 10.1,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "304",
     "section": "01",
     "status": null,
     "subject": "FREN",
@@ -42475,7 +42500,7 @@
     "xlist": null
   },
   "FREN-75.04-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": "NR Eligible",
     "crn": "60339",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FREN&numb=75.04",
@@ -42489,7 +42514,7 @@
     "number": 75.04,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "FREN",
@@ -42625,7 +42650,7 @@
     "xlist": null
   },
   "FREN-8-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60357",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FREN&numb=008",
@@ -42639,7 +42664,7 @@
     "number": 8,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "111",
     "section": "01",
     "status": null,
     "subject": "FREN",
@@ -42875,7 +42900,7 @@
     "xlist": null
   },
   "FRIT-35.03-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60284",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=FRIT&numb=35.03",
@@ -42889,7 +42914,7 @@
     "number": 35.03,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "112",
     "section": "01",
     "status": null,
     "subject": "FRIT",
@@ -44375,7 +44400,7 @@
     "xlist": null
   },
   "GEOG-32.01-202306-01": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60163",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GEOG&numb=32.01",
@@ -44389,7 +44414,7 @@
     "number": 32.01,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "GEOG",
@@ -44725,7 +44750,7 @@
     "xlist": null
   },
   "GEOG-50.02-202306-01": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": "NR Eligible",
     "crn": "60158",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GEOG&numb=50.02",
@@ -44739,7 +44764,7 @@
     "number": 50.02,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "GEOG",
@@ -44850,7 +44875,7 @@
     "xlist": null
   },
   "GEOG-55-202306-01": {
-    "building": null,
+    "building": "Fairchild",
     "creditOptions": null,
     "crn": "60156",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GEOG&numb=055",
@@ -44864,7 +44889,7 @@
     "number": 55,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "GEOG",
@@ -45725,7 +45750,7 @@
     "xlist": null
   },
   "GERM-10.01-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": "NR Eligible",
     "crn": "60243",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GERM&numb=10.01",
@@ -45739,7 +45764,7 @@
     "number": 10.01,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "208",
     "section": "01",
     "status": null,
     "subject": "GERM",
@@ -46225,7 +46250,7 @@
     "xlist": "JWST 34.03 01"
   },
   "GERM-46.03-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60235",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GERM&numb=46.03",
@@ -46239,7 +46264,7 @@
     "number": 46.03,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "108",
     "section": "01",
     "status": null,
     "subject": "GERM",
@@ -46800,7 +46825,7 @@
     "xlist": "WGSS 31.04 01"
   },
   "GOVT-20.02-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60236",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=20.02",
@@ -46814,7 +46839,7 @@
     "number": 20.02,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "209",
     "section": "01",
     "status": null,
     "subject": "GOVT",
@@ -46950,7 +46975,7 @@
     "xlist": null
   },
   "GOVT-25-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60621",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=025",
@@ -46964,7 +46989,7 @@
     "number": 25,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "L02",
     "section": "01",
     "status": null,
     "subject": "GOVT",
@@ -47150,7 +47175,7 @@
     "xlist": "EDUC 035 01, PBPL 027 01"
   },
   "GOVT-30.15-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60211",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=30.15",
@@ -47164,7 +47189,7 @@
     "number": 30.15,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -47350,7 +47375,7 @@
     "xlist": "JWST 40.01 01, MES 12.09 01"
   },
   "GOVT-40.09-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60162",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=40.09",
@@ -47364,7 +47389,7 @@
     "number": 40.09,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "GOVT",
@@ -47850,7 +47875,7 @@
     "xlist": null
   },
   "GOVT-50.02-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60234",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=50.02",
@@ -47864,7 +47889,7 @@
     "number": 50.02,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -48250,7 +48275,7 @@
     "xlist": "MES 12.05 01"
   },
   "GOVT-60.2-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60240",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=60.20",
@@ -48264,7 +48289,7 @@
     "number": 60.2,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -48300,7 +48325,7 @@
     "xlist": null
   },
   "GOVT-66.02-202306-01": {
-    "building": null,
+    "building": "Silsby Hall",
     "creditOptions": null,
     "crn": "60281",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=66.02",
@@ -48314,7 +48339,7 @@
     "number": 66.02,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "113",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -48675,7 +48700,7 @@
     "xlist": null
   },
   "GOVT-81.28-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60153",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=81.28",
@@ -48689,7 +48714,7 @@
     "number": 81.28,
     "period": "MTh 6:30-8:20, Tu 6:30-7:20",
     "periodCode": "6A",
-    "room": null,
+    "room": "209",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -49100,7 +49125,7 @@
     "xlist": null
   },
   "GOVT-85.29-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60260",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GOVT&numb=85.29",
@@ -49114,7 +49139,7 @@
     "number": 85.29,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "209",
     "section": "01",
     "status": "IP",
     "subject": "GOVT",
@@ -49950,7 +49975,7 @@
     "xlist": null
   },
   "GRK-30.04-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60195",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=GRK&numb=30.04",
@@ -49964,7 +49989,7 @@
     "number": 30.04,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "GRK",
@@ -50350,7 +50375,7 @@
     "xlist": null
   },
   "HIST-10.02-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60167",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=10.02",
@@ -50364,7 +50389,7 @@
     "number": 10.02,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -50750,7 +50775,7 @@
     "xlist": "WGSS 23.02 01"
   },
   "HIST-29-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60286",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=029",
@@ -50764,7 +50789,7 @@
     "number": 29,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -50800,7 +50825,7 @@
     "xlist": null
   },
   "HIST-31.03-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60430",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=31.03",
@@ -50814,7 +50839,7 @@
     "number": 31.03,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -51675,7 +51700,7 @@
     "xlist": null
   },
   "HIST-70-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60259",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=070",
@@ -51689,7 +51714,7 @@
     "number": 70,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -51700,7 +51725,7 @@
     "xlist": "MES 19.04 01, WGSS 24.02 01"
   },
   "HIST-70.02-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60271",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=70.02",
@@ -51714,7 +51739,7 @@
     "number": 70.02,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "C312",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -51875,7 +51900,7 @@
     "xlist": null
   },
   "HIST-8.02-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60175",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=08.02",
@@ -51889,9 +51914,9 @@
     "number": 8.02,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "060",
     "section": "01",
-    "status": null,
+    "status": "IP",
     "subject": "HIST",
     "term": "202306",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202306&p_crn=60175",
@@ -52375,7 +52400,7 @@
     "xlist": "GERM 44.02 01, JWST 34.02 01"
   },
   "HIST-94.17-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60193",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=94.17",
@@ -52389,7 +52414,7 @@
     "number": 94.17,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "HIST",
@@ -52500,7 +52525,7 @@
     "xlist": "NAIS 81.03 01"
   },
   "HIST-96.12-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60347",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HIST&numb=96.12",
@@ -52514,7 +52539,7 @@
     "number": 96.12,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "C312",
     "section": "01",
     "status": "IP",
     "subject": "HIST",
@@ -53025,7 +53050,7 @@
     "xlist": "COLT 08.01 01, ENGL 55.25 01, GERM 46.05 01"
   },
   "HUM-4.02-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60152",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=HUM&numb=04.02",
@@ -53039,7 +53064,7 @@
     "number": 4.02,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "Filene",
     "section": "01",
     "status": null,
     "subject": "HUM",
@@ -55450,7 +55475,7 @@
     "xlist": "GOVT 40.09 01, MES 12.09 01"
   },
   "JWST-40.01-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60160",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=JWST&numb=40.01",
@@ -55464,7 +55489,7 @@
     "number": 40.01,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "JWST",
@@ -55700,7 +55725,7 @@
     "xlist": null
   },
   "JWST-74.01-202306-01": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60185",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=JWST&numb=74.01",
@@ -55714,7 +55739,7 @@
     "number": 74.01,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "JWST",
@@ -55725,7 +55750,7 @@
     "xlist": "MES 17.08 01, REL 57.02 01"
   },
   "JWST-74.01-202306-02": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60657",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=JWST&numb=74.01",
@@ -55739,7 +55764,7 @@
     "number": 74.01,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "007",
     "section": "02",
     "status": null,
     "subject": "JWST",
@@ -55975,7 +56000,7 @@
     "xlist": null
   },
   "LACS-23.61-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60429",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=LACS&numb=23.61",
@@ -55989,7 +56014,7 @@
     "number": 23.61,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "LACS",
@@ -57250,7 +57275,7 @@
     "xlist": null
   },
   "LAT-30.03-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60084",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=LAT&numb=30.03",
@@ -57264,7 +57289,7 @@
     "number": 30.03,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "102",
     "section": "01",
     "status": null,
     "subject": "LAT",
@@ -57650,7 +57675,7 @@
     "xlist": null
   },
   "LATS-44-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60426",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=LATS&numb=044",
@@ -57664,7 +57689,7 @@
     "number": 44,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "LATS",
@@ -58100,7 +58125,7 @@
     "xlist": null
   },
   "LING-1-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60264",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=LING&numb=001",
@@ -58114,7 +58139,7 @@
     "number": 1,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "LING",
@@ -58575,7 +58600,7 @@
     "xlist": null
   },
   "LING-50.05-202306-01": {
-    "building": null,
+    "building": "Anonymous Hall",
     "creditOptions": "NR Eligible",
     "crn": "60159",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=LING&numb=50.05",
@@ -58589,7 +58614,7 @@
     "number": 50.05,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "314",
     "section": "01",
     "status": null,
     "subject": "LING",
@@ -59000,7 +59025,7 @@
     "xlist": null
   },
   "MALS-120-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60369",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=120",
@@ -59014,7 +59039,7 @@
     "number": 120,
     "period": "W 4:00 PM-6:00 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "B03",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -59700,7 +59725,7 @@
     "xlist": null
   },
   "MALS-131-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60307",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=131",
@@ -59714,7 +59739,7 @@
     "number": 131,
     "period": "Tu 10:10 AM-1:05 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "150",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -59950,7 +59975,7 @@
     "xlist": null
   },
   "MALS-140-202306-01": {
-    "building": null,
+    "building": "Rockefeller",
     "creditOptions": null,
     "crn": "60263",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=140",
@@ -59964,7 +59989,7 @@
     "number": 140,
     "period": "Th 2:25 PM-5:30 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "209",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -60005,7 +60030,7 @@
     "crn": "60637",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=200",
     "distribs": null,
-    "enrollment": "9",
+    "enrollment": "10",
     "fys": "N",
     "instructor": "Donald Pease",
     "languageRequirement": null,
@@ -60250,7 +60275,7 @@
     "xlist": null
   },
   "MALS-294-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60178",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=294",
@@ -60264,7 +60289,7 @@
     "number": 294,
     "period": "M, W 12:50 PM-2:40 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "150",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -60300,7 +60325,7 @@
     "xlist": null
   },
   "MALS-318-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60273",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=318",
@@ -60314,7 +60339,7 @@
     "number": 318,
     "period": "M, W 10:10 AM-12:35 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "150",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -60400,7 +60425,7 @@
     "xlist": null
   },
   "MALS-369-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60386",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=369",
@@ -60414,7 +60439,7 @@
     "number": 369,
     "period": "M 3:30 PM-6:20 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "103",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -60425,7 +60450,7 @@
     "xlist": null
   },
   "MALS-370-202306-01": {
-    "building": null,
+    "building": "Baker Library",
     "creditOptions": null,
     "crn": "60317",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=370",
@@ -60439,7 +60464,7 @@
     "number": 370,
     "period": "Tu 4:30 PM-7:20 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "213",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -60525,7 +60550,7 @@
     "xlist": null
   },
   "MALS-700-202306-01": {
-    "building": null,
+    "building": "Berry Library",
     "creditOptions": null,
     "crn": "60371",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MALS&numb=700",
@@ -60539,7 +60564,7 @@
     "number": 700,
     "period": "Th 12:15 PM-2:10 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "277",
     "section": "01",
     "status": null,
     "subject": "MALS",
@@ -61925,7 +61950,7 @@
     "xlist": null
   },
   "MATH-148-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": null,
     "crn": "60202",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=148",
@@ -61939,7 +61964,7 @@
     "number": 148,
     "period": "M, Tu, W, Th, F 8:00 AM-5:00 PM",
     "periodCode": "OT",
-    "room": null,
+    "room": "004",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -62575,7 +62600,7 @@
     "xlist": null
   },
   "MATH-20-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": "NR Eligible",
     "crn": "60295",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=020",
@@ -62589,7 +62614,7 @@
     "number": 20,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -62725,7 +62750,7 @@
     "xlist": null
   },
   "MATH-22-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": "NR Eligible",
     "crn": "60381",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=022",
@@ -62739,7 +62764,7 @@
     "number": 22,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -63375,7 +63400,7 @@
     "xlist": "QSS 30.04 02"
   },
   "MATH-31-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": "NR Eligible",
     "crn": "60306",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=031",
@@ -63389,7 +63414,7 @@
     "number": 31,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -63650,7 +63675,7 @@
     "xlist": null
   },
   "MATH-54-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": "NR Eligible",
     "crn": "60393",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=054",
@@ -63664,7 +63689,7 @@
     "number": 54,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "108",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -63975,7 +64000,7 @@
     "xlist": null
   },
   "MATH-76.01-202306-01": {
-    "building": null,
+    "building": "Kemeny Hall",
     "creditOptions": "NR Eligible",
     "crn": "60187",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MATH&numb=76.01",
@@ -63989,7 +64014,7 @@
     "number": 76.01,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "MATH",
@@ -64650,7 +64675,7 @@
     "xlist": "GOVT 40.09 01, JWST 40.01 01"
   },
   "MES-12.09-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60164",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=12.09",
@@ -64664,7 +64689,7 @@
     "number": 12.09,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "MES",
@@ -64700,7 +64725,7 @@
     "xlist": "GOVT 40.09 01, JWST 40.01 01"
   },
   "MES-12.13-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60278",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=12.13",
@@ -64714,7 +64739,7 @@
     "number": 12.13,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "C312",
     "section": "01",
     "status": null,
     "subject": "MES",
@@ -65000,7 +65025,7 @@
     "xlist": "ARTH 10.01 01"
   },
   "MES-17.08-202306-01": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60181",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=17.08",
@@ -65014,7 +65039,7 @@
     "number": 17.08,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "MES",
@@ -65025,7 +65050,7 @@
     "xlist": "JWST 74.01 01, REL 57.02 01"
   },
   "MES-17.08-202306-02": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60656",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=17.08",
@@ -65039,7 +65064,7 @@
     "number": 17.08,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "007",
     "section": "02",
     "status": null,
     "subject": "MES",
@@ -65125,7 +65150,7 @@
     "xlist": "COLT 53.06 01, WGSS 24.01 01"
   },
   "MES-19.04-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60261",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=19.04",
@@ -65139,7 +65164,7 @@
     "number": 19.04,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "MES",
@@ -65150,7 +65175,7 @@
     "xlist": "HIST 070 01, WGSS 24.02 01"
   },
   "MES-19.05-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60654",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MES&numb=19.05",
@@ -65164,7 +65189,7 @@
     "number": 19.05,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "MES",
@@ -65680,7 +65705,7 @@
     "crn": "30507",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202303&subj=MICR&numb=107",
     "distribs": null,
-    "enrollment": "8",
+    "enrollment": "9",
     "fys": "N",
     "instructor": "Daniel Schultz",
     "languageRequirement": null,
@@ -65730,7 +65755,7 @@
     "crn": "30506",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202303&subj=MICR&numb=109",
     "distribs": null,
-    "enrollment": "9",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Benjamin Ross",
     "languageRequirement": null,
@@ -67625,7 +67650,7 @@
     "xlist": null
   },
   "MUS-3.03-202306-01": {
-    "building": null,
+    "building": "Sudikoff",
     "creditOptions": null,
     "crn": "60332",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MUS&numb=03.03",
@@ -67639,7 +67664,7 @@
     "number": 3.03,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "045",
     "section": "01",
     "status": null,
     "subject": "MUS",
@@ -68925,7 +68950,7 @@
     "xlist": null
   },
   "MUS-51-202306-01": {
-    "building": null,
+    "building": "Sudikoff",
     "creditOptions": "NR Eligible",
     "crn": "60399",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=MUS&numb=051",
@@ -68939,7 +68964,7 @@
     "number": 51,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "045",
     "section": "01",
     "status": null,
     "subject": "MUS",
@@ -72900,7 +72925,7 @@
     "xlist": "RUSS 38.23 01"
   },
   "NAIS-30.29-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60192",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=NAIS&numb=30.29",
@@ -72914,7 +72939,7 @@
     "number": 30.29,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "NAIS",
@@ -73450,7 +73475,7 @@
     "xlist": "QSS 020 01"
   },
   "PBPL-40.02-202306-01": {
-    "building": null,
+    "building": "Silsby Hall",
     "creditOptions": null,
     "crn": "60267",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PBPL&numb=40.02",
@@ -73464,7 +73489,7 @@
     "number": 40.02,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "113",
     "section": "01",
     "status": "IP",
     "subject": "PBPL",
@@ -73625,7 +73650,7 @@
     "xlist": null
   },
   "PBPL-5-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60285",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PBPL&numb=005",
@@ -73639,7 +73664,7 @@
     "number": 5,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "L02",
     "section": "01",
     "status": null,
     "subject": "PBPL",
@@ -73925,7 +73950,7 @@
     "xlist": null
   },
   "PHIL-1.07-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60316",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHIL&numb=01.07",
@@ -73939,7 +73964,7 @@
     "number": 1.07,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "PHIL",
@@ -74025,7 +74050,7 @@
     "xlist": null
   },
   "PHIL-1.11-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60198",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHIL&numb=01.11",
@@ -74039,7 +74064,7 @@
     "number": 1.11,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": null,
     "subject": "PHIL",
@@ -74150,7 +74175,7 @@
     "xlist": null
   },
   "PHIL-1.19-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": null,
     "crn": "60222",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHIL&numb=01.19",
@@ -74164,7 +74189,7 @@
     "number": 1.19,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "061",
     "section": "01",
     "status": "IP",
     "subject": "PHIL",
@@ -74250,7 +74275,7 @@
     "xlist": null
   },
   "PHIL-13.02-202306-01": {
-    "building": null,
+    "building": "Thornton Hall",
     "creditOptions": "NR Eligible",
     "crn": "60251",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHIL&numb=13.02",
@@ -74264,7 +74289,7 @@
     "number": 13.02,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "102",
     "section": "01",
     "status": null,
     "subject": "PHIL",
@@ -76725,7 +76750,7 @@
     "xlist": null
   },
   "PHYS-3-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60418",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHYS&numb=003",
@@ -76739,7 +76764,7 @@
     "number": 3,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "006",
     "section": "01",
     "status": null,
     "subject": "PHYS",
@@ -76975,7 +77000,7 @@
     "xlist": null
   },
   "PHYS-44-202306-01": {
-    "building": null,
+    "building": "Steele Hall",
     "creditOptions": "NR Eligible",
     "crn": "60210",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PHYS&numb=044",
@@ -76989,7 +77014,7 @@
     "number": 44,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "PHYS",
@@ -77800,7 +77825,7 @@
     "xlist": null
   },
   "PSYC-10-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60201",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=010",
@@ -77814,7 +77839,7 @@
     "number": 10,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "PSYC",
@@ -77900,7 +77925,7 @@
     "xlist": null
   },
   "PSYC-11-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60422",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=011",
@@ -77914,7 +77939,7 @@
     "number": 11,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "B03",
     "section": "01",
     "status": null,
     "subject": "PSYC",
@@ -78330,7 +78355,7 @@
     "crn": "60420",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=128",
     "distribs": null,
-    "enrollment": "11",
+    "enrollment": "10",
     "fys": "N",
     "instructor": "Alireza Soltani",
     "languageRequirement": null,
@@ -78905,7 +78930,7 @@
     "crn": "60394",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=288",
     "distribs": null,
-    "enrollment": "9",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Alireza Soltani",
     "languageRequirement": null,
@@ -79330,7 +79355,7 @@
     "crn": "60398",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=388",
     "distribs": null,
-    "enrollment": "27",
+    "enrollment": "28",
     "fys": "N",
     "instructor": "Alireza Soltani",
     "languageRequirement": null,
@@ -79500,7 +79525,7 @@
     "xlist": null
   },
   "PSYC-50.08-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60416",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=50.08",
@@ -79514,7 +79539,7 @@
     "number": 50.08,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "PSYC",
@@ -79775,7 +79800,7 @@
     "xlist": null
   },
   "PSYC-53.14-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": null,
     "crn": "60401",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=53.14",
@@ -79789,7 +79814,7 @@
     "number": 53.14,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": "IP",
     "subject": "PSYC",
@@ -79850,7 +79875,7 @@
     "xlist": null
   },
   "PSYC-54.04-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60423",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=PSYC&numb=54.04",
@@ -79864,7 +79889,7 @@
     "number": 54.04,
     "period": "MTh 6:30-8:20, Tu 6:30-7:20",
     "periodCode": "6A",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": "IP",
     "subject": "PSYC",
@@ -81475,7 +81500,7 @@
     "xlist": null
   },
   "QBS-130-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60255",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=QBS&numb=130",
@@ -81489,7 +81514,7 @@
     "number": 130,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "QBS",
@@ -82105,7 +82130,7 @@
     "crn": "60659",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=QBS&numb=193",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "3",
     "fys": "N",
     "instructor": "Kristine Giffin",
     "languageRequirement": null,
@@ -82145,6 +82170,56 @@
     "subject": "QBS",
     "term": "202309",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202309&p_crn=91646",
+    "title": "Independent Study Journal Club",
+    "wc": null,
+    "xlist": null
+  },
+  "QBS-193-202309-02": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "92376",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202309&subj=QBS&numb=193",
+    "distribs": null,
+    "enrollment": "0",
+    "fys": "N",
+    "instructor": "Kristine Giffin",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "999",
+    "number": 193,
+    "period": "Arrange",
+    "periodCode": "ARR",
+    "room": null,
+    "section": "02",
+    "status": null,
+    "subject": "QBS",
+    "term": "202309",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202309&p_crn=92376",
+    "title": "Independent Study Journal Club",
+    "wc": null,
+    "xlist": null
+  },
+  "QBS-193-202309-03": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "92375",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202309&subj=QBS&numb=193",
+    "distribs": null,
+    "enrollment": "0",
+    "fys": "N",
+    "instructor": "Kristine Giffin",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "999",
+    "number": 193,
+    "period": "Arrange",
+    "periodCode": "ARR",
+    "room": null,
+    "section": "03",
+    "status": null,
+    "subject": "QBS",
+    "term": "202309",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202309&p_crn=92375",
     "title": "Independent Study Journal Club",
     "wc": null,
     "xlist": null
@@ -82880,7 +82955,7 @@
     "crn": "60265",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=QBS&numb=298",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "2",
     "fys": "N",
     "instructor": "Kristine Giffin",
     "languageRequirement": null,
@@ -83975,7 +84050,7 @@
     "xlist": "ASCL 61.01 01"
   },
   "REL-12-202306-01": {
-    "building": null,
+    "building": "Irving Institute",
     "creditOptions": "NR Eligible",
     "crn": "60318",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=012",
@@ -83989,7 +84064,7 @@
     "number": 12,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "80",
     "section": "01",
     "status": null,
     "subject": "REL",
@@ -84225,7 +84300,7 @@
     "xlist": "JWST 053 01, WGSS 33.03 01"
   },
   "REL-19.37-202306-01": {
-    "building": null,
+    "building": "Thornton Hall",
     "creditOptions": "NR Eligible",
     "crn": "60405",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=19.37",
@@ -84239,7 +84314,7 @@
     "number": 19.37,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "106",
     "section": "01",
     "status": null,
     "subject": "REL",
@@ -84325,7 +84400,7 @@
     "xlist": "ANTH 50.37 01"
   },
   "REL-28.04-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60252",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=28.04",
@@ -84339,7 +84414,7 @@
     "number": 28.04,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "REL",
@@ -84650,7 +84725,7 @@
     "xlist": null
   },
   "REL-57.02-202306-01": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60171",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=57.02",
@@ -84664,7 +84739,7 @@
     "number": 57.02,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "REL",
@@ -84675,7 +84750,7 @@
     "xlist": "JWST 74.01 01, MES 17.08 01"
   },
   "REL-57.02-202306-02": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60658",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=57.02",
@@ -84689,7 +84764,7 @@
     "number": 57.02,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "007",
     "section": "02",
     "status": null,
     "subject": "REL",
@@ -84700,7 +84775,7 @@
     "xlist": "JWST 74.01 02, MES 17.08 02"
   },
   "REL-58.01-202306-01": {
-    "building": null,
+    "building": "Thornton Hall",
     "creditOptions": null,
     "crn": "60262",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=REL&numb=58.01",
@@ -84714,7 +84789,7 @@
     "number": 58.01,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "101",
     "section": "01",
     "status": null,
     "subject": "REL",
@@ -85650,7 +85725,7 @@
     "xlist": null
   },
   "RUSS-29-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60441",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=RUSS&numb=029",
@@ -85664,7 +85739,7 @@
     "number": 29,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "103",
     "section": "01",
     "status": null,
     "subject": "RUSS",
@@ -85925,7 +86000,7 @@
     "xlist": null
   },
   "RUSS-42-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60272",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=RUSS&numb=042",
@@ -85939,7 +86014,7 @@
     "number": 42,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "105",
     "section": "01",
     "status": null,
     "subject": "RUSS",
@@ -86275,7 +86350,7 @@
     "xlist": null
   },
   "SART-15-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60408",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=015",
@@ -86289,7 +86364,7 @@
     "number": 15,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "323",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -86300,7 +86375,7 @@
     "xlist": null
   },
   "SART-15-202306-02": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60342",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=015",
@@ -86314,7 +86389,7 @@
     "number": 15,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "323a",
     "section": "02",
     "status": null,
     "subject": "SART",
@@ -86500,7 +86575,7 @@
     "xlist": null
   },
   "SART-16-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60360",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=016",
@@ -86514,7 +86589,7 @@
     "number": 16,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "122",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -86625,7 +86700,7 @@
     "xlist": null
   },
   "SART-17.2-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60421",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=17.20",
@@ -86639,7 +86714,7 @@
     "number": 17.2,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "247",
     "section": "01",
     "status": "IP",
     "subject": "SART",
@@ -86700,7 +86775,7 @@
     "xlist": null
   },
   "SART-20-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60396",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=020",
@@ -86714,7 +86789,7 @@
     "number": 20,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "333",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -86825,7 +86900,7 @@
     "xlist": null
   },
   "SART-23-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60414",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=023",
@@ -86839,7 +86914,7 @@
     "number": 23,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "115",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -86925,7 +87000,7 @@
     "xlist": null
   },
   "SART-25-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60356",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=025",
@@ -86939,7 +87014,7 @@
     "number": 25,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "338",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87025,7 +87100,7 @@
     "xlist": null
   },
   "SART-27-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60274",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=027",
@@ -87039,7 +87114,7 @@
     "number": 27,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "233",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87125,7 +87200,7 @@
     "xlist": null
   },
   "SART-28-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60280",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=028",
@@ -87139,7 +87214,7 @@
     "number": 28,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "233",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87250,7 +87325,7 @@
     "xlist": null
   },
   "SART-29-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60417",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=029",
@@ -87264,7 +87339,7 @@
     "number": 29,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "227",
     "section": "01",
     "status": "IP",
     "subject": "SART",
@@ -87425,7 +87500,7 @@
     "xlist": null
   },
   "SART-31-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60292",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=031",
@@ -87439,7 +87514,7 @@
     "number": 31,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "337",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87525,7 +87600,7 @@
     "xlist": null
   },
   "SART-65-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60388",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=065",
@@ -87539,7 +87614,7 @@
     "number": 65,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "241",
     "section": "01",
     "status": "IP",
     "subject": "SART",
@@ -87600,7 +87675,7 @@
     "xlist": null
   },
   "SART-66-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60640",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=066",
@@ -87614,7 +87689,7 @@
     "number": 66,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "242",
     "section": "01",
     "status": "IP",
     "subject": "SART",
@@ -87725,7 +87800,7 @@
     "xlist": null
   },
   "SART-71-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60402",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=071",
@@ -87739,7 +87814,7 @@
     "number": 71,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "333",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87825,7 +87900,7 @@
     "xlist": null
   },
   "SART-72-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60294",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=072",
@@ -87839,7 +87914,7 @@
     "number": 72,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "337",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -87950,7 +88025,7 @@
     "xlist": null
   },
   "SART-74-202306-01": {
-    "building": null,
+    "building": "Visual Arts Center",
     "creditOptions": null,
     "crn": "60283",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SART&numb=074",
@@ -87964,7 +88039,7 @@
     "number": 74,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "233",
     "section": "01",
     "status": null,
     "subject": "SART",
@@ -88800,7 +88875,7 @@
     "xlist": null
   },
   "SOCY-43-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60427",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SOCY&numb=043",
@@ -88814,7 +88889,7 @@
     "number": 43,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "060",
     "section": "01",
     "status": null,
     "subject": "SOCY",
@@ -89100,7 +89175,7 @@
     "xlist": "QSS 30.17 01, WGSS 33.05 01"
   },
   "SOCY-66-202306-01": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": "NR Eligible",
     "crn": "60376",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SOCY&numb=066",
@@ -89114,7 +89189,7 @@
     "number": 66,
     "period": "MWF 2:10-3:15, Th 1:20-2:10",
     "periodCode": "2",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "SOCY",
@@ -89200,7 +89275,7 @@
     "xlist": null
   },
   "SOCY-74-202306-01": {
-    "building": null,
+    "building": "Blunt",
     "creditOptions": null,
     "crn": "60390",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SOCY&numb=074",
@@ -89214,7 +89289,7 @@
     "number": 74,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "007",
     "section": "01",
     "status": null,
     "subject": "SOCY",
@@ -91025,7 +91100,7 @@
     "xlist": null
   },
   "SPAN-3-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60220",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SPAN&numb=003",
@@ -91039,7 +91114,7 @@
     "number": 3,
     "period": "MTuWThF 9:05-9:55",
     "periodCode": "9S",
-    "room": null,
+    "room": "106",
     "section": "01",
     "status": null,
     "subject": "SPAN",
@@ -91050,7 +91125,7 @@
     "xlist": null
   },
   "SPAN-3-202306-02": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60641",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SPAN&numb=003",
@@ -91064,7 +91139,7 @@
     "number": 3,
     "period": "MTuWThF 9:05-9:55",
     "periodCode": "9S",
-    "room": null,
+    "room": "110",
     "section": "02",
     "status": null,
     "subject": "SPAN",
@@ -91850,7 +91925,7 @@
     "xlist": null
   },
   "SPAN-73.12-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60249",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SPAN&numb=73.12",
@@ -91864,7 +91939,7 @@
     "number": 73.12,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "001",
     "section": "01",
     "status": null,
     "subject": "SPAN",
@@ -91875,7 +91950,7 @@
     "xlist": null
   },
   "SPAN-75.01-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60217",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SPAN&numb=75.01",
@@ -91889,7 +91964,7 @@
     "number": 75.01,
     "period": "MWF 12:50-1:55, Tu 1:20-2:10",
     "periodCode": "12",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "SPAN",
@@ -92075,7 +92150,7 @@
     "xlist": null
   },
   "SPAN-9-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60247",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=SPAN&numb=009",
@@ -92089,7 +92164,7 @@
     "number": 9,
     "period": "MWF 10:10-11:15, Th 12:15-1:05",
     "periodCode": "10",
-    "room": null,
+    "room": "106",
     "section": "01",
     "status": null,
     "subject": "SPAN",
@@ -93450,7 +93525,7 @@
     "xlist": null
   },
   "THEA-65-202306-01": {
-    "building": null,
+    "building": "Sudikoff",
     "creditOptions": null,
     "crn": "60203",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=THEA&numb=065",
@@ -93464,7 +93539,7 @@
     "number": 65,
     "period": "TuTh4:30-6:20, F 4:35-5:25",
     "periodCode": "3B",
-    "room": null,
+    "room": "147",
     "section": "01",
     "status": "IP",
     "subject": "THEA",
@@ -93955,7 +94030,7 @@
     "crn": "60002",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=UNSG&numb=295",
     "distribs": null,
-    "enrollment": "24",
+    "enrollment": "26",
     "fys": "N",
     "instructor": "Devin Balkcom",
     "languageRequirement": null,
@@ -94124,6 +94199,31 @@
     "wc": null,
     "xlist": null
   },
+  "UNSG-295-202306-08": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "60677",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=UNSG&numb=295",
+    "distribs": null,
+    "enrollment": "1",
+    "fys": "N",
+    "instructor": "Peter Mucha",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "2",
+    "number": 295,
+    "period": "Arrange",
+    "periodCode": "ARR",
+    "room": null,
+    "section": "08",
+    "status": null,
+    "subject": "UNSG",
+    "term": "202306",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202306&p_crn=60677",
+    "title": "Exper Lrng & Analysis in Sci",
+    "wc": null,
+    "xlist": null
+  },
   "UNSG-296-202303-01": {
     "building": null,
     "creditOptions": null,
@@ -94155,7 +94255,7 @@
     "crn": "60001",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=UNSG&numb=296",
     "distribs": null,
-    "enrollment": "32",
+    "enrollment": "33",
     "fys": "N",
     "instructor": "John Carey",
     "languageRequirement": null,
@@ -94171,6 +94271,31 @@
     "term": "202306",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202306&p_crn=60001",
     "title": "Exper Lrng & Analysis Soc Sci",
+    "wc": null,
+    "xlist": null
+  },
+  "UNSG-297-202306-01": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "60678",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=UNSG&numb=297",
+    "distribs": null,
+    "enrollment": "1",
+    "fys": "N",
+    "instructor": "Samuel Levey",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "1",
+    "number": 297,
+    "period": "Arrange",
+    "periodCode": "ARR",
+    "room": null,
+    "section": "01",
+    "status": "IP",
+    "subject": "UNSG",
+    "term": "202306",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202306&p_crn=60678",
+    "title": "Exper Lrng & Analysis Arts/Hum",
     "wc": null,
     "xlist": null
   },
@@ -94205,7 +94330,7 @@
     "crn": "60626",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=UNSG&numb=298",
     "distribs": null,
-    "enrollment": "1",
+    "enrollment": "2",
     "fys": "N",
     "instructor": "Matthew Delmont",
     "languageRequirement": null,
@@ -94300,7 +94425,7 @@
     "xlist": null
   },
   "WGSS-1-202306-01": {
-    "building": null,
+    "building": "Reed Hall",
     "creditOptions": null,
     "crn": "60622",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=001",
@@ -94314,7 +94439,7 @@
     "number": 1,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "103",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -94350,7 +94475,7 @@
     "xlist": null
   },
   "WGSS-10-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60225",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=010",
@@ -94364,7 +94489,7 @@
     "number": 10,
     "period": "10A;TuTh 10:10-12,F 3:30-4:20",
     "periodCode": "10A",
-    "room": null,
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -94425,7 +94550,7 @@
     "xlist": null
   },
   "WGSS-2-202306-01": {
-    "building": null,
+    "building": "Dartmouth Hall",
     "creditOptions": null,
     "crn": "60227",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=002",
@@ -94439,7 +94564,7 @@
     "number": 2,
     "period": "MW 3:30-5:20, M 5:30-6:20",
     "periodCode": "3A",
-    "room": null,
+    "room": "112",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -94525,7 +94650,7 @@
     "xlist": "COLT 53.06 01, MES 19.03 01"
   },
   "WGSS-24.02-202306-01": {
-    "building": null,
+    "building": "Carson",
     "creditOptions": "NR Eligible",
     "crn": "60269",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=24.02",
@@ -94539,7 +94664,7 @@
     "number": 24.02,
     "period": "MWF 11:30-12:35, Tu 12:15-1:05",
     "periodCode": "11",
-    "room": null,
+    "room": "L01",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -94550,7 +94675,7 @@
     "xlist": "HIST 070 01, MES 19.04 01"
   },
   "WGSS-26.02-202306-01": {
-    "building": null,
+    "building": "Moore",
     "creditOptions": "NR Eligible",
     "crn": "60299",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=26.02",
@@ -94564,7 +94689,7 @@
     "number": 26.02,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "110",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -94900,7 +95025,7 @@
     "xlist": "REL 048 01"
   },
   "WGSS-43.06-202306-01": {
-    "building": null,
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "60244",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=43.06",
@@ -94914,7 +95039,7 @@
     "number": 43.06,
     "period": "TuTh2:25-4:15, W 5:30-6:20",
     "periodCode": "2A",
-    "room": null,
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "WGSS",
@@ -95025,7 +95150,7 @@
     "xlist": null
   },
   "WGSS-65.06-202306-01": {
-    "building": null,
+    "building": "Berry Library",
     "creditOptions": null,
     "crn": "60231",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202306&subj=WGSS&numb=65.06",
@@ -95039,7 +95164,7 @@
     "number": 65.06,
     "period": "W 6:30-9:30, Tu 7:30-8:20",
     "periodCode": "6B",
-    "room": null,
+    "room": "277",
     "section": "01",
     "status": null,
     "subject": "WGSS",
