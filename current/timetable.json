@@ -14485,7 +14485,7 @@
     "instructor": "David Glueck",
     "languageRequirement": null,
     "learningObjective": null,
-    "limit": null,
+    "limit": "32",
     "number": 64,
     "period": "MWF 8:50-9:55, Th 9:05-9:55",
     "periodCode": "9L",
