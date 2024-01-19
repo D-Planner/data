@@ -42576,7 +42576,7 @@
   },
   "FREN-2-202401-01": {
     "building": "Dartmouth Hall",
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "crn": "10922",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202401&subj=FREN&numb=002",
     "distribs": null,
@@ -42601,7 +42601,7 @@
   },
   "FREN-2-202401-02": {
     "building": "Dartmouth Hall",
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "crn": "11226",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202401&subj=FREN&numb=002",
     "distribs": null,
@@ -46301,7 +46301,7 @@
   },
   "GERM-1-202401-01": {
     "building": "Dartmouth Hall",
-    "creditOptions": null,
+    "creditOptions": "NR Eligible",
     "crn": "10288",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202401&subj=GERM&numb=001",
     "distribs": null,
@@ -62655,7 +62655,7 @@
     "crn": "10687",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202401&subj=MATH&numb=127",
     "distribs": null,
-    "enrollment": "7",
+    "enrollment": "8",
     "fys": "N",
     "instructor": "Vladimir Chernov",
     "languageRequirement": null,
