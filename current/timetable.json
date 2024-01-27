@@ -61775,7 +61775,7 @@
     "xlist": null
   },
   "MALS-700-202401-01": {
-    "building": "Visual Arts Center",
+    "building": "Life Sciences Center",
     "creditOptions": null,
     "crn": "11035",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202401&subj=MALS&numb=700",
@@ -61789,7 +61789,7 @@
     "number": 700,
     "period": "Th 12:15 PM-2:10 PM",
     "periodCode": "OT",
-    "room": "104",
+    "room": "205",
     "section": "01",
     "status": null,
     "subject": "MALS",
