@@ -38082,7 +38082,7 @@
     "distribs": "TLA",
     "enrollment": null,
     "fys": "N",
-    "instructor": "Wei Ouyang",
+    "instructor": "Wei Ouyang, Edward Truex",
     "languageRequirement": null,
     "learningObjective": null,
     "limit": "25",
@@ -54200,7 +54200,7 @@
     "xlist": null
   },
   "HUM-2-202401-04": {
-    "building": "Rockefeller",
+    "building": "Silsby Hall",
     "creditOptions": null,
     "crn": "10319",
     "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.fysem_main#HUM-002-04",
@@ -54214,7 +54214,7 @@
     "number": 2,
     "period": "M, W, F 12:50 PM-1:55 PM",
     "periodCode": "OT",
-    "room": "208",
+    "room": "215",
     "section": "04",
     "status": null,
     "subject": "HUM",
