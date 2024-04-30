@@ -43029,7 +43029,7 @@
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202406&p_crn=60412",
     "title": "FQZ Feminist Queer Zones",
     "wc": "CI",
-    "xlist": null
+    "xlist": "WGSS 50.01 01"
   },
   "GENE-100-202309-01": {
     "building": null,
@@ -93478,6 +93478,30 @@
     "title": "19th C Brit Women Writers",
     "wc": "W",
     "xlist": "ENGL 62.03 01"
+  },
+  "WGSS-50.01-202406-01": {
+    "building": null,
+    "creditOptions": "NR Eligible",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202406&subj=WGSS&numb=50.01",
+    "distribs": null,
+    "enrollment": null,
+    "fys": "N",
+    "instructor": "Yasser Elhariry",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "18",
+    "number": 50.01,
+    "period": "MWF 12:50-1:55, Tu 1:20-2:10",
+    "periodCode": "12",
+    "room": null,
+    "section": "01",
+    "status": null,
+    "subject": "WGSS",
+    "term": "202406",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202406&p_crn=60635",
+    "title": "FQZ Feminist Queer Zones",
+    "wc": "CI",
+    "xlist": "FRIT 37.30 01"
   },
   "WGSS-51.09-202403-01": {
     "building": "Moore",
