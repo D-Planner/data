@@ -63674,6 +63674,31 @@
     "wc": null,
     "xlist": null
   },
+  "MALS-121-202603-01": {
+    "building": null,
+    "creditOptions": null,
+    "crn": "32011",
+    "description": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_course_desc?term=202603&subj=MALS&numb=121",
+    "distribs": null,
+    "enrollment": "1",
+    "fys": "N",
+    "instructor": "Klaus Milich",
+    "languageRequirement": null,
+    "learningObjective": null,
+    "limit": "1",
+    "number": 121,
+    "period": "-",
+    "periodCode": "OT",
+    "room": null,
+    "section": "01",
+    "status": "IP",
+    "subject": "MALS",
+    "term": "202603",
+    "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202603&p_crn=32011",
+    "title": "Cultural Stud Research Methods",
+    "wc": null,
+    "xlist": null
+  },
   "MALS-127-202506-01": {
     "building": null,
     "creditOptions": null,
@@ -64357,7 +64382,7 @@
     "distribs": null,
     "enrollment": "9",
     "fys": "N",
-    "instructor": null,
+    "instructor": "Harriette Yahr",
     "languageRequirement": null,
     "learningObjective": null,
     "limit": "12",
@@ -64549,7 +64574,7 @@
     "wc": null,
     "xlist": null
   },
-  "MALS-238-202603-0": {
+  "MALS-238-202603-01": {
     "building": null,
     "creditOptions": null,
     "crn": "31159",
@@ -64565,12 +64590,12 @@
     "period": "Tu 2:25 PM-5:30 PM",
     "periodCode": "OT",
     "room": null,
-    "section": "0",
+    "section": "01",
     "status": null,
     "subject": "MALS",
     "term": "202603",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202603&p_crn=31159",
-    "title": "Why I Am Not a Painter: Poetry (On Campus)",
+    "title": "Why I Am Not a Painter: Poetry",
     "wc": null,
     "xlist": null
   },
@@ -64649,7 +64674,7 @@
     "wc": null,
     "xlist": null
   },
-  "MALS-251-202603-0": {
+  "MALS-251-202603-01": {
     "building": null,
     "creditOptions": null,
     "crn": "31160",
@@ -64665,12 +64690,12 @@
     "period": "Tu, Th 2:25 PM-4:15 PM",
     "periodCode": "OT",
     "room": null,
-    "section": "0",
+    "section": "01",
     "status": null,
     "subject": "MALS",
     "term": "202603",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202603&p_crn=31160",
-    "title": "Democracy:A Challenged Concept (On Campus)",
+    "title": "Democracy:A Challenged Concept",
     "wc": null,
     "xlist": null
   },
@@ -64770,7 +64795,7 @@
     "subject": "MALS",
     "term": "202603",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202603&p_crn=31161",
-    "title": "Post-Cold War Globalization (On Campus)",
+    "title": "Post-Cold War Globalization",
     "wc": null,
     "xlist": null
   },
@@ -64920,7 +64945,7 @@
     "subject": "MALS",
     "term": "202603",
     "text": "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys_req_mat?p_term=202603&p_crn=31162",
-    "title": "Humanity&Inhumanity:Lit&Theory (On Campus)",
+    "title": "Humanity&Inhumanity:Lit&Theory",
     "wc": null,
     "xlist": null
   },
